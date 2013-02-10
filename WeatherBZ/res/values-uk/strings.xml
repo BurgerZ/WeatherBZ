@@ -23,7 +23,6 @@
     <string name="about_t_storms">Гроза</string>
     <string name="about_sleet">Мокрий сніг</string>
     <string name="about_snow">Сніг</string>
-    <string name="about_the_end">Кінец світу</string>
     <string name="animation_preview">Передперегляд анімації</string>
     <string name="menu_update">Оновити</string>
     <string name="menu_settings">Налаштування</string>
@@ -109,9 +108,6 @@
     <string name="wt_overcast_ts_rain">Хмарно, дощ</string>
     <string name="wt_overcast_ts_wet_snow">Хмарно, мокрий сніг</string>
     <string name="wt_overcast_ts_snow">Хмарно, сніг</string>
-    <string name="wt_end">Похмуро, вулканічний попіл</string>
-    <string name="settings_update_fun_title">Прикольні прогнози</string>
-    <string name="settings_update_fun_summary">Показувати прикольні прогнози погоди (як, наприклад, прогноз для кінця світу). Тестове налаштування, надалі її може не бути, як і самих приколів в прогнозах.</string>
     <string name="conf_add_widget">Додати віджет</string>
     <string name="conf_light_skin">Світлий скін</string>
     <string name="conf_dark_skin">Темний скін</string>
@@ -128,12 +124,8 @@
     <string name="settings_update_wifi_only_summary">Автоматично оновлювати прогноз погоди тільки за наявності підключення по мережі Wi-Fi</string>
     <string name="settings_update_roaming_title">Оновлювати в роумінгу</string>
     <string name="settings_update_roaming_summary">Автоматично оновлювати прогноз погоди у роумінгу. Це може збільшити ваші витрати по оплаті рахунків стільникового зв\'язку</string>
-    <string name="settings_category_locations">Налаштування місцезнаходження</string>
-    <string name="settings_category_locations_sum">Налаштування поточного розташування, визначення розташування</string>
     <string name="settings_category_appearance">Зовнішній вигляд</string>
     <string name="settings_category_appearance_sum">Налаштування відображення/приховування елементів інтерфейсу, мова і т.д.</string>
-    <string name="settings_location_use_my_title">Моє розташування</string>
-    <string name="settings_location_use_my_summary">Автоматично визначати розташування (данні беруться із мережі)</string>
     <string name="settings_show_temp_symbol_title">Символ температури</string>
     <string name="settings_show_temp_symbol_summary">Показувати символ температури (літера C для градусів Цельсія)</string>
     <string name="settings_show_weather_icons_title">Іконки погоди</string>
@@ -168,5 +160,5 @@
     <string name="settings_widgets_widget4x2_custom_font_summary">Налаштування розміру шрифту для елементів віджета</string>
     <string name="settings_show_info_title">Відображення даних</string>
     <string name="settings_show_info_summary">Показувати або приховати елементи інтерфейсу</string>
-    <string name="settings_language">Мова</string>
+
 </resources>

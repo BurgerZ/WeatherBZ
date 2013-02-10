@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Weather BZ</string>
     <string name="new_version">New version</string>
@@ -32,7 +33,6 @@
     <string name="about_t_storms">T-storms</string>
     <string name="about_sleet">Sleet</string>
     <string name="about_snow">Snow</string>
-    <string name="about_the_end">The End of World</string>
     <string name="animation_preview">Preview animations</string>
     <string name="menu_update">Update</string>
     <string name="menu_settings">Settings</string>
@@ -42,11 +42,11 @@
     <string name="weather_no_city">No city</string>
     <string name="weather_no_conditions_data">No weather data</string>
     <string name="weather_no_temp_data">-°</string>
-    <string name="weather_humidity">&quot;Humidity: &quot;</string>
+    <string name="weather_humidity">"Humidity: "</string>
     <string name="weather_wind">"Wind: "</string>
     <string name="weather_feel">"Feel: "</string>
-    <string name="weather_pressure">&quot;Pressure: &quot;</string>
-    <string name="weather_visibility">&quot;Visibility: &quot;</string>
+    <string name="weather_pressure">"Pressure: "</string>
+    <string name="weather_visibility">"Visibility: "</string>
     <string name="weather_forecast_tom">No data</string>
     <string name="weather_forecast_tom2">No data</string>
     <string name="weather_forecast_tom3">No data</string>
@@ -55,7 +55,6 @@
     <string name="settings_category_animation">Animation settings</string>
     <string name="settings_category_animation_sum">Settings for weather animation view and download policy</string>
     <string name="settings_update_interval_title">Update Interval</string>
-    <string name="settings_update_interval_summary">Weather forecast update interval</string>
     <string name="settings_update_autoupdate_title">Auto update</string>
     <string name="settings_update_autoupdate_summary">Auto update weather forecast</string>
     <string name="settings_animation_show_title">Show animation</string>
@@ -64,14 +63,14 @@
     <string name="settings_animation_download_summary">Download video files of animations for current weather condition (if video file not found in local storage)</string>
     <string name="settings_about_title">About</string>
     <string name="settings_about_summary">Information about application</string>
-    <string name="no_provider">Positioning failed - select location manually</string>
+    <string name="no_provider">Positioning failed\nSelect location manually</string>
     <string name="network_error">Could not connect the server</string>
     <string name="updating">Updating\u2026</string>
     <string name="just_now">Just now</string>
     <string name="fetching_location">Getting your position\u2026</string>
-    <string name="weather_wind_measure">&quot; m/s&quot;</string>
-    <string name="weather_pressure_measure">&quot; mm Hg&quot;</string>
-    <string name="weather_visibility_measure">&quot; m&quot;</string>
+    <string name="weather_wind_measure">" m/s"</string>
+    <string name="weather_pressure_measure">" mm Hg"</string>
+    <string name="weather_visibility_measure">" m"</string>
     <string name="wt_clear">Clear</string>
     <string name="wt_mostly_clear">Mostly clear</string>
     <string name="wt_mostly_clear_pos_rain">Mostly clear, possibility of rain</string>
@@ -119,9 +118,6 @@
     <string name="wt_overcast_ts_rain">Overcast, t-storms with rain</string>
     <string name="wt_overcast_ts_wet_snow">Overcast, t-storms with wet snow</string>
     <string name="wt_overcast_ts_snow">Overcast, t-storms with snow</string>
-    <string name="wt_end">Overcast, volcanic ash</string>
-    <string name="settings_update_fun_title">Funny forecasts</string>
-    <string name="settings_update_fun_summary">Show funny forecasts (like the end of world, for example)</string>
     <string name="conf_add_widget">Add Widget</string>
     <string name="conf_light_skin">Light Skin</string>
     <string name="conf_dark_skin">Dark Skin</string>
@@ -138,12 +134,8 @@
     <string name="settings_update_wifi_only_summary">Automatycally update weather forecast only when Wi-Fi connection established</string>
     <string name="settings_update_roaming_title">Update in roaming</string>
     <string name="settings_update_roaming_summary">Automatycally update weather forecast even when roaming. Note that you can have an extra charges to your phone bill</string>
-    <string name="settings_category_locations">Location settings</string>
-    <string name="settings_category_locations_sum">Weather location settings</string>
     <string name="settings_category_appearance">Appearance</string>
     <string name="settings_category_appearance_sum">Appearance settings (show/hide data etc.)</string>
-    <string name="settings_location_use_my_title">Use my location</string>
-    <string name="settings_location_use_my_summary">Automatically use my location (from network)</string>
     <string name="settings_show_temp_symbol_title">Show temperatute symbol</string>
     <string name="settings_show_temp_symbol_summary">Show or hide temperature symbol (letter C for Celsius)</string>
     <string name="settings_show_weather_icons_title">Show weather icons</string>
@@ -151,14 +143,14 @@
     <string name="settings_show_short_desc_title">Show short description</string>
     <string name="settings_show_short_desc_summary">Show short or full forecast description in widgets and 3-day forecast</string>
     <string name="settings_notification_white_text_title">White notification text</string>
-    <string name="settings_notification_white_text_summary">Use white colored notification text and icon (for dark themes)</string>
+    <string name="settings_notification_white_text_summary">Use white text and icons in notifications (for dark themes)</string>
     <string name="settings_notification_color_title">Statusbar symbol color</string>
     <string name="settings_category_widgets">Widgets settings</string>
     <string name="settings_category_widgets_sum">Widgets appearance and click actions</string>
-    <string name="settings_widgets_click_clock_title">Click Clock setting</string>
-    <string name="settings_widgets_click_clock_summary">Select the app to start by clicking on widgets clock</string>
-    <string name="settings_widgets_click_weather_title">Click Forecast setting</string>
-    <string name="settings_widgets_click_weather_summary">Select the app to start by clicking on widgets forecast area (temperature)</string>
+    <string name="settings_widgets_click_clock_title">Click on Clock</string>
+    <string name="settings_widgets_click_clock_summary">The app to start by clicking on widgets clock</string>
+    <string name="settings_widgets_click_weather_title">Click on Forecast</string>
+    <string name="settings_widgets_click_weather_summary">The app to start by clicking on widgets forecast area (temperature)</string>
     <string name="settings_widgets_widget4x2">Widget 4x2</string>
     <string name="settings_widgets_widget4x2_desc_font_title">Weather description</string>
     <string name="settings_widgets_widget4x2_desc_font_summary">Default value 22sp</string>
@@ -178,7 +170,6 @@
     <string name="settings_widgets_widget4x2_custom_font_summary">Customize font size for widget</string>
     <string name="settings_show_info_title">Show info</string>
     <string name="settings_show_info_summary">Show or hide interface elements</string>
-    <string name="settings_language">Language</string>
     <string name="settings_notification_type">Notification type</string>
     <string name="quiet_hours_title">Quiet hours</string>
     <string name="quiet_hours_enabled">Enable Quiet hours</string>

@@ -494,10 +494,4 @@
         <item >Тиск</item>
         <item >Видимість</item>
     </string-array>   
-    <string-array name="main_locale_entries">
-        <item >Системна</item>
-        <item >Англійска</item>
-        <item >Російська</item>
-        <item >Українська</item>
-    </string-array> 
 </resources>

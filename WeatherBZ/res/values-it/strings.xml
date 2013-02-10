@@ -33,7 +33,6 @@
     <string name="about_t_storms">Temporale</string>
     <string name="about_sleet">Nevischio</string>
     <string name="about_snow">Neve</string>
-    <string name="about_the_end">La fine del mondo</string>
     <string name="animation_preview">Anteprima</string>
     <string name="menu_update">Aggiorna</string>
     <string name="menu_settings">Impostazioni</string>
@@ -56,7 +55,6 @@
     <string name="settings_category_animation">Animazioni</string>
     <string name="settings_category_animation_sum">Regola le impostazioni delle animazioni e download</string>
     <string name="settings_update_interval_title">Intervallo aggiornamenti</string>
-    <string name="settings_update_interval_summary">Intervallo degli aggiornamenti automatici</string>
     <string name="settings_update_autoupdate_title">Aggiorna in automatico</string>
     <string name="settings_update_autoupdate_summary">Aggiorna automaticamente i dati meteo</string>
     <string name="settings_animation_show_title">Mostra animazioni</string>
@@ -120,9 +118,6 @@
     <string name="wt_overcast_ts_rain">Temporali</string>
     <string name="wt_overcast_ts_wet_snow">Temporali e nevischio</string>
     <string name="wt_overcast_ts_snow">Temporali e neve</string>
-    <string name="wt_end">Coperto, cenere vulcanica!</string>
-    <string name="settings_update_fun_title">Previsioni divertenti</string>
-    <string name="settings_update_fun_summary">Mostra previsioni del meteo divertenti (ex: fine del mondo)</string>
     <string name="conf_add_widget">Aggiungi Widget</string>
     <string name="conf_light_skin">Skin Chiara</string>
     <string name="conf_dark_skin">Skin Scura</string>
@@ -139,12 +134,8 @@
     <string name="settings_update_wifi_only_summary">Aggiorna automaticamente le previsioni solo quando si è connessi in WI-FI</string>
     <string name="settings_update_roaming_title">Aggiorna in roaming</string>
     <string name="settings_update_roaming_summary">Aggiorna automaticamente i dati meteo quando si è in roaming.</string>
-    <string name="settings_category_locations">Località</string>
-    <string name="settings_category_locations_sum">Mostra le impostazioni delle località</string>
     <string name="settings_category_appearance">Display</string>
     <string name="settings_category_appearance_sum">Regola le impostazioni visive (mostra/nascondi dati, linguaggio etc.)</string>
-    <string name="settings_location_use_my_title">Usa la mia posizione</string>
-    <string name="settings_location_use_my_summary">Usa automaticamente la mia posizione (dalla rete)</string>
     <string name="settings_show_temp_symbol_title">Simbolo della temperatura</string>
     <string name="settings_show_temp_symbol_summary">Mostra o nascondi il simbolo della temperatura (C per Celsius)</string>
     <string name="settings_show_weather_icons_title">Icone meteo</string>
@@ -179,7 +170,6 @@
     <string name="settings_widgets_widget4x2_custom_font_summary">Modifica le dimensioni del font a proprio piacimento</string>
     <string name="settings_show_info_title">Mostra dettagli</string>
     <string name="settings_show_info_summary">"Mostra o nascondi elementi nell'interfaccia"</string>
-    <string name="settings_language">Lingua</string>
     <string name="settings_notification_type">Notifica Grafica</string>
     <string name="quiet_hours_title">ORE QUIETI</string>
     <string name="quiet_hours_enabled">Attiva le ore quieti</string>
@@ -187,7 +177,7 @@
     <string name="quiet_hours_enabled_off">Gli aggiornamenti funzioneranno normalmente</string>
     <string name="start_time_title">Inizio</string>
     <string name="end_time_title">Fine</string>
-    <string name="dlg_select_action">Scegli un\'azione</string>
+    <string name="dlg_select_action">"Scegli un'azione"</string>
     <string name="dlg_go_to_forecast">Vai alle previsioni</string>
     <string name="dlg_set_as_home">Imposta come \"Città Base\"</string>
 </resources>

@@ -1,13 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">Погода BZ</string>
-    <string name="settings_check_updates_title">Проверять обновления</string>
-    <string name="settings_check_updates_summary">Проверять наличие новой версии приложения при запуске</string>        
     <string name="new_version">Новая версия</string>
     <string name="no_updates">Нет обновлений</string>
     <string name="close">Закрыть</string>
     <string name="upgrade">Обновить</string>
     <string name="not_now">Не сейчас</string>   
+    <string name="settings_check_updates_title">Проверять обновления</string>
+    <string name="settings_check_updates_summary">Проверять наличие новой версии приложения при запуске</string>        
     <string name="settings_category_app_update">Обновление приложения</string>  
     <string name="settings_category_forecast_update">Обновление прогноза</string>    
     <string name="widget_name_small">Погода BZ</string>
@@ -33,7 +33,6 @@
     <string name="about_t_storms">Гроза</string>
     <string name="about_sleet">Мокрый снег</string>
     <string name="about_snow">Снег</string>
-    <string name="about_the_end">Конец света</string>
     <string name="animation_preview">Предпросмотр анимации</string>
     <string name="menu_update">Обновить</string>
     <string name="menu_settings">Настройки</string>
@@ -42,6 +41,7 @@
     <string name="location_edit">Введите название города</string>
     <string name="weather_no_city">Город не выбран</string>
     <string name="weather_no_conditions_data">Нет данных</string>
+
     <string name="weather_humidity">"Влажность: "</string>
     <string name="weather_wind">"Ветер: "</string>
     <string name="weather_feel">"Ощущения: "</string>
@@ -55,7 +55,6 @@
     <string name="settings_category_animation">Настройки анимации</string>
     <string name="settings_category_animation_sum">Настройки отображения анимации и загрузки видео анимации</string>
     <string name="settings_update_interval_title">Интервал обновления</string>
-    <string name="settings_update_interval_summary">Интервал обновления прогноза погоды</string>
     <string name="settings_update_autoupdate_title">Автообновление</string>
     <string name="settings_update_autoupdate_summary">Автоматическое обновление прогноза погоды</string>
     <string name="settings_animation_show_title">Воспроизводить анимацию</string>
@@ -69,9 +68,9 @@
     <string name="updating">Обновление\u2026</string>
     <string name="just_now">Только что</string>
     <string name="fetching_location">Определение местоположения\u2026</string>
-    <string name="weather_wind_measure">&quot; м/с&quot;</string>
-    <string name="weather_pressure_measure">&quot; мм.рт.ст&quot;</string>
-    <string name="weather_visibility_measure">&quot; м&quot;</string>
+    <string name="weather_wind_measure">" м/с"</string>
+    <string name="weather_pressure_measure">" мм.рт.ст"</string>
+    <string name="weather_visibility_measure">" м"</string>
     <string name="wt_clear">Ясно</string>
     <string name="wt_mostly_clear">Преимущественно ясно</string>
     <string name="wt_mostly_clear_pos_rain">Преимущественно ясно, возможен дождь</string>
@@ -119,7 +118,6 @@
     <string name="wt_overcast_ts_rain">Облачно, гроза с дождем</string>
     <string name="wt_overcast_ts_wet_snow">Облачно, гроза с мокрым снегом</string>
     <string name="wt_overcast_ts_snow">Облачно, гроза со снегом</string>
-    <string name="wt_end">Пасмурно, вулканический пепел</string>
     <string name="conf_add_widget">Добавить виджет</string>
     <string name="conf_light_skin">Светлый скин</string>
     <string name="conf_dark_skin">Темный скин</string>
@@ -136,12 +134,8 @@
     <string name="settings_update_wifi_only_summary">Автоматически обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
     <string name="settings_update_roaming_title">Обновлять в роуминге</string>
     <string name="settings_update_roaming_summary">Автоматически обновлять прогноз погоды в роуминге. Это может увеличить ваши расходы по оплате счетов сотовой связи</string>
-    <string name="settings_category_locations">Настройки местоположения</string>
-    <string name="settings_category_locations_sum">Настройки текущего местоположения, определение местоположения</string>
     <string name="settings_category_appearance">Внешний вид</string>
     <string name="settings_category_appearance_sum">Настройки отображения/скрытия элементов интерфейса и т.д.</string>
-    <string name="settings_location_use_my_title">Мое местоположение</string>
-    <string name="settings_location_use_my_summary">Автоматически определять местоположение (данные берутся из сети)</string>
     <string name="settings_show_temp_symbol_title">Символ температуры</string>
     <string name="settings_show_temp_symbol_summary">Показывать символ температуры (буква C для градусов Цельсия)</string>
     <string name="settings_show_weather_icons_title">Иконки погоды</string>
@@ -176,7 +170,6 @@
     <string name="settings_widgets_widget4x2_custom_font_summary">Настройка размера шрифта для элементов виджета</string>
     <string name="settings_show_info_title">Отображение данных</string>
     <string name="settings_show_info_summary">Показывать или скрыть элементы интерфейса</string>
-    <string name="settings_language">Язык</string>
     <string name="settings_notification_type">Тип уведомления</string>
     <string name="quiet_hours_title">Тихие часы</string>
     <string name="quiet_hours_enabled">Включить тихие часы</string>

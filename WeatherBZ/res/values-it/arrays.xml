@@ -531,11 +531,4 @@
         <item>Visibilità</item>
         <item>Pross.Allarme</item>
     </string-array>
-    <string-array name="main_locale_entries">
-        <item>Sistema</item>
-        <item>English</item>
-        <item>Russian</item>
-        <item>Ukrainian</item>
-        <item>Italiano</item>
-    </string-array>
 </resources>
