@@ -511,6 +511,10 @@
         <item >Nero</item>
         <item >Bianco</item>
     </string-array>
+    <string-array name="notif_type_entries">
+        <item >Temperatura</item>
+        <item >Icona meteo</item>
+    </string-array>    
     <string-array name="widget42_show_entries">
         <item >Orologio</item>
         <item >Data</item>

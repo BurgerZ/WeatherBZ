@@ -53,7 +53,7 @@
     <string name="settings_animation_download_title">Завантажувати анімацію</string>
     <string name="settings_animation_download_summary">Завантажувати відео файли анімації з мережі Інтернет (якщо вони не знайдені у локальному сховищі)</string>	
     <string name="settings_about_title">Про програму</string>
-    <string name="settings_about_summary">Інформація про програму та передперегляд анімації</string>
+    <string name="settings_about_summary">Інформація про програму</string>
     <string name="no_provider">Похибка визначення розташування\nВиберіть розташування уручну</string>
     <string name="network_error">Немає з\'єднання з сервером</string>
     <string name="updating">Оновлення\u2026</string>
@@ -131,7 +131,7 @@
     <string name="settings_category_locations">Налаштування місцезнаходження</string>
     <string name="settings_category_locations_sum">Налаштування поточного розташування, визначення розташування</string>
     <string name="settings_category_appearance">Зовнішній вигляд</string>
-    <string name="settings_category_appearance_sum">Налаштування зовнішнього вигляду (відображення/приховування елементів інтерфейсу, мова і т.д.)</string>
+    <string name="settings_category_appearance_sum">Налаштування відображення/приховування елементів інтерфейсу, мова і т.д.</string>
     <string name="settings_location_use_my_title">Моє розташування</string>
     <string name="settings_location_use_my_summary">Автоматично визначати розташування (данні беруться із мережі)</string>
     <string name="settings_show_temp_symbol_title">Символ температури</string>

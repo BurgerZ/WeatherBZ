@@ -1,6 +1,16 @@
 ﻿<resources>
 
     <string name="app_name">Weather BZ</string>
+    <!-- Need translations: -->
+    <!-- string name="new_version">New version</string>
+    <string name="no_updates">No new versions</string>
+    <string name="close">Close</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="not_now">Not now</string--> 
+    <string name="settings_check_updates_title">Controlla Aggiornamenti</string>
+    <string name="settings_check_updates_summary">Controlla aggiornamenti all\'avvio</string>       
+    <string name="settings_category_app_update">Application update</string>
+    <string name="settings_category_forecast_update">Forecast update</string>    
     <string name="widget_name_small">Weather BZ (2x1)</string>
     <string name="widget_name_medium">Weather BZ (4x1)</string>
     <string name="widget_name_large">Weather BZ (4x2)</string>
@@ -124,7 +134,6 @@
     <string name="settings_category_notification">Notifiche</string>
     <string name="settings_category_notification_sum">Regola le notifiche meteo nell\'area di notifica di sistema</string>
     <string name="settings_category_network">Impostazioni di Rete</string>
-    <string name="settings_category_network_sum">Regola le impostazioni di rete per gli aggiornamenti meteo</string>
     <string name="settings_notification_title">Mostra le notifiche</string>
     <string name="settings_notification_summary">Mostra l\'attuale condizione meteo nell\'area di notifica di sistema</string>
     <string name="settings_update_wifi_title">Aggiorna solo con Wi-Fi</string>
@@ -145,8 +154,7 @@
     <string name="settings_show_short_desc_summary">Mostra la descrizione breve o completa nelle previsioni 3-giorni</string>
     <string name="settings_notification_white_text_title">Testo bianco nelle notifiche</string>
     <string name="settings_notification_white_text_summary">Usa il testo di colore bianco nelle notifiche (per i temi scuri)</string>
-    <string name="settings_notification_temp_color_title">Colore della temperatura nella barra di stato</string>
-    <string name="settings_notification_temp_color_summary">Colore del simbolo della temperatura nella barra di stato</string>
+    <string name="settings_notification_color_title">Colore nella barra di stato</string>
     <string name="settings_category_widgets">Widgets</string>
     <string name="settings_category_widgets_sum">Mostra le impostazioni dei Widget e le azioni ai click</string>
     <string name="settings_widgets_click_clock_title">Click sull\'orologio</string>
@@ -173,4 +181,15 @@
     <string name="settings_show_info_title">Mostra dettagli</string>
     <string name="settings_show_info_summary">Mostra o nascondi elementi nell\'interfaccia</string>
     <string name="settings_language">Langua</string>
+    <string name="settings_notification_type">Notifica Grafica</string>
+    <string name="quiet_hours_title">ORE QUIETI</string>
+    <string name="quiet_hours_enabled">Attiva le ore quieti</string>
+    <string name="quiet_hours_enabled_on">Ore quieti abilitate</string>
+    <string name="quiet_hours_enabled_off">Gli aggiornamenti funzioneranno normalmente</string>
+    <string name="start_time_title">Inizio</string>
+    <string name="end_time_title">Fine</string>  
+    <!-- Need translations: -->
+    <!-- string name="dlg_select_action">Select an action</string>
+    <string name="dlg_go_to_forecast">Go to forecast</string>
+    <string name="dlg_set_as_home">Set as \"Home City\"</string-->
 </resources>

@@ -9,7 +9,7 @@
         <item >4 hours</item>
         <item >6 hours</item>
     </string-array>
-    <string-array name="update_interval_values">
+    <string-array name="update_interval_values" translatable="false">
         <item >10</item>
         <item >30</item>
         <item >60</item>
@@ -18,7 +18,7 @@
         <item >240</item>
         <item >360</item>
     </string-array>
-    <string-array name="country_codes">
+    <string-array name="country_codes" translatable="false">
         <item>ad</item>
         <item>ae</item>
         <item>af</item>
@@ -520,7 +520,7 @@
         <item >Black</item>
         <item >White</item>
     </string-array>
-    <string-array name="notif_temp_color_values">
+    <string-array name="notif_temp_color_values" translatable="false">
         <item >0</item>
         <item >1</item>
     </string-array> 
@@ -528,7 +528,7 @@
         <item >Temperature symbol</item>
         <item >Weather icon</item>
     </string-array>
-    <string-array name="notif_type_values">
+    <string-array name="notif_type_values" translatable="false">
         <item >temperature_symbol</item>
         <item >weather_symbol</item>
     </string-array>     
@@ -540,7 +540,7 @@
         <item >Feelings</item>
         <item >Wind</item>
     </string-array>
-    <string-array name="widget42_show_values">
+    <string-array name="widget42_show_values" translatable="false">
         <item >w42_clock</item>
         <item >w42_date</item>
         <item >w42_city</item>
@@ -555,7 +555,7 @@
         <item >Pressure</item>
         <item >Visibility</item>
     </string-array>
-    <string-array name="main_show_values">
+    <string-array name="main_show_values" translatable="false">
         <item >main_feel</item>
         <item >main_wind</item>
         <item >main_humid</item>
@@ -569,7 +569,7 @@
         <item >Ukrainian</item>
         <item >Italiano</item>
     </string-array>
-    <string-array name="main_locale_values">
+    <string-array name="main_locale_values" translatable="false">
         <item >default</item>
         <item >en</item>
         <item >ru</item>

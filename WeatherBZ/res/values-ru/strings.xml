@@ -53,7 +53,7 @@
     <string name="settings_category_update">Настройки обновления</string>
     <string name="settings_category_update_sum">Настройки автообновления и времени обновления прогноза</string>
     <string name="settings_category_animation">Настройки анимации</string>
-    <string name="settings_category_animation_sum">Настройки отображения анимации и загрузки видео анимации для текущего прогноза</string>
+    <string name="settings_category_animation_sum">Настройки отображения анимации и загрузки видео анимации</string>
     <string name="settings_update_interval_title">Интервал обновления</string>
     <string name="settings_update_interval_summary">Интервал обновления прогноза погоды</string>
     <string name="settings_update_autoupdate_title">Автообновление</string>
@@ -63,7 +63,7 @@
     <string name="settings_animation_download_title">Загружать анимацию</string>
     <string name="settings_animation_download_summary">Загружать видео файлы анимации из сети Интернет (если они не найдены в локальном хранилище)</string>
     <string name="settings_about_title">О программе</string>
-    <string name="settings_about_summary">Информация о программе и предпросмотр анимации</string>
+    <string name="settings_about_summary">Информация о программе</string>
     <string name="no_provider">Ошибка определения местоположения\nВыберите местоположение вручную</string>
     <string name="network_error">Нет соединения с сервером</string>
     <string name="updating">Обновление\u2026</string>
@@ -120,8 +120,6 @@
     <string name="wt_overcast_ts_wet_snow">Облачно, гроза с мокрым снегом</string>
     <string name="wt_overcast_ts_snow">Облачно, гроза со снегом</string>
     <string name="wt_end">Пасмурно, вулканический пепел</string>
-    <string name="settings_update_fun_title">Прикольные прогнозы</string>
-    <string name="settings_update_fun_summary">Показывать прикольные прогнозы погоды (как, например, прогноз для конца света). Тестовая настройка, в дальнейшем ее может не быть, как и самих приколов в прогнозах.</string>
     <string name="conf_add_widget">Добавить виджет</string>
     <string name="conf_light_skin">Светлый скин</string>
     <string name="conf_dark_skin">Темный скин</string>
@@ -141,7 +139,7 @@
     <string name="settings_category_locations">Настройки местоположения</string>
     <string name="settings_category_locations_sum">Настройки текущего местоположения, определение местоположения</string>
     <string name="settings_category_appearance">Внешний вид</string>
-    <string name="settings_category_appearance_sum">Настройки внешнего вида (отображение/скрытие элементов интерфейса, язык и т.д.)</string>
+    <string name="settings_category_appearance_sum">Настройки отображения/скрытия элементов интерфейса, язык и т.д.</string>
     <string name="settings_location_use_my_title">Мое местоположение</string>
     <string name="settings_location_use_my_summary">Автоматически определять местоположение (данные берутся из сети)</string>
     <string name="settings_show_temp_symbol_title">Символ температуры</string>
@@ -188,5 +186,13 @@
     <string name="end_time_title">Конец</string>   
     <string name="dlg_select_action">Выберите действие</string>
     <string name="dlg_go_to_forecast">Перейти к прогнозу</string>
-    <string name="dlg_set_as_home">Как \"Основной город\"</string>     
+    <string name="dlg_set_as_home">Как \"Основной город\"</string>
+    <string name="wind_n">С</string>    
+    <string name="wind_ne">СЗ</string> 
+    <string name="wind_nw">СВ</string> 
+    <string name="wind_s">Ю</string> 
+    <string name="wind_se">ЮЗ</string> 
+    <string name="wind_sw">ЮВ</string> 
+    <string name="wind_e">З</string> 
+    <string name="wind_w">В</string>   
 </resources>

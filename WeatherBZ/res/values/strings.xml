@@ -63,7 +63,7 @@
     <string name="settings_animation_download_title">Download animations</string>
     <string name="settings_animation_download_summary">Download video files of animations for current weather condition (if video file not found in local storage)</string>
     <string name="settings_about_title">About</string>
-    <string name="settings_about_summary">Information about application and weather animation preview</string>
+    <string name="settings_about_summary">Information about application</string>
     <string name="no_provider">Positioning failed - select location manually</string>
     <string name="network_error">Could not connect the server</string>
     <string name="updating">Updating\u2026</string>
