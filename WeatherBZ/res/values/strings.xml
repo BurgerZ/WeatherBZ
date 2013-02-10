@@ -189,4 +189,12 @@
     <string name="dlg_select_action">Select an action</string>
     <string name="dlg_go_to_forecast">Go to forecast</string>
     <string name="dlg_set_as_home">Set as \"Home City\"</string>
+    <string name="wind_n">N</string>    
+    <string name="wind_ne">NE</string> 
+    <string name="wind_nw">NW</string> 
+    <string name="wind_s">S</string> 
+    <string name="wind_se">SE</string> 
+    <string name="wind_sw">SW</string> 
+    <string name="wind_e">E</string> 
+    <string name="wind_w">W</string>       
 </resources>
