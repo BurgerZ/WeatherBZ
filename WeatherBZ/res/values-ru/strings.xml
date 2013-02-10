@@ -139,7 +139,7 @@
     <string name="settings_category_locations">Настройки местоположения</string>
     <string name="settings_category_locations_sum">Настройки текущего местоположения, определение местоположения</string>
     <string name="settings_category_appearance">Внешний вид</string>
-    <string name="settings_category_appearance_sum">Настройки отображения/скрытия элементов интерфейса, язык и т.д.</string>
+    <string name="settings_category_appearance_sum">Настройки отображения/скрытия элементов интерфейса и т.д.</string>
     <string name="settings_location_use_my_title">Мое местоположение</string>
     <string name="settings_location_use_my_summary">Автоматически определять местоположение (данные берутся из сети)</string>
     <string name="settings_show_temp_symbol_title">Символ температуры</string>

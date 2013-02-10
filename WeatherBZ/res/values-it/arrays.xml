@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="update_interval_names">
-        <item >10 minuti</item>
-        <item >30 minuti</item>
-        <item >1 ora</item>
-        <item >1 ora 30 min</item>
-        <item >2 ore</item>
-        <item >4 ore</item>
-        <item >6 ore</item>
+        <item>10 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>1 ora 30 min</item>
+        <item>2 ore</item>
+        <item>4 ore</item>
+        <item>6 ore</item>
     </string-array>
     <string-array name="country_codes">
         <item>ad</item>
@@ -256,7 +256,7 @@
         <item>zm</item>
         <item>zr</item>
         <item>zw</item>
-		<item>pm</item>
+        <item>pm</item>
     </string-array>
     <string-array name="country_names">
         <item>Andorra</item>
@@ -505,36 +505,37 @@
         <item>Zambia</item>
         <item>Zaire (former)</item>
         <item>Zimbabwe</item>
-		<item>Saint Pierre and Miquelon</item>
+        <item>Saint Pierre and Miquelon</item>
     </string-array>
-    <string-array name="notif_temp_color_names">
-        <item >Nero</item>
-        <item >Bianco</item>
+    <string-array name="notif_temp_color_entries">
+        <item>Nero</item>
+        <item>Bianco</item>
     </string-array>
     <string-array name="notif_type_entries">
-        <item >Temperatura</item>
-        <item >Icona meteo</item>
-    </string-array>    
+        <item>Temperatura</item>
+        <item>Icona Meteo</item>
+    </string-array>
     <string-array name="widget42_show_entries">
-        <item >Orologio</item>
-        <item >Data</item>
-        <item >Città</item>
-        <item >Dettagli Meteo</item>
-        <item >Percepito</item>
-        <item >Vento</item>
-    </string-array>  
+        <item>Orologio</item>
+        <item>Data</item>
+        <item>Città</item>
+        <item>Dettagli Meteo</item>
+        <item>Percepito</item>
+        <item>Vento</item>
+    </string-array>
     <string-array name="main_show_entries">
-        <item >Percepito</item>
-        <item >Vento</item>
-        <item >Umidità</item>
-        <item >Pressione</item>
-        <item >Visibilità</item>
-    </string-array>  
+        <item>Percepito</item>
+        <item>Vento</item>
+        <item>Umidità</item>
+        <item>Pressione</item>
+        <item>Visibilità</item>
+        <item>Pross.Allarme</item>
+    </string-array>
     <string-array name="main_locale_entries">
-        <item >Sistema</item>
-        <item >English</item>
-        <item >Russian</item>
-        <item >Ukrainian</item>
-        <item >Italiano</item>
-    </string-array>     
+        <item>Sistema</item>
+        <item>English</item>
+        <item>Russian</item>
+        <item>Ukrainian</item>
+        <item>Italiano</item>
+    </string-array>
 </resources>
