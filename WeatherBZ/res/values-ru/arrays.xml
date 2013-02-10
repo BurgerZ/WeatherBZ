@@ -497,6 +497,7 @@
         <item >Влажность</item>
         <item >Давление</item>
         <item >Видимость</item>
+        <item >Будильник</item>
     </string-array>   
     <string-array name="main_locale_entries">
         <item >Системный</item>

@@ -41,7 +41,7 @@
     <string name="location_edit">Enter city name</string>
     <string name="weather_no_city">No city</string>
     <string name="weather_no_conditions_data">No weather data</string>
-    <string name="weather_no_temp_data">--°C</string>
+    <string name="weather_no_temp_data">-°</string>
     <string name="weather_humidity">&quot;Humidity: &quot;</string>
     <string name="weather_wind">"Wind: "</string>
     <string name="weather_feel">"Feel: "</string>

@@ -43,7 +43,6 @@
     <string name="location_edit">Inserisci la località</string>
     <string name="weather_no_city">Nessuna località</string>
     <string name="weather_no_conditions_data">Nessun dato meteo</string>
-    <string name="weather_no_temp_data">--°C</string>
     <string name="weather_humidity">&quot;Umidità: &quot;</string>
     <string name="weather_wind">"Vento: "</string>
     <string name="weather_feel">"Percepito: "</string>

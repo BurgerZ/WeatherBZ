@@ -188,11 +188,11 @@
     <string name="dlg_go_to_forecast">Перейти к прогнозу</string>
     <string name="dlg_set_as_home">Как \"Основной город\"</string>
     <string name="wind_n">С</string>    
-    <string name="wind_ne">СЗ</string> 
-    <string name="wind_nw">СВ</string> 
+    <string name="wind_ne">СВ</string> 
+    <string name="wind_nw">СЗ</string> 
     <string name="wind_s">Ю</string> 
-    <string name="wind_se">ЮЗ</string> 
-    <string name="wind_sw">ЮВ</string> 
-    <string name="wind_e">З</string> 
-    <string name="wind_w">В</string>   
+    <string name="wind_se">ЮВ</string> 
+    <string name="wind_sw">ЮЗ</string> 
+    <string name="wind_e">В</string> 
+    <string name="wind_w">З</string>   
 </resources>
