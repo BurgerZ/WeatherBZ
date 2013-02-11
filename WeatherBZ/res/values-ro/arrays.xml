@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="update_interval_names">
+        <item>10 minute</item>
+        <item>30 minute</item>
+        <item>1 oră</item>
+        <item>1 oră 30 minute</item>
+        <item>2 ore</item>
+        <item>4 ore</item>
+        <item>6 ore</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Andorra</item>
+        <item>Emiratele Arabe Unite</item>
+        <item>Afganistan</item>
+        <item>Antigua şi Barbuda</item>
+        <item>Anguilla</item>
+        <item>Albania</item>
+        <item>Armenia</item>
+        <item>Antilele Olandeze</item>
+        <item>Angola</item>
+        <item>Antarctica</item>
+        <item>Argentina</item>
+        <item>Samoa Americană</item>
+        <item>Austria</item>
+        <item>Australia</item>
+        <item>Aruba</item>
+        <item>Insulele Aland</item>
+        <item>Azerbaidjan</item>
+        <item>Bosnia și Herțegovina</item>
+        <item>Barbados</item>
+        <item>Bangladesh</item>
+        <item>Belgia</item>
+        <item>Burkina Faso</item>
+        <item>Bulgaria</item>
+        <item>Bahrain</item>
+        <item>Burundi</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Brunei Darussalam</item>
+        <item>Bolivia</item>
+        <item>Brazilia</item>
+        <item>Bahamas</item>
+        <item>Bhutan</item>
+        <item>Insula Bouvet</item>
+        <item>Botswana</item>
+        <item>Belarus</item>
+        <item>Belize</item>
+        <item>Canada</item>
+        <item>Insulele Cocos</item>
+        <item>Republica Democratică Congo</item>
+        <item>Republica Centrafricană</item>
+        <item>Congo</item>
+        <item>Elveția</item>
+        <item>Coasta de Fildeș</item>
+        <item>Insulele Cook</item>
+        <item>Chile</item>
+        <item>Camerun</item>
+        <item>China</item>
+        <item>Columbia</item>
+        <item>Costa Rica</item>
+        <item>Serbia și Muntenegru</item>
+        <item>Cuba</item>
+        <item>Cape Verde</item>
+        <item>Insula Christmas</item>
+        <item>Cipru</item>
+        <item>Republica Cehă</item>
+        <item>Germania</item>
+        <item>Djibouti</item>
+        <item>Danemarca</item>
+        <item>Dominica</item>
+        <item>Republica Dominicană</item>
+        <item>Algeria</item>
+        <item>Ecuador</item>
+        <item>Estonia</item>
+        <item>Egipt</item>
+        <item>Sahara Occidentală</item>
+        <item>Eritreea</item>
+        <item>Spania</item>
+        <item>Etiopia</item>
+        <item>Finlanda</item>
+        <item>Fiji</item>
+        <item>Insulele Falkland (Malvine)</item>
+        <item>Statele Federative ale Microneziei</item>
+        <item>Insulele Feroe</item>
+        <item>Franţa</item>
+        <item>Franţa, Metropolitan</item>
+        <item>Gabon</item>
+        <item>Marea Britanie</item>
+        <item>Grenada</item>
+        <item>Georgia</item>
+        <item>Guiana Franceză</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Groenlanda</item>
+        <item>Gambia</item>
+        <item>Guineea</item>
+        <item>Guadelupa</item>
+        <item>Guineea Ecuatorială</item>
+        <item>Grecia</item>
+        <item>Insulele S. Georgia şi S. Sandwich</item>
+        <item>Guatemala</item>
+        <item>Guam</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Hong Kong</item>
+        <item>Heard Island and McDonald Islands</item>
+        <item>Honduras</item>
+        <item>Croaţia</item>
+        <item>Haiti</item>
+        <item>Ungaria</item>
+        <item>Indonezia</item>
+        <item>Irlanda</item>
+        <item>Israel</item>
+        <item>India</item>
+        <item>Teritoriul Britanic din Oceanul Indian</item>
+        <item>Irak</item>
+        <item>Iran</item>
+        <item>Islanda</item>
+        <item>Italia</item>
+        <item>Jamaica</item>
+        <item>Iordania</item>
+        <item>Japonia</item>
+        <item>Kenya</item>
+        <item>Kârgâzstan</item>
+        <item>Cambodgia</item>
+        <item>Kiribati</item>
+        <item>Insulele Comore</item>
+        <item>Saint Kitts şi Nevis</item>
+        <item>Coreea de Nord</item>
+        <item>Coreea de Sud</item>
+        <item>Kuwait</item>
+        <item>Insulele Cayman</item>
+        <item>Kazahstan</item>
+        <item>Laos</item>
+        <item>Liban</item>
+        <item>Sfânta Lucia</item>
+        <item>Liechtenstein</item>
+        <item>Sri Lanka</item>
+        <item>Liberia</item>
+        <item>Lesotho</item>
+        <item>Lituania</item>
+        <item>Luxemburg</item>
+        <item>Letonia</item>
+        <item>Libia</item>
+        <item>Maroc</item>
+        <item>Monaco</item>
+        <item>Moldova</item>
+        <item>Madagascar</item>
+        <item>Insulele Marshall</item>
+        <item>Macedonia</item>
+        <item>Mali</item>
+        <item>Myanmar</item>
+        <item>Mongolia</item>
+        <item>Macao</item>
+        <item>Insulele Mariane de Nord</item>
+        <item>Martinica</item>
+        <item>Mauritania</item>
+        <item>Montserrat</item>
+        <item>Malta</item>
+        <item>Mauritius</item>
+        <item>Maldive</item>
+        <item>Malawi</item>
+        <item>Mexic</item>
+        <item>Malaysia</item>
+        <item>Mozambic</item>
+        <item>Namibia</item>
+        <item>Noua Caledonie</item>
+        <item>Niger</item>
+        <item>Insula Norfolk</item>
+        <item>Nigeria</item>
+        <item>Nicaragua</item>
+        <item>Olanda</item>
+        <item>Norvegia</item>
+        <item>Nepal</item>
+        <item>Nauru</item>
+        <item>Niue</item>
+        <item>Noua Zeelandă (Aotearoa)</item>
+        <item>Oman</item>
+        <item>Panama</item>
+        <item>Peru</item>
+        <item>Polinezia Franceză</item>
+        <item>Papua Noua Guinee</item>
+        <item>Filipine</item>
+        <item>Pakistan</item>
+        <item>Polonia</item>
+        <item>Saint Pierre și Miquelon</item>
+        <item>Pitcairn</item>
+        <item>Puerto Rico</item>
+        <item>Teritoriul Palestinian</item>
+        <item>Portugalia</item>
+        <item>Palau</item>
+        <item>Paraguay</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>România</item>
+        <item>Federaţia Rusă</item>
+        <item>Rwanda</item>
+        <item>Arabia Saudită</item>
+        <item>Insulele Solomon</item>
+        <item>Seychelles</item>
+        <item>Sudan</item>
+        <item>Suedia</item>
+        <item>Singapore</item>
+        <item>Insula Sf. Elena</item>
+        <item>Slovenia</item>
+        <item>Svalbard și Jan Mayen</item>
+        <item>Slovacia</item>
+        <item>Sierra Leone</item>
+        <item>San Marino</item>
+        <item>Senegal</item>
+        <item>Somalia</item>
+        <item>Surinam</item>
+        <item>Sao Tome şi Principe</item>
+        <item>USSR (fosta)</item>
+        <item>El Salvador</item>
+        <item>Siria</item>
+        <item>Swaziland</item>
+        <item>Insulele Turks şi Caicos</item>
+        <item>Ciad</item>
+        <item>Teritoriile franceze din Sud</item>
+        <item>Togo</item>
+        <item>Thailanda</item>
+        <item>Tadjikistan</item>
+        <item>Tokelau</item>
+        <item>Timor-Leste</item>
+        <item>Turkmenistan</item>
+        <item>Tunisia</item>
+        <item>Tonga</item>
+        <item>Timorul de Est</item>
+        <item>Turcia</item>
+        <item>Trinidad-Tobago</item>
+        <item>Tuvalu</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Ucraina</item>
+        <item>Uganda</item>
+        <item>Marea Britanie</item>
+        <item>Insulele Minore ale SUA</item>
+        <item>Statele Unite</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vatican City State (Holy See)</item>
+        <item>Sfântul Vincent și Grenadine</item>
+        <item>Venezuela</item>
+        <item>Insulele Virgine (Britanice)</item>
+        <item>Insulele Virgine (SUA)</item>
+        <item>Vietnam</item>
+        <item>Vanuatu</item>
+        <item>Wallis și Futuna</item>
+        <item>Samoa</item>
+        <item>Yemen</item>
+        <item>Mayotte</item>
+        <item>Iugoslavia (fosta)</item>
+        <item>Africa de Sud</item>
+        <item>Zambia</item>
+        <item>Zair (fosta)</item>
+        <item>Zimbabwe</item>
+        <item>Saint Pierre și Miquelon</item>
+    </string-array>
+    <string-array name="notif_temp_color_entries">
+        <item>Negru</item>
+        <item>Alb</item>
+    </string-array>
+    <string-array name="notif_type_entries">
+        <item>Simbol temperatură</item>
+        <item>Pictogramă vreme</item>
+    </string-array>
+    <string-array name="widget42_show_entries">
+        <item>Ceas</item>
+        <item>Dată</item>
+        <item>Oraş</item>
+        <item>Descriere vreme</item>
+        <item>Se simte a fi</item>
+        <item>Vânt</item>
+    </string-array>
+    <string-array name="main_show_entries">
+        <item>Se simte a fi</item>
+        <item>Vânt</item>
+        <item>Umidate</item>
+        <item>Presiune</item>
+        <item>Vizibilitate</item>
+        <item>Următoarea Alarmă</item>
+    </string-array>
+</resources>
