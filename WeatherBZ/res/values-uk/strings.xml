@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">Погода BZ</string>
+    <string name="new_version">Нова версія</string>
+    <string name="no_updates">Немає оновлення</string>
+    <string name="close">Закрити</string>
+    <string name="upgrade">Оновити</string>
+    <string name="not_now">Не зараз</string>   
+    <string name="settings_check_updates_title">Перевіряти оновлення</string>
+    <string name="settings_check_updates_summary">Перевіряти наявність нової версії додатка при запуску</string>        
+    <string name="settings_category_app_update">Оновлення додатка</string>  
+    <string name="settings_category_forecast_update">Оновлення прогнозу</string>    
     <string name="widget_name_small">Погода BZ</string>
     <string name="widget_name_medium">Погода BZ</string>
     <string name="widget_name_large">Погода BZ</string>
