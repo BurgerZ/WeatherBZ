@@ -10,7 +10,6 @@
     <string name="settings_check_updates_summary">"Controlla aggiornamenti all'avvio"</string>
     <string name="settings_category_app_update">Application update</string>
     <string name="settings_category_forecast_update">Forecast update</string>
-    <string name="widget_name_small">Weather BZ (2x1)</string>
     <string name="widget_name_medium">Weather BZ (4x1)</string>
     <string name="widget_name_large">Weather BZ (4x2)</string>
     <string name="about_version">Versione</string>
