@@ -1,4 +1,4 @@
-﻿{{"versionCode": "40200", 
+﻿{"versionCode": "40200", 
 "versionName": "4.2.0", 
 "features": "<center><strong>*** v4.2.0 (15 Фев 2013) ***</strong></center><p>
 <strong>Список изменений:</strong><p>
