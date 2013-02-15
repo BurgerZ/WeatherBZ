@@ -1,5 +1,5 @@
-﻿{"versionCode": 40109, 
-"versionName": 4.1.9, 
+﻿{"versionCode": "40109", 
+"versionName": "4.1.9", 
 "features": "<center><strong>*** v4.1.9 (12 Фев 2013) ***</strong></center><p>
 <strong>Список изменений:</strong><p>
 * Удален виджет 2х1<p>
