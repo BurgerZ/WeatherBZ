@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string-array name="update_interval_names">
         <item >10 minutes</item>
         <item >30 minutes</item>
@@ -563,5 +563,15 @@
         <item >main_press</item>
         <item >main_visib</item>
         <item >main_next_alarm</item>
-    </string-array>         
+    </string-array>        
+	<string-array name="widget41_show_entries">
+        <item >Temperature panel</item>
+        <item >Conditions panel</item>
+        <item >Time panel</item>
+	</string-array>
+	<string-array name="widget41_show_values" translatable="false">
+        <item >w41_temp</item>
+        <item >w41_cond</item>
+        <item >w41_time</item>
+	</string-array>     
 </resources>

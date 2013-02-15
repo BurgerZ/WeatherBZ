@@ -167,6 +167,7 @@
     <string name="settings_widgets_widget4x2_wind_font_summary">По умолчанию 14sp</string>
     <string name="settings_widgets_widget4x2_custom_font_title">Настройка шрифтов</string>
     <string name="settings_widgets_widget4x2_custom_font_summary">Настройка размера шрифта для элементов виджета</string>
+    <string name="settings_widgets_widget4x1">Виджет 4x1</string>
     <string name="settings_show_info_title">Отображение данных</string>
     <string name="settings_show_info_summary">Показывать или скрыть элементы интерфейса</string>
     <string name="settings_notification_type">Тип уведомления</string>
@@ -187,4 +188,8 @@
     <string name="wind_sw">ЮЗ</string> 
     <string name="wind_e">В</string> 
     <string name="wind_w">З</string>   
+    <string name="settings_widgets_widget4x1_transparent_title">Прозрачный фон</string> 
+    <string name="settings_widgets_widget4x1_transparent_sum">Снимите галочку для использования фона по умолчанию</string> 
+    <string name="settings_widgets_widget4x1_white_text_title">Белый цвет текста</string> 
+    <string name="settings_widgets_widget4x1_white_text_sum">Снимите галочку для использования темного текста и иконок</string>     
 </resources>

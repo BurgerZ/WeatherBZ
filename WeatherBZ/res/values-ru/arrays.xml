@@ -499,11 +499,9 @@
         <item >Видимость</item>
         <item >Будильник</item>
     </string-array>   
-    <string-array name="main_locale_entries">
-        <item >Системный</item>
-        <item >Английский</item>
-        <item >Русский</item>
-        <item >Украинский</item>
-        <item >Итальянский</item>
-    </string-array> 
+	<string-array name="widget41_show_entries">
+        <item >Панель температур</item>
+        <item >Панель дополнительных данных</item>
+        <item >Панель часов</item>
+	</string-array>
 </resources>

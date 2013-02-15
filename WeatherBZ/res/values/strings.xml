@@ -167,6 +167,7 @@
     <string name="settings_widgets_widget4x2_wind_font_summary">Default value 14sp</string>
     <string name="settings_widgets_widget4x2_custom_font_title">Custom font size</string>
     <string name="settings_widgets_widget4x2_custom_font_summary">Customize font size for widget</string>
+    <string name="settings_widgets_widget4x1">Widget 4x1</string>
     <string name="settings_show_info_title">Show info</string>
     <string name="settings_show_info_summary">Show or hide interface elements</string>
     <string name="settings_notification_type">Notification type</string>
@@ -186,5 +187,9 @@
     <string name="wind_se">SE</string> 
     <string name="wind_sw">SW</string> 
     <string name="wind_e">E</string> 
-    <string name="wind_w">W</string>       
+    <string name="wind_w">W</string> 
+    <string name="settings_widgets_widget4x1_transparent_title">Transparent background</string> 
+    <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default backround</string> 
+    <string name="settings_widgets_widget4x1_white_text_title">White text color</string> 
+    <string name="settings_widgets_widget4x1_white_text_sum">Unchecked for black text and weather icon</string>       
 </resources>
