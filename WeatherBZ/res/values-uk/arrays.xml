@@ -493,5 +493,6 @@
         <item >Вологість</item>
         <item >Тиск</item>
         <item >Видимість</item>
+        <item >Next Alarm</item>
     </string-array>   
 </resources>
