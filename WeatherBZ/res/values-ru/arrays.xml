@@ -504,4 +504,8 @@
         <item >Панель дополнительных данных</item>
         <item >Панель часов</item>
 	</string-array>
+    <string-array name="widget41_data_entries">
+        <item >Прогноз на 3 дня</item>
+        <item >Текущие данные</item>
+    </string-array>	
 </resources>

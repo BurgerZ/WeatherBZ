@@ -191,5 +191,6 @@
     <string name="settings_widgets_widget4x1_transparent_title">Transparent background</string> 
     <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default backround</string> 
     <string name="settings_widgets_widget4x1_white_text_title">White text color</string> 
-    <string name="settings_widgets_widget4x1_white_text_sum">Unchecked for black text and weather icon</string>       
+    <string name="settings_widgets_widget4x1_white_text_sum">Unchecked for black text and weather icon</string>
+    <string name="settings_widgets_widget4x1_data_title">Extended data</string>      
 </resources>

@@ -566,7 +566,7 @@
     </string-array>        
 	<string-array name="widget41_show_entries">
         <item >Temperature panel</item>
-        <item >Conditions panel</item>
+        <item >Extended data panel</item>
         <item >Time panel</item>
 	</string-array>
 	<string-array name="widget41_show_values" translatable="false">
@@ -574,4 +574,12 @@
         <item >w41_cond</item>
         <item >w41_time</item>
 	</string-array>     
+    <string-array name="widget41_data_entries">
+        <item >"3-day's forecast data"</item>
+        <item >"Today's Forecast data"</item>
+    </string-array>
+    <string-array name="widget41_data_values" translatable="false">
+        <item >w41_3day_forecast</item>
+        <item >w41_forecast_data</item>
+    </string-array>   	
 </resources>

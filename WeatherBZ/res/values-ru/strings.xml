@@ -191,5 +191,6 @@
     <string name="settings_widgets_widget4x1_transparent_title">Прозрачный фон</string> 
     <string name="settings_widgets_widget4x1_transparent_sum">Снимите галочку для использования фона по умолчанию</string> 
     <string name="settings_widgets_widget4x1_white_text_title">Белый цвет текста</string> 
-    <string name="settings_widgets_widget4x1_white_text_sum">Снимите галочку для использования темного текста и иконок</string>     
+    <string name="settings_widgets_widget4x1_white_text_sum">Снимите галочку для использования темного текста и иконок</string>
+    <string name="settings_widgets_widget4x1_data_title">Дополнительные данные</string>            
 </resources>
