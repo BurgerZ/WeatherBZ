@@ -173,4 +173,9 @@ Selectaţi locaţia manual"</string>
     <string name="dlg_select_action">Selectaţi o acţiune</string>
     <string name="dlg_go_to_forecast">Mergeţi la prognoză</string>
     <string name="dlg_set_as_home">Setaţi ca \"Oraş Acasă\"</string>
+    <string name="settings_widgets_widget4x1_transparent_title">Fundal transparent</string> 
+    <string name="settings_widgets_widget4x1_transparent_sum">Debifat pentru fundal implicit</string> 
+    <string name="settings_widgets_widget4x1_white_text_title">Culoare albă a textului</string> 
+    <string name="settings_widgets_widget4x1_white_text_sum">Debifat pentru text şi pictogramă vreme de culoare neagră</string>
+    <string name="settings_widgets_widget4x1_data_title">Date extinse</string>  
 </resources>
