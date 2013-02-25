@@ -8,5 +8,5 @@
 * Переработан механизм перехода между городами (если их несколько) для более плавного скроллинга<p>
 * Множество исправлений и оптимизаций (что позволило снизить размер файла в два раза)<p>
 <strong>Если кого-то не устроит данная версия, то можете скачать 4.2.3 по этой ссылке:</strong><p>
-https://github.com/BurgerZ/WeatherBZ/raw/master/WeatherBZ.apk", 
+<a href="https://github.com/BurgerZ/WeatherBZ/raw/master/WeatherBZ.apk" target="_blank">Weather BZ v4.2.3</a>", 
 "target": "https://github.com/BurgerZ/WeatherBZ/raw/master/WeatherBZ_v4.2.4.apk"}
