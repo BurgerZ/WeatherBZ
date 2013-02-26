@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="update_interval_names">
+        <item>10 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>1 time 30 min</item>
+        <item>2 timer</item>
+        <item>4 timer</item>
+        <item>6 timer</item>
+    </string-array>
+    <string-array name="update_interval_values">
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>240</item>
+        <item>360</item>
+    </string-array>
+    <string-array name="country_codes">
+        <item>ad</item>
+        <item>ae</item>
+        <item>af</item>
+        <item>ag</item>
+        <item>ai</item>
+        <item>al</item>
+        <item>am</item>
+        <item>an</item>
+        <item>ao</item>
+        <item>aq</item>
+        <item>ar</item>
+        <item>as</item>
+        <item>at</item>
+        <item>au</item>
+        <item>aw</item>
+        <item>ax</item>
+        <item>az</item>
+        <item>ba</item>
+        <item>bb</item>
+        <item>bd</item>
+        <item>be</item>
+        <item>bf</item>
+        <item>bg</item>
+        <item>bh</item>
+        <item>bi</item>
+        <item>bj</item>
+        <item>bm</item>
+        <item>bn</item>
+        <item>bo</item>
+        <item>br</item>
+        <item>bs</item>
+        <item>bt</item>
+        <item>bv</item>
+        <item>bw</item>
+        <item>by</item>
+        <item>bz</item>
+        <item>ca</item>
+        <item>cc</item>
+        <item>cd</item>
+        <item>cf</item>
+        <item>cg</item>
+        <item>ch</item>
+        <item>ci</item>
+        <item>ck</item>
+        <item>cl</item>
+        <item>cm</item>
+        <item>cn</item>
+        <item>co</item>
+        <item>cr</item>
+        <item>cs</item>
+        <item>cu</item>
+        <item>cv</item>
+        <item>cx</item>
+        <item>cy</item>
+        <item>cz</item>
+        <item>de</item>
+        <item>dj</item>
+        <item>dk</item>
+        <item>dm</item>
+        <item>do</item>
+        <item>dz</item>
+        <item>ec</item>
+        <item>ee</item>
+        <item>eg</item>
+        <item>eh</item>
+        <item>er</item>
+        <item>es</item>
+        <item>et</item>
+        <item>fi</item>
+        <item>fj</item>
+        <item>fk</item>
+        <item>fm</item>
+        <item>fo</item>
+        <item>fr</item>
+        <item>fx</item>
+        <item>ga</item>
+        <item>gb</item>
+        <item>gd</item>
+        <item>ge</item>
+        <item>gf</item>
+        <item>gh</item>
+        <item>gi</item>
+        <item>gl</item>
+        <item>gm</item>
+        <item>gn</item>
+        <item>gp</item>
+        <item>gq</item>
+        <item>gr</item>
+        <item>gs</item>
+        <item>gt</item>
+        <item>gu</item>
+        <item>gw</item>
+        <item>gy</item>
+        <item>hk</item>
+        <item>hm</item>
+        <item>hn</item>
+        <item>hr</item>
+        <item>ht</item>
+        <item>hu</item>
+        <item>id</item>
+        <item>ie</item>
+        <item>il</item>
+        <item>in</item>
+        <item>io</item>
+        <item>iq</item>
+        <item>ir</item>
+        <item>is</item>
+        <item>it</item>
+        <item>jm</item>
+        <item>jo</item>
+        <item>jp</item>
+        <item>ke</item>
+        <item>kg</item>
+        <item>kh</item>
+        <item>ki</item>
+        <item>km</item>
+        <item>kn</item>
+        <item>kp</item>
+        <item>kr</item>
+        <item>kw</item>
+        <item>ky</item>
+        <item>kz</item>
+        <item>la</item>
+        <item>lb</item>
+        <item>lc</item>
+        <item>li</item>
+        <item>lk</item>
+        <item>lr</item>
+        <item>ls</item>
+        <item>lt</item>
+        <item>lu</item>
+        <item>lv</item>
+        <item>ly</item>
+        <item>ma</item>
+        <item>mc</item>
+        <item>md</item>
+        <item>mg</item>
+        <item>mh</item>
+        <item>mk</item>
+        <item>ml</item>
+        <item>mm</item>
+        <item>mn</item>
+        <item>mo</item>
+        <item>mp</item>
+        <item>mq</item>
+        <item>mr</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>mu</item>
+        <item>mv</item>
+        <item>mw</item>
+        <item>mx</item>
+        <item>my</item>
+        <item>mz</item>
+        <item>na</item>
+        <item>nc</item>
+        <item>ne</item>
+        <item>nf</item>
+        <item>ng</item>
+        <item>ni</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>np</item>
+        <item>nr</item>
+        <item>nu</item>
+        <item>nz</item>
+        <item>om</item>
+        <item>pa</item>
+        <item>pe</item>
+        <item>pf</item>
+        <item>pg</item>
+        <item>ph</item>
+        <item>pk</item>
+        <item>pl</item>
+        <item>pm</item>
+        <item>pn</item>
+        <item>pr</item>
+        <item>ps</item>
+        <item>pt</item>
+        <item>pw</item>
+        <item>py</item>
+        <item>qa</item>
+        <item>re</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sa</item>
+        <item>sb</item>
+        <item>sc</item>
+        <item>sd</item>
+        <item>se</item>
+        <item>sg</item>
+        <item>sh</item>
+        <item>si</item>
+        <item>sj</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>sm</item>
+        <item>sn</item>
+        <item>so</item>
+        <item>sr</item>
+        <item>st</item>
+        <item>su</item>
+        <item>sv</item>
+        <item>sy</item>
+        <item>sz</item>
+        <item>tc</item>
+        <item>td</item>
+        <item>tf</item>
+        <item>tg</item>
+        <item>th</item>
+        <item>tj</item>
+        <item>tk</item>
+        <item>tl</item>
+        <item>tm</item>
+        <item>tn</item>
+        <item>to</item>
+        <item>tp</item>
+        <item>tr</item>
+        <item>tt</item>
+        <item>tv</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>ua</item>
+        <item>ug</item>
+        <item>uk</item>
+        <item>um</item>
+        <item>us</item>
+        <item>uy</item>
+        <item>uz</item>
+        <item>va</item>
+        <item>vc</item>
+        <item>ve</item>
+        <item>vg</item>
+        <item>vi</item>
+        <item>vn</item>
+        <item>vu</item>
+        <item>wf</item>
+        <item>ws</item>
+        <item>ye</item>
+        <item>yt</item>
+        <item>yu</item>
+        <item>za</item>
+        <item>zm</item>
+        <item>zr</item>
+        <item>zw</item>
+        <item>pm</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Andorra</item>
+        <item>Forenede Arabiske Emirater</item>
+        <item>Afghanistan</item>
+        <item>Antigua og Barbuda</item>
+        <item>Anguilla</item>
+        <item>Albanien</item>
+        <item>Armenien</item>
+        <item>Nederlandske Antiller</item>
+        <item>Angola</item>
+        <item>Antarctica</item>
+        <item>Argentina</item>
+        <item>Amerikansk Samoa</item>
+        <item>Østrig</item>
+        <item>Australien</item>
+        <item>Aruba</item>
+        <item>Åland</item>
+        <item>Aserbajdsjan</item>
+        <item>Bosnien-Hercegovina</item>
+        <item>Barbados</item>
+        <item>Bangladesh</item>
+        <item>Belgien</item>
+        <item>Burkina Faso</item>
+        <item>Bulgarien</item>
+        <item>Bahrain</item>
+        <item>Burundi</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Brunei Darussalam</item>
+        <item>Bolivia</item>
+        <item>Brasilien</item>
+        <item>Bahamas</item>
+        <item>Bhutan</item>
+        <item>Bouvetøen</item>
+        <item>Botswana</item>
+        <item>Hviderusland</item>
+        <item>Belize</item>
+        <item>Canada</item>
+        <item>Cocos (Keeling) Islands</item>
+        <item>Demokratiske Republik Congo</item>
+        <item>Centralafrikanske Republik</item>
+        <item>Congo</item>
+        <item>Schweiz</item>
+        <item>"Cote D'Ivoire (Elfenbenskysten)"</item>
+        <item>Cookøerne</item>
+        <item>Chile</item>
+        <item>Cameroun</item>
+        <item>Kina</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Serbien og Montenegro</item>
+        <item>Cuba</item>
+        <item>Kap Verde</item>
+        <item>Juleøen</item>
+        <item>Cypern</item>
+        <item>Tjekkiet</item>
+        <item>Tyskland</item>
+        <item>Djibouti</item>
+        <item>Danmark</item>
+        <item>Dominica</item>
+        <item>Dominikanske Republik</item>
+        <item>Algeriet</item>
+        <item>Ecuador</item>
+        <item>Estland</item>
+        <item>Egypten</item>
+        <item>Vestsahara</item>
+        <item>Eritrea</item>
+        <item>Spanien</item>
+        <item>Etiopien</item>
+        <item>Finland</item>
+        <item>Fiji</item>
+        <item>Falklandsøerne (Malvinas)</item>
+        <item>Mikronesien</item>
+        <item>Færøerne</item>
+        <item>Frankrig</item>
+        <item>France, Metropolitan</item>
+        <item>Gabon</item>
+        <item>Great Britain (UK)</item>
+        <item>Grenada</item>
+        <item>Georgien</item>
+        <item>Fransk Guyana</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Grønland</item>
+        <item>Gambia</item>
+        <item>Guinea</item>
+        <item>Guadeloupe</item>
+        <item>Ækvatorialguinea</item>
+        <item>Grækenland</item>
+        <item>S. Georgien og S. Sandwich Islands</item>
+        <item>Guatemala</item>
+        <item>Guam</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Hong Kong</item>
+        <item>Heard Island og McDonald Islands</item>
+        <item>Honduras</item>
+        <item>Kroatien (Hrvatska)</item>
+        <item>Haiti</item>
+        <item>Ungarn</item>
+        <item>Indonesien</item>
+        <item>Irland</item>
+        <item>Israel</item>
+        <item>Indien</item>
+        <item>British Indian Ocean Territory</item>
+        <item>Irak</item>
+        <item>Iran</item>
+        <item>Island</item>
+        <item>Italien</item>
+        <item>Jamaica</item>
+        <item>Jordan</item>
+        <item>Japan</item>
+        <item>Kenya</item>
+        <item>Kirgisistan</item>
+        <item>Cambodja</item>
+        <item>Kiribati</item>
+        <item>Comorerne</item>
+        <item>Saint Kitts og Nevis</item>
+        <item>Korea (North)</item>
+        <item>Korea (Syd)</item>
+        <item>Kuwait</item>
+        <item>Caymanøerne</item>
+        <item>Kasakhstan</item>
+        <item>Laos</item>
+        <item>Libanon</item>
+        <item>Saint Lucia</item>
+        <item>Liechtenstein</item>
+        <item>Sri Lanka</item>
+        <item>Liberia</item>
+        <item>Lesotho</item>
+        <item>Litauen</item>
+        <item>Luxembourg</item>
+        <item>Letland</item>
+        <item>Libyen</item>
+        <item>Marokko</item>
+        <item>Monaco</item>
+        <item>Moldova</item>
+        <item>Madagaskar</item>
+        <item>Marshalløerne</item>
+        <item>Makedonien</item>
+        <item>Mali</item>
+        <item>Myanmar</item>
+        <item>Mongoliet</item>
+        <item>Macao</item>
+        <item>Nordmarianerne</item>
+        <item>Martinique</item>
+        <item>Mauretanien</item>
+        <item>Montserrat</item>
+        <item>Malta</item>
+        <item>Mauritius</item>
+        <item>Maldiverne</item>
+        <item>Malawi</item>
+        <item>Mexico</item>
+        <item>Malaysia</item>
+        <item>Mozambique</item>
+        <item>Namibia</item>
+        <item>Ny Kaledonien</item>
+        <item>Niger</item>
+        <item>Norfolk Island</item>
+        <item>Nigeria</item>
+        <item>Nicaragua</item>
+        <item>Holland</item>
+        <item>Norge</item>
+        <item>Nepal</item>
+        <item>Nauru</item>
+        <item>Niue</item>
+        <item>New Zealand (Aotearoa)</item>
+        <item>Oman</item>
+        <item>Panama</item>
+        <item>Peru</item>
+        <item>Fransk Polynesien</item>
+        <item>Papua Ny Guinea</item>
+        <item>Filippinerne</item>
+        <item>Pakistan</item>
+        <item>Polen</item>
+        <item>Saint Pierre og Miquelon</item>
+        <item>Pitcairn</item>
+        <item>Puerto Rico</item>
+        <item>Palæstina</item>
+        <item>Portugal</item>
+        <item>Palau</item>
+        <item>Paraguay</item>
+        <item>Qatar</item>
+        <item>Reunion</item>
+        <item>Rumænien</item>
+        <item>Russiske Føderation</item>
+        <item>Rwanda</item>
+        <item>Saudi Arabien</item>
+        <item>Salomonøerne</item>
+        <item>Seychellerne</item>
+        <item>Sudan</item>
+        <item>Sverige</item>
+        <item>Singapore</item>
+        <item>Saint Helena</item>
+        <item>Slovenien</item>
+        <item>Svalbard og Jan Mayen</item>
+        <item>Slovakiet</item>
+        <item>Sierra Leone</item>
+        <item>San Marino</item>
+        <item>Senegal</item>
+        <item>Somalia</item>
+        <item>Surinam</item>
+        <item>Sao Tome og Principe</item>
+        <item>USSR (tidligere)</item>
+        <item>El Salvador</item>
+        <item>Syrien</item>
+        <item>Swaziland</item>
+        <item>Turks-og Caicosøerne</item>
+        <item>Tchad</item>
+        <item>French Southern Territories</item>
+        <item>Togo</item>
+        <item>Thailand</item>
+        <item>Tadsjikistan</item>
+        <item>Tokelau</item>
+        <item>Østtimor</item>
+        <item>Turkmenistan</item>
+        <item>Tunesien</item>
+        <item>Tonga</item>
+        <item>Østtimor</item>
+        <item>Tyrkiet</item>
+        <item>Trinidad og Tobago</item>
+        <item>Tuvalu</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Ukraine</item>
+        <item>Uganda</item>
+        <item>Storbritannien</item>
+        <item>Mindre Amerikanske Oversøiske Øer</item>
+        <item>USA</item>
+        <item>Uruguay</item>
+        <item>Usbekistan</item>
+        <item>Vatikanstaten (Pavestolen)</item>
+        <item>Saint Vincent og Grenadinerne</item>
+        <item>Venezuela</item>
+        <item>Jomfruøerne (britisk)</item>
+        <item>Virgin Islands (US)</item>
+        <item>Viet Nam</item>
+        <item>Vanuatu</item>
+        <item>Wallis og Futuna</item>
+        <item>Samoa</item>
+        <item>Yemen</item>
+        <item>Mayotte</item>
+        <item>Jugoslavien (tidligere)</item>
+        <item>Sydafrika</item>
+        <item>Zambia</item>
+        <item>Zaire (tidligere)</item>
+        <item>Zimbabwe</item>
+        <item>Saint Pierre og Miquelon</item>
+    </string-array>
+    <string-array name="notif_temp_color_entries">
+        <item>Sort</item>
+        <item>Hvid</item>
+    </string-array>
+    <string-array name="notif_temp_color_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="notif_type_entries">
+        <item>Temperatur symbol</item>
+        <item>Vejr ikon</item>
+    </string-array>
+    <string-array name="notif_type_values">
+        <item>temperature_symbol</item>
+        <item>weather_symbol</item>
+    </string-array>
+    <string-array name="widget42_show_entries">
+        <item>Ur</item>
+        <item>Dato</item>
+        <item>By</item>
+        <item>Vejrbeskrivelse</item>
+        <item>Realfeel</item>
+        <item>Vind</item>
+    </string-array>
+    <string-array name="widget42_show_values">
+        <item>w42_clock</item>
+        <item>w42_date</item>
+        <item>w42_city</item>
+        <item>w42_desc</item>
+        <item>w42_feel</item>
+        <item>w42_wind</item>
+    </string-array>
+    <string-array name="main_show_entries">
+        <item>Realfeel</item>
+        <item>Vind</item>
+        <item>Fugtighed</item>
+        <item>Tryk</item>
+        <item>Sigtbarhed</item>
+        <item>Næste Alarm</item>
+    </string-array>
+    <string-array name="main_show_values">
+        <item>main_feel</item>
+        <item>main_wind</item>
+        <item>main_humid</item>
+        <item>main_press</item>
+        <item>main_visib</item>
+        <item>main_next_alarm</item>
+    </string-array>
+    <string-array name="widget41_show_entries">
+        <item>Temperatur panel</item>
+        <item>Udvidet data panel</item>
+        <item>Tids panel</item>
+    </string-array>
+    <string-array name="widget41_show_values">
+        <item>w41_temp</item>
+        <item>w41_cond</item>
+        <item>w41_time</item>
+    </string-array>
+    <string-array name="widget41_data_entries">
+        <item>"3-dags vejrudsigt"</item>
+        <item>"Idags vejrudsigt"</item>
+    </string-array>
+    <string-array name="widget41_data_values">
+        <item>w41_3day_forecast</item>
+        <item>w41_forecast_data</item>
+    </string-array>
+</resources>
