@@ -9,15 +9,6 @@
         <item>4 timer</item>
         <item>6 timer</item>
     </string-array>
-    <string-array name="update_interval_values">
-        <item>10</item>
-        <item>30</item>
-        <item>60</item>
-        <item>90</item>
-        <item>120</item>
-        <item>240</item>
-        <item>360</item>
-    </string-array>
     <string-array name="country_codes">
         <item>ad</item>
         <item>ae</item>
@@ -520,17 +511,9 @@
         <item>Sort</item>
         <item>Hvid</item>
     </string-array>
-    <string-array name="notif_temp_color_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="notif_type_entries">
         <item>Temperatur symbol</item>
         <item>Vejr ikon</item>
-    </string-array>
-    <string-array name="notif_type_values">
-        <item>temperature_symbol</item>
-        <item>weather_symbol</item>
     </string-array>
     <string-array name="widget42_show_entries">
         <item>Ur</item>
@@ -540,14 +523,6 @@
         <item>Realfeel</item>
         <item>Vind</item>
     </string-array>
-    <string-array name="widget42_show_values">
-        <item>w42_clock</item>
-        <item>w42_date</item>
-        <item>w42_city</item>
-        <item>w42_desc</item>
-        <item>w42_feel</item>
-        <item>w42_wind</item>
-    </string-array>
     <string-array name="main_show_entries">
         <item>Realfeel</item>
         <item>Vind</item>
@@ -556,30 +531,13 @@
         <item>Sigtbarhed</item>
         <item>Næste Alarm</item>
     </string-array>
-    <string-array name="main_show_values">
-        <item>main_feel</item>
-        <item>main_wind</item>
-        <item>main_humid</item>
-        <item>main_press</item>
-        <item>main_visib</item>
-        <item>main_next_alarm</item>
-    </string-array>
     <string-array name="widget41_show_entries">
         <item>Temperatur panel</item>
         <item>Udvidet data panel</item>
         <item>Tids panel</item>
     </string-array>
-    <string-array name="widget41_show_values">
-        <item>w41_temp</item>
-        <item>w41_cond</item>
-        <item>w41_time</item>
-    </string-array>
     <string-array name="widget41_data_entries">
         <item>"3-dags vejrudsigt"</item>
         <item>"Idags vejrudsigt"</item>
-    </string-array>
-    <string-array name="widget41_data_values">
-        <item>w41_3day_forecast</item>
-        <item>w41_forecast_data</item>
     </string-array>
 </resources>

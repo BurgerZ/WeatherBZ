@@ -10,8 +10,9 @@
     <string name="settings_check_updates_summary">Check for updates on application start</string>    
     <string name="settings_category_app_update">Application update</string>
     <string name="settings_category_forecast_update">Forecast update</string>    
-    <string name="widget_name_medium">Weather BZ</string>
-    <string name="widget_name_large">Weather BZ</string>
+    <string name="widget_name_medium">Weather BZ 4x1</string>
+    <string name="widget_name_medium_ext">Weather BZ 4x1</string>
+    <string name="widget_name_large">Weather BZ 4x2</string>
     <string name="about_version">Version</string>
     <string name="about_author">Author</string>
     <string name="about_provider">Weather provider</string>
@@ -153,13 +154,13 @@
     <string name="settings_widgets_widget4x2_desc_font_title">Weather description</string>
     <string name="settings_widgets_widget4x2_desc_font_summary">Default value 22sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">Clock</string>
-    <string name="settings_widgets_widget4x2_clock_font_summary">Default value 44sp</string>
+    <string name="settings_widgets_widget4x2_clock_font_summary">Default value 50sp</string>
     <string name="settings_widgets_widget4x2_date_font_title">Date</string>
-    <string name="settings_widgets_widget4x2_date_font_summary">Default value 12sp</string>
+    <string name="settings_widgets_widget4x2_date_font_summary">Default value 14sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">City</string>
-    <string name="settings_widgets_widget4x2_city_font_summary">Default value 14sp</string>
+    <string name="settings_widgets_widget4x2_city_font_summary">Default value 22sp</string>
     <string name="settings_widgets_widget4x2_temp_font_title">Temperature</string>
-    <string name="settings_widgets_widget4x2_temp_font_summary">Default value 38sp</string>
+    <string name="settings_widgets_widget4x2_temp_font_summary">Default value 40sp</string>
     <string name="settings_widgets_widget4x2_feel_font_title">Feelings</string>
     <string name="settings_widgets_widget4x2_feel_font_summary">Default value 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Wind</string>
@@ -191,5 +192,11 @@
     <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default backround</string> 
     <string name="settings_widgets_widget4x1_white_text_title">White text color</string> 
     <string name="settings_widgets_widget4x1_white_text_sum">Unchecked for black text and weather icon</string>
-    <string name="settings_widgets_widget4x1_data_title">Extended data</string>      
+    <string name="settings_widgets_widget4x1_data_title">Extended data</string>    
+
+	<string name="dialog_color_picker">Color Picker</string> 
+  	<string name="press_color_to_apply">Press on Color to apply</string> 
+  	<string name="main_screen_text_color_title">Text Color</string> 
+  	<string name="main_screen_text_color_summary">The text color of main screen data</string> 
+        
 </resources>

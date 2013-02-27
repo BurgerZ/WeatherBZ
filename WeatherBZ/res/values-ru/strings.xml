@@ -10,8 +10,9 @@
     <string name="settings_check_updates_summary">Проверять наличие новой версии приложения при запуске</string>        
     <string name="settings_category_app_update">Обновление приложения</string>  
     <string name="settings_category_forecast_update">Обновление прогноза</string>    
-    <string name="widget_name_medium">Погода BZ</string>
-    <string name="widget_name_large">Погода BZ</string>
+    <string name="widget_name_medium">Погода BZ 4x1</string>
+    <string name="widget_name_medium_ext">Погода BZ 4x1</string>    
+    <string name="widget_name_large">Погода BZ 4x2</string>
     <string name="about_version">Версия</string>
     <string name="about_author">Автор</string>
     <string name="about_provider">Поставщик погоды</string>
@@ -154,13 +155,13 @@
     <string name="settings_widgets_widget4x2_desc_font_title">Описание погоды</string>
     <string name="settings_widgets_widget4x2_desc_font_summary">По умолчанию 22sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">Часы</string>
-    <string name="settings_widgets_widget4x2_clock_font_summary">По умолчанию 44sp</string>
+    <string name="settings_widgets_widget4x2_clock_font_summary">По умолчанию 50sp</string>
     <string name="settings_widgets_widget4x2_date_font_title">Дата</string>
-    <string name="settings_widgets_widget4x2_date_font_summary">По умолчанию 12sp</string>
+    <string name="settings_widgets_widget4x2_date_font_summary">По умолчанию 14sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Город</string>
-    <string name="settings_widgets_widget4x2_city_font_summary">По умолчанию 14sp</string>
+    <string name="settings_widgets_widget4x2_city_font_summary">По умолчанию 22sp</string>
     <string name="settings_widgets_widget4x2_temp_font_title">Температура</string>
-    <string name="settings_widgets_widget4x2_temp_font_summary">По умолчанию 38sp</string>
+    <string name="settings_widgets_widget4x2_temp_font_summary">По умолчанию 40sp</string>
     <string name="settings_widgets_widget4x2_feel_font_title">Ощущения</string>
     <string name="settings_widgets_widget4x2_feel_font_summary">По умолчанию 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Ветер</string>
@@ -192,5 +193,9 @@
     <string name="settings_widgets_widget4x1_transparent_sum">Снимите галочку для использования фона по умолчанию</string> 
     <string name="settings_widgets_widget4x1_white_text_title">Белый цвет текста</string> 
     <string name="settings_widgets_widget4x1_white_text_sum">Снимите галочку для использования темного текста и иконок</string>
-    <string name="settings_widgets_widget4x1_data_title">Дополнительные данные</string>            
+    <string name="settings_widgets_widget4x1_data_title">Дополнительные данные</string> 
+	<string name="dialog_color_picker">Выбор цвета</string> 
+  	<string name="press_color_to_apply">Нажмите на цвет для выбора</string> 
+  	<string name="text_color_title">Цвет текста</string> 
+  	<string name="main_screen_text_color_summary">Цвет текста главного окна программы</string>           
 </resources>

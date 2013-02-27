@@ -148,13 +148,13 @@ Selectaţi locaţia manual"</string>
     <string name="settings_widgets_widget4x2_desc_font_title">Descriere vreme</string>
     <string name="settings_widgets_widget4x2_desc_font_summary">Valoare prestabilită 22sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">Ceas</string>
-    <string name="settings_widgets_widget4x2_clock_font_summary">Valoare prestabilită 44sp</string>
+    <string name="settings_widgets_widget4x2_clock_font_summary">Valoare prestabilită 50sp</string>
     <string name="settings_widgets_widget4x2_date_font_title">Dată</string>
-    <string name="settings_widgets_widget4x2_date_font_summary">Valoare prestabilită 12sp</string>
+    <string name="settings_widgets_widget4x2_date_font_summary">Valoare prestabilită 14sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Oraş</string>
-    <string name="settings_widgets_widget4x2_city_font_summary">Valoare prestabilită 14sp</string>
+    <string name="settings_widgets_widget4x2_city_font_summary">Valoare prestabilită 22sp</string>
     <string name="settings_widgets_widget4x2_temp_font_title">Temperatură</string>
-    <string name="settings_widgets_widget4x2_temp_font_summary">Valoare prestabilită 38sp</string>
+    <string name="settings_widgets_widget4x2_temp_font_summary">Valoare prestabilită 40sp</string>
     <string name="settings_widgets_widget4x2_feel_font_title">Se simte a fi</string>
     <string name="settings_widgets_widget4x2_feel_font_summary">Valoare prestabilită 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Vânt</string>
