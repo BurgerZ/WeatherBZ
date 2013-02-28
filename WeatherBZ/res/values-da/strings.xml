@@ -7,7 +7,6 @@
   <string name="about_dust">Støv</string>
   <string name="about_fog">Tåge</string>
   <string name="about_hailstone">Hagl</string>
-  <string name="about_images">billeder og video animationer</string>
   <string name="about_light_rain">Let regn</string>
   <string name="about_overcast">Overskyet</string>
   <string name="about_provider">Vejrudbyder</string>
@@ -29,6 +28,7 @@
   <string name="conf_light_skin">Lys Skin</string>
   <string name="conf_name">Widget indstillinger</string>
   <string name="conf_no_background">Ingen baggrund</string>
+  <string name="dialog_color_picker">Color Picke</string>
   <string name="dlg_go_to_forecast">Gå til vejrudsigt</string>
   <string name="dlg_select_action">Vælg en handling</string>
   <string name="dlg_set_as_home">Indstil som \"Hjemby\"</string>
@@ -39,6 +39,8 @@
   <string name="location_edit">Angiv bynavn</string>
   <string name="location_list">Steder</string>
   <string name="location_search">Søg efter placering</string>
+  <string name="main_screen_text_color_summary">Tekstfarven på vejr info</string>
+  <string name="main_screen_text_color_title">Tekstfarve</string>
   <string name="menu_settings">Indstillinger</string>
   <string name="menu_update">opdatering</string>
   <string name="network_error">Kunne ikke forbinde til serveren</string>
@@ -46,6 +48,7 @@
   <string name="no_provider">"Lokalisering mislykkedes, indstil placering manuelt"</string>
   <string name="no_updates">Ingen nye versioner</string>
   <string name="not_now">Ikke nu</string>
+  <string name="press_color_to_apply">Tryk på farve for at anvende</string>
   <string name="quiet_hours_enabled">Aktiver Stille timer</string>
   <string name="quiet_hours_enabled_off">Opdateringer vil fungere som normalt</string>
   <string name="quiet_hours_enabled_on">Stille timer aktiveret</string>
