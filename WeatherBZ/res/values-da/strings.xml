@@ -74,12 +74,10 @@
   <string name="settings_category_widgets_sum">Widgets udseende og tryk handlinger</string>
   <string name="settings_check_updates_summary">Kontroller for opdateringer ved app start</string>
   <string name="settings_check_updates_title">Kontroller for opdateringer</string>
-  <string name="settings_notification_color_title">Statuslinie symbol farve</string>
+  <string name="settings_notification_color_title">Statuslinie symbol farve</string>  
   <string name="settings_notification_summary">Vis vejr info i notifikations området</string>
   <string name="settings_notification_title">Vis Notifikation</string>
   <string name="settings_notification_type">Notifikationstype</string>
-  <string name="settings_notification_white_text_summary">Anvend hvid tekst og ikoner i notifikationsområdet (til mørke teamer)</string>
-  <string name="settings_notification_white_text_title">Hvid notifikationstekst</string>
   <string name="settings_show_info_summary">Vis eller skjul brugerflade elementer</string>
   <string name="settings_show_info_title">Vis info</string>
   <string name="settings_show_short_desc_summary">Vis kort eller fuld vejrudsigt i widgets og 3-dags vejrudsigt</string>

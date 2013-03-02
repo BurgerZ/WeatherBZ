@@ -142,8 +142,6 @@
     <string name="settings_show_weather_icons_summary">Mostra le icone meteo nelle previsioni 3-giorni</string>
     <string name="settings_show_short_desc_title">Descrizione breve</string>
     <string name="settings_show_short_desc_summary">Mostra la descrizione breve o completa nelle previsioni 3-giorni</string>
-    <string name="settings_notification_white_text_title">Testo bianco nelle notifiche</string>
-    <string name="settings_notification_white_text_summary">Usa il testo di colore bianco nelle notifiche (per i temi scuri)</string>
     <string name="settings_notification_color_title">Colore nella barra di stato</string>
     <string name="settings_category_widgets">Widgets</string>
     <string name="settings_category_widgets_sum">Mostra le impostazioni dei Widget e le azioni ai click</string>

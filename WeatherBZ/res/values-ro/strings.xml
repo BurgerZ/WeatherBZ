@@ -135,8 +135,6 @@ Selectaţi locaţia manual"</string>
     <string name="settings_show_weather_icons_summary">Afişaţi pictogramele meteo (în loc de descriere textuală meteo) în prognoza meteo pt. 3 zile</string>
     <string name="settings_show_short_desc_title">Afişaţi o scurtă descriere</string>
     <string name="settings_show_short_desc_summary">Afişaţi o descriere scurtă sau lungă pt. prognoză în obiectele widget şi în prognoza pt. 3 zile</string>
-    <string name="settings_notification_white_text_title">Text alb notificare</string>
-    <string name="settings_notification_white_text_summary">Utilizați text și pictograme albe în notificări (pentru teme întunecate)</string>
     <string name="settings_notification_color_title">Culoare simbol bară de stare</string>
     <string name="settings_category_widgets">Setări obiecte widget</string>
     <string name="settings_category_widgets_sum">Aspect obiecte widget şi acţiuni la clic</string>

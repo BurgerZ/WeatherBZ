@@ -142,8 +142,7 @@
     <string name="settings_show_weather_icons_summary">Показывать иконки погоды (вместо текстового описания состояния погоды) в прогнозе на 3 дня</string>
     <string name="settings_show_short_desc_title">Краткое описание</string>
     <string name="settings_show_short_desc_summary">Показывать краткое описание состояния погоды в виджетах и прогнозе на 3 дня (показывать только осадки)</string>
-    <string name="settings_notification_white_text_title">Белый текст уведомления</string>
-    <string name="settings_notification_white_text_summary">Использовать белый текст и иконку погоды для уведомления в шторке (для темных тем)</string>
+    <string name="settings_notification_text_color_summary">Цвет текста и иконки уведомления</string> 
     <string name="settings_notification_color_title">Цвет символа уведомления</string>
     <string name="settings_category_widgets">Настройки виджетов</string>
     <string name="settings_category_widgets_sum">Внешний вид виджетов и действия по нажатию на виджеты</string>

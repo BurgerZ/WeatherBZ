@@ -141,8 +141,6 @@
     <string name="settings_show_weather_icons_summary">Показувати іконки погоди (замість текстового опису стану погоди) в прогнозі на 3 дні</string>
     <string name="settings_show_short_desc_title">Короткий опис</string>
     <string name="settings_show_short_desc_summary">Показувати короткий опис стану погоди у віджетах і прогнозі на 3 дні (показувати лише опади)</string>
-    <string name="settings_notification_white_text_title">Білий текст повідомлення</string>
-    <string name="settings_notification_white_text_summary">Використовувати білий текст і іконку погоди для повідомлення в шторці (для темних тем)</string>
     <string name="settings_notification_color_title">Колір символу повідомлення</string>
     <string name="settings_category_widgets">Налаштування віджетів</string>
     <string name="settings_category_widgets_sum">Зовнішній вигляд віджетів і дії по натисненню на віджети</string>
