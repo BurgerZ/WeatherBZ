@@ -28,7 +28,7 @@
   <string name="conf_light_skin">Lys Skin</string>
   <string name="conf_name">Widget indstillinger</string>
   <string name="conf_no_background">Ingen baggrund</string>
-  <string name="dialog_color_picker">Vælg Farve</string>
+  <string name="dialog_color_picker">Color Picke</string>
   <string name="dlg_go_to_forecast">Gå til vejrudsigt</string>
   <string name="dlg_select_action">Vælg en handling</string>
   <string name="dlg_set_as_home">Indstil som \"Hjemby\"</string>
