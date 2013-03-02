@@ -190,13 +190,14 @@
     <string name="wind_w">W</string> 
     <string name="settings_widgets_widget4x1_transparent_title">Transparent background</string> 
     <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default backround</string> 
-    <string name="settings_widgets_widget4x1_white_text_title">White text color</string> 
-    <string name="settings_widgets_widget4x1_white_text_sum">Unchecked for black text and weather icon</string>
+    <string name="settings_widgets_widget4x1_white_icon_title">White weather icon</string> 
+    <string name="settings_widgets_widget4x1_white_icon_sum">Unchecked for black weather icon</string>
     <string name="settings_widgets_widget4x1_data_title">Extended data</string>    
 
 	<string name="dialog_color_picker">Color Picker</string> 
   	<string name="press_color_to_apply">Press on Color to apply</string> 
-  	<string name="main_screen_text_color_title">Text Color</string> 
+  	<string name="text_color_title">Text Color</string> 
   	<string name="main_screen_text_color_summary">The text color of main screen data</string> 
+  	<string name="widget_text_color_summary">"The widget's text color"</string> 
         
 </resources>

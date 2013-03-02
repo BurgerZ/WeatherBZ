@@ -40,7 +40,7 @@
   <string name="location_list">Steder</string>
   <string name="location_search">Søg efter placering</string>
   <string name="main_screen_text_color_summary">Tekstfarven på vejr info</string>
-  <string name="main_screen_text_color_title">Tekstfarve</string>
+  <string name="text_color_title">Tekstfarve</string>
   <string name="menu_settings">Indstillinger</string>
   <string name="menu_update">opdatering</string>
   <string name="network_error">Kunne ikke forbinde til serveren</string>
@@ -103,8 +103,8 @@
   <string name="settings_widgets_widget4x1_data_title">Udvidet data</string>
   <string name="settings_widgets_widget4x1_transparent_sum">System baggrund hvis ikke afkrydset</string>
   <string name="settings_widgets_widget4x1_transparent_title">Gennemsigtig baggrund</string>
-  <string name="settings_widgets_widget4x1_white_text_sum">Sort tekst og vejr ikoner hvis ikke afkrydset</string>
-  <string name="settings_widgets_widget4x1_white_text_title">Hvid tekst farve</string>
+  <string name="settings_widgets_widget4x1_white_icon_sum">Sort vejr ikoner hvis ikke afkrydset</string>
+  <string name="settings_widgets_widget4x1_white_icon_title">Hvid ikoner farve</string>
   <string name="settings_widgets_widget4x2">Widget 4x2</string>
   <string name="settings_widgets_widget4x2_city_font_summary">Standard størrelse 22sp</string>
   <string name="settings_widgets_widget4x2_city_font_title">By</string>

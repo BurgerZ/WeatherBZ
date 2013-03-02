@@ -191,11 +191,12 @@
     <string name="wind_w">З</string>   
     <string name="settings_widgets_widget4x1_transparent_title">Прозрачный фон</string> 
     <string name="settings_widgets_widget4x1_transparent_sum">Снимите галочку для использования фона по умолчанию</string> 
-    <string name="settings_widgets_widget4x1_white_text_title">Белый цвет текста</string> 
-    <string name="settings_widgets_widget4x1_white_text_sum">Снимите галочку для использования темного текста и иконок</string>
+    <string name="settings_widgets_widget4x1_white_icon_title">Белые иконки</string> 
+    <string name="settings_widgets_widget4x1_white_icon_sum">Снимите галочку для использования темных иконок</string>
     <string name="settings_widgets_widget4x1_data_title">Дополнительные данные</string> 
 	<string name="dialog_color_picker">Выбор цвета</string> 
   	<string name="press_color_to_apply">Нажмите на цвет для выбора</string> 
   	<string name="text_color_title">Цвет текста</string> 
-  	<string name="main_screen_text_color_summary">Цвет текста главного окна программы</string>           
+  	<string name="main_screen_text_color_summary">Цвет текста главного окна программы</string> 
+  	<string name="widget_text_color_summary">Цвет текста виджета</string>           
 </resources>
