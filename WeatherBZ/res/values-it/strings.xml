@@ -16,7 +16,6 @@
     <string name="about_version">Versione</string>
     <string name="about_author">Autore</string>
     <string name="about_provider">Provider Meteo</string>
-    <string name="about_images">Immagini e animazioni</string>
     <string name="about_copyright">Copyright</string>
     <string name="about_sunny">Soleggiato</string>
     <string name="about_sunny_night">Serata limpida</string>
@@ -142,6 +141,7 @@
     <string name="settings_show_weather_icons_summary">Mostra le icone meteo nelle previsioni 3-giorni</string>
     <string name="settings_show_short_desc_title">Descrizione breve</string>
     <string name="settings_show_short_desc_summary">Mostra la descrizione breve o completa nelle previsioni 3-giorni</string>
+    <string name="settings_notification_text_color_summary">Colore del testo e delle icone</string>
     <string name="settings_notification_color_title">Colore nella barra di stato</string>
     <string name="settings_category_widgets">Widgets</string>
     <string name="settings_category_widgets_sum">Mostra le impostazioni dei Widget e le azioni ai click</string>
@@ -166,6 +166,7 @@
     <string name="settings_widgets_widget4x2_wind_font_summary">Valore default 14sp</string>
     <string name="settings_widgets_widget4x2_custom_font_title">Grandezza Font Personale</string>
     <string name="settings_widgets_widget4x2_custom_font_summary">Modifica le dimensioni del font a proprio piacimento</string>
+    <string name="settings_widgets_widget4x1">Widget 4x1</string>
     <string name="settings_show_info_title">Mostra dettagli</string>
     <string name="settings_show_info_summary">"Mostra o nascondi elementi nell'interfaccia"</string>
     <string name="settings_notification_type">Notifica Grafica</string>
@@ -178,4 +179,22 @@
     <string name="dlg_select_action">"Scegli un'azione"</string>
     <string name="dlg_go_to_forecast">Vai alle previsioni</string>
     <string name="dlg_set_as_home">Imposta come \"Città Base\"</string>
+    <string name="wind_n">N</string>
+    <string name="wind_ne">NE</string>
+    <string name="wind_nw">NO</string>
+    <string name="wind_s">S</string>
+    <string name="wind_se">SE</string>
+    <string name="wind_sw">SO</string>
+    <string name="wind_e">E</string>
+    <string name="wind_w">O</string>
+    <string name="settings_widgets_widget4x1_transparent_title">Sfondo transparente</string>
+    <string name="settings_widgets_widget4x1_transparent_sum">Sfondo default se deselezionato</string>
+    <string name="settings_widgets_widget4x1_white_icon_title">Icona del meteo Bianca</string>
+    <string name="settings_widgets_widget4x1_white_icon_sum">Icona del meteo Nera se deselezionato</string>
+    <string name="settings_widgets_widget4x1_data_title">Altri dati</string>
+    <string name="dialog_color_picker">Scegli colore</string>
+    <string name="press_color_to_apply">Premi sul colore per applicarlo</string>
+    <string name="text_color_title">Colore del Testo</string>
+    <string name="main_screen_text_color_summary">Colore del testo sulla pagina principale</string>
+    <string name="widget_text_color_summary">"Colore del testo sui widget"</string>
 </resources>

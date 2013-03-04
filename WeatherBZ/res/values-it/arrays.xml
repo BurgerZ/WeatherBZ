@@ -532,4 +532,13 @@
         <item>Visibilità</item>
         <item>Pross.Allarme</item>
     </string-array>
+    <string-array name="widget41_show_entries">
+        <item>Pannello Temperatura</item>
+        <item>Pannello Altri Dettagli</item>
+        <item>Pannello Orologio</item>
+    </string-array>
+    <string-array name="widget41_data_entries">
+        <item>"Previsioni dei prossimi 3 giorni"</item>
+        <item>"Previsioni della giornata"</item>
+    </string-array>
 </resources>
