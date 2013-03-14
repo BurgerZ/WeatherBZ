@@ -5,4 +5,4 @@
 * Fixed connectivity problems<p>
 * Added 5-day forecast<p>
 * Added MIUI v5 widget (4x2)<p>", 
-"target": "market://search?q=pname:pro.burgerz.weather"}
+"target": "http://github.com/"}
