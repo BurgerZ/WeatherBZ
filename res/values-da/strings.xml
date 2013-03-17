@@ -21,6 +21,7 @@
   <string name="about_version">Version</string>
   <string name="animation_preview">Eksempel på animationer</string>
   <string name="app_name">Vejr BZ</string>
+  <string name="changelog">Ændringslog</string>
   <string name="close">Luk</string>
   <string name="conf_add_widget">Tilføj Widget</string>
   <string name="conf_choose_skin">Vælg Skin</string>
@@ -32,6 +33,7 @@
   <string name="dlg_go_to_forecast">Gå til vejrudsigt</string>
   <string name="dlg_select_action">Vælg en handling</string>
   <string name="dlg_set_as_home">Indstil som \"Hjemby\"</string>
+  <string name="donate">Doner</string>
   <string name="download_video">Download video</string>
   <string name="end_time_title">Slutningen</string>
   <string name="fetching_location">Lokaliserer …</string>
@@ -119,9 +121,11 @@
   <string name="text_color_title">Tekstfarve</string>
   <string name="updating">Opdaterer…</string>
   <string name="weather_feel">Realfeel:</string>
+  <string name="weather_forecast_empty">--</string>
   <string name="weather_humidity">Fugtighed:</string>
   <string name="weather_no_city">Ingen by</string>
   <string name="weather_no_conditions_data">Ingen vejrdata</string>
+  <string name="weather_no_temp_data">-°</string>
   <string name="weather_pressure">Tryk:</string>
   <string name="weather_pressure_measure">mm Hg</string>
   <string name="weather_visibility">Sigtbarhed:</string>
@@ -129,6 +133,7 @@
   <string name="weather_wind">Vind:</string>
   <string name="weather_wind_measure">m/s</string>
   <string name="widget_name_large">Vejr BZ 4x2</string>
+  <string name="widget_name_large_v5">Vejr BZ 4x2</string>
   <string name="widget_name_medium">Vejr BZ 4x1</string>
   <string name="widget_name_medium_ext">Vejr BZ 4x1</string>
   <string name="widget_text_color_summary">Tekstfarve i widget</string>
@@ -136,12 +141,12 @@
   <string name="wind_n">N</string>
   <string name="wind_ne">NØ</string>
   <string name="wind_nne">NNØ</string>
-  <string name="wind_nw">NV</string>
   <string name="wind_nnw">NNV</string>
+  <string name="wind_nw">NV</string>
   <string name="wind_s">S</string>
   <string name="wind_se">SØ</string>
   <string name="wind_sse">SSØ</string>
-  <string name="wind_sw">SV</string>
   <string name="wind_ssw">SSV</string>
+  <string name="wind_sw">SV</string>
   <string name="wind_w">V</string>
 </resources>
