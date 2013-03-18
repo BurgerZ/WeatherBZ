@@ -60,9 +60,6 @@
     <string name="updating">Оновлення\u2026</string>
     <string name="just_now">Тільки що</string>
     <string name="fetching_location">Визначення розташування\u2026</string>
-    <string name="weather_wind_measure">&quot; м/с&quot;</string>
-    <string name="weather_pressure_measure">&quot; мм.рт.ст&quot;</string>
-    <string name="weather_visibility_measure">&quot; м&quot;</string>
     <string name="conf_add_widget">Додати віджет</string>
     <string name="conf_light_skin">Світлий скін</string>
     <string name="conf_dark_skin">Темний скін</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string-array name="update_interval_names">
+        <item>30 minutes</item> 
         <item >1 hour</item>
         <item >2 hours</item>
         <item >3 hours</item>
@@ -8,6 +9,7 @@
         <item >6 hours</item>
     </string-array>
     <string-array name="update_interval_values" translatable="false">
+        <item>30</item> 
         <item >60</item>
         <item >120</item>
         <item >180</item>
@@ -578,4 +580,30 @@
         <item >w41_3day_forecast</item>
         <item >w41_forecast_data</item>
     </string-array>   	
+    <string-array name="pressure_units_entries">
+        <item>@string/pressure_units_mb</item>
+        <item>@string/pressure_units_mmhg</item>
+    </string-array>
+    <string-array name="pressure_units_values" translatable="false">
+        <item>pressure_units_mb</item>
+        <item>pressure_units_mmhg</item>
+    </string-array>   
+    <string-array name="wind_speed_units_entries">
+        <item>@string/wind_speed_units_mps</item>
+        <item>@string/wind_speed_units_kmph</item>
+        <item>@string/wind_speed_units_mph</item>
+    </string-array>
+    <string-array name="wind_speed_units_values" translatable="false">
+        <item>wind_speed_units_mps</item>
+        <item>wind_speed_units_kmph</item>
+        <item>wind_speed_units_mph</item>
+    </string-array>  
+    <string-array name="visibility_units_entries">
+        <item>@string/visibility_units_m</item>
+        <item>@string/visibility_units_mi</item>
+    </string-array>
+    <string-array name="visibility_units_values" translatable="false">
+        <item>visibility_units_m</item>
+        <item>visibility_units_mi</item>
+    </string-array>            
 </resources>

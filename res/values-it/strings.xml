@@ -59,9 +59,6 @@
     <string name="updating">Aggiornamento…</string>
     <string name="just_now">Proprio ora</string>
     <string name="fetching_location">Localizzazione…</string>
-    <string name="weather_wind_measure">" m/s"</string>
-    <string name="weather_pressure_measure">" mm Hg"</string>
-    <string name="weather_visibility_measure">" m"</string>
     <string name="conf_add_widget">Aggiungi Widget</string>
     <string name="conf_light_skin">Skin Chiara</string>
     <string name="conf_dark_skin">Skin Scura</string>

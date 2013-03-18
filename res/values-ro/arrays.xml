@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="update_interval_names">
+        <item>30 minute</item>
         <item>1 oră</item>
         <item>2 ore</item>
         <item>3 ore</item>

@@ -36,7 +36,6 @@
     <string name="location_edit">Gépelje be a város nevét</string>
     <string name="weather_no_city">Nincs ilyen város</string>
     <string name="weather_no_conditions_data">Nincsenek időjárás adatok</string>
-    <string name="weather_no_temp_data">--°C</string>
     <string name="weather_humidity">"Páratartalom: "</string>
     <string name="weather_wind">"Szél: "</string>
     <string name="weather_feel">"Hőérzet: "</string>
