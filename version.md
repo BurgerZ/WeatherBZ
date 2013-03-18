@@ -1,6 +1,7 @@
-﻿{"versionCode": "40301", 
-"versionName": "4.3.4", 
-"features": "<center><strong>*** v4.3.4 (16 Mar 2013) ***</strong></center><p>
-* Fixed FCs with MIUI v5 styled widget (FC when temperature is -9 or 9)<p>
-* Fixed MIUI widgets and lockscreen update (showed up wrong weather images)<p>", 
+﻿{"versionCode": "40306", 
+"versionName": "4.3.6", 
+"features": "<center><strong>*** v4.3.6 (18 Mar 2013) ***</strong></center><p>
+<strong>Please, install 4.3.6 (if you have installed 4.3.5)</strong><p>
+* Fixed MIUI v4 widgets update (I hope it is)<p>
+* Now you can choose PRESSURE, WIND SPEED and VISIBILITY measure units<p>", 
 "target": ""}
