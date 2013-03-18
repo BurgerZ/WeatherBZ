@@ -159,5 +159,8 @@
     <string name="wind_speed_units_mph">" миль/ч"</string> 
     <string name="visibility_units">Единицы видимости</string>
     <string name="visibility_units_m">" м"</string>
-    <string name="visibility_units_mi">" миль"</string>  	          
+    <string name="visibility_units_mi">" миль"</string>  
+    <string name="temperature_units">Единицы температуры</string>
+    <string name="temperature_units_c">Цельсий</string>
+    <string name="temperature_units_f">Фаренгейт</string>	          
 </resources>

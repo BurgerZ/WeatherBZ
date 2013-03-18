@@ -160,5 +160,8 @@
     <string name="wind_speed_units_mph">" mph"</string>
     <string name="visibility_units">Visibility units</string>
     <string name="visibility_units_m">" m"</string>
-    <string name="visibility_units_mi">" miles"</string>    
+    <string name="visibility_units_mi">" miles"</string>
+    <string name="temperature_units">Temperature units</string>
+    <string name="temperature_units_c">Celsius</string>
+    <string name="temperature_units_f">Fahrenheit</string>       
 </resources>
