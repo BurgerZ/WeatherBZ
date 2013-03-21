@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="update_interval_names">
+        <item>30 minutter</item>
         <item>1 time</item>
         <item>2 timer</item>
         <item>3 timer</item>
@@ -535,7 +536,7 @@
         <item>Tids panel</item>
     </string-array>
     <string-array name="widget41_data_entries">
-        <item>"3-dags vejrudsigt"</item>
-        <item>"Idags vejrudsigt"</item>
+        <item>3-dags vejrudsigt</item>
+        <item>Idags vejrudsigt</item>
     </string-array>
 </resources>
