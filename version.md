@@ -5,5 +5,5 @@
 * Fixed some UI freezes (improvements in stability and UI smoothness)<p>
 * Added MIUI widgets update when updating measure units<p>
 * Updated Hungarian translation<p>
-<center><strong>HOTFIX v4.3.8: Fixed settings menu access!</strong></center><p>", 
+<center><strong>HOTFIX v4.3.8: Fixed settings menu access! My fault, sorry!</strong></center><p>", 
 "target": ""}
