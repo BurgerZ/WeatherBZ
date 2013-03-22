@@ -46,6 +46,7 @@
     <string name="weather_pressure">"Pressure: "</string>
     <string name="weather_visibility">"Visibility: "</string>
     <string name="weather_forecast_empty">--</string>
+    <string name="weather_cond_overcast">Overcast</string>
     <string name="settings_category_update">Update settings</string>
     <string name="settings_category_update_sum">Settings for autoupdate and autoupdate time</string>
     <string name="settings_category_animation">Animation settings</string>
@@ -140,6 +141,7 @@
     <string name="wind_w">W</string>
     <string name="wind_wnw">W-NW</string>
     <string name="wind_wsw">W-SW</string>  
+    <string name="wind_variable">Variable</string>  
     <string name="settings_widgets_widget4x1_transparent_title">Transparent background</string> 
     <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default backround</string> 
     <string name="settings_widgets_widget4x1_white_icon_title">White weather icon</string> 
