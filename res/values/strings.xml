@@ -55,7 +55,7 @@
     <string name="settings_update_autoupdate_title">Auto update</string>
     <string name="settings_update_autoupdate_summary">Auto update weather forecast</string>
     <string name="settings_animation_show_title">Show animation</string>
-    <string name="settings_animation_show_summary">Show video animation for current weather contiotion</string>
+    <string name="settings_animation_show_summary">Show weather animation for current conditions</string>
     <string name="settings_animation_download_title">Download animations</string>
     <string name="settings_animation_download_summary">Download video files of animations for current weather condition (if video file not found in local storage)</string>
     <string name="settings_about_title">About</string>
@@ -82,7 +82,7 @@
     <string name="settings_update_roaming_title">Update in roaming</string>
     <string name="settings_update_roaming_summary">Automatycally update weather forecast even when roaming. Note that you can have an extra charges to your phone bill</string>
     <string name="settings_category_appearance">Appearance</string>
-    <string name="settings_category_appearance_sum">Appearance settings (show/hide data etc.)</string>
+    <string name="settings_category_appearance_sum">Appearance settings (measure units, text color etc.)</string>
     <string name="settings_show_temp_symbol_title">Show temperatute symbol</string>
     <string name="settings_show_temp_symbol_summary">Show or hide temperature symbol (letter C for Celsius)</string>
     <string name="settings_show_weather_icons_title">Show weather icons</string>

@@ -45,6 +45,7 @@
     <string name="weather_feel">"Ощущения: "</string>
     <string name="weather_pressure">"Давление: "</string>
     <string name="weather_visibility">"Видимость: "</string>
+    <string name="weather_cond_overcast">Пасмурно</string>
     <string name="settings_category_update">Настройки обновления</string>
     <string name="settings_category_update_sum">Настройки автообновления и времени обновления прогноза</string>
     <string name="settings_category_animation">Настройки анимации</string>
@@ -80,7 +81,7 @@
     <string name="settings_update_roaming_title">Обновлять в роуминге</string>
     <string name="settings_update_roaming_summary">Автоматически обновлять прогноз погоды в роуминге. Это может увеличить ваши расходы по оплате счетов сотовой связи</string>
     <string name="settings_category_appearance">Внешний вид</string>
-    <string name="settings_category_appearance_sum">Настройки отображения/скрытия элементов интерфейса и т.д.</string>
+    <string name="settings_category_appearance_sum">Настройки единиц измерения, цвета текста и т.д.</string>
     <string name="settings_show_temp_symbol_title">Символ температуры</string>
     <string name="settings_show_temp_symbol_summary">Показывать символ температуры (буква C для градусов Цельсия)</string>
     <string name="settings_show_weather_icons_title">Иконки погоды</string>
