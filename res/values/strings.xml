@@ -83,6 +83,16 @@
     <string name="settings_update_roaming_summary">Automatycally update weather forecast even when roaming. Note that you can have an extra charges to your phone bill</string>
     <string name="settings_category_appearance">Appearance</string>
     <string name="settings_category_appearance_sum">Appearance settings (measure units, text color etc.)</string>
+    <string name="settings_category_miui">MIUI ROMs</string>
+    <string name="settings_category_miui_sum">MIUI support settings (turn on/off, clear data etc.)</string>
+    <string name="settings_miui_support_summary">Turn on to support MIUI native widgets</string>
+    <string name="settings_miui_support_title">MIUI widgets support</string>
+	<string name="settings_miui_v5_summary">Turn on if you have MIUI v5 ROM</string>
+    <string name="settings_miui_v5_title">MIUI v5 ROM</string>    
+    <string name="clear_miui_data">Clear MIUI weather data</string>
+    <string name="clear_miui_data_summary">Clears MIUI Weather Provider database</string>
+    <string name="clear_miui_data_dialog">Clear MIUI Weather</string>
+    <string name="clear_miui_data_dialog_text">MIUI Weather Provider database cleared!</string>
     <string name="settings_show_temp_symbol_title">Show temperatute symbol</string>
     <string name="settings_show_temp_symbol_summary">Show or hide temperature symbol (letter C for Celsius)</string>
     <string name="settings_show_weather_icons_title">Show weather icons</string>
