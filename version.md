@@ -1,8 +1,7 @@
-﻿{"versionCode": "40310", 
-"versionName": "4.3.10", 
-"features": "<center><strong>*** v4.3.10 (22 Mar 2013) ***</strong></center><p>
-* Added ability to swatch off animations<p>
-* Fixed FC with no wind direction data<p>
-* Updated Danish translation and fixed forecast translation into DK<p>
-* Fixed forecast update in Android 2.3 ROMs<p>", 
+﻿{"versionCode": "40400", 
+"versionName": "4.4.0", 
+"features": "<center><strong>*** v4.4.0 (22 Mar 2013) ***</strong></center><p>
+* Added MIUI ROMs support settings<p>
+* Fixed some issues with weather display<p>
+* Now we are ready to add geolocation<p>",
 "target": ""}
