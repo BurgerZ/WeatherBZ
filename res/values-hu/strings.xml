@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Időjárás</string>
-    <string name="changelog">Changelog</string>
+    <string name="changelog">Változások</string>
     <string name="close">Bezárás</string>
     <string name="donate">Adományozás</string>
     <string name="settings_check_updates_title">Frissítések ellenőrzése</string>
@@ -14,7 +14,6 @@
     <string name="about_version">Verzió</string>
     <string name="about_author">Szerző</string>
     <string name="about_provider">Időjárás szolgáltató</string>
-
     <string name="about_copyright">Copyright</string>
     <string name="about_sunny">Napos</string>
     <string name="about_sunny_night">Tiszta</string>
@@ -44,6 +43,7 @@
     <string name="weather_feel">"Hőérzet: "</string>
     <string name="weather_pressure">"Légnyomás: "</string>
     <string name="weather_visibility">"Látótávolság: "</string>
+    <string name="weather_cond_overcast">Borult</string>
     <string name="settings_category_update">Frissítési beállítások</string>
     <string name="settings_category_update_sum">Automatikus frissítés beállításai</string>
     <string name="settings_category_animation">Animáció beállítások</string>
@@ -80,6 +80,16 @@
     <string name="settings_update_roaming_summary">Időjárás frissítés adatbarangolás alatt.A szolgáltató költséget számolhat fel</string>
     <string name="settings_category_appearance">Megjelenítés</string>
     <string name="settings_category_appearance_sum">Megjelenítési beállítás (adat kijelzés/elrejtés stb.)</string>
+    <string name="settings_category_miui">MIUI ROM-ok</string>
+    <string name="settings_category_miui_sum">MIUI támogatás (be-kikapcsolás,adatok törlése stb.)</string>
+    <string name="settings_miui_support_summary">A MIUI natív widgetekhez kapcsolja be</string>
+    <string name="settings_miui_support_title">MIUI widgetek</string>
+    <string name="settings_miui_v5_summary">MIUI v5 ROM-hoz kapcsolja be</string>
+    <string name="settings_miui_v5_title">MIUI v5 ROM</string>    
+    <string name="clear_miui_data">Clear MIUI időjárásadatok törlése</string>
+    <string name="clear_miui_data_summary">MIUI időjárás szolgáltató adatbázisának törlése</string>
+    <string name="clear_miui_data_dialog">MIUI Időjárás törlése</string>
+    <string name="clear_miui_data_dialog_text">MIUI időjárás szolgáltató adatbázisa törölve!</string>
     <string name="settings_show_temp_symbol_title">Hőmérséklet egység</string>
     <string name="settings_show_temp_symbol_summary">Hőmérséklet egységet mutat/elrejt ( C a Celsius)</string>
     <string name="settings_show_weather_icons_title">Időjárás ikon</string>
@@ -113,10 +123,10 @@
     <string name="settings_show_info_title">Információ kijelzés</string>
     <string name="settings_show_info_summary">Felület elemeinek kijelzése/elrejtése</string>
     <string name="settings_notification_type">Értesítés típusa</string>
-    <string name="quiet_hours_title">Csendes órák</string>
-    <string name="quiet_hours_enabled">Csendes órák engedélyezése</string>
-    <string name="quiet_hours_enabled_on">Csendes órák engedélyezve</string>
-    <string name="quiet_hours_enabled_off">Normál műveletként frissülnek</string>
+    <string name="quiet_hours_title">Akkukímélési mód</string>
+    <string name="quiet_hours_enabled">Akkukímélés engedélyezése</string>
+    <string name="quiet_hours_enabled_on">Akkukímélési mód engedélyezve</string>
+    <string name="quiet_hours_enabled_off">Ne frissítsen a megadott időszak alatt</string>
     <string name="start_time_title">Kezdete</string>
     <string name="end_time_title">Vége</string>
     <string name="dlg_select_action">Válasszon műveletet</string>
