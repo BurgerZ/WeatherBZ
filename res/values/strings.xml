@@ -34,6 +34,9 @@
     <string name="animation_preview">Preview animations</string>
     <string name="menu_update">Update</string>
     <string name="menu_settings">Settings</string>
+    <string name="menu_locations">Locations</string>
+    <string name="btn_add_location">Add Location</string>
+    <string name="btn_delete_location">Delete Location</string>
     <string name="location_list">Locations</string>
     <string name="location_search">Location search</string>
     <string name="location_edit">Enter city name</string>
@@ -42,7 +45,7 @@
     <string name="weather_no_temp_data">-°</string>
     <string name="weather_humidity">"Humidity: "</string>
     <string name="weather_wind">"Wind: "</string>
-    <string name="weather_feel">"Feel: "</string>
+    <string name="weather_feel">"RealFeel: "</string>
     <string name="weather_pressure">"Pressure: "</string>
     <string name="weather_visibility">"Visibility: "</string>
     <string name="weather_forecast_empty">--</string>
@@ -126,6 +129,7 @@
     <string name="settings_show_info_title">Show info</string>
     <string name="settings_show_info_summary">Show or hide interface elements</string>
     <string name="settings_notification_type">Notification type</string>
+    <string name="settings_animation_type">Animation type</string>
     <string name="quiet_hours_title">Quiet hours</string>
     <string name="quiet_hours_enabled">Enable Quiet hours</string>
     <string name="quiet_hours_enabled_on">Quiet hours enabled</string>

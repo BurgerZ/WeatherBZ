@@ -35,6 +35,9 @@
     <string name="animation_preview">Предпросмотр анимации</string>
     <string name="menu_update">Обновить</string>
     <string name="menu_settings">Настройки</string>
+    <string name="menu_locations">Города</string>
+    <string name="btn_add_location">Добавить город</string>
+    <string name="btn_delete_location">Удалить город</string>
     <string name="location_list">Список городов</string>
     <string name="location_search">Поиск города</string>
     <string name="location_edit">Введите название города</string>
@@ -125,6 +128,7 @@
     <string name="settings_show_info_title">Отображение данных</string>
     <string name="settings_show_info_summary">Показывать или скрыть элементы интерфейса</string>
     <string name="settings_notification_type">Тип уведомления</string>
+    <string name="settings_animation_type">Тип анимации</string>
     <string name="quiet_hours_title">Тихие часы</string>
     <string name="quiet_hours_enabled">Включить тихие часы</string>
     <string name="quiet_hours_enabled_on">Тихие часы включены</string>
