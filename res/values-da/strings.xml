@@ -21,7 +21,13 @@
   <string name="about_version">Version</string>
   <string name="animation_preview">Eksempel på animationer</string>
   <string name="app_name">Vejr BZ</string>
+  <string name="btn_add_location">Tilføj Placering</string>
+  <string name="btn_delete_location">Slet Placering</string>
   <string name="changelog">Ændringslog</string>
+  <string name="clear_miui_data">Ryd MIUI vejr data</string>
+  <string name="clear_miui_data_dialog">Ryd MIUI vejr</string>
+  <string name="clear_miui_data_dialog_text">MIUI Vejrudbyder database ryddet!</string>
+  <string name="clear_miui_data_summary">Rydder MIUI Vejrudbyder database</string>
   <string name="close">Luk</string>
   <string name="conf_add_widget">Tilføj Widget</string>
   <string name="conf_choose_skin">Vælg Skin</string>
@@ -42,6 +48,7 @@
   <string name="location_list">Steder</string>
   <string name="location_search">Søg efter placering</string>
   <string name="main_screen_text_color_summary">Tekstfarven på vejr info</string>
+  <string name="menu_locations">Steder</string>
   <string name="menu_settings">Indstillinger</string>
   <string name="menu_update">opdatering</string>
   <string name="network_error">Kunne ikke forbinde til serveren</string>
@@ -60,12 +67,15 @@
   <string name="settings_animation_download_title">Download animationer</string>
   <string name="settings_animation_show_summary">Vis video animation for aktuel vejr situation</string>
   <string name="settings_animation_show_title">Vis animation</string>
+  <string name="settings_animation_type">Animation type</string>
   <string name="settings_category_animation">Animation indstillinger</string>
   <string name="settings_category_animation_sum">indstillinger for vejr animation visning og download politik</string>
   <string name="settings_category_app_update">Opdater app</string>
   <string name="settings_category_appearance">Udseende</string>
   <string name="settings_category_appearance_sum">Indstillinger for udseende (vis/skjul data etc.)</string>
   <string name="settings_category_forecast_update">Vejr opdatering</string>
+  <string name="settings_category_miui">MIUI ROM</string>
+  <string name="settings_category_miui_sum">MIUI indstillinger (slå til/fra, ryd data, etc.)</string>
   <string name="settings_category_network">Netværksindstillinger</string>
   <string name="settings_category_notification">Notifikationsindstillinger</string>
   <string name="settings_category_notification_sum">Vejr notifikationsindstillinger</string>
@@ -75,6 +85,10 @@
   <string name="settings_category_widgets_sum">Widgets udseende og tryk handlinger</string>
   <string name="settings_check_updates_summary">Kontroller for opdateringer ved app start</string>
   <string name="settings_check_updates_title">Kontroller for opdateringer</string>
+  <string name="settings_miui_support_summary">Slå til for understøttelse af MIUI widgets</string>
+  <string name="settings_miui_support_title">MIUI widgets understøttelse</string>
+  <string name="settings_miui_v5_summary">Slå til hvis du bruger MIUI v5 ROM</string>
+  <string name="settings_miui_v5_title">MIUI v5 ROM</string>
   <string name="settings_notification_color_title">Statuslinie symbol farve</string>
   <string name="settings_notification_summary">Vis vejr info i notifikations området</string>
   <string name="settings_notification_text_color_summary">Notifikation ikon- og tekstfarve</string>
@@ -129,6 +143,7 @@
   <string name="visibility_units">Sigtbarhed enhed</string>
   <string name="visibility_units_m">" m"</string>
   <string name="visibility_units_mi">" mil"</string>
+  <string name="weather_cond_overcast">Overskyet</string>
   <string name="weather_feel">Realfeel:</string>
   <string name="weather_forecast_empty">--</string>
   <string name="weather_humidity">Fugtighed:</string>
@@ -160,6 +175,7 @@
   <string name="wind_sse">S-SØ</string>
   <string name="wind_ssw">S-SV</string>
   <string name="wind_sw">SV</string>
+  <string name="wind_variable">Varierende</string>
   <string name="wind_w">V</string>
   <string name="wind_wnw">V-NV</string>
   <string name="wind_wsw">V-SV</string>
