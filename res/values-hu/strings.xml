@@ -34,6 +34,9 @@
     <string name="menu_update">Frissítés</string>
     <string name="menu_settings">Beállítások</string>
     <string name="location_list">Helyszín</string>
+    <string name="btn_add_location">Új helyszín</string>
+    <string name="btn_delete_location">Helyszín törlése</string>
+    <string name="location_list">Helyszínek</string>
     <string name="location_search">Helyszín keresés</string>
     <string name="location_edit">Gépelje be a város nevét</string>
     <string name="weather_no_city">Nincs ilyen város</string>
@@ -123,6 +126,7 @@
     <string name="settings_show_info_title">Információ kijelzés</string>
     <string name="settings_show_info_summary">Felület elemeinek kijelzése/elrejtése</string>
     <string name="settings_notification_type">Értesítés típusa</string>
+    <string name="settings_animation_type">Animáció típusa</string>
     <string name="quiet_hours_title">Akkukímélési mód</string>
     <string name="quiet_hours_enabled">Akkukímélés engedélyezése</string>
     <string name="quiet_hours_enabled_on">Akkukímélési mód engedélyezve</string>
