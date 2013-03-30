@@ -11,15 +11,10 @@ Podporte nás malým príspevkom!"</string>
     <string name="donations__google_android_market_description">Google si vezme 30 % z každého príspevku!</string>
     <string name="donations__google_android_market_donate_button">Prispieť!</string>
     <string name="donations__google_android_market_text">Koľko?</string>
-    <string name="donations__paypal">PayPal</string>
     <string name="donations__paypal_description">Môžete si zvoliť výšku príspevku!</string>
     <string name="donations__thanks_dialog_title">Ďakujeme!</string>
     <string name="donations__thanks_dialog">"Ďakujeme za príspevok!
 Sme Vám naozaj vďační!"</string>
-    <string name="ga_trackingId">UA-38673998-1</string>
-    <string name="donations__paypal_user">az.burgerz@gmail.com</string>
-    <string name="donations__paypal_currency_code">USD</string>
-    <string name="donations__paypal_item_name">InApp Donation</string>
     <string name="app_name">Počasie</string>
     <string name="changelog">Zoznam zmien</string>
     <string name="close">Zatvoriť</string>
@@ -54,6 +49,9 @@ Sme Vám naozaj vďační!"</string>
     <string name="animation_preview">Náhľad animácií</string>
     <string name="menu_update">Aktualizovať</string>
     <string name="menu_settings">Nastavenia</string>
+    <string name="menu_locations">Mestá</string>
+    <string name="btn_add_location">Pridať Mesto</string>
+    <string name="btn_delete_location">Vymazať Mesto</string>
     <string name="location_list">Mestá</string>
     <string name="location_search">Vyhľadať mesto</string>
     <string name="location_edit">Vložte názov mesta</string>
@@ -62,7 +60,7 @@ Sme Vám naozaj vďační!"</string>
     <string name="weather_no_temp_data">-°</string>
     <string name="weather_humidity">"Vlhkosť: "</string>
     <string name="weather_wind">"Vietor: "</string>
-    <string name="weather_feel">"Pocit: "</string>
+    <string name="weather_feel">"Pocitovo: "</string>
     <string name="weather_pressure">"Tlak: "</string>
     <string name="weather_visibility">"Viditeľnosť: "</string>
     <string name="weather_forecast_empty">--</string>
@@ -137,7 +135,7 @@ Zvoľte svoje mesto manuálne"</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Predvolená hodnota 22sp</string>
     <string name="settings_widgets_widget4x2_temp_font_title">Teplota</string>
     <string name="settings_widgets_widget4x2_temp_font_summary">Predvolená hodnota 40sp</string>
-    <string name="settings_widgets_widget4x2_feel_font_title">Pocity</string>
+    <string name="settings_widgets_widget4x2_feel_font_title">Pocitovo</string>
     <string name="settings_widgets_widget4x2_feel_font_summary">Predvolená hodnota 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Vietor</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">Predvolená hodnota 14sp</string>
@@ -147,6 +145,7 @@ Zvoľte svoje mesto manuálne"</string>
     <string name="settings_show_info_title">Ukázať info</string>
     <string name="settings_show_info_summary">Ukázať alebo skryť informácie</string>
     <string name="settings_notification_type">Typ notifikácií</string>
+    <string name="settings_animation_type">Typ animácií</string>
     <string name="quiet_hours_title">Čas ticha</string>
     <string name="quiet_hours_enabled">Povoliť čas ticha</string>
     <string name="quiet_hours_enabled_on">Čas ticha povolený</string>
@@ -184,8 +183,8 @@ Zvoľte svoje mesto manuálne"</string>
     <string name="main_screen_text_color_summary">Farba textu na hlavnej obrazovke</string>
     <string name="widget_text_color_summary">"Farba textu widgetu"</string>
     <string name="pressure_units">Jednotka tlaku</string>
-    <string name="pressure_units_mb">" mb"</string>
-    <string name="pressure_units_mmhg">" mm Hg"</string>
+    <string name="pressure_units_mb">" hPa"</string>
+    <string name="pressure_units_mmhg">" mm.Hg"</string>
     <string name="wind_speed_units">Jednotka rýchlosti vetra</string>
     <string name="wind_speed_units_mps">" m/s"</string>
     <string name="wind_speed_units_kmph">" km/h"</string>

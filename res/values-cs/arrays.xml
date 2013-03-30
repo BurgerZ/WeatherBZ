@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="donations__google_android_market_promt_array">
+        <item>1 Euro</item>
+        <item>2 Eura</item>
+        <item>3 Eura</item>
+        <item>5 Eur</item>
+        <item>8 Eur</item>
+        <item>13 Eur</item>
+    </string-array>
+    <string-array name="update_interval_names">
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>3 hodiny</item>
+        <item>4 hodiny</item>
+        <item>6 hodin</item>
+    </string-array>
+    <string-array name="notif_temp_color_entries">
+        <item>Tmavé</item>
+        <item>Světlé</item>
+    </string-array>
+    <string-array name="notif_type_entries">
+        <item>Symbol teploty</item>
+        <item>Ikona počasí</item>
+    </string-array>
+    <string-array name="widget42_show_entries">
+        <item>Hodiny</item>
+        <item>Datum</item>
+        <item>Město</item>
+        <item>Poznámka o počasí</item>
+        <item>Pocity</item>
+        <item>Vítr</item>
+    </string-array>
+    <string-array name="main_show_entries">
+        <item>Pocity</item>
+        <item>Vítr</item>
+        <item>Vlhkost</item>
+        <item>Tlak</item>
+        <item>Viditelnost</item>
+        <item>Další upozornění</item>
+    </string-array>
+    <string-array name="widget41_show_entries">
+        <item>Panel teploty</item>
+        <item>Rozšířený panel údajů</item>
+        <item>Panel času</item>
+    </string-array>
+    <string-array name="widget41_data_entries">
+        <item>"3-denní předpověď"</item>
+        <item>"Dnešní předpověď"</item>
+    </string-array>
+</resources>
