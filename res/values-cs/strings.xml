@@ -11,15 +11,10 @@ Podpořte nás malým příspěvkem!"</string>
     <string name="donations__google_android_market_description">Google si vezme 30 % z každého příspěvku!</string>
     <string name="donations__google_android_market_donate_button">Přispět!</string>
     <string name="donations__google_android_market_text">Kolik?</string>
-    <string name="donations__paypal">PayPal</string>
     <string name="donations__paypal_description">Můžete si zvolit výšku příspěvku!</string>
     <string name="donations__thanks_dialog_title">Děkujeme!</string>
     <string name="donations__thanks_dialog">"Děkujeme za příspěvek!
 Jsme Vám opravdu vděční!"</string>
-    <string name="ga_trackingId">UA-38673998-1</string>
-    <string name="donations__paypal_user">az.burgerz@gmail.com</string>
-    <string name="donations__paypal_currency_code">USD</string>
-    <string name="donations__paypal_item_name">InApp Donation</string>
     <string name="app_name">Počasí</string>
     <string name="changelog">Seznam změn</string>
     <string name="close">Zavřít</string>
