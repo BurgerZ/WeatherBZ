@@ -50,12 +50,12 @@ Jsme Vám opravdu vděční!"</string>
     <string name="menu_update">Aktualizovat</string>
     <string name="menu_settings">Nastavení</string>
     <string name="menu_locations">Města</string>
-    <string name="btn_add_location">Přidat Město</string>
-    <string name="btn_delete_location">Vymazat Město</string>
+    <string name="btn_add_location">Přidat</string>
+    <string name="btn_delete_location">Vymazat</string>
     <string name="location_list">Města</string>
-    <string name="location_search">Vyhledat město</string>
-    <string name="location_edit">Vložte název města</string>
-    <string name="weather_no_city">Žádné město</string>
+    <string name="location_search">Vyhledat Město</string>
+    <string name="location_edit">Vložte název Města</string>
+    <string name="weather_no_city">Žádné Město</string>
     <string name="weather_no_conditions_data">Žádné údaje o počasí</string>
     <string name="weather_no_temp_data">-°</string>
     <string name="weather_humidity">"Vlhkost: "</string>
