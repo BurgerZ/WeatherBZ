@@ -11,7 +11,6 @@ Doceń autora pozytywnym komentarzem lub przekazując mu darowiznę!"</string>
     <string name="donations__google_android_market_description">Google pobiera 30% kwoty z każdej darowizny!</string>
     <string name="donations__google_android_market_donate_button">Przekaż!</string>
     <string name="donations__google_android_market_text">Kwota do przekazania?</string>
-    <string name="donations__paypal">PayPal</string>
     <string name="donations__paypal_description">Wybór kwoty do przekazania nastąpi po kliknięciu przycisku \"Przekaż\"!</string>
     <string name="donations__thanks_dialog_title">Dzięki!</string>
     <string name="donations__thanks_dialog">"Dziekuję za darowiznę!
