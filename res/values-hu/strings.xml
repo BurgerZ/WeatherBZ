@@ -33,9 +33,12 @@
     <string name="animation_preview">Animációk előnézete</string>
     <string name="menu_update">Frissítés</string>
     <string name="menu_settings">Beállítások</string>
-    <string name="location_list">Helyszín</string>
+    <string name="menu_locations">Helyszínek</string>
+    <string name="menu_hourly">Óránként</string>
+    <string name="menu_trend">Trend</string>
     <string name="btn_add_location">Új helyszín</string>
     <string name="btn_delete_location">Helyszín törlése</string>
+    <string name="location_gps">Jelenlegi helyszín</string>
     <string name="location_list">Helyszínek</string>
     <string name="location_search">Helyszín keresés</string>
     <string name="location_edit">Gépelje be a város nevét</string>
@@ -99,7 +102,7 @@
     <string name="settings_show_weather_icons_summary">Időjárás ikonok (a szöveges leírás helyett) a 3 napos előrejelzésnél</string>
     <string name="settings_notification_text_color_summary">Az értesítő szöveg és ikonok színe</string>
     <string name="settings_notification_color_title">Értesítősáv színe</string>
-    <string name="settings_category_widgets">Widget  beállítások</string>
+    <string name="settings_category_widgets">Widget beállítások</string>
     <string name="settings_category_widgets_sum">Widgets megjelenés és érintési műveletek</string>
     <string name="settings_widgets_click_clock_title">Óra érintésekor</string>
     <string name="settings_widgets_click_clock_summary">Alkalmazás beállítások indítása</string>
