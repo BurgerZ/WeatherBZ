@@ -296,6 +296,11 @@
     </string-array>
     <string-array name="widget41_data_entries">
         <item>"Prognoza 3-dniowa"</item>
-        <item>"Dzisiejsza prognoza"</item>
+        <item>"Prognoza na dziś"</item>
+    </string-array>
+    <string-array name="animation_type_entries">
+        <item>Domyślnie</item>
+        <item>MITU</item>
+        <item>Wideo MIUI</item>
     </string-array>
 </resources>
