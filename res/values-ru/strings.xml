@@ -37,6 +37,7 @@
     <string name="menu_settings">Настройки</string>
     <string name="menu_locations">Города</string>
     <string name="menu_hourly">Почасовой</string>
+    <string name="menu_trend">График</string>
     <string name="btn_add_location">Добавить город</string>
     <string name="btn_delete_location">Удалить город</string>
     <string name="location_list">Список городов</string>
