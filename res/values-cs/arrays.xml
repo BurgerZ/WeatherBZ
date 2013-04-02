@@ -49,4 +49,9 @@
         <item>"3-denní předpověď"</item>
         <item>"Dnešní předpověď"</item>
     </string-array>
+    <string-array name="animation_type_entries">
+        <item >Předvolená</item>
+        <item >MITU</item>
+        <item >MIUI video</item>
+    </string-array>
 </resources>
