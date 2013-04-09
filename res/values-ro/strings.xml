@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="close">Închideţi</string>
+    <string name="changelog">Jurnal schimbări</string>
+	    <string name="donate">Donaţi</string>
     <string name="settings_check_updates_title">Verificaţi pt. actualizări</string>
     <string name="settings_check_updates_summary">Verificaţi pentru actualizări la pornirea aplicaţiei</string>
     <string name="settings_category_app_update">Actualizare aplicaţie</string>
@@ -120,7 +122,17 @@ Selectaţi locaţia manual"</string>
     <string name="dlg_set_as_home">Setaţi ca \"Oraş Acasă\"</string>
     <string name="settings_widgets_widget4x1_transparent_title">Fundal transparent</string> 
     <string name="settings_widgets_widget4x1_transparent_sum">Debifat pentru fundal implicit</string> 
-    <string name="settings_widgets_widget4x1_white_icon_title">Culoare albă a pictogramă</string> 
+    <string name="settings_widgets_widget4x1_white_icon_title">Culoare albă a pictogramei</string> 
     <string name="settings_widgets_widget4x1_white_icon_sum">Debifat pentru pictogramă vreme de culoare neagră</string>
-    <string name="settings_widgets_widget4x1_data_title">Date extinse</string>  
+    <string name="settings_widgets_widget4x1_data_title">Date extinse</string>
+    <string name="dialog_color_picker">Selector culoare</string> 
+    <string name="press_color_to_apply">Apăsaţi pe culoare pentru a aplica</string> 
+    <string name="text_color_title">Culoare text</string> 
+    <string name="main_screen_text_color_summary">Culoarea textului datelor de pe ecranul principal</string> 
+    <string name="widget_text_color_summary">"Culoare textului obiectelor widget"</string> 
+    <string name="pressure_units">Unităţi presiune</string> 
+    <string name="wind_speed_units">Unităţi viteză vânt</string>   
+    <string name="visibility_units">Unităţi vizibilitate</string>
+    <string name="visibility_units_mi">" mile"</string>
+    <string name="temperature_units">Unităţi temperatură</string>
 </resources>
