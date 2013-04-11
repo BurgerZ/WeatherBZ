@@ -50,11 +50,11 @@ Lo apprezzo molto!"</string>
     <string name="animation_preview">Anteprima</string>
     <string name="menu_update">Aggiorna</string>
     <string name="menu_settings">Impostazioni</string>
-    <string name="menu_locations">Localita'</string>
+    <string name="menu_locations">"Localita'"</string>
     <string name="menu_hourly">Ogni Ora</string>
     <string name="menu_trend">Andamento</string>
-    <string name="btn_add_location">Aggiungi Localita'</string>
-    <string name="btn_delete_location">Cancella Localita'</string>
+    <string name="btn_add_location">"Aggiungi Localita'"</string>
+    <string name="btn_delete_location">"Cancella Localita'"</string>
     <string name="location_gps">Posizione attuale</string>
     <string name="location_list">Località</string>
     <string name="location_search">Cerca località</string>
@@ -184,17 +184,17 @@ Lo apprezzo molto!"</string>
     <string name="text_color_title">Colore del Testo</string>
     <string name="main_screen_text_color_summary">Colore del testo sulla pagina principale</string>
     <string name="widget_text_color_summary">Colore del testo sui widget</string>
-    <string name="pressure_units">Unita' Pressione</string>
-    <string name="pressure_units_mb">" mbar"</string>
+    <string name="pressure_units">"Unita' Pression"e</string>
+    <string name="pressure_units_mb">" hPa"</string>
     <string name="pressure_units_mmhg">" mmHg"</string>
-    <string name="wind_speed_units">Unita' Velocita' Vento</string>
+    <string name="wind_speed_units">"Unita' Velocita' Vento"</string>
     <string name="wind_speed_units_mps">" m/s"</string>
     <string name="wind_speed_units_kmph">" km/h"</string>
     <string name="wind_speed_units_mph">" mph"</string>
-    <string name="visibility_units">Unita' Visibilita'</string>
+    <string name="visibility_units">"Unita' Visibilita'"</string>
     <string name="visibility_units_m">" m"</string>
     <string name="visibility_units_mi">" miglia"</string>
-    <string name="temperature_units">Unita' Temperatura</string>
+    <string name="temperature_units">"Unita' Temperatura"</string>
     <string name="temperature_units_c">Celsius</string>
     <string name="temperature_units_f">Fahrenheit</string>
 </resources>
