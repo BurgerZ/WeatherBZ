@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="donations__google_android_market_promt_array">
+        <item>1 Euro</item>
+        <item>2 Euro</item>
+        <item>3 Euro</item>
+        <item>5 Euro</item>
+        <item>8 Euro</item>
+        <item>13 Euro</item>
+    </string-array>
     <string-array name="update_interval_names">
-        <item>30 minuti</item> 
+        <item>30 minuti</item>
         <item>1 ora</item>
         <item>2 ore</item>
         <item>3 ore</item>
@@ -536,7 +544,11 @@
         <item>Pannello Orologio</item>
     </string-array>
     <string-array name="widget41_data_entries">
-        <item>"Previsioni dei prossimi 3 giorni"</item>
-        <item>"Previsioni della giornata"</item>
+        <item>Previsioni dei prossimi 3 giorni</item>
+        <item>Previsioni della giornata</item>
     </string-array>
+    <string-array name="animation_type_entries">
+        <item>Default</item>
+        <item>MITU</item>
+        <item>Video MIUI</item>
 </resources>
