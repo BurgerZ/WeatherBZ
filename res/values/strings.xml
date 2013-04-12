@@ -31,6 +31,9 @@
     <string name="about_t_storms">T-storms</string>
     <string name="about_sleet">Sleet</string>
     <string name="about_snow">Snow</string>
+    <string name="about_light_snow">Light Snow</string>
+    <string name="about_heavy_snow">Snow</string>    
+    <string name="about_blizzard">Blizzard</string>
     <string name="animation_preview">Preview animations</string>
     <string name="menu_update">Update</string>
     <string name="menu_settings">Settings</string>
@@ -76,7 +79,7 @@
     <string name="conf_dark_skin">Dark Skin</string>
     <string name="conf_choose_skin">Choose Skin</string>
     <string name="conf_name">Widget Settings</string>
-    <string name="download_video">Download video</string>
+    <string name="download_video">Get video</string>
     <string name="conf_no_background">No background</string>
     <string name="settings_category_notification">Notifications settings</string>
     <string name="settings_category_notification_sum">Weather notifications settings</string>

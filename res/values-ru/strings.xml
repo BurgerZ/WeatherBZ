@@ -32,6 +32,9 @@
     <string name="about_t_storms">Гроза</string>
     <string name="about_sleet">Мокрый снег</string>
     <string name="about_snow">Снег</string>
+    <string name="about_light_snow">Небольшой снег</string>
+    <string name="about_heavy_snow">Снег</string>    
+    <string name="about_blizzard">Метель</string>
     <string name="animation_preview">Предпросмотр анимации</string>
     <string name="menu_update">Обновить</string>
     <string name="menu_settings">Настройки</string>
@@ -74,7 +77,7 @@
     <string name="conf_dark_skin">Темный скин</string>
     <string name="conf_choose_skin">Выберите скин</string>
     <string name="conf_name">Настройки виджета</string>
-    <string name="download_video">Загрузить видео</string>
+    <string name="download_video">Скачать видео</string>
     <string name="conf_no_background">Без фона (прозрачный)</string>
     <string name="settings_category_network">Настройки сети</string>
     <string name="settings_category_notification">Настройки уведомлений</string>
