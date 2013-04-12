@@ -541,7 +541,7 @@
     </string-array>	    
     <string-array name="animation_type_entries">
         <item >Par défaut</item>
-        <item >MITU</item>
+        <!--item >MITU</item-->
         <item >Vidéos MIUI</item>
     </string-array>            
 </resources>

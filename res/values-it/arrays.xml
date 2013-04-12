@@ -549,7 +549,7 @@
     </string-array>
     <string-array name="animation_type_entries">
         <item>Default</item>
-        <item>MITU</item>
+        <!--item>MITU</item-->
         <item>Video MIUI</item>
     </string-array>
 </resources>

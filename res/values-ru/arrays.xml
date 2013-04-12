@@ -509,7 +509,7 @@
     </string-array>	
     <string-array name="animation_type_entries">
         <item >По умолчанию</item>
-        <item >Кролик MITU</item>
+        <!--item >Кролик MITU</item-->
         <item >MIUI видео</item>
     </string-array>    
 </resources>

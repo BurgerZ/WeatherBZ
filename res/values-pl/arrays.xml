@@ -300,7 +300,7 @@
     </string-array>
     <string-array name="animation_type_entries">
         <item>Domyślnie</item>
-        <item>MITU</item>
+        <!--item>MITU</item-->
         <item>Wideo MIUI</item>
     </string-array>
 </resources>

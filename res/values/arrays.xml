@@ -616,12 +616,12 @@
     </string-array>      
     <string-array name="animation_type_entries">
         <item >Default</item>
-        <item >MITU</item>
+        <!--item >MITU</item-->
         <item >MIUI video</item>
     </string-array>
     <string-array name="animation_type_values" translatable="false">
         <item >animation_default</item>
-        <item >animation_mitu</item>
+        <!--item >animation_mitu</item-->
         <item >animation_miui</item>
     </string-array>              
 </resources>
