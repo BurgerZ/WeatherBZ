@@ -531,9 +531,9 @@
         <item >Prochaine alarme</item>
     </string-array>      
 	<string-array name="widget41_show_entries">
-        <item >Temperature panel</item>
-        <item >Extended data panel</item>
-        <item >Time panel</item>
+        <item >Température</item>
+        <item >Prévisions météorologiques</item>
+        <item >Heure</item>
 	</string-array>    
     <string-array name="widget41_data_entries">
         <item >"Prévisions à 3 jours"</item>
