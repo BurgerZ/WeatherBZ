@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_author">Autor</string>
+    <string name="about_blizzard">Blizárd</string>    
     <string name="about_cloudy">Zamračené</string>
     <string name="about_cloudy_night">Zamračená noc</string>
     <string name="about_copyright">Autorské práva</string>
     <string name="about_dust">Prach</string>
     <string name="about_fog">Hmla</string>
     <string name="about_hailstone">Krúpy</string>
+    <string name="about_heavy_snow">Ťažký sneh</string> 
     <string name="about_light_rain">Mrholenie</string>
+    <string name="about_light_snow">Jemný sneh</string>
     <string name="about_overcast">Zamračené</string>
     <string name="about_provider">Zdroj predpovede</string>
     <string name="about_rain">Dážď</string>
     <string name="about_rainstorm">Prietrž</string>
     <string name="about_showers">Prehánky</string>
     <string name="about_sleet">Pľušť</string>
-    <string name="about_snow">Sneh</string>
+    <string name="about_snow">Snežnie</string>
     <string name="about_sunny">Jasno</string>
     <string name="about_sunny_night">Jasná noc</string>
     <string name="about_t_storms">Búrky</string>
@@ -90,9 +93,9 @@
     <string name="settings_check_updates_title">Kontrola aktualizácií</string>
     <string name="settings_miui_support_summary">Povoľte pre podporu widgetu počasia MIUI</string>
     <string name="settings_miui_support_title">MIUI widget</string>
-    <string name="settings_miui_v5_title">MIUI v5 ROM</string>
     <string name="settings_miui_v5_summary">Povoľte ak máte MIUIv5</string>
-	<string name="settings_notification_color_title">Farba symbolu v oznamovacej lište</string>
+	<string name="settings_miui_v5_title">MIUI v5 ROM</string>
+    <string name="settings_notification_color_title">Farba symbolu v oznamovacej lište</string>
     <string name="settings_notification_summary">Zobraziť aktuálne počasie v notifikačnej lište</string>
     <string name="settings_notification_text_color_summary">Farba textu a ikony upozornení</string>
     <string name="settings_notification_title">Zobraziť upozornenia</string>
@@ -101,6 +104,7 @@
     <string name="settings_show_info_title">Ukázať info</string>
     <string name="settings_show_weather_icons_summary">Zobraziť ikony počasia (namiesto textu) v 3-dňovej predpovedi</string>
     <string name="settings_show_weather_icons_title">Zobraziť ikonu počasia</string>
+    <string name="settings_time_format_12h">12h formát času</string>
     <string name="settings_update_autoupdate_summary">Automaticky aktualizovať predpoved počasia</string>
     <string name="settings_update_autoupdate_title">Automatická aktualizácia</string>
     <string name="settings_update_interval_title">Interval aktualizácie</string>
