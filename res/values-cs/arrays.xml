@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="donations__google_android_market_promt_array">
-        <item>1 Euro</item>
-        <item>2 Eura</item>
-        <item>3 Eura</item>
-        <item>5 Eur</item>
-        <item>8 Eur</item>
-        <item>13 Eur</item>
-    </string-array>
     <string-array name="update_interval_names">
         <item>30 minut</item>
         <item>1 hodina</item>
@@ -50,8 +42,7 @@
         <item>"Dnešní předpověď"</item>
     </string-array>
     <string-array name="animation_type_entries">
-        <item >Předvolená</item>
-        <!--item >MITU</item-->
-        <item >MIUI video</item>
+        <item>Předvolená</item>
+        <item>MIUI video</item>
     </string-array>
 </resources>
