@@ -80,8 +80,6 @@ Selectaţi locaţia manual"</string>
     <string name="settings_update_roaming_summary">Actualizaţi în mod automat prognoza meteo, chiar şi atunci când sunteţi în roaming. Rețineți că puteți avea taxe suplimentare în factură</string>
     <string name="settings_category_appearance">Aspect</string>
     <string name="settings_category_appearance_sum">Setări aspect (afişaţi/ascundeţi elemente de interfaţă etc.)</string>
-    <string name="settings_show_temp_symbol_title">Afişaţi simbol temperatură</string>
-    <string name="settings_show_temp_symbol_summary">Afişaţi sau ascundeţi simbolul temperaturii (litera C pt. Celsius)</string>
     <string name="settings_show_weather_icons_title">Afişaţi pictogramele meteo</string>
     <string name="settings_show_weather_icons_summary">Afişaţi pictogramele meteo (în loc de descriere textuală meteo) în prognoza meteo pt. 3 zile</string>
     <string name="settings_notification_color_title">Culoare simbol bară de stare</string>

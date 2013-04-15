@@ -114,8 +114,6 @@ Lo apprezzo molto!"</string>
     <string name="clear_miui_data_summary">Verranno cancellati e azzerati i dati del MIUI Weather</string>
     <string name="clear_miui_data_dialog">Pulisci MIUI Weather</string>
     <string name="clear_miui_data_dialog_text">Database MIUI Weather Pulito!</string>
-    <string name="settings_show_temp_symbol_title">Simbolo della temperatura</string>
-    <string name="settings_show_temp_symbol_summary">Mostra o nascondi il simbolo della temperatura (C per Celsius)</string>
     <string name="settings_show_weather_icons_title">Icone meteo</string>
     <string name="settings_show_weather_icons_summary">Mostra le icone meteo nelle previsioni 3-giorni</string>
     <string name="settings_notification_text_color_summary">Colore del testo e delle icone</string>

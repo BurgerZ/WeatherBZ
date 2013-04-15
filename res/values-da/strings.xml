@@ -99,8 +99,6 @@
   <string name="settings_notification_type">Notifikationstype</string>
   <string name="settings_show_info_summary">Vis eller skjul brugerflade elementer</string>
   <string name="settings_show_info_title">Vis info</string>
-  <string name="settings_show_temp_symbol_summary">Vis eller skjul temperatur symbol (C for Celsius)</string>
-  <string name="settings_show_temp_symbol_title">Vis temperatur symbol</string>
   <string name="settings_show_weather_icons_summary">Vis vejr ikoner (istedet for tekstet vejrudsigt) i 3-dags vejrudsigt</string>
   <string name="settings_show_weather_icons_title">Vis vejr ikoner</string>
   <string name="settings_update_autoupdate_summary">Auto opdater vejrudsigt</string>

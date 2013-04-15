@@ -99,8 +99,6 @@
     <string name="settings_notification_type">Typ notifikací</string>
     <string name="settings_show_info_summary">Ukázat nebo skrýt Informace</string>
     <string name="settings_show_info_title">Ukázat info</string>
-    <string name="settings_show_temp_symbol_summary">Zobrazit nebo skrýt symbol teploty (písmeno C pro Celsius)</string>
-    <string name="settings_show_temp_symbol_title">Zobrazit symbol teploty</string>
     <string name="settings_show_weather_icons_summary">Zobrazit ikony počasí (místo textu) v 3-denní předpovědi</string>
     <string name="settings_show_weather_icons_title">Zobrazit ikonu počasí</string>
     <string name="settings_update_autoupdate_summary">Automaticky aktualizovat předpověď počasí</string>

@@ -115,8 +115,6 @@ Wybierz lokalizację ręcznie"</string>
     <string name="clear_miui_data_summary">Usuwa dane dostawcy pogody MIUI</string>
     <string name="clear_miui_data_dialog">Usuń dane pogody MIUI</string>
     <string name="clear_miui_data_dialog_text">Dane pogody MIUI wyczyszczone!</string>
-    <string name="settings_show_temp_symbol_title">Pokaż jednostkę temperatury</string>
-    <string name="settings_show_temp_symbol_summary">Pokaż lub ukryj jednostkę temperatury (C lub F)</string>
     <string name="settings_show_weather_icons_title">Pokaż ikonę pogody</string>
     <string name="settings_show_weather_icons_summary">Pokaż ikonę pogody (zamiast opisu tekstowego) w 3-dniowej prognozie</string>
     <string name="settings_notification_text_color_summary">Kolor ikon i tekstu powiadomień</string>

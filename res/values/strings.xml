@@ -87,9 +87,9 @@
     <string name="settings_notification_title">Show Notification</string>
     <string name="settings_notification_summary">Show current weather conditions in the notification area</string>
     <string name="settings_update_wifi_only_title">Update only on Wi-Fi</string>
-    <string name="settings_update_wifi_only_summary">Automatycally update weather forecast only when Wi-Fi connection established</string>
+    <string name="settings_update_wifi_only_summary">Automatically update weather forecast only when Wi-Fi connection established</string>
     <string name="settings_update_roaming_title">Update in roaming</string>
-    <string name="settings_update_roaming_summary">Automatycally update weather forecast even when roaming. Note that you can have an extra charges to your phone bill</string>
+    <string name="settings_update_roaming_summary">Automatically update weather forecast even when roaming. Note that you can have an extra charges to your phone bill</string>
     <string name="settings_category_appearance">Appearance</string>
     <string name="settings_category_appearance_sum">Appearance settings (measure units, text color etc.)</string>
     <string name="settings_category_miui">MIUI ROMs</string>
@@ -102,8 +102,7 @@
     <string name="clear_miui_data_summary">Clears MIUI Weather Provider database</string>
     <string name="clear_miui_data_dialog">Clear MIUI Weather</string>
     <string name="clear_miui_data_dialog_text">MIUI Weather Provider database cleared!</string>
-    <string name="settings_show_temp_symbol_title">Show temperatute symbol</string>
-    <string name="settings_show_temp_symbol_summary">Show or hide temperature symbol (letter C for Celsius)</string>
+    <string name="settings_time_format_12h">12h time format</string>
     <string name="settings_show_weather_icons_title">Show weather icons</string>
     <string name="settings_show_weather_icons_summary">Show weather icons (instead of textual weather description) in 3-day forecast</string>
     <string name="settings_notification_text_color_summary">Notification text and icons color</string>    
@@ -163,7 +162,7 @@
     <string name="wind_wsw">W-SW</string>  
     <string name="wind_variable">Variable</string>  
     <string name="settings_widgets_widget4x1_transparent_title">Transparent background</string> 
-    <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default backround</string> 
+    <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default background</string> 
     <string name="settings_widgets_widget4x1_white_icon_title">White weather icon</string> 
     <string name="settings_widgets_widget4x1_white_icon_sum">Unchecked for black weather icon</string>
     <string name="settings_widgets_widget4x1_data_title">Extended data</string>    

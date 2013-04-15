@@ -96,8 +96,6 @@
     <string name="clear_miui_data_summary">MIUI időjárás szolgáltató adatbázisának törlése</string>
     <string name="clear_miui_data_dialog">MIUI Időjárás törlése</string>
     <string name="clear_miui_data_dialog_text">MIUI időjárás szolgáltató adatbázisa törölve!</string>
-    <string name="settings_show_temp_symbol_title">Hőmérséklet egység</string>
-    <string name="settings_show_temp_symbol_summary">Hőmérséklet egységet mutat/elrejt ( C a Celsius)</string>
     <string name="settings_show_weather_icons_title">Időjárás ikon</string>
     <string name="settings_show_weather_icons_summary">Időjárás ikonok (a szöveges leírás helyett) a 3 napos előrejelzésnél</string>
     <string name="settings_notification_text_color_summary">Az értesítő szöveg és ikonok színe</string>

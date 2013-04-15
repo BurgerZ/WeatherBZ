@@ -78,8 +78,6 @@
     <string name="settings_update_roaming_summary">Автоматично оновлювати прогноз погоди у роумінгу. Це може збільшити ваші витрати по оплаті рахунків стільникового зв\'язку</string>
     <string name="settings_category_appearance">Зовнішній вигляд</string>
     <string name="settings_category_appearance_sum">Налаштування відображення/приховування елементів інтерфейсу, мова і т.д.</string>
-    <string name="settings_show_temp_symbol_title">Символ температури</string>
-    <string name="settings_show_temp_symbol_summary">Показувати символ температури (літера C для градусів Цельсія)</string>
     <string name="settings_show_weather_icons_title">Іконки погоди</string>
     <string name="settings_show_weather_icons_summary">Показувати іконки погоди (замість текстового опису стану погоди) в прогнозі на 3 дні</string>
     <string name="settings_notification_color_title">Колір символу повідомлення</string>
