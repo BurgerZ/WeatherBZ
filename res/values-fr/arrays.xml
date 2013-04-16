@@ -515,41 +515,41 @@
 		<item>Saint Pierre and Miquelon</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
-        <item >Noir</item>
-        <item >Blanc</item>
+        <item>Noir</item>
+        <item>Blanc</item>
     </string-array>
     <string-array name="notif_type_entries">
-        <item >Symbole de température</item>
-        <item >Icône de la météo actuelle</item>
+        <item>Symbole de température</item>
+        <item>Icône de la météo actuelle</item>
     </string-array>   
     <string-array name="widget42_show_entries">
-        <item >Heure</item>
-        <item >Date</item>
-        <item >Ville</item>
-        <item >Météo (description)</item>
-        <item >Ressenti</item>
-        <item >Vent</item>
+        <item>Heure</item>
+        <item>Date</item>
+        <item>Ville</item>
+        <item>Météo (description)</item>
+        <item>Ressenti</item>
+        <item>Vent</item>
     </string-array> 
     <string-array name="main_show_entries">
-        <item >Ressenti</item>
-        <item >Vent</item>
-        <item >Humidité</item>
-        <item >Pression</item>
-        <item >Visibilité</item>
-        <item >Prochaine alarme</item>
+        <item>Ressenti</item>
+        <item>Vent</item>
+        <item>Humidité</item>
+        <item>Pression</item>
+        <item>Visibilité</item>
+        <item>Prochaine alarme</item>
     </string-array>      
 	<string-array name="widget41_show_entries">
-        <item >Température</item>
-        <item >Prévisions météorologiques</item>
-        <item >Heure</item>
+        <item>Température</item>
+        <item>Prévisions météorologiques</item>
+        <item>Heure</item>
 	</string-array>    
     <string-array name="widget41_data_entries">
-        <item >"Prévisions à 3 jours"</item>
-        <item >"Météo du jour"</item>
+        <item>"Prévisions à 3 jours"</item>
+        <item>"Météo du jour"</item>
     </string-array>	    
     <string-array name="animation_type_entries">
-        <item >Par défaut</item>
+        <item>Par défaut</item>
         <!--item >MITU</item-->
-        <item >Vidéos MIUI</item>
+        <item>Vidéos MIUI</item>
     </string-array>            
 </resources>
