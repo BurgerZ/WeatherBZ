@@ -54,9 +54,9 @@
     <string name="weather_pressure">"Давление: "</string>
     <string name="weather_visibility">"Видимость: "</string>
     <string name="weather_cond_overcast">Пасмурно</string>
-    <string name="settings_category_update">Настройки обновления</string>
+    <string name="settings_category_update">Обновление</string>
     <string name="settings_category_update_sum">Настройки автообновления и времени обновления прогноза</string>
-    <string name="settings_category_animation">Настройки анимации</string>
+    <string name="settings_category_animation">Анимация</string>
     <string name="settings_category_animation_sum">Отображение анимации, выбор ее типа</string>
     <string name="settings_update_interval_title">Интервал обновления</string>
     <string name="settings_update_autoupdate_title">Автообновление</string>
@@ -80,7 +80,7 @@
     <string name="download_video">Скачать видео</string>
     <string name="conf_no_background">Без фона (прозрачный)</string>
     <string name="settings_category_network">Настройки сети</string>
-    <string name="settings_category_notification">Настройки уведомлений</string>
+    <string name="settings_category_notification">Уведомления</string>
     <string name="settings_category_notification_sum">Уведомления о состоянии погоды в статусной строке</string>
     <string name="settings_notification_title">Уведомление о погоде</string>
     <string name="settings_notification_summary">Показывать текущие показатели прогноза погоды в области уведомлений</string>
@@ -105,7 +105,7 @@
     <string name="settings_show_weather_icons_summary">Показывать иконки погоды (вместо текстового описания состояния погоды) в прогнозе на 3 дня</string>
     <string name="settings_notification_text_color_summary">Цвет текста и иконки уведомления</string> 
     <string name="settings_notification_color_title">Цвет символа уведомления</string>
-    <string name="settings_category_widgets">Настройки виджетов</string>
+    <string name="settings_category_widgets">Виджеты</string>
     <string name="settings_category_widgets_sum">Внешний вид виджетов и действия по нажатию на виджеты</string>
     <string name="settings_widgets_click_clock_title">Нажатие на часы</string>
     <string name="settings_widgets_click_clock_summary">Выбор приложения для запуска по нажатию на часы</string>
