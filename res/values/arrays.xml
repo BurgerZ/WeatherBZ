@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="donations_google_android_market_promt_array">
+  		<item>1 Euro</item> 
+  		<item>2 Euros</item> 
+  		<item>3 Euros</item> 
+  		<item>5 Euros</item> 
+  		<item>8 Euros</item> 
+  		<item>13 Euros</item> 
+  	</string-array>    
     <string-array name="update_interval_names">
         <item>30 minutes</item> 
         <item >1 hour</item>
@@ -523,7 +531,7 @@
         <item >1</item>
     </string-array> 
     <string-array name="notif_type_entries">
-        <item >Temperature symbol</item>
+        <item >Temperature</item>
         <item >Weather icon</item>
     </string-array>
     <string-array name="notif_type_values" translatable="false">

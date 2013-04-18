@@ -2,7 +2,7 @@
 <resources>
     <string name="close">Închideţi</string>
     <string name="changelog">Jurnal schimbări</string>
-	    <string name="donate">Donaţi</string>
+	<string name="donate">Donaţi</string>
     <string name="settings_check_updates_title">Verificaţi pt. actualizări</string>
     <string name="settings_check_updates_summary">Verificaţi pentru actualizări la pornirea aplicaţiei</string>
     <string name="settings_category_app_update">Actualizare aplicaţie</string>

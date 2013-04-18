@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-    <string-array name="donations__google_android_market_promt_array">
+    <string-array name="donations_google_android_market_promt_array">
         <item>1 euro</item>
         <item>2 euros</item>
         <item>3 euros</item>

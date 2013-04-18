@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="donations_google_android_market_promt_array">
+  		<item>1 Евро</item> 
+  		<item>2 Евро</item> 
+  		<item>3 Евро</item> 
+  		<item>5 Евро</item> 
+  		<item>8 Евро</item> 
+  		<item>13 Евро</item> 
+  	</string-array>
     <string-array name="update_interval_names">
         <item>30 минут</item>
         <item >1 час</item>
@@ -479,8 +487,8 @@
         <item >Белый</item>
     </string-array>   
     <string-array name="notif_type_entries">
-        <item >Символ температуры</item>
-        <item >Символ погоды</item>
+        <item >Температура</item>
+        <item >Иконка погоды</item>
     </string-array>    
     <string-array name="widget42_show_entries">
         <item >Часы</item>

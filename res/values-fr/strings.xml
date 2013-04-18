@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="donations__button_close">Fermer</string>
-	<string name="donations__flattr">Flattr</string>
-	<string name="donations__description">"Vous trouvez cette application utile ?
+	<string name="donations_button_close">Fermer</string>
+	<string name="donations_flattr">Flattr</string>
+	<string name="donations_description">"Vous trouvez cette application utile ?
 Supporter son développement avec Flattr ou en envoyant des dons en utilisant l'Android Market !"</string>
-	<string name="donations__flattr_description">Flattr prend 10% de frais mensuels !</string>
-	<string name="donations__google_android_market">Google Play Store</string>
-	<string name="donations__google_android_market_not_supported_title">Donations In-App non-supportées</string>
-	<string name="donations__google_android_market_not_supported">"Donations In-App non-supportée. L'application Google Play Store est-elle correctement installée ?"</string>
-	<string name="donations__google_android_market_description">Google prend 30% sur chaque don !</string>
-	<string name="donations__google_android_market_donate_button">Faire un don</string>
-	<string name="donations__google_android_market_text">Combien ?</string>
-	<string name="donations__paypal">PayPal</string>
-	<string name="donations__paypal_description">Vous pouvez faire un don du montant désiré en cliquant sur ce bouton !</string>
-	<string name="donations__thanks_dialog_title">Merci !</string>
-	<string name="donations__thanks_dialog">Merci beaucoup pour votre don !</string>
+	<string name="donations_flattr_description">Flattr prend 10% de frais mensuels !</string>
+	<string name="donations_google_android_market">Google Play Store</string>
+	<string name="donations_google_android_market_not_supported_title">Donations In-App non-supportées</string>
+	<string name="donations_google_android_market_not_supported">"Donations In-App non-supportée. L'application Google Play Store est-elle correctement installée ?"</string>
+	<string name="donations_google_android_market_description">Google prend 30% sur chaque don !</string>
+	<string name="donations_google_android_market_donate_button">Faire un don</string>
+	<string name="donations_google_android_market_text">Combien ?</string>
+	<string name="donations_paypal">PayPal</string>
+	<string name="donations_paypal_description">Vous pouvez faire un don du montant désiré en cliquant sur ce bouton !</string>
+	<string name="donations_thanks_dialog_title">Merci !</string>
+	<string name="donations_thanks_dialog">Merci beaucoup pour votre don !</string>
 	<string name="app_name">Météo</string>
 	<string name="changelog">Dernières mises à jour</string>
 	<string name="close">Fermer</string>
