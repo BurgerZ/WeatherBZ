@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_author">Autor</string>
+    <string name="about_blizzard">Blizárd</string>
     <string name="about_cloudy">Zamračeno</string>
     <string name="about_cloudy_night">Zamračená noc</string>
     <string name="about_copyright">Autorská práva</string>
     <string name="about_dust">Prach</string>
     <string name="about_fog">Mlha</string>
     <string name="about_hailstone">Kroupy</string>
+    <string name="about_heavy_snow">Těžký sníh</string> 
     <string name="about_light_rain">Mrholení</string>
+    <string name="about_light_snow">Jemný sníh</string>
     <string name="about_overcast">Zamračeno</string>
     <string name="about_provider">Zdroj předpovědi</string>
     <string name="about_rain">Déšť</string>
     <string name="about_rainstorm">Průtrž</string>
     <string name="about_showers">Přeháňky</string>
     <string name="about_sleet">Plískanice</string>
-    <string name="about_snow">Sníh</string>
+    <string name="about_snow">Sněžení</string>
     <string name="about_sunny">Jasno</string>
     <string name="about_sunny_night">Jasná noc</string>
     <string name="about_t_storms">Bouřky</string>
@@ -39,6 +42,21 @@
     <string name="dlg_select_action">Zvolte akci</string>
     <string name="dlg_set_as_home">Nastavit jako \"Domácí město\"</string>
     <string name="donate">Příspěvek</string>
+    <string name="donations__button_close">Zavřít</string>
+    <string name="donations__flattr">Flattr</string>
+    <string name="donations__description">"Je pro Vás tato aplikace užitečná?
+Podpořte nás malým příspěvkem!"</string>
+    <string name="donations__flattr_description">Flattr vezme 10 % jako měsíční poplatek!</string>
+    <string name="donations__google_android_market">Obchod Google Play</string>
+    <string name="donations__google_android_market_not_supported_title">In-App příspěvky nejsou podporované</string>
+    <string name="donations__google_android_market_not_supported">In-App příspěvky nejsou podporované. Je Google Play nainstalovaný správně?</string>
+    <string name="donations__google_android_market_description">Google si vezme 30 % z každého příspěvku!</string>
+    <string name="donations__google_android_market_donate_button">Přispět!</string>
+    <string name="donations__google_android_market_text">Kolik?</string>
+    <string name="donations__paypal_description">Můžete si zvolit výšku příspěvku!</string>
+    <string name="donations__thanks_dialog_title">Děkujeme!</string>
+    <string name="donations__thanks_dialog">"Děkujeme za příspěvek!
+Jsme Vám opravdu vděční!"</string>
     <string name="download_video">Stáhnout video</string>
     <string name="end_time_title">Konec</string>
     <string name="fetching_location">Získávání Vaší polohy...</string>
@@ -101,6 +119,7 @@
     <string name="settings_show_info_title">Ukázat info</string>
     <string name="settings_show_weather_icons_summary">Zobrazit ikony počasí (místo textu) v 3-denní předpovědi</string>
     <string name="settings_show_weather_icons_title">Zobrazit ikonu počasí</string>
+    <string name="settings_time_format_12h">12h formát času</string>
     <string name="settings_update_autoupdate_summary">Automaticky aktualizovat předpověď počasí</string>
     <string name="settings_update_autoupdate_title">Automatická aktualizace</string>
     <string name="settings_update_interval_title">Interval aktualizace</string>
