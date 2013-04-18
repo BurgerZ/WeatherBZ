@@ -46,6 +46,9 @@ Naprawdę to doceniam!"</string>
     <string name="about_t_storms">Burze</string>
     <string name="about_sleet">Deszcz ze śniegiem</string>
     <string name="about_snow">Śnieg</string>
+    <string name="about_light_snow">Lekki śnieg</string>   
+    <string name="about_heavy_snow">Śnieg</string>   
+    <string name="about_blizzard">Burza śnieżna</string>
     <string name="animation_preview">Podgląd animacji</string>
     <string name="menu_update">Odśwież</string>
     <string name="menu_settings">Ustawienia</string>
@@ -67,7 +70,7 @@ Naprawdę to doceniam!"</string>
     <string name="weather_pressure">"Ciśnienie: "</string>
     <string name="weather_visibility">"Widoczność: "</string>
     <string name="weather_forecast_empty">--</string>
-    <string name="weather_cond_overcast">Overcast</string>
+    <string name="weather_cond_overcast">Prognoza</string>
     <string name="settings_category_update">Aktualizacje</string>
     <string name="settings_category_update_sum">Ustawienia automatycznych aktualizacji</string>
     <string name="settings_category_animation">Animacje</string>
@@ -115,6 +118,7 @@ Wybierz lokalizację ręcznie"</string>
     <string name="clear_miui_data_summary">Usuwa dane dostawcy pogody MIUI</string>
     <string name="clear_miui_data_dialog">Usuń dane pogody MIUI</string>
     <string name="clear_miui_data_dialog_text">Dane pogody MIUI wyczyszczone!</string>
+    <string name="settings_time_format_12h">Format 12 godz.</string>
     <string name="settings_show_weather_icons_title">Pokaż ikonę pogody</string>
     <string name="settings_show_weather_icons_summary">Pokaż ikonę pogody (zamiast opisu tekstowego) w 3-dniowej prognozie</string>
     <string name="settings_notification_text_color_summary">Kolor ikon i tekstu powiadomień</string>
