@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_author">Autor</string>
+    <string name="about_blizzard">Blizárd</string>
     <string name="about_cloudy">Zamračené</string>
     <string name="about_cloudy_night">Zamračená noc</string>
     <string name="about_copyright">Autorské práva</string>
     <string name="about_dust">Prach</string>
     <string name="about_fog">Hmla</string>
     <string name="about_hailstone">Krúpy</string>
+    <string name="about_heavy_snow">Ťažký sneh</string> 
     <string name="about_light_rain">Mrholenie</string>
+    <string name="about_light_snow">Jemný sneh</string>
     <string name="about_overcast">Zamračené</string>
     <string name="about_provider">Zdroj predpovede</string>
     <string name="about_rain">Dážď</string>
     <string name="about_rainstorm">Prietrž</string>
     <string name="about_showers">Prehánky</string>
     <string name="about_sleet">Pľušť</string>
-    <string name="about_snow">Sneh</string>
+    <string name="about_snow">Sneženie</string>
     <string name="about_sunny">Jasno</string>
     <string name="about_sunny_night">Jasná noc</string>
     <string name="about_t_storms">Búrky</string>
@@ -39,6 +42,21 @@
     <string name="dlg_select_action">Zvoľte akciu</string>
     <string name="dlg_set_as_home">Nastaviť ako \"Domáce mesto\"</string>
     <string name="donate">Príspevok</string>
+    <string name="donations__button_close">Zatvoriť</string>
+    <string name="donations__flattr">Flattr</string>
+    <string name="donations__description">"Je pre Vás táto aplikácia užitočná?
+Podporte nás malým príspevkom!"</string>
+    <string name="donations__flattr_description">Flattr vezme 10 % ako mesačný poplatok!</string>
+    <string name="donations__google_android_market">Obchod Google Play</string>
+    <string name="donations__google_android_market_not_supported_title">In-App príspevky nie sú podporované</string>
+    <string name="donations__google_android_market_not_supported">In-App príspevky nie sú podporované. Je Google Play nainštalovaný správne?</string>
+    <string name="donations__google_android_market_description">Google si vezme 30 % z každého príspevku!</string>
+    <string name="donations__google_android_market_donate_button">Prispieť!</string>
+    <string name="donations__google_android_market_text">Koľko?</string>
+    <string name="donations__paypal_description">Môžete si zvoliť výšku príspevku!</string>
+    <string name="donations__thanks_dialog_title">Ďakujeme!</string>
+    <string name="donations__thanks_dialog">"Ďakujeme za príspevok!
+Sme Vám naozaj vďační!"</string>
     <string name="download_video">Stiahnuť video</string>
     <string name="end_time_title">Koniec</string>
     <string name="fetching_location">Získavanie Vašej polohy...</string>
@@ -92,7 +110,7 @@
     <string name="settings_miui_support_title">MIUI widget</string>
     <string name="settings_miui_v5_title">MIUI v5 ROM</string>
     <string name="settings_miui_v5_summary">Povoľte ak máte MIUIv5</string>
-	<string name="settings_notification_color_title">Farba symbolu v oznamovacej lište</string>
+    <string name="settings_notification_color_title">Farba symbolu v oznamovacej lište</string>
     <string name="settings_notification_summary">Zobraziť aktuálne počasie v notifikačnej lište</string>
     <string name="settings_notification_text_color_summary">Farba textu a ikony upozornení</string>
     <string name="settings_notification_title">Zobraziť upozornenia</string>
@@ -101,6 +119,7 @@
     <string name="settings_show_info_title">Ukázať info</string>
     <string name="settings_show_weather_icons_summary">Zobraziť ikony počasia (namiesto textu) v 3-dňovej predpovedi</string>
     <string name="settings_show_weather_icons_title">Zobraziť ikonu počasia</string>
+    <string name="settings_time_format_12h">12h formát času</string>
     <string name="settings_update_autoupdate_summary">Automaticky aktualizovať predpoved počasia</string>
     <string name="settings_update_autoupdate_title">Automatická aktualizácia</string>
     <string name="settings_update_interval_title">Interval aktualizácie</string>
