@@ -175,8 +175,6 @@
     <string name="wind_variable">Variable</string>
     <string name="settings_widgets_widget4x1_transparent_title">fondo transparente</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Desactivada para el fondo por defecto</string>
-    <string name="settings_widgets_widget4x1_white_icon_title">Blanco icono del tiempo</string>
-    <string name="settings_widgets_widget4x1_white_icon_sum">Sin comprobar de tiempo en icono negro</string>
     <string name="settings_widgets_widget4x1_data_title">datos ampliados</string>
     <string name="dialog_color_picker">Selector de color</string>
     <string name="press_color_to_apply">Pulse en Color para aplicar</string>

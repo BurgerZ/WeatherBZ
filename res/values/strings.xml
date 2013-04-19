@@ -177,8 +177,6 @@
     <string name="wind_variable">Variable</string>  
     <string name="settings_widgets_widget4x1_transparent_title">Transparent background</string> 
     <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default background</string> 
-    <string name="settings_widgets_widget4x1_white_icon_title">White weather icon</string> 
-    <string name="settings_widgets_widget4x1_white_icon_sum">Unchecked for black weather icon</string>
     <string name="settings_widgets_widget4x1_data_title">Extended data</string>    
 
 	<string name="dialog_color_picker">Color Picker</string> 

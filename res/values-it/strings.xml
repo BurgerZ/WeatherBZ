@@ -174,8 +174,6 @@ Lo apprezzo molto!"</string>
     <string name="wind_variable">VariabIle</string>
     <string name="settings_widgets_widget4x1_transparent_title">Sfondo transparente</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Sfondo default se deselezionato</string>
-    <string name="settings_widgets_widget4x1_white_icon_title">Icona del meteo Bianca</string>
-    <string name="settings_widgets_widget4x1_white_icon_sum">Icona del meteo Nera se deselezionato</string>
     <string name="settings_widgets_widget4x1_data_title">Altri dati</string>
     <string name="dialog_color_picker">Scegli colore</string>
     <string name="press_color_to_apply">Premi sul colore per applicarlo</string>

@@ -120,8 +120,6 @@ Selectaţi locaţia manual"</string>
     <string name="dlg_set_as_home">Setaţi ca \"Oraş Acasă\"</string>
     <string name="settings_widgets_widget4x1_transparent_title">Fundal transparent</string> 
     <string name="settings_widgets_widget4x1_transparent_sum">Debifat pentru fundal implicit</string> 
-    <string name="settings_widgets_widget4x1_white_icon_title">Culoare albă a pictogramei</string> 
-    <string name="settings_widgets_widget4x1_white_icon_sum">Debifat pentru pictogramă vreme de culoare neagră</string>
     <string name="settings_widgets_widget4x1_data_title">Date extinse</string>
     <string name="dialog_color_picker">Selector culoare</string> 
     <string name="press_color_to_apply">Apăsaţi pe culoare pentru a aplica</string> 

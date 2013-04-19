@@ -135,8 +135,6 @@ Sme Vám naozaj vďační!"</string>
     <string name="settings_widgets_widget4x1_data_title">Rozšírené dáta</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Odznačte pre predvolené pozadie</string>
     <string name="settings_widgets_widget4x1_transparent_title">Priehľadné pozadie</string>
-    <string name="settings_widgets_widget4x1_white_icon_sum">Odznačte pre čiernu ikonu počasia</string>
-    <string name="settings_widgets_widget4x1_white_icon_title">Biela ikona počasia</string>
     <string name="settings_widgets_widget4x2">Widget 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Predvolená hodnota 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Mesto</string>

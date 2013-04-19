@@ -126,6 +126,4 @@
     <string name="wind_w">Зх</string>
     <string name="settings_widgets_widget4x1_transparent_title">Прозорий фон</string> 
     <string name="settings_widgets_widget4x1_transparent_sum">Зніміть галочку для використання фону за замовчуванням</string> 
-    <string name="settings_widgets_widget4x1_white_icon_title">Білий колір іконок</string> 
-    <string name="settings_widgets_widget4x1_white_icon_sum">Зніміть галочку для використання темних іконок</string>  
 </resources>

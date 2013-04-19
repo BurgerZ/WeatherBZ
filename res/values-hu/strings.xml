@@ -169,8 +169,6 @@
     <string name="wind_wsw">NY-DNY</string>
     <string name="settings_widgets_widget4x1_transparent_title">Átlátszó háttér</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Alapértelmezett háttérhez ne jelölje ki</string>
-    <string name="settings_widgets_widget4x1_white_icon_title">Fehér időjárás ikon</string>
-    <string name="settings_widgets_widget4x1_white_icon_sum">Fekete időjárás ikon esetén nincs kijelölve</string>
     <string name="settings_widgets_widget4x1_data_title">Időjárás adatok</string>
     <string name="dialog_color_picker">Szín választó</string>
     <string name="press_color_to_apply">Alkalmazáshoz nyomja meg a színt</string>

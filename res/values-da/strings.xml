@@ -130,8 +130,6 @@
   <string name="settings_widgets_widget4x1_data_title">Udvidet data</string>
   <string name="settings_widgets_widget4x1_transparent_sum">System baggrund hvis ikke afkrydset</string>
   <string name="settings_widgets_widget4x1_transparent_title">Gennemsigtig baggrund</string>
-  <string name="settings_widgets_widget4x1_white_icon_sum">Sorte vejr ikoner hvis ikke afkrydset</string>
-  <string name="settings_widgets_widget4x1_white_icon_title">Hvide ikoner</string>
   <string name="settings_widgets_widget4x2">Widget 4x2</string>
   <string name="settings_widgets_widget4x2_city_font_summary">Standard størrelse 22sp</string>
   <string name="settings_widgets_widget4x2_city_font_title">By</string>

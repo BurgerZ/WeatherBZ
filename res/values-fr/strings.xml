@@ -179,8 +179,6 @@ Veuillez entrer manuellement votre position</string>
 	<string name="wind_variable">Variable</string>
 	<string name="settings_widgets_widget4x1_transparent_title">Fond transparent</string>
 	<string name="settings_widgets_widget4x1_transparent_sum">Arrière plan par défaut si option désactivée</string>
-	<string name="settings_widgets_widget4x1_white_icon_title">Icône de météo blanche</string>
-	<string name="settings_widgets_widget4x1_white_icon_sum">Icône de météo noire si option désactivée</string>
 	<string name="settings_widgets_widget4x1_data_title">Prévisions météorologiques</string>
 	<string name="dialog_color_picker">Choix de la couleur</string>
 	<string name="press_color_to_apply">"Appuyer sur la couleur pour l'appliquer"</string>
