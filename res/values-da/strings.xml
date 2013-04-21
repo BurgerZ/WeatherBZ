@@ -59,7 +59,7 @@
   <string name="donations_thanks_dialog_title">Tak!</string>
   <string name="download_video">Download video</string>
   <string name="end_time_title">Slutningen</string>
-  <string name="fetching_location">Lokaliserer …</string>
+  <string name="fetching_location">Lokaliserer\u2026</string>
   <string name="just_now">Lige nu</string>
   <string name="location_edit">Angiv bynavn</string>
   <string name="location_gps">Aktuel placering</string>
@@ -158,6 +158,7 @@
   <string name="text_color_title">Tekstfarve</string>
   <string name="updating">Opdaterer\u2026</string>
   <string name="visibility_units">Sigtbarhed enhed</string>
+  <string name="visibility_units_km">" km"</string>
   <string name="visibility_units_m">" m"</string>
   <string name="visibility_units_mi">" mil"</string>
   <string name="weather_cond_overcast">Overskyet</string>
