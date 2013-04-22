@@ -6,5 +6,6 @@
 * Replaced icons in settings with v5-styled icons<p>
 * Trend view shows 7 days now<p>
 * Visibility can be viewed in KM<p>
-* Fixed Fahrenheit temperature appearance for values over 100 degrees<p>",
+* Fixed Fahrenheit temperature appearance for values over 100 degrees<p>
+* Fixed FC with MIUI v4<p>",
 "target": ""}
