@@ -28,10 +28,8 @@ Lo apprezzo molto!"</string>
     <string name="widget_name_medium_ext">Weather BZ 4x1</string>
     <string name="widget_name_large">Weather BZ 4x2</string>
     <string name="widget_name_large_v5">Weather BZ 4x2</string>
-    <string name="about_version">Versione</string>
-    <string name="about_author">Autore</string>
-    <string name="about_provider">Provider Meteo</string>
-    <string name="about_copyright">Copyright</string>
+    <string name="about_version">Versione:</string>
+    <string name="about_author">Autore:</string>
     <string name="about_sunny">Soleggiato</string>
     <string name="about_sunny_night">Serata limpida</string>
     <string name="about_cloudy">Nuvoloso</string>

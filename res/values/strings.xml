@@ -26,10 +26,11 @@
     <string name="widget_name_medium_ext">Weather BZ 4x1</string>
     <string name="widget_name_large">Weather BZ 4x2</string>
     <string name="widget_name_large_v5">Weather BZ 4x2</string>
-    <string name="about_version">Version</string>
-    <string name="about_author">Author</string>
-    <string name="about_provider">Weather provider</string>
-    <string name="about_copyright">Copyright</string>
+    <string name="about_version">Version:</string>
+    <string name="about_author">Author:</string>
+    <string name="about_social">Social links:</string>
+    <string name="about_for_translators">For Translators:</string>
+    <string name="about_for_translators_text">If you want to help with translation this app into your language, just go to the my github page (using the button above) to see all resources</string>              
     <string name="about_sunny">Sunny</string>
     <string name="about_sunny_night">Sunny Night</string>
     <string name="about_cloudy">Cloudy</string>
@@ -186,7 +187,7 @@
   	<string name="widget_text_color_summary">"The widget's text color"</string> 
     <string name="pressure_units">Pressure units</string> 
     <string name="pressure_units_mb">" mb"</string>
-    <string name="pressure_units_mmhg">" mm Hg"</string>
+    <string name="pressure_units_mmhg">" mmHg"</string>
     <string name="wind_speed_units">Wind speed units</string>   
     <string name="wind_speed_units_mps">" m/s"</string>
     <string name="wind_speed_units_kmph">" km/h"</string>
@@ -197,5 +198,5 @@
     <string name="visibility_units_mi">" miles"</string>
     <string name="temperature_units">Temperature units</string>
     <string name="temperature_units_c">Celsius</string>
-    <string name="temperature_units_f">Fahrenheit</string>       
+    <string name="temperature_units_f">Fahrenheit</string>
 </resources>

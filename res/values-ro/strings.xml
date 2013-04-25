@@ -7,11 +7,9 @@
     <string name="settings_check_updates_summary">Verificaţi pentru actualizări la pornirea aplicaţiei</string>
     <string name="settings_category_app_update">Actualizare aplicaţie</string>
     <string name="settings_category_forecast_update">Actualizare prognoză</string>
-    <string name="about_version">Versiune</string>
-    <string name="about_author">Autor</string>
-    <string name="about_provider">Furnizor vreme</string>
+    <string name="about_version">Versiune:</string>
+    <string name="about_author">Autor:</string>
     <string name="about_images">Imagini şi animaţii video</string>
-    <string name="about_copyright">Drepturi de autor</string>
     <string name="about_sunny">Senin</string>
     <string name="about_sunny_night">Senin</string>
     <string name="about_cloudy">Înnorat</string>

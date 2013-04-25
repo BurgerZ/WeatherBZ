@@ -27,10 +27,8 @@ Naprawdę to doceniam!"</string>
     <string name="widget_name_medium_ext">Pogoda 4x1</string>
     <string name="widget_name_large">Pogoda 4x2</string>
     <string name="widget_name_large_v5">Pogoda v5 4x2</string>
-    <string name="about_version">Wersja</string>
-    <string name="about_author">Autor</string>
-    <string name="about_provider">Dostawca pogody</string>
-    <string name="about_copyright">Prawa autorskie</string>
+    <string name="about_version">Wersja:</string>
+    <string name="about_author">Autor:</string>
     <string name="about_sunny">Słonecznie</string>
     <string name="about_sunny_night">Bezchmurna noc</string>
     <string name="about_cloudy">Pochmurnie</string>

@@ -8,11 +8,9 @@
     <string name="widget_name_medium">Погода BZ 4x1</string>
 	<string name="widget_name_medium_ext">Погода BZ 4x1</string>        
     <string name="widget_name_large">Погода BZ 4x2</string>
-    <string name="about_version">Версія</string>
-    <string name="about_author">Автор</string>
-    <string name="about_provider">Постачальник погоди</string>
+    <string name="about_version">Версія:</string>
+    <string name="about_author">Автор:</string>
     <string name="about_images">Фон та анімація</string>
-    <string name="about_copyright">Інформація про авторські права</string>
     <string name="about_sunny">Ясно</string>
     <string name="about_sunny_night">Ясно (ніч)</string>
     <string name="about_cloudy">Малохмарно</string>

@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_author">Forfatter</string>
+  <string name="about_author">Forfatter:</string>
   <string name="about_blizzard">Snestorm</string>
   <string name="about_cloudy">Skyet</string>
   <string name="about_cloudy_night">Skyet Aften</string>
-  <string name="about_copyright">Ophavsret</string>
   <string name="about_dust">Støv</string>
   <string name="about_fog">Tåge</string>
   <string name="about_hailstone">Hagl</string>
@@ -12,7 +11,6 @@
   <string name="about_light_rain">Let regn</string>
   <string name="about_light_snow">Let sne</string>
   <string name="about_overcast">Overskyet</string>
-  <string name="about_provider">Vejrudbyder</string>
   <string name="about_rain">Regn</string>
   <string name="about_rainstorm">Regnstorm</string>
   <string name="about_showers">Byger</string>
@@ -21,7 +19,7 @@
   <string name="about_sunny">Solrigt</string>
   <string name="about_sunny_night">Solrig Aften</string>
   <string name="about_t_storms">Tordenbyger</string>
-  <string name="about_version">Version</string>
+  <string name="about_version">Version:</string>
   <string name="animation_preview">Eksempel på animationer</string>
   <string name="app_name">Vejr BZ</string>
   <string name="btn_add_location">Tilføj Placering</string>

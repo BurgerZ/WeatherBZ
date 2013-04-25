@@ -27,10 +27,8 @@ Supporter son développement avec Flattr ou en envoyant des dons en utilisant l'
 	<string name="widget_name_medium_ext">Météo 4x1</string>
 	<string name="widget_name_large">Météo 4x2</string>
 	<string name="widget_name_large_v5">Météo 4x2</string>
-	<string name="about_version">Version</string>
-	<string name="about_author">Auteur</string>
-	<string name="about_provider">Source des données météo</string>
-	<string name="about_copyright">Crédits</string>
+	<string name="about_version">Version:</string>
+	<string name="about_author">Auteur:</string>
 	<string name="about_sunny">Ciel dégagé</string>
 	<string name="about_sunny_night">Nuit dégagée</string>
 	<string name="about_cloudy">Ciel couvert</string>

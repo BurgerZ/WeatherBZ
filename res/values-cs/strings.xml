@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_author">Autor</string>
+    <string name="about_author">Autor:</string>
     <string name="about_blizzard">Blizárd</string>
     <string name="about_cloudy">Zamračeno</string>
     <string name="about_cloudy_night">Zamračená noc</string>
-    <string name="about_copyright">Autorská práva</string>
     <string name="about_dust">Prach</string>
     <string name="about_fog">Mlha</string>
     <string name="about_hailstone">Kroupy</string>
@@ -12,7 +11,6 @@
     <string name="about_light_rain">Mrholení</string>
     <string name="about_light_snow">Jemný sníh</string>
     <string name="about_overcast">Zamračeno</string>
-    <string name="about_provider">Zdroj předpovědi</string>
     <string name="about_rain">Déšť</string>
     <string name="about_rainstorm">Průtrž</string>
     <string name="about_showers">Přeháňky</string>
@@ -21,7 +19,7 @@
     <string name="about_sunny">Jasno</string>
     <string name="about_sunny_night">Jasná noc</string>
     <string name="about_t_storms">Bouřky</string>
-    <string name="about_version">Verze</string>
+    <string name="about_version">Verze:</string>
     <string name="animation_preview">Náhled animací</string>
     <string name="app_name">Počasí</string>
     <string name="btn_add_location">Přidat</string>

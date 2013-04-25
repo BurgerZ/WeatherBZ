@@ -25,10 +25,8 @@
     <string name="widget_name_medium">Időjárás 4x1</string>
     <string name="widget_name_medium_ext">Időjárás 4x1</string>
     <string name="widget_name_large">Időjárás 4x2</string>
-    <string name="about_version">Verzió</string>
-    <string name="about_author">Szerző</string>
-    <string name="about_provider">Időjárás szolgáltató</string>
-    <string name="about_copyright">Copyright</string>
+    <string name="about_version">Verzió:</string>
+    <string name="about_author">Szerző:</string>
     <string name="about_sunny">Napos</string>
     <string name="about_sunny_night">Tiszta</string>
     <string name="about_cloudy">Felhős</string>

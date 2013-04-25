@@ -26,11 +26,11 @@
     <string name="widget_name_medium_ext">Погода BZ 4x1</string>    
     <string name="widget_name_large">Погода BZ 4x2</string>
     <string name="widget_name_large_v5">Погода BZ 4x2 v5</string>
-    <string name="about_version">Версия</string>
-    <string name="about_author">Автор</string>
-    <string name="about_provider">Поставщик погоды</string>
-    <string name="about_images">Фон и анимация</string>
-    <string name="about_copyright">Сведения об авторских правах</string>
+    <string name="about_version">Версия:</string>
+    <string name="about_author">Автор:</string>
+    <string name="about_social">Ссылки:</string>
+    <string name="about_for_translators">Для переводчиков:</string>
+    <string name="about_for_translators_text">Если Вы хотите перевести данное приложение на Ваш язык, перейдите в мой аккаунт github (по кнопке выше)</string>              
     <string name="about_sunny">Ясно</string>
     <string name="about_sunny_night">Ясно (ночь)</string>
     <string name="about_cloudy">Облачно</string>
@@ -57,6 +57,7 @@
     <string name="menu_trend">График</string>
     <string name="btn_add_location">Добавить город</string>
     <string name="btn_delete_location">Удалить город</string>
+    <string name="location_gps">Текущее местоположение</string>
     <string name="location_list">Список городов</string>
     <string name="location_search">Поиск города</string>
     <string name="location_edit">Введите название города</string>
