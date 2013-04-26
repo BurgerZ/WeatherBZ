@@ -188,7 +188,7 @@
   	<string name="main_screen_text_color_summary">The text color of main screen data</string> 
   	<string name="widget_text_color_summary">"The widget's text color"</string> 
     <string name="pressure_units">Pressure units</string> 
-    <string name="pressure_units_mb">" mb"</string>
+    <string name="pressure_units_mb">" hPa"</string>
     <string name="pressure_units_mmhg">" mmHg"</string>
     <string name="wind_speed_units">Wind speed units</string>   
     <string name="wind_speed_units_mps">" m/s"</string>
