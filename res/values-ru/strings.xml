@@ -68,6 +68,8 @@
     <string name="weather_feel">"Ощущения: "</string>
     <string name="weather_pressure">"Давление: "</string>
     <string name="weather_visibility">"Видимость: "</string>
+    <string name="weather_sunrize">"Восход: "</string>
+    <string name="weather_sunset">"Закат: "</string>
     <string name="weather_cond_overcast">Пасмурно</string>
     <string name="settings_category_update">Обновление</string>
     <string name="settings_category_update_sum">Настройки автообновления и времени обновления прогноза</string>

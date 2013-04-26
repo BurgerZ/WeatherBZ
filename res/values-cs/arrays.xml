@@ -38,6 +38,7 @@
         <item>Vlhkost</item>
         <item>Tlak</item>
         <item>Viditelnost</item>
+        <item >Sunrise and sunset</item>
         <item>Další upozornění</item>
     </string-array>
     <string-array name="widget41_show_entries">

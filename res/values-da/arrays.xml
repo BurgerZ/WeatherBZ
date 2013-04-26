@@ -528,6 +528,7 @@
         <item>Fugtighed</item>
         <item>Tryk</item>
         <item>Sigtbarhed</item>
+        <item >Sunrise and sunset</item>
         <item>Næste Alarm</item>
     </string-array>
     <string-array name="widget41_show_entries">

@@ -69,6 +69,8 @@
     <string name="weather_feel">"RealFeel: "</string>
     <string name="weather_pressure">"Pressure: "</string>
     <string name="weather_visibility">"Visibility: "</string>
+    <string name="weather_sunrize">"Sunrise: "</string>
+    <string name="weather_sunset">"Sunset: "</string>
     <string name="weather_forecast_empty">--</string>
     <string name="weather_cond_overcast">Overcast</string>
     <string name="settings_category_update">Update settings</string>

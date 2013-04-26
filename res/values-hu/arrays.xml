@@ -528,6 +528,7 @@
 		<item>Páratartalom</item>
         <item>Légnyomás</item>
         <item>Látótávolság</item>
+        <item >Sunrise and sunset</item>
 		<item>Következő riasztás</item>       
     </string-array>       
     <string-array name="widget41_show_entries">

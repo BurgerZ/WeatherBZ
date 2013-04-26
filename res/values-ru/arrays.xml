@@ -504,6 +504,7 @@
         <item >Влажность</item>
         <item >Давление</item>
         <item >Видимость</item>
+        <item >Восход и Закат</item>
         <item >Будильник</item>
     </string-array>   
 	<string-array name="widget41_show_entries">

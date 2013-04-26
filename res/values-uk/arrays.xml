@@ -492,6 +492,7 @@
         <item >Вологість</item>
         <item >Тиск</item>
         <item >Видимість</item>
+        <item >Sunrise and sunset</item>
         <item >Next Alarm</item>
     </string-array>   
 </resources>

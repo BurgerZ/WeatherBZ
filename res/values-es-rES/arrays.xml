@@ -287,6 +287,7 @@
         <item>Humedad</item>
         <item>Presión</item>
         <item>Visibilidad</item>
+        <item >Sunrise and sunset</item>
         <item>Siguiente aviso</item>
     </string-array>
     <string-array name="widget41_show_entries">

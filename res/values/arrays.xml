@@ -560,6 +560,7 @@
         <item >Humidity</item>
         <item >Pressure</item>
         <item >Visibility</item>
+        <item >Sunrise and sunset</item>
         <item >Next Alarm</item>
     </string-array>
     <string-array name="main_show_values" translatable="false">
@@ -568,6 +569,7 @@
         <item >main_humid</item>
         <item >main_press</item>
         <item >main_visib</item>
+        <item >main_sunrize</item>
         <item >main_next_alarm</item>
     </string-array>        
 	<string-array name="widget41_show_entries">

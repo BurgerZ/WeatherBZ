@@ -279,6 +279,7 @@
         <item>Umidate</item>
         <item>Presiune</item>
         <item>Vizibilitate</item>
+        <item >Sunrise and sunset</item>
         <item>Următoarea Alarmă</item>
     </string-array>
     <string-array name="widget41_show_entries">
