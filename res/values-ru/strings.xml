@@ -185,7 +185,7 @@
   	<string name="main_screen_text_color_summary">Цвет текста главного окна программы</string> 
   	<string name="widget_text_color_summary">Цвет текста виджета</string> 
     <string name="pressure_units">Единицы давления</string> 
-    <string name="pressure_units_mb">" мБ"</string>
+    <string name="pressure_units_mb">" гПа"</string>
     <string name="pressure_units_mmhg">" мм.рт.ст."</string>
     <string name="wind_speed_units">Единицы скорости ветра</string>   
     <string name="wind_speed_units_mps">" м/с"</string>
