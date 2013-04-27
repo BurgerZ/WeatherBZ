@@ -2,8 +2,7 @@
 <resources>
     <string name="donations_button_close">Cerrar</string>
     <string name="donations_flattr">Flattr</string>
-    <string name="donations_description">"¿Encuentra útil esta aplicación?
-¡Ayude en su desarrollo mediante Flattr o envíe donaciones usando el Google Play Store!"</string>
+    <string name="donations_description">"¿Encuentra útil esta aplicación?\n¡Ayude en su desarrollo mediante Flattr o envíe donaciones usando el Google Play Store!"</string>
     <string name="donations_flattr_description">¡Flattr se queda el 10% como cuota mensual!</string>
     <string name="donations_google_android_market">Google Play Store</string>
     <string name="donations_google_android_market_not_supported_title">No se admiten donaciones In-App</string>
@@ -14,8 +13,7 @@
     <string name="donations_paypal">PayPal</string>
     <string name="donations_paypal_description">¡Puedes elegir cuánto quieres donar después de pulsar el botón!</string>
     <string name="donations_thanks_dialog_title">¡Gracias!</string>
-    <string name="donations_thanks_dialog">"¡Gracias por donar!
-¡Te lo agradezco mucho!"</string>
+    <string name="donations_thanks_dialog">"¡Gracias por donar!\n¡Te lo agradezco mucho!"</string>
     <string name="app_name">Tiempo BZ</string>
     <string name="changelog">Lista de cambios</string>
     <string name="close">Salir</string>
@@ -30,6 +28,9 @@
     <string name="widget_name_large_v5">Tiempo BZ 4x2</string>
     <string name="about_version">Versión:</string>
     <string name="about_author">Autor:</string>
+    <string name="about_social">Enlaces:</string>
+    <string name="about_for_translators">Traductoes:</string>
+    <string name="about_for_translators_text">Si deseas ayudar con la traducción de esta aplicación a tu idioma, visita mi página de github (usando el botón de arriba) para ver todos los recursos</string>
     <string name="about_sunny">Soleado</string>
     <string name="about_sunny_night">Noche calurosa</string>
     <string name="about_cloudy">Nublado</string>
@@ -68,6 +69,8 @@
     <string name="weather_feel">"Sensación real: "</string>
     <string name="weather_pressure">"Presión: "</string>
     <string name="weather_visibility">"Visibilidad: "</string>
+    <string name="weather_sunrize">"Salida del sol: "</string>
+    <string name="weather_sunset">"Puesta del sol: "</string>
     <string name="weather_forecast_empty">--</string>
     <string name="weather_cond_overcast">Cubierto</string>
     <string name="settings_category_update">Actualizaciones</string>
@@ -83,8 +86,7 @@
     <string name="settings_animation_download_summary">Se descargarán los archivos de vídeo de las animaciones para as condiciones climatológicas actuales (sólo cuando sea necesario)</string>
     <string name="settings_about_title">Acerca de</string>
     <string name="settings_about_summary">Información sobre la aplicación</string>
-    <string name="no_provider">Fallo al posicionar
-Escoge ubicación manual</string>
+    <string name="no_provider">Fallo al posicionar\nEscoge ubicación manual</string>
     <string name="network_error">No se pudo conectar al servidor</string>
     <string name="updating">Actualizando…</string>
     <string name="just_now">Ahora mismo</string>
@@ -121,7 +123,7 @@ Escoge ubicación manual</string>
     <string name="settings_show_weather_icons_title">Mostrar iconos del tiempo</string>
     <string name="settings_show_weather_icons_summary">Mostrar iconos del tiempo (en lugar de la descripción textual del tiempo) en el pronóstico de 3 días</string>
     <string name="settings_notification_text_color_summary">Texto y color iconos de las notificaciones</string>
-    <string name="settings_notification_color_title">Colo de la barra de estado</string>
+    <string name="settings_notification_color_title">Color de la barra de estado</string>
     <string name="settings_category_widgets">Widgets</string>
     <string name="settings_category_widgets_sum">Configurar la apariencia y acciones de los widgets</string>
     <string name="settings_widgets_click_clock_title">Clic en el reloj</string>
