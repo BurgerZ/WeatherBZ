@@ -147,6 +147,7 @@
     <string name="settings_widgets_widget4x2_wind_font_summary">Default value 14sp</string>
     <string name="settings_widgets_widget4x2_custom_font_title">Custom font size</string>
     <string name="settings_widgets_widget4x2_custom_font_summary">Customize font size for widget</string>
+    <string name="settings_click_actions">Click actions</string>
     <string name="settings_widgets_widget4x1">Widget 4x1</string>
     <string name="settings_show_info_title">Show info</string>
     <string name="settings_show_info_summary">Show or hide interface elements</string>
