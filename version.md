@@ -1,6 +1,8 @@
-﻿{"versionCode": "40508", 
-"versionName": "4.5.6", 
-"features": "<center><strong>*** v4.5.6 (27 Apr 2013) ***</strong></center><p>
-* Added hourly forecast (write feedbacks to az.burgerz@gmail.com)<p>
-* Fixed some geopositioning errors<p>",
+﻿{"versionCode": "40509", 
+"versionName": "4.5.7", 
+"features": "<center><strong>*** v4.5.7 (29 Apr 2013) ***</strong></center><p>
+* Added MIUI v5 support!<p>
+* Fixed locating issues<p>
+* Fixed PayPal donation FC<p>
+* Fixed locating issues<p>",
 "target": ""}
