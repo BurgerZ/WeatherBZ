@@ -17,6 +17,8 @@
     <string name="app_name">Погода BZ</string>
     <string name="changelog">Список изменений</string>
     <string name="close">Закрыть</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
     <string name="donate">Пожертвование</string> 
     <string name="settings_check_updates_title">Проверять обновления</string>
     <string name="settings_check_updates_summary">Проверять наличие новой версии приложения при запуске</string>        
@@ -127,6 +129,7 @@
     <string name="clear_miui_data_summary">Очищает базу данных WeatherProvider</string>
     <string name="clear_miui_data_dialog">Очистка базы MIUI</string>
     <string name="clear_miui_data_dialog_text">Очистка базы данных погоды MIUI завершена!</string>
+    <string name="clear_miui_data_dialog_ask">Очистить базу данных MIUI Weather Provider?</string>
     <string name="settings_time_format_12h">12-часовой формат</string>
     <string name="settings_show_weather_icons_title">Иконки погоды</string>
     <string name="settings_show_weather_icons_summary">Показывать иконки погоды (вместо текстового описания состояния погоды) в прогнозе на 3 дня</string>

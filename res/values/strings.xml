@@ -11,12 +11,15 @@
   	<string name="donations_google_android_market_donate_button">Donate!</string> 
   	<string name="donations_google_android_market_text">How much?</string> 
   	<string name="donations_paypal">PayPal</string> 
+  	<string name="donations_paypal_item_name">InApp Donation</string> 
   	<string name="donations_paypal_description">You can choose how much you want to donate after clicking the button!</string> 
   	<string name="donations_thanks_dialog_title">Thanks!</string> 
   	<string name="donations_thanks_dialog">Thanks for donating!\nI really appreciate this!</string>    
     <string name="app_name">Weather BZ</string>
     <string name="changelog">Changelog</string>
     <string name="close">Close</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
     <string name="donate">Donate</string>
     <string name="settings_check_updates_title">Check for updates</string>
     <string name="settings_check_updates_summary">Check for updates on application start</string>    
@@ -129,6 +132,7 @@
     <string name="clear_miui_data_summary">Clears MIUI Weather Provider database</string>
     <string name="clear_miui_data_dialog">Clear MIUI Weather</string>
     <string name="clear_miui_data_dialog_text">MIUI Weather Provider database cleared!</string>
+    <string name="clear_miui_data_dialog_ask">Clear MIUI Weather Provider database data?</string>
     <string name="settings_time_format_12h">12h time format</string>
     <string name="settings_show_weather_icons_title">Show weather icons</string>
     <string name="settings_show_weather_icons_summary">Show weather icons (instead of textual weather description) in 3-day forecast</string>
