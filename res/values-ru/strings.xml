@@ -71,6 +71,16 @@
     <string name="weather_sunrize">"Восход: "</string>
     <string name="weather_sunset">"Закат: "</string>
     <string name="weather_cond_overcast">Пасмурно</string>
+    <string name="weather_cond_sunny">Ясно</string>
+    <string name="weather_cond_chancerain">Возможен дождь</string>
+    <string name="weather_cond_sleet">Мокрый снег</string>
+    <string name="weather_cond_lightsnow">Небольшой снег</string>
+    <string name="weather_cond_rain">Дождь</string>
+    <string name="weather_cond_cloudy">Облачно</string>
+    <string name="weather_cond_fog">Туман</string>
+    <string name="weather_cond_rainstorm">Шквалистые дожди</string>
+    <string name="weather_cond_snow">Снег</string>
+    <string name="weather_cond_t_storms">Гроза</string>    
     <string name="settings_category_update">Обновление</string>
     <string name="settings_category_update_sum">Настройки автообновления и времени обновления прогноза</string>
     <string name="settings_category_animation">Анимация</string>
