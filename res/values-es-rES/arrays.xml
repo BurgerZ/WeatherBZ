@@ -178,92 +178,92 @@
         <item>Nigeria</item>
         <item>Nicaragua</item>
         <item>Holanda</item>
-        <item>noruega</item>
+        <item>Noruega</item>
         <item>Nepal</item>
         <item>Nauru</item>
         <item>Niue</item>
-        <item>New Zealand (Aotearoa)</item>
-        <item>Oman</item>
-        <item>Panama</item>
-        <item>Peru</item>
-        <item>French Polynesia</item>
-        <item>Papua New Guinea</item>
-        <item>Philippines</item>
-        <item>Pakistan</item>
-        <item>Poland</item>
-        <item>Saint Pierre and Miquelon</item>
+        <item>Nueva Zelanda</item>
+        <item>Omán</item>
+        <item>Panamá</item>
+        <item>Perú</item>
+        <item>Polinesia Francesa</item>
+        <item>Papúa Nueva Guinea</item>
+        <item>Filipinas</item>
+        <item>Pakistán</item>
+        <item>Polonia</item>
+        <item>San Pedro y Miquelón</item>
         <item>Pitcairn</item>
         <item>Puerto Rico</item>
-        <item>Palestinian Territory</item>
+        <item>Palestina</item>
         <item>Portugal</item>
         <item>Palau</item>
         <item>Paraguay</item>
         <item>Qatar</item>
         <item>Reunion</item>
-        <item>Romania</item>
-        <item>Russian Federation</item>
+        <item>Rumanía</item>
+        <item>Rusia</item>
         <item>Rwanda</item>
-        <item>Saudi Arabia</item>
-        <item>Solomon Islands</item>
+        <item>Arabia Saudí</item>
+        <item>Islas Salomón</item>
         <item>Seychelles</item>
-        <item>Sudan</item>
-        <item>Sweden</item>
-        <item>Singapore</item>
-        <item>Saint Helena</item>
-        <item>Slovenia</item>
-        <item>Svalbard and Jan Mayen</item>
-        <item>Slovakia</item>
-        <item>Sierra Leone</item>
+        <item>Sudán</item>
+        <item>Suecia</item>
+        <item>Singapur</item>
+        <item>Santa Elena</item>
+        <item>Eslovenia</item>
+        <item>Svalbard y Jan Mayen</item>
+        <item>Eslovaquia</item>
+        <item>Sierra Leona</item>
         <item>San Marino</item>
         <item>Senegal</item>
         <item>Somalia</item>
         <item>Suriname</item>
-        <item>Sao Tome and Principe</item>
-        <item>USSR (former)</item>
+        <item>Santo Tomé y Príncipe</item>
+        <item>(Antigua) URSS</item>
         <item>El Salvador</item>
-        <item>Syria</item>
-        <item>Swaziland</item>
-        <item>Turks and Caicos Islands</item>
+        <item>Siria</item>
+        <item>Swazilandia</item>
+        <item>Islas Turcas y Caicos</item>
         <item>Chad</item>
-        <item>French Southern Territories</item>
+        <item>Territorios Franceses Australes</item>
         <item>Togo</item>
-        <item>Thailand</item>
-        <item>Tajikistan</item>
+        <item>Tailandia</item>
+        <item>Tayikistán</item>
         <item>Tokelau</item>
         <item>Timor-Leste</item>
-        <item>Turkmenistan</item>
-        <item>Tunisia</item>
+        <item>Turkmenistán</item>
+        <item>Túnez</item>
         <item>Tonga</item>
-        <item>East Timor</item>
-        <item>Turkey</item>
-        <item>Trinidad and Tobago</item>
+        <item>Timor Oriental</item>
+        <item>Turquía</item>
+        <item>Trinidad y Tobago</item>
         <item>Tuvalu</item>
         <item>Taiwan</item>
         <item>Tanzania</item>
-        <item>Ukraine</item>
+        <item>Ucrania</item>
         <item>Uganda</item>
-        <item>United Kingdom</item>
-        <item>United States Minor Outlying Islands</item>
-        <item>United States</item>
+        <item>Reino Unido</item>
+        <item>Estados Unidos (Islas Menores Alejadas)</item>
+        <item>Estados Unidos</item>
         <item>Uruguay</item>
-        <item>Uzbekistan</item>
-        <item>Vatican City State (Holy See)</item>
-        <item>Saint Vincent and the Grenadines</item>
+        <item>Uzbekistán</item>
+        <item>Ciudad del Vaticano (Santa Sede)</item>
+        <item>San Vicente y las Granadinas</item>
         <item>Venezuela</item>
-        <item>Virgin Islands (British)</item>
-        <item>Virgin Islands (U.S.)</item>
+        <item>Islas Vírgenes (Británicas)</item>
+        <item>Islas Vírgenes (EE.UU.)</item>
         <item>Viet Nam</item>
         <item>Vanuatu</item>
-        <item>Wallis and Futuna</item>
+        <item>Wallis y Futuna</item>
         <item>Samoa</item>
         <item>Yemen</item>
         <item>Mayotte</item>
-        <item>Yugoslavia (former)</item>
-        <item>South Africa</item>
+        <item>(Antigua) Yugoslavia</item>
+        <item>Sudáfrica</item>
         <item>Zambia</item>
-        <item>Zaire (former)</item>
+        <item>(Antiguo) Zaire</item>
         <item>Zimbabwe</item>
-        <item>Saint Pierre and Miquelon</item>
+        <item>San Pedro y Miquelón</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
         <item>Negro</item>
