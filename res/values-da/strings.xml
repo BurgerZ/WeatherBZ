@@ -6,6 +6,8 @@
   <string name="about_cloudy_night">Skyet Aften</string>
   <string name="about_dust">Støv</string>
   <string name="about_fog">Tåge</string>
+  <string name="about_for_translators">Til oversættere:</string>
+  <string name="about_for_translators_text">Hvis du vil hjælpe med oversættelsen af denne app til dit sprog, gå til github siden (anvend knappen for oven) for at se ressourcerne</string>
   <string name="about_hailstone">Hagl</string>
   <string name="about_heavy_snow">Sne</string>
   <string name="about_light_rain">Let regn</string>
@@ -16,6 +18,7 @@
   <string name="about_showers">Byger</string>
   <string name="about_sleet">Slud</string>
   <string name="about_snow">Sne</string>
+  <string name="about_social">Sociale links:</string>
   <string name="about_sunny">Solrigt</string>
   <string name="about_sunny_night">Solrig Aften</string>
   <string name="about_t_storms">Tordenbyger</string>
@@ -24,9 +27,11 @@
   <string name="app_name">Vejr BZ</string>
   <string name="btn_add_location">Tilføj Placering</string>
   <string name="btn_delete_location">Slet Placering</string>
+  <string name="cancel">Annuller</string>
   <string name="changelog">Ændringslog</string>
   <string name="clear_miui_data">Ryd MIUI vejr data</string>
   <string name="clear_miui_data_dialog">Ryd MIUI vejr</string>
+  <string name="clear_miui_data_dialog_ask">Ryd MIUI Vejrudbyder database?</string>
   <string name="clear_miui_data_dialog_text">MIUI Vejrudbyder database ryddet!</string>
   <string name="clear_miui_data_summary">Rydder MIUI Vejrudbyder database</string>
   <string name="close">Luk</string>
@@ -45,7 +50,7 @@
   <string name="donations_description">Vil du finde dette program nyttigt?\nSupport den udvikling ved at flattring det eller sende donationer til udvikleren!</string>
   <string name="donations_flattr">Flattr</string>
   <string name="donations_flattr_description">Flattr tager 10% i månedlig gebyr!</string>
-  <string name="donations_google_android_market">Google Play Store</string>
+  <string name="donations_google_android_market">Google Play Butik</string>
   <string name="donations_google_android_market_description">Google tager 30% fra hver donation!</string>
   <string name="donations_google_android_market_donate_button">Donér!</string>
   <string name="donations_google_android_market_not_supported">In-App donationer er ikke supporteret. Er Google Play Store installeret korrekt?</string>
@@ -53,6 +58,7 @@
   <string name="donations_google_android_market_text">Hvor meget?</string>
   <string name="donations_paypal">PayPal</string>
   <string name="donations_paypal_description">Du kan vælge hvor meget du vil donere efter du har trykket på knappen</string>
+  <string name="donations_paypal_item_name">InApp Donation</string>
   <string name="donations_thanks_dialog">Tak fordi du donerede!\nJeg sætter virkelig pris på dette!</string>
   <string name="donations_thanks_dialog_title">Tak!</string>
   <string name="download_video">Download video</string>
@@ -71,6 +77,7 @@
   <string name="menu_update">Opdater</string>
   <string name="network_error">Kunne ikke forbinde til serveren</string>
   <string name="no_provider">Lokalisering mislykkedes\nIndstil placering manuelt</string>
+  <string name="ok">OK</string>
   <string name="press_color_to_apply">Tryk på farve for at anvende</string>
   <string name="pressure_units">Tryk enhed</string>
   <string name="pressure_units_mb">" mb"</string>
@@ -103,6 +110,7 @@
   <string name="settings_category_widgets_sum">Widgets udseende og tryk handlinger</string>
   <string name="settings_check_updates_summary">Kontroller for opdateringer ved app start</string>
   <string name="settings_check_updates_title">Kontroller for opdateringer</string>
+  <string name="settings_click_actions">Tryk handlinger</string>
   <string name="settings_miui_support_summary">Slå til for understøttelse af MIUI widgets</string>
   <string name="settings_miui_support_title">MIUI widgets understøttelse</string>
   <string name="settings_miui_v5_summary">Slå til hvis du bruger MIUI v5 ROM</string>
@@ -159,7 +167,17 @@
   <string name="visibility_units_km">" km"</string>
   <string name="visibility_units_m">" m"</string>
   <string name="visibility_units_mi">" mil"</string>
+  <string name="weather_cond_chancerain">Risiko for regn</string>
+  <string name="weather_cond_cloudy">Skyet</string>
+  <string name="weather_cond_fog">Tåge</string>
+  <string name="weather_cond_lightsnow">Let sne</string>
   <string name="weather_cond_overcast">Overskyet</string>
+  <string name="weather_cond_rain">Regn</string>
+  <string name="weather_cond_rainstorm">Regnstorm</string>
+  <string name="weather_cond_sleet">Slud</string>
+  <string name="weather_cond_snow">Sne</string>
+  <string name="weather_cond_sunny">Solrigt</string>
+  <string name="weather_cond_t_storms">Tordenvejr</string>
   <string name="weather_feel">"RealFeel: "</string>
   <string name="weather_forecast_empty">--</string>
   <string name="weather_humidity">"Fugtighed: "</string>
@@ -167,6 +185,8 @@
   <string name="weather_no_conditions_data">Ingen vejrdata</string>
   <string name="weather_no_temp_data">-°</string>
   <string name="weather_pressure">"Tryk: "</string>
+  <string name="weather_sunrize">"Solopgang: "</string>
+  <string name="weather_sunset">"Solnedgang: "</string>
   <string name="weather_visibility">"Sigtbarhed: "</string>
   <string name="weather_wind">"Vind: "</string>
   <string name="widget_name_large">Vejr BZ 4x2</string>
