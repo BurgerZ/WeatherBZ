@@ -11,13 +11,17 @@ Doceń autora pozytywnym komentarzem lub przekazując mu darowiznę!"</string>
     <string name="donations_google_android_market_description">Google pobiera 30% kwoty z każdej darowizny!</string>
     <string name="donations_google_android_market_donate_button">Przekaż!</string>
     <string name="donations_google_android_market_text">Kwota do przekazania?</string>
-    <string name="donations_paypal_description">Wybór kwoty do przekazania nastąpi po kliknięciu przycisku \"Przekaż\"!</string>
+    <string name="donations_paypal">PayPal</string> 
+  	<string name="donations_paypal_item_name">Dodacje w aplikacji</string> 
+  	<string name="donations_paypal_description">Wybór kwoty do przekazania nastąpi po kliknięciu przycisku \"Przekaż\"!</string>
     <string name="donations_thanks_dialog_title">Dzięki!</string>
     <string name="donations_thanks_dialog">"Dziekuję za darowiznę!
 Naprawdę to doceniam!"</string>
     <string name="app_name">Pogoda BZ</string>
     <string name="changelog">Zmiany</string>
     <string name="close">Zamknij</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anuluj</string>
     <string name="donate">Przekaż</string>
     <string name="settings_check_updates_title">Sprawdzaj aktualizacje</string>
     <string name="settings_check_updates_summary">Sprawdź aktualizacje aplikacji przy uruchamianiu</string>
@@ -29,6 +33,9 @@ Naprawdę to doceniam!"</string>
     <string name="widget_name_large_v5">Pogoda v5 4x2</string>
     <string name="about_version">Wersja:</string>
     <string name="about_author">Autor:</string>
+    <string name="about_social">Linki społecznościowe:</string>
+    <string name="about_for_translators">For Translators:</string>
+    <string name="about_for_translators_text">If you want to help with translation this app into your language, just go to the my github page (using the button above) to see all resources</string>              
     <string name="about_sunny">Słonecznie</string>
     <string name="about_sunny_night">Bezchmurna noc</string>
     <string name="about_cloudy">Pochmurnie</string>
@@ -67,8 +74,20 @@ Naprawdę to doceniam!"</string>
     <string name="weather_feel">"Odczuwalnie: "</string>
     <string name="weather_pressure">"Ciśnienie: "</string>
     <string name="weather_visibility">"Widoczność: "</string>
+    <string name="weather_sunrize">"Wschód: "</string>
+    <string name="weather_sunset">"Zachód: "</string>
     <string name="weather_forecast_empty">--</string>
     <string name="weather_cond_overcast">Prognoza</string>
+    <string name="weather_cond_sunny">Słonecznie</string>
+    <string name="weather_cond_chancerain">Szanse na deszcz</string>
+    <string name="weather_cond_sleet">Deszcz ze śniegiem</string>
+    <string name="weather_cond_lightsnow">Lekki śnieg</string>
+    <string name="weather_cond_rain">Deszcz</string>
+    <string name="weather_cond_cloudy">Pochmurnie</string>
+    <string name="weather_cond_fog">Mgła</string>
+    <string name="weather_cond_rainstorm">Ulewy</string>
+    <string name="weather_cond_snow">Śnieg</string>
+    <string name="weather_cond_t_storms">Burze</string>
     <string name="settings_category_update">Aktualizacje</string>
     <string name="settings_category_update_sum">Ustawienia automatycznych aktualizacji</string>
     <string name="settings_category_animation">Animacje</string>
@@ -85,7 +104,7 @@ Naprawdę to doceniam!"</string>
     <string name="no_provider">"Geolokalizacja nieudana
 Wybierz lokalizację ręcznie"</string>
     <string name="network_error">Połączenie z serwerem chwilowo niedostępne</string>
-    <string name="updating">Odświeżanie pogody…</string>
+    <string name="updating">Odświeżanie…</string>
     <string name="just_now">Teraz</string>
     <string name="fetching_location">Określanie pozycji…</string>
     <string name="conf_add_widget">Dodaj widżet</string>
@@ -116,6 +135,7 @@ Wybierz lokalizację ręcznie"</string>
     <string name="clear_miui_data_summary">Usuwa dane dostawcy pogody MIUI</string>
     <string name="clear_miui_data_dialog">Usuń dane pogody MIUI</string>
     <string name="clear_miui_data_dialog_text">Dane pogody MIUI wyczyszczone!</string>
+    <string name="clear_miui_data_dialog_ask">Usunąć dane MIUI Weather?</string>
     <string name="settings_time_format_12h">Format 12 godz.</string>
     <string name="settings_show_weather_icons_title">Pokaż ikonę pogody</string>
     <string name="settings_show_weather_icons_summary">Pokaż ikonę pogody (zamiast opisu tekstowego) w 3-dniowej prognozie</string>
@@ -144,6 +164,7 @@ Wybierz lokalizację ręcznie"</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">Domyślnie 14sp</string>
     <string name="settings_widgets_widget4x2_custom_font_title">Własny rozmiar czcionki</string>
     <string name="settings_widgets_widget4x2_custom_font_summary">Dostosuj rozmiar czcionki na widżecie</string>
+    <string name="settings_click_actions">Akcje kliknięcia</string>
     <string name="settings_widgets_widget4x1">Widżet 4x1</string>
     <string name="settings_show_info_title">Pokaż informacje</string>
     <string name="settings_show_info_summary">Pokaż/ukryj elementy widżetu</string>
@@ -192,6 +213,7 @@ Wybierz lokalizację ręcznie"</string>
     <string name="wind_speed_units_mph">" mph"</string>
     <string name="visibility_units">Jednostki widoczności</string>
     <string name="visibility_units_m">" m"</string>
+    <string name="visibility_units_km">" km"</string>
     <string name="visibility_units_mi">" mile"</string>
     <string name="temperature_units">Jednostki temperatury</string>
     <string name="temperature_units_c">Celsjusz</string>
