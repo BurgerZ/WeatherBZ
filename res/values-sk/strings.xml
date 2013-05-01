@@ -65,6 +65,7 @@
     <string name="fetching_location">Získavanie Vašej polohy...</string>
     <string name="changelog">Zoznam zmien</string>
     <string name="just_now">Práve teraz</string>
+    <string name="loading">Načítavanie...</string>
     <string name="location_edit">Vložte názov Mesta</string>
     <string name="location_gps">Súčasná poloha</string>	
     <string name="location_list">Mestá</string>
@@ -76,7 +77,9 @@
     <string name="menu_trend">Vývoj</string>	
     <string name="menu_update">Aktualizovať</string>
     <string name="network_error">Nie je možné sa pripojiť na server</string>
+    <string name="new_version">Nová verzia</string> 
     <string name="no_provider">"Určenie polohy zlyhalo. Zvoľte svoje mesto manuálne"</string>
+    <string name="not_now">Neskôr</string> 
     <string name="ok">OK</string>
     <string name="press_color_to_apply">Zvoľte farbu</string>
     <string name="pressure_units">Jednotka tlaku</string>
@@ -163,6 +166,7 @@
     <string name="temperature_units_f">Fahrenheit</string>
     <string name="text_color_title">Farba textu</string>
     <string name="updating">Aktualizovanie...</string>
+    <string name="upgrade">Aktualizovať</string>
     <string name="visibility_units">Jednotka viditeľnosti</string>
     <string name="visibility_units_km">" km"</string>
     <string name="visibility_units_m">" m"</string>
