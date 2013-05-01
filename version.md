@@ -1,9 +1,10 @@
-﻿{"versionCode": "40510", 
-"versionName": "4.5.7", 
-"features": "<center><strong>*** v4.5.7 (29 Apr 2013) ***</strong></center><p>
-* Added MIUI v5 support!<p>
-* Fixed locating issues (wrong lat/lon places in DB)<p>
-* Fixed PayPal donation FC<p>
-* Updated Spanish translation<p>
+﻿{"versionCode": "40511", 
+"versionName": "4.5.8", 
+"features": "<center><strong>*** v4.5.8 (01 May 2013) ***</strong></center><p>
+* Fixed locating issues<p>
+* Fixed MIUI v5 widget update<p>
+* In-app update (downloads new version of the app if available)<p>
+* Optimized content provider<p>
+* Fixed weatherdummy install<p>
 * WeatherDummy.apk integrated in app<p>",
 "target": ""}
