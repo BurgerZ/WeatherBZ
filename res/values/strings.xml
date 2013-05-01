@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="new_version">New version</string> 
+	<string name="upgrade">Upgrade</string> 
+	<string name="not_now">Not now</string> 
+	<string name="loading">Loading\u2026</string> 
     <string name="about_author">Author:</string>
     <string name="about_blizzard">Blizzard</string>
     <string name="about_cloudy">Cloudy</string>
