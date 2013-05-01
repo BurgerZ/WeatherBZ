@@ -38,7 +38,7 @@
         <item>Vlhkosť</item>
         <item>Tlak</item>
         <item>Viditeľnosť</item>
-        <item >Sunrise and sunset</item>
+        <item>Sunrise and sunset</item>
         <item>Ďalšie upozornenia</item>
     </string-array>
     <string-array name="widget41_show_entries">
@@ -52,7 +52,6 @@
     </string-array>
     <string-array name="animation_type_entries">
         <item >Predvolená</item>
-        <!--item >MITU</item-->
         <item >MIUI video</item>
     </string-array>
 </resources>
