@@ -38,7 +38,7 @@
         <item>Vlhkosť</item>
         <item>Tlak</item>
         <item>Viditeľnosť</item>
-        <item>Sunrise and sunset</item>
+        <item>Východ a západ slnka</item>
         <item>Ďalšie upozornenia</item>
     </string-array>
     <string-array name="widget41_show_entries">
@@ -51,7 +51,7 @@
         <item>"Dnešná predpoveď"</item>
     </string-array>
     <string-array name="animation_type_entries">
-        <item >Predvolená</item>
-        <item >MIUI video</item>
+        <item>Predvolená</item>
+        <item>MIUI video</item>
     </string-array>
 </resources>
