@@ -7,4 +7,4 @@
 * Optimized content provider<p>
 * Fixed weatherdummy install<p>
 * WeatherDummy.apk integrated in app<p>",
-"target": ""}
+"target": "https://github.com/BurgerZ/WeatherBZ/raw/master/WeatherBZ_v4.5.8.apk"}
