@@ -287,7 +287,7 @@
         <item>Wilgotność</item>
         <item>Ciśnienie</item>
         <item>Widoczność</item>
-        <item >Sunrise and sunset</item>
+        <item>Wschód i zachód słońca</item>
         <item>Następny alarm</item>
     </string-array>
     <string-array name="widget41_show_entries">
