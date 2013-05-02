@@ -99,8 +99,8 @@
     <string name="settings_animation_download_summary">Animationen und Videodaten für aktuelle Wetterbedingungen herunterladen (wenn Video lokal nicht auffindbar)</string>
     <string name="settings_about_title">Über</string>
     <string name="settings_about_summary">Informationen über die App</string>
-    <string name="no_provider">Positionierung erfolglos\nWähle den Ort selbst aus</string>
-    <string name="network_error">Konnte nicht mit dem Server verbinden</string>
+    <string name="no_provider">Positionierung gescheitert\nWähle den Ort selbst aus</string>
+    <string name="network_error">Verbindung mit dem Server fehlgeschlagen</string>
     <string name="updating">Aktualisiere\u2026</string>
     <string name="just_now">Gerade eben</string>
     <string name="fetching_location">Ermittle Deine Position\u2026</string>
@@ -164,7 +164,7 @@
     <string name="settings_click_actions">Berührungseinstellungen</string>
     <string name="settings_widgets_widget4x1">Widget 4x1</string>
     <string name="settings_show_info_title">Zeige Information</string>
-    <string name="settings_show_info_summary">Zeige oder verstecke Interface-Elements</string>
+    <string name="settings_show_info_summary">Zeige oder verstecke Anzeigeelemente</string>
     <string name="settings_notification_type">Benachrichtigung</string>
     <string name="settings_animation_type">Animation</string>
     <string name="quiet_hours_title">Ruhestunden</string>
@@ -205,11 +205,11 @@
     <string name="pressure_units">Druckeinheit</string> 
     <string name="pressure_units_mb">" hPa"</string>
     <string name="pressure_units_mmhg">" mmHg"</string>
-    <string name="wind_speed_units">Windgeschwindigkeit</string>   
+    <string name="wind_speed_units">Geschwindigkeitseinheit</string>   
     <string name="wind_speed_units_mps">" m/s"</string>
     <string name="wind_speed_units_kmph">" km/h"</string>
     <string name="wind_speed_units_mph">" mph"</string>
-    <string name="visibility_units">Sichtweite</string>
+    <string name="visibility_units">Längeneinheit</string>
     <string name="visibility_units_m">" m"</string>
     <string name="visibility_units_km">" km"</string>
     <string name="visibility_units_mi">" meilen"</string>
