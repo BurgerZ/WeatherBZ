@@ -279,21 +279,21 @@
         <item>Umidate</item>
         <item>Presiune</item>
         <item>Vizibilitate</item>
-        <item >Sunrise and sunset</item>
+        <item>Sunrise and sunset</item>
         <item>Următoarea Alarmă</item>
     </string-array>
     <string-array name="widget41_show_entries">
-        <item >Panou temperatură</item>
-        <item >Panou date extinse</item>
-        <item >Panou timp</item>
+        <item>Panou temperatură</item>
+        <item>Panou date extinse</item>
+        <item>Panou timp</item>
     </string-array>
     <string-array name="widget41_data_entries">
-        <item >"Vremea pentru 3 zile"</item>
-        <item >"Vremea azi"</item>
+        <item>"Vremea pentru 3 zile"</item>
+        <item>"Vremea azi"</item>
     </string-array>
     <string-array name="animation_type_entries">
-        <item >Implicit</item>
+        <item>Implicit</item>
         <!--item >MITU</item-->
-        <item >MIUI video</item>
+        <item>MIUI video</item>
     </string-array>
 </resources>

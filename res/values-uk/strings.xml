@@ -85,7 +85,7 @@
     <string name="settings_widgets_click_clock_summary">Вибір додатка для запуску після натискання на годинник</string>
     <string name="settings_widgets_click_weather_title">Натискання на прогноз</string>
     <string name="settings_widgets_click_weather_summary">Вибір додатка для запуску після натискання на прогно</string>
-    <string name="settings_widgets_widget4x2">Віджет 4x2</string>
+    <string name="settings_widgets_widget4x2">Віджет 4x2 (v4)</string>
     <string name="settings_widgets_widget4x2_desc_font_title">Опис погоди</string>
     <string name="settings_widgets_widget4x2_desc_font_summary">За замовчуванням 22sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">Годинник</string>

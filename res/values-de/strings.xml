@@ -144,7 +144,7 @@
     <string name="settings_widgets_widget4x1_data_title">Detailierte Daten</string>    
     <string name="settings_widgets_widget4x1_transparent_sum">Nicht ausgewählt für Standardhintergrund</string> 
     <string name="settings_widgets_widget4x1_transparent_title">Transparenter Hintergrund</string> 
-    <string name="settings_widgets_widget4x2">Widget 4x2</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Standardeinstellung 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Stadt</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Standardeinstellung 50sp</string>

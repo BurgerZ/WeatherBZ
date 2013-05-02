@@ -122,7 +122,7 @@ Lo apprezzo molto!"</string>
     <string name="settings_widgets_click_clock_summary">"Scegli l'applicazione da lanciare al click sull'orologio nei widget"</string>
     <string name="settings_widgets_click_weather_title">Click sul meteo</string>
     <string name="settings_widgets_click_weather_summary">"Scegli l'applicazione da lanciare al click sul meteo nei widget (temperatura)"</string>
-    <string name="settings_widgets_widget4x2">Widget 4x2</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
     <string name="settings_widgets_widget4x2_desc_font_title">Descrizione Meteo</string>
     <string name="settings_widgets_widget4x2_desc_font_summary">Valore default 22sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">Orologio</string>

@@ -10,11 +10,11 @@
     </string-array>
     <string-array name="update_interval_names">
         <item>30 minutes</item> 
-        <item >1 heure</item>
-        <item >2 heures</item>
-        <item >3 heures</item>
-        <item >4 heures</item>
-        <item >6 heures</item>
+        <item>1 heure</item>
+        <item>2 heures</item>
+        <item>3 heures</item>
+        <item>4 heures</item>
+        <item>6 heures</item>
     </string-array>
     <string-array name="country_codes" translatable="false">
         <item>ad</item>
@@ -536,7 +536,7 @@
         <item>Humidité</item>
         <item>Pression</item>
         <item>Visibilité</item>
-        <item >Sunrise and sunset</item>
+        <item>Sunrise and sunset</item>
         <item>Prochaine alarme</item>
     </string-array>      
 	<string-array name="widget41_show_entries">

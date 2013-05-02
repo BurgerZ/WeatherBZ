@@ -2,11 +2,11 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string-array name="update_interval_names">
         <item>30 perc</item> 
-        <item >1 óra</item>
-        <item >2 óra</item>
-        <item >3 óra</item>
-        <item >4 óra</item>
-        <item >6 óra</item>
+        <item>1 óra</item>
+        <item>2 óra</item>
+        <item>3 óra</item>
+        <item>4 óra</item>
+        <item>6 óra</item>
     </string-array>
     <string-array name="country_codes" translatable="false">
         <item>ad</item>
@@ -528,7 +528,7 @@
 		<item>Páratartalom</item>
         <item>Légnyomás</item>
         <item>Látótávolság</item>
-        <item >Sunrise and sunset</item>
+        <item>Sunrise and sunset</item>
 		<item>Következő riasztás</item>       
     </string-array>       
     <string-array name="widget41_show_entries">

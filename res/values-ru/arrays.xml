@@ -10,11 +10,11 @@
   	</string-array>
     <string-array name="update_interval_names">
         <item>30 минут</item>
-        <item >1 час</item>
-        <item >2 часа</item>
-        <item >3 часа</item>
-        <item >4 часа</item>
-        <item >6 часов</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>6 часов</item>
     </string-array>
     <string-array name="country_codes">
         <item>ad</item>
@@ -483,42 +483,42 @@
 		<item>Сент-Пьер и Микелон</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
-        <item >Черный</item>
-        <item >Белый</item>
+        <item>Черный</item>
+        <item>Белый</item>
     </string-array>   
     <string-array name="notif_type_entries">
-        <item >Температура</item>
-        <item >Иконка погоды</item>
+        <item>Температура</item>
+        <item>Иконка погоды</item>
     </string-array>    
     <string-array name="widget42_show_entries">
-        <item >Часы</item>
-        <item >Дата</item>
-        <item >Город</item>
-        <item >Описание погоды</item>
-        <item >Ощущения</item>
-        <item >Ветер</item>
+        <item>Часы</item>
+        <item>Дата</item>
+        <item>Город</item>
+        <item>Описание погоды</item>
+        <item>Ощущения</item>
+        <item>Ветер</item>
     </string-array>   
     <string-array name="main_show_entries">
-        <item >Ощущения</item>
-        <item >Ветер</item>
-        <item >Влажность</item>
-        <item >Давление</item>
-        <item >Видимость</item>
-        <item >Восход и Закат</item>
-        <item >Будильник</item>
+        <item>Ощущения</item>
+        <item>Ветер</item>
+        <item>Влажность</item>
+        <item>Давление</item>
+        <item>Видимость</item>
+        <item>Восход и Закат</item>
+        <item>Будильник</item>
     </string-array>   
 	<string-array name="widget41_show_entries">
-        <item >Панель температур</item>
-        <item >Панель дополнительных данных</item>
-        <item >Панель часов</item>
+        <item>Панель температур</item>
+        <item>Панель дополнительных данных</item>
+        <item>Панель часов</item>
 	</string-array>
     <string-array name="widget41_data_entries">
-        <item >Прогноз на 3 дня</item>
-        <item >Текущие данные</item>
+        <item>Прогноз на 3 дня</item>
+        <item>Текущие данные</item>
     </string-array>	
     <string-array name="animation_type_entries">
-        <item >По умолчанию</item>
+        <item>По умолчанию</item>
         <!--item >Кролик MITU</item-->
-        <item >MIUI видео</item>
+        <item>MIUI видео</item>
     </string-array>    
 </resources>

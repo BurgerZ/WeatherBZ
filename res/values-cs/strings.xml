@@ -140,7 +140,7 @@
     <string name="settings_widgets_widget4x1_data_title">Rozšířená data</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Nastavte pro předvolené pozadí</string>
     <string name="settings_widgets_widget4x1_transparent_title">Průhledné pozadí</string>
-    <string name="settings_widgets_widget4x2">Widget 4x2</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Předvolená hodnota 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Město</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Předvolená hodnota 50sp</string>

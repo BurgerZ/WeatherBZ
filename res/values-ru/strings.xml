@@ -145,7 +145,7 @@
     <string name="settings_widgets_click_clock_summary">Выбор приложения для запуска по нажатию на часы</string>
     <string name="settings_widgets_click_weather_title">Нажатие на прогноз</string>
     <string name="settings_widgets_click_weather_summary">Выбор приложения для запуска по нажатию на прогноз</string>
-    <string name="settings_widgets_widget4x2">Виджет 4x2</string>
+    <string name="settings_widgets_widget4x2">Виджет 4x2 (v4)</string>
     <string name="settings_widgets_widget4x2_desc_font_title">Описание погоды</string>
     <string name="settings_widgets_widget4x2_desc_font_summary">По умолчанию 22sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">Часы</string>

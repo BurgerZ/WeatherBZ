@@ -87,7 +87,7 @@ Selectaţi locaţia manual"</string>
     <string name="settings_widgets_click_clock_summary">Aplicaţie la clic pe ora din obiectele widget</string>
     <string name="settings_widgets_click_weather_title">Clic pe Prognoza meteo</string>
     <string name="settings_widgets_click_weather_summary">Aplicaţie la clic pe prognoza meteo din obiectele widget (temperatură)</string>
-    <string name="settings_widgets_widget4x2">Obiect widget 4x2</string>
+    <string name="settings_widgets_widget4x2">Obiect widget 4x2 (v4)</string>
     <string name="settings_widgets_widget4x2_desc_font_title">Descriere vreme</string>
     <string name="settings_widgets_widget4x2_desc_font_summary">Valoare prestabilită 22sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">Ceas</string>

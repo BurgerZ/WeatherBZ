@@ -127,7 +127,7 @@ Veuillez entrer manuellement votre position</string>
 	<string name="settings_widgets_click_clock_summary">"Application à lancer en cliquant sur l'heure affichée dans le widget"</string>
 	<string name="settings_widgets_click_weather_title">Clic sur la météo</string>
 	<string name="settings_widgets_click_weather_summary">Application à lancer en cliquant sur la zone météo du widget</string>
-	<string name="settings_widgets_widget4x2">Widget 4x2</string>
+	<string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
 	<string name="settings_widgets_widget4x2_desc_font_title">Météo (description)</string>
 	<string name="settings_widgets_widget4x2_desc_font_summary">Valeur par défaut 22sp</string>
 	<string name="settings_widgets_widget4x2_clock_font_title">Heure</string>

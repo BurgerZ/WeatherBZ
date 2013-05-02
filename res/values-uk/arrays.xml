@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="update_interval_names">
-        <item >30 хвилин</item>
-        <item >1 година</item>
-        <item >2 години</item>
-        <item >3 години</item>
-        <item >4 години</item>
-        <item >6 годин</item>
+        <item>30 хвилин</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>3 години</item>
+        <item>4 години</item>
+        <item>6 годин</item>
     </string-array>
     <string-array name="country_codes">
         <item>ad</item>
@@ -475,24 +475,24 @@
 		<item>Сент-Пьер і Мікелон</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
-        <item >Чорний</item>
-        <item >Білий</item>
+        <item>Чорний</item>
+        <item>Білий</item>
     </string-array>   
     <string-array name="widget42_show_entries">
-        <item >Годинник</item>
-        <item >Дата</item>
-        <item >Місто</item>
-        <item >Опис погоди</item>
-        <item >Відчуття</item>
-        <item >Вітер</item>
+        <item>Годинник</item>
+        <item>Дата</item>
+        <item>Місто</item>
+        <item>Опис погоди</item>
+        <item>Відчуття</item>
+        <item>Вітер</item>
     </string-array>   
     <string-array name="main_show_entries">
-        <item >Відчуття</item>
-        <item >Вітер</item>
-        <item >Вологість</item>
-        <item >Тиск</item>
-        <item >Видимість</item>
-        <item >Sunrise and sunset</item>
-        <item >Next Alarm</item>
+        <item>Відчуття</item>
+        <item>Вітер</item>
+        <item>Вологість</item>
+        <item>Тиск</item>
+        <item>Видимість</item>
+        <item>Sunrise and sunset</item>
+        <item>Next Alarm</item>
     </string-array>   
 </resources>

@@ -144,7 +144,7 @@
     <string name="settings_widgets_click_clock_summary">Seleccione la aplicación que se iniciará al tocar el reloj</string>
     <string name="settings_widgets_click_weather_title">Clic en la previsión</string>
     <string name="settings_widgets_click_weather_summary">Seleccione la aplicación que se iniciará al tocar la previosión del tiempo</string>
-    <string name="settings_widgets_widget4x2">Widget 4x2</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
     <string name="settings_widgets_widget4x2_desc_font_title">Descripción del tiempo</string>
     <string name="settings_widgets_widget4x2_desc_font_summary">Por defecto 22sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">Reloj</string>

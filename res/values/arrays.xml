@@ -10,19 +10,19 @@
   	</string-array>    
     <string-array name="update_interval_names">
         <item>30 minutes</item> 
-        <item >1 hour</item>
-        <item >2 hours</item>
-        <item >3 hours</item>
-        <item >4 hours</item>
-        <item >6 hours</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>4 hours</item>
+        <item>6 hours</item>
     </string-array>
     <string-array name="update_interval_values" translatable="false">
         <item>30</item> 
-        <item >60</item>
-        <item >120</item>
-        <item >180</item>
-        <item >240</item>
-        <item >360</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+        <item>360</item>
     </string-array>
     <string-array name="country_codes" translatable="false">
         <item>ad</item>
@@ -523,72 +523,72 @@
 		<item>Saint Pierre and Miquelon</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
-        <item >Black</item>
-        <item >White</item>
+        <item>Black</item>
+        <item>White</item>
     </string-array>
     <string-array name="notif_temp_color_values" translatable="false">
-        <item >0</item>
-        <item >1</item>
+        <item>0</item>
+        <item>1</item>
     </string-array> 
     <string-array name="notif_type_entries">
-        <item >Temperature</item>
-        <item >Weather icon</item>
+        <item>Temperature</item>
+        <item>Weather icon</item>
     </string-array>
     <string-array name="notif_type_values" translatable="false">
-        <item >temperature_symbol</item>
-        <item >weather_symbol</item>
+        <item>temperature_symbol</item>
+        <item>weather_symbol</item>
     </string-array>     
     <string-array name="widget42_show_entries">
-        <item >Clock</item>
-        <item >Date</item>
-        <item >City</item>
-        <item >Weather description</item>
-        <item >Feelings</item>
-        <item >Wind</item>
+        <item>Clock</item>
+        <item>Date</item>
+        <item>City</item>
+        <item>Weather description</item>
+        <item>Feelings</item>
+        <item>Wind</item>
     </string-array>
     <string-array name="widget42_show_values" translatable="false">
-        <item >w42_clock</item>
-        <item >w42_date</item>
-        <item >w42_city</item>
-        <item >w42_desc</item>
-        <item >w42_feel</item>
-        <item >w42_wind</item>
+        <item>w42_clock</item>
+        <item>w42_date</item>
+        <item>w42_city</item>
+        <item>w42_desc</item>
+        <item>w42_feel</item>
+        <item>w42_wind</item>
     </string-array>    
     <string-array name="main_show_entries">
-        <item >Feelings</item>
-        <item >Wind</item>
-        <item >Humidity</item>
-        <item >Pressure</item>
-        <item >Visibility</item>
-        <item >Sunrise and sunset</item>
-        <item >Next Alarm</item>
+        <item>Feelings</item>
+        <item>Wind</item>
+        <item>Humidity</item>
+        <item>Pressure</item>
+        <item>Visibility</item>
+        <item>Sunrise and sunset</item>
+        <item>Next Alarm</item>
     </string-array>
     <string-array name="main_show_values" translatable="false">
-        <item >main_feel</item>
-        <item >main_wind</item>
-        <item >main_humid</item>
-        <item >main_press</item>
-        <item >main_visib</item>
-        <item >main_sunrize</item>
-        <item >main_next_alarm</item>
+        <item>main_feel</item>
+        <item>main_wind</item>
+        <item>main_humid</item>
+        <item>main_press</item>
+        <item>main_visib</item>
+        <item>main_sunrize</item>
+        <item>main_next_alarm</item>
     </string-array>        
 	<string-array name="widget41_show_entries">
-        <item >Temperature panel</item>
-        <item >Extended data panel</item>
-        <item >Time panel</item>
+        <item>Temperature panel</item>
+        <item>Extended data panel</item>
+        <item>Time panel</item>
 	</string-array>
 	<string-array name="widget41_show_values" translatable="false">
-        <item >w41_temp</item>
-        <item >w41_cond</item>
-        <item >w41_time</item>
+        <item>w41_temp</item>
+        <item>w41_cond</item>
+        <item>w41_time</item>
 	</string-array>     
     <string-array name="widget41_data_entries">
-        <item >"3-day's forecast data"</item>
-        <item >"Today's Forecast data"</item>
+        <item>"3-day's forecast data"</item>
+        <item>"Today's Forecast data"</item>
     </string-array>
     <string-array name="widget41_data_values" translatable="false">
-        <item >w41_3day_forecast</item>
-        <item >w41_forecast_data</item>
+        <item>w41_3day_forecast</item>
+        <item>w41_forecast_data</item>
     </string-array>   	
     <string-array name="pressure_units_entries">
         <item>@string/pressure_units_mb</item>
@@ -627,13 +627,13 @@
         <item>temperature_units_f</item>
     </string-array>      
     <string-array name="animation_type_entries">
-        <item >Default</item>
+        <item>Default</item>
         <!--item >MITU</item-->
-        <item >MIUI video</item>
+        <item>MIUI video</item>
     </string-array>
     <string-array name="animation_type_values" translatable="false">
-        <item >animation_default</item>
+        <item>animation_default</item>
         <!--item >animation_mitu</item-->
-        <item >animation_miui</item>
+        <item>animation_miui</item>
     </string-array>              
 </resources>
