@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_author">Autor:</string>
-    <string name="about_blizzard">Blizárd</string>
+    <string name="about_blizzard">Blizard</string>
     <string name="about_cloudy">Zamračeno</string>
     <string name="about_cloudy_night">Zamračená noc</string>
     <string name="about_dust">Prach</string>
     <string name="about_fog">Mlha</string>
+    <string name="about_for_translators">Pro překladatele:</string>
+    <string name="about_for_translators_text">Pokud chcete pomoci s překladem této aplikace do Vašeho jazyka, najdete naše github repo po stisknutí ikony Githubu.</string>              
     <string name="about_hailstone">Kroupy</string>
     <string name="about_heavy_snow">Těžký sníh</string> 
     <string name="about_light_rain">Mrholení</string>
@@ -16,6 +18,7 @@
     <string name="about_showers">Přeháňky</string>
     <string name="about_sleet">Plískanice</string>
     <string name="about_snow">Sněžení</string>
+    <string name="about_social">Sociální odkazy:</string>
     <string name="about_sunny">Jasno</string>
     <string name="about_sunny_night">Jasná noc</string>
     <string name="about_t_storms">Bouřky</string>
@@ -24,8 +27,10 @@
     <string name="app_name">Počasí</string>
     <string name="btn_add_location">Přidat</string>
     <string name="btn_delete_location">Vymazat</string>
+    <string name="cancel">Zrušit</string>
     <string name="clear_miui_data">Vyčistit údaje MIUI počasí</string>
     <string name="clear_miui_data_dialog">Vyčistit MIUI Počasí</string>
+    <string name="clear_miui_data_dialog_ask">Vyčistit databázi MIUI počasí?</string>
     <string name="clear_miui_data_dialog_text">Databáze MIUI počasí byla vyčištěna!</string>
     <string name="clear_miui_data_summary">Vyčistí databázi MIUI počasí</string>
     <string name="close">Zavřít</string>
@@ -40,28 +45,28 @@
     <string name="dlg_select_action">Zvolte akci</string>
     <string name="dlg_set_as_home">Nastavit jako \"Domácí město\"</string>
     <string name="donate">Příspěvek</string>
-    <string name="donations__button_close">Zavřít</string>
-    <string name="donations__flattr">Flattr</string>
-    <string name="donations__description">"Je pro Vás tato aplikace užitečná?
-Podpořte nás malým příspěvkem!"</string>
-    <string name="donations__flattr_description">Flattr vezme 10 % jako měsíční poplatek!</string>
-    <string name="donations__google_android_market">Obchod Google Play</string>
-    <string name="donations__google_android_market_not_supported_title">In-App příspěvky nejsou podporované</string>
-    <string name="donations__google_android_market_not_supported">In-App příspěvky nejsou podporované. Je Google Play nainstalovaný správně?</string>
-    <string name="donations__google_android_market_description">Google si vezme 30 % z každého příspěvku!</string>
-    <string name="donations__google_android_market_donate_button">Přispět!</string>
-    <string name="donations__google_android_market_text">Kolik?</string>
-    <string name="donations__paypal_description">Můžete si zvolit výšku příspěvku!</string>
-    <string name="donations__thanks_dialog_title">Děkujeme!</string>
-    <string name="donations__thanks_dialog">"Děkujeme za příspěvek!
-Jsme Vám opravdu vděční!"</string>
+    <string name="donations_button_close">Zavřít</string>
+    <string name="donations_flattr">Flattr</string>
+    <string name="donations_description">"Je pro Vás tato aplikace užitečná? Podpořte nás malým příspěvkem!"</string>
+    <string name="donations_flattr_description">Flattr vezme 10 % jako měsíční poplatek!</string>
+    <string name="donations_google_android_market">Obchod Google Play</string>
+    <string name="donations_google_android_market_description">Google si vezme 30 % z každého příspěvku!</string>
+    <string name="donations_google_android_market_donate_button">Přispět!</string>
+    <string name="donations_google_android_market_not_supported_title">In-App příspěvky nejsou podporovány</string>
+    <string name="donations_google_android_market_not_supported">In-App příspěvky nejsou podporovány. Je Google Play nainstalovaný správně?</string>
+    <string name="donations_google_android_market_text">Kolik?</string>
+    <string name="donations_paypal">PayPal</string> 
+    <string name="donations_paypal_description">Můžete si zvolit výšku příspěvku!</string>
+    <string name="donations_paypal_item_name">InApp Příspěvek</string> 
+    <string name="donations_thanks_dialog">"Děkujeme za příspěvek! Jsme Vám velmi vděční!"</string>
+    <string name="donations_thanks_dialog_title">Děkujeme!</string>
     <string name="download_video">Stáhnout video</string>
     <string name="end_time_title">Konec</string>
     <string name="fetching_location">Získávání Vaší polohy...</string>
     <string name="changelog">Seznam změn</string>
     <string name="just_now">Právě teď</string>
     <string name="location_edit">Vložte název Města</string>
-    <string name="location_gps">Současná poloha</string>	
+    <string name="location_gps">Současná poloha</string>    
     <string name="location_list">Města</string>
     <string name="location_search">Vyhledat Město</string>
     <string name="main_screen_text_color_summary">Barva textu na hlavní obrazovce</string>
@@ -72,6 +77,7 @@ Jsme Vám opravdu vděční!"</string>
     <string name="menu_update">Aktualizovat</string>
     <string name="network_error">Není možné se připojit na server</string>
     <string name="no_provider">"Určení polohy selhalo. Zvolte svoje město manuálně"</string>
+    <string name="ok">OK</string>
     <string name="press_color_to_apply">Zvolte barvu</string>
     <string name="pressure_units">Jednotka tlaku</string>
     <string name="pressure_units_mb">" hPa"</string>
@@ -102,6 +108,7 @@ Jsme Vám opravdu vděční!"</string>
     <string name="settings_category_update_sum">Nastavení aktualizace počasí a intervalu obnovení</string>
     <string name="settings_category_widgets">Nastavení widgetu</string>
     <string name="settings_category_widgets_sum">Přizpůsobení widgetu a akce dotyku</string>
+    <string name="settings_click_actions">Akce kliknutí</string>
     <string name="settings_check_updates_summary">Kontrolovat aktualizace při spuštění</string>
     <string name="settings_check_updates_title">Kontrola aktualizací</string>
     <string name="settings_miui_support_summary">Povolte pro podporu widgetu počasí MIUI</string>
@@ -157,16 +164,29 @@ Jsme Vám opravdu vděční!"</string>
     <string name="text_color_title">Barva textu</string>
     <string name="updating">Aktualizace...</string>
     <string name="visibility_units">Jednotka viditelnosti</string>
+    <string name="visibility_units_km">" km"</string>
     <string name="visibility_units_m">" m"</string>
     <string name="visibility_units_mi">" míle"</string>
-    <string name="weather_cond_overcast">Předpověď</string>
-    <string name="weather_feel">"Pocit: "</string>
+    <string name="weather_cond_cloudy">Zamračeno</string>
+    <string name="weather_cond_fog">Mlha</string>
+    <string name="weather_cond_chancerain">Možné srážky</string>
+    <string name="weather_cond_lightsnow">Lehké sněžení</string>
+    <string name="weather_cond_overcast">Předpověď </string>
+    <string name="weather_cond_rain">Déšť</string>
+    <string name="weather_cond_rainstorm">Bouřka</string>
+    <string name="weather_cond_sleet">Plískanice</string>
+    <string name="weather_cond_snow">Sníh</string>
+    <string name="weather_cond_sunny">Jasno</string>
+    <string name="weather_cond_t_storms">Bouřka</string>
+    <string name="weather_feel">"Pocitově: "</string>
     <string name="weather_forecast_empty">--</string>
     <string name="weather_humidity">"Vlhkost: "</string>
     <string name="weather_no_city">Žádné Město</string>
     <string name="weather_no_conditions_data">Žádné údaje o počasí</string>
     <string name="weather_no_temp_data">-°</string>
     <string name="weather_pressure">"Tlak: "</string>
+    <string name="weather_sunrize">"Východ: "</string>
+    <string name="weather_sunset">"Západ: "</string>
     <string name="weather_visibility">"Viditelnost: "</string>
     <string name="weather_wind">"Vítr: "</string>
     <string name="widget_name_large">Počasí BZ 4x2</string>
@@ -195,5 +215,4 @@ Jsme Vám opravdu vděční!"</string>
     <string name="wind_w">Z</string>
     <string name="wind_wnw">Z-SZ</string>
     <string name="wind_wsw">Z-JZ</string>
-
 </resources>
