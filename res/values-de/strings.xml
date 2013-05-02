@@ -11,7 +11,7 @@
     <string name="about_dust">Staub</string>
     <string name="about_fog">Nebel</string>
     <string name="about_for_translators">Für Übersetzer:</string>
-    <string name="about_for_translators_text">Wenn Du helfen willst die App in Deine Sprache zu übersetzen, gehe einfach auf meine GitHub-Seite (verwende den Button unten) um alle Quellen zu sehen.</string>              
+    <string name="about_for_translators_text">Wenn Du helfen willst die App in Deine Sprache zu übersetzen, gehe einfach auf meine GitHub-Seite (verwende den Button oben) um alle Quellen zu sehen.</string>              
     <string name="about_hailstone">Hagel</string>
     <string name="about_heavy_snow">Schneegestöber</string>    
     <string name="about_light_rain">Nieseln</string>
@@ -20,7 +20,7 @@
     <string name="about_rain">Regen</string>
     <string name="about_rainstorm">Regensturm</string>
     <string name="about_showers">Regengüsse</string>
-    <string name="about_sleet">Graupeln</string>
+    <string name="about_sleet">Graupelschauer</string>
     <string name="about_snow">Schnee</string>
     <string name="about_social">Soziale Verbindungen:</string>
     <string name="about_sunny">Sonnig</string>
@@ -64,7 +64,7 @@
     <string name="donations_paypal_item_name">In-App-Spende</string> 
     <string name="donations_thanks_dialog">Danke für die Spende!\nIch weiß das sehr zu schätzen!</string>    
     <string name="donations_thanks_dialog_title">Danke!</string> 
-    <string name="download_video">Hole Video</string>
+    <string name="download_video">Video abrufen</string>
     <string name="end_time_title">Ende</string>
     <string name="fetching_location">Ermittle Deine Position\u2026</string>
     <string name="changelog">Changelog</string>
@@ -104,7 +104,7 @@
     <string name="settings_category_appearance_sum">Darstellungseinstellungen (Einheiten, Textfarbe etc.)</string>
     <string name="settings_category_forecast_update">Aktualisierung der Vorhersage</string>    
     <string name="settings_category_miui">MIUI ROMs</string>
-    <string name="settings_category_miui_sum">MIUI-Supporteinstellungen (Ein/Aus, Datenbereinigung etc.)</string>
+    <string name="settings_category_miui_sum">MIUI-Supporteinstellungen (Unterstützung ein/aus, Datenbereinigung etc.)</string>
     <string name="settings_category_network">Netzwerkeinstellungen</string>
     <string name="settings_category_notification">Benachrichtigungs-Einstellungen</string>
     <string name="settings_category_notification_sum">Wetter-Benachrichtigungs-Einstellungen</string>
@@ -165,7 +165,7 @@
     <string name="temperature_units">Temperatureinheit</string>
     <string name="temperature_units_c">Celsius</string>
     <string name="temperature_units_f">Fahrenheit</string>
-    <string name="text_color_title">Text Color</string> 
+    <string name="text_color_title">Textfarbe</string> 
     <string name="updating">Aktualisiere\u2026</string>
     <string name="visibility_units">Längeneinheit</string>
     <string name="visibility_units_km">" km"</string>
@@ -178,7 +178,7 @@
     <string name="weather_cond_overcast">Bedeckt</string>
     <string name="weather_cond_rain">Regen</string>
     <string name="weather_cond_rainstorm">Regensturm</string>
-    <string name="weather_cond_sleet">Graupeln</string>
+    <string name="weather_cond_sleet">Graupelschauer</string>
     <string name="weather_cond_snow">Schnee</string>
     <string name="weather_cond_sunny">Sonnig</string>
     <string name="weather_cond_t_storms">Gewitter</string>
