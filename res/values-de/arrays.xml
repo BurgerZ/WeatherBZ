@@ -303,7 +303,7 @@
         <item>Bermuda</item>
         <item>Brunei</item>
         <item>Bolivien</item>
-        <item>Brazilien</item>
+        <item>Brasilien</item>
         <item>Bahamas</item>
         <item>Bhutan</item>
         <item>Bouvetinsel</item>
@@ -520,7 +520,7 @@
         <item>Sambia</item>
         <item>Zaire (früheres)</item>
         <item>Simbabwe</item>
-		<item>Saint-Pierre und Miquelon</item>
+	    <item>Saint-Pierre und Miquelon</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
         <item >Schwarz</item>
