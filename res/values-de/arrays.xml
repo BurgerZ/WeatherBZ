@@ -557,7 +557,7 @@
     <string-array name="main_show_entries">
         <item>Gefühlt</item>
         <item>Wind</item>
-        <item>Feuchtigkeit</item>
+        <item>Luftfeuchtigkeit</item>
         <item>Luftdruck</item>
         <item>Sichtweite</item>
         <item>Sonnenauf- und -untergang</item>
