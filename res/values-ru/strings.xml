@@ -14,6 +14,7 @@
   	<string name="donations_google_android_market_donate_button">Пожертвовать!</string> 
   	<string name="donations_google_android_market_text">Сколько?</string> 
   	<string name="donations_paypal">PayPal</string> 
+  	<string name="donations_yandex">Яндекс.Деньги</string> 
   	<string name="donations_paypal_description">После нажатия на кнопку вы можете выбрать сколько хотите пожертвовать!</string> 
   	<string name="donations_thanks_dialog_title">Благодарю!</string> 
   	<string name="donations_thanks_dialog">Благодарю за пожертвование! Я очень это ценю!</string> 
@@ -29,7 +30,8 @@
     <string name="settings_category_app_update">Обновление приложения</string>  
     <string name="settings_category_forecast_update">Обновление прогноза</string>    
     <string name="widget_name_medium">Погода BZ 4x1</string>
-    <string name="widget_name_medium_ext">Погода BZ 4x1</string>    
+    <string name="widget_name_medium_ext">Погода BZ 4x1</string>
+    <string name="widget_name_medium_v5">Погода BZ 4x1</string>    
     <string name="widget_name_large">Погода BZ 4x2</string>
     <string name="widget_name_large_v5">Погода BZ 4x2 v5</string>
     <string name="about_version">Версия:</string>

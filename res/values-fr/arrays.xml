@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<resources>
     <string-array name="donations_google_android_market_promt_array">
         <item>1 euro</item>
         <item>2 euros</item>
@@ -536,7 +536,7 @@
         <item>Humidité</item>
         <item>Pression</item>
         <item>Visibilité</item>
-        <item>Sunrise and sunset</item>
+        <item>Lever et coucher du soleil</item> 
         <item>Prochaine alarme</item>
     </string-array>      
 	<string-array name="widget41_show_entries">
@@ -551,6 +551,6 @@
     <string-array name="animation_type_entries">
         <item>Par défaut</item>
         <!--item >MITU</item-->
-        <item>Vidéos MIUI</item>
+        <item>MIUI</item>
     </string-array>            
 </resources>

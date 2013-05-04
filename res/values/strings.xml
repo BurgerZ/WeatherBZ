@@ -59,7 +59,8 @@
     <string name="donations_google_android_market_not_supported">In-App Donations are not supported. Is Google Play Store installed correctly?</string> 
     <string name="donations_google_android_market_not_supported_title">In-App Donations are not supported</string> 
     <string name="donations_google_android_market_text">How much?</string> 
-    <string name="donations_paypal">PayPal</string> 
+    <string name="donations_paypal">PayPal</string>
+    <string name="donations_yandex">Yandex.Money</string>  
     <string name="donations_paypal_description">You can choose how much you want to donate after clicking the button!</string> 
     <string name="donations_paypal_item_name">InApp Donation</string> 
     <string name="donations_thanks_dialog">Thanks for donating!\nI really appreciate this!</string>    
@@ -197,6 +198,7 @@
     <string name="widget_name_large_v5">Weather BZ 4x2</string>
     <string name="widget_name_medium">Weather BZ 4x1</string>
     <string name="widget_name_medium_ext">Weather BZ 4x1</string>
+    <string name="widget_name_medium_v5">Weather BZ 4x1</string>
     <string name="widget_text_color_summary">"The widget's text color"</string> 
     <string name="wind_e">E</string> 
     <string name="wind_ene">E-NE</string>
