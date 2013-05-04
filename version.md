@@ -1,4 +1,4 @@
-﻿{"versionCode": "40516", 
+﻿{"versionCode": "40517", 
 "versionName": "4.5.13", 
 "features": "<center><strong>*** v4.5.13 (04 May 2013) ***</strong></center><p>
 * Old 4x1 widgets are back!<p>
