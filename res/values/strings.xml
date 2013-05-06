@@ -135,10 +135,13 @@
     <string name="settings_update_interval_title">Update Interval</string>
     <string name="settings_update_roaming_summary">Automatically update weather forecast even when roaming. Note that you can have an extra charges to your phone bill</string>
     <string name="settings_update_roaming_title">Update in roaming</string>
+    <string name="settings_update_wake_title">Wake device</string>
     <string name="settings_update_wifi_only_summary">Automatically update weather forecast only when Wi-Fi connection established</string>
     <string name="settings_update_wifi_only_title">Update only on Wi-Fi</string>
     <string name="settings_widgets_click_clock_summary">The app to start by clicking on widgets clock</string>
     <string name="settings_widgets_click_clock_title">Click on Clock</string>
+    <string name="settings_widgets_click_date_summary">The app to start by clicking on widgets date</string>
+    <string name="settings_widgets_click_date_title">Click on Date</string>
     <string name="settings_widgets_click_weather_summary">The app to start by clicking on widgets forecast area (temperature)</string>
     <string name="settings_widgets_click_weather_title">Click on Forecast</string>
     <string name="settings_widgets_widget4x1">Widget 4x1</string>

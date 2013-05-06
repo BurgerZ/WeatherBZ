@@ -119,6 +119,7 @@
     <string name="settings_category_notification_sum">Состояние погоды в статусной строке</string>
     <string name="settings_notification_title">Уведомление о погоде</string>
     <string name="settings_notification_summary">Отображать прогноз погоды в области уведомлений</string>
+    <string name="settings_update_wake_title">Пробуждать устройство</string>
     <string name="settings_update_wifi_only_title">Обновлять только по Wi-Fi</string>
     <string name="settings_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
     <string name="settings_update_roaming_title">Обновлять в роуминге</string>
@@ -145,6 +146,8 @@
     <string name="settings_category_widgets_sum">Внешний вид виджетов и действия по нажатию на виджеты</string>
     <string name="settings_widgets_click_clock_title">Нажатие на часы</string>
     <string name="settings_widgets_click_clock_summary">Выбор приложения для запуска по нажатию на часы</string>
+    <string name="settings_widgets_click_date_title">Нажатие на дату</string>
+    <string name="settings_widgets_click_date_summary">Выбор приложения для запуска по нажатию на дату</string>
     <string name="settings_widgets_click_weather_title">Нажатие на прогноз</string>
     <string name="settings_widgets_click_weather_summary">Выбор приложения для запуска по нажатию на прогноз</string>
     <string name="settings_widgets_widget4x2">Виджет 4x2 (v4)</string>
