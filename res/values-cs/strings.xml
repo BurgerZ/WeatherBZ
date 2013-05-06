@@ -130,10 +130,13 @@
     <string name="settings_update_interval_title">Interval aktualizace</string>
     <string name="settings_update_roaming_summary">Aktualizovat předpověď počasí i při roamingu. Mohou se účtovat extra poplatky od operátora.</string>
     <string name="settings_update_roaming_title">Aktualizovat při roamingu</string>
+    <string name="settings_update_wake_title">Probudit telefon</string>
     <string name="settings_update_wifi_only_summary">Aktualizovat předpověď počasí jen při připojení na Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Aktualizovat jen na Wi-Fi</string>
     <string name="settings_widgets_click_clock_summary">Aplikace se spustí při dotyku na widget s hodinami</string>
     <string name="settings_widgets_click_clock_title">Dotyk na Hodiny</string>
+    <string name="settings_widgets_click_date_summary">Aplikace se spustí při dotyku na datum widgetu</string>
+    <string name="settings_widgets_click_date_title">Dotyk na datum</string>
     <string name="settings_widgets_click_weather_summary">Aplikace se spustí při dotyku na widget s počasím (teplotu)</string>
     <string name="settings_widgets_click_weather_title">Dotyk na předpověď</string>
     <string name="settings_widgets_widget4x1">Widget 4x1</string>
