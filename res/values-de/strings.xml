@@ -134,10 +134,13 @@
     <string name="settings_update_interval_title">Aktualisierungsintervall</string>
     <string name="settings_update_roaming_summary">Automatische Aktualisierung der Vorhersage auch bei Roaming. Beachte, dass Du stark erhöhte Kosten zu erwarten hast!</string>
     <string name="settings_update_roaming_title">Aktualisieren wenn Roaming</string>
+    <string name="settings_update_wake_title">Gerät aufwecken</string>
     <string name="settings_update_wifi_only_summary">Automatische Aktualisierung der Vorhersage ausschließlich mit WLAN-Verbindung</string>
     <string name="settings_update_wifi_only_title">Aktualisiere nur mit WLAN</string>
     <string name="settings_widgets_click_clock_summary">App die gestartet wird, wenn die Uhr am Widget berührt wird</string>
     <string name="settings_widgets_click_clock_title">Berühren der Uhr</string>
+    <string name="settings_widgets_click_date_summary">App die gestartet wird, wenn das Datum am Widget berührt wird</string>
+    <string name="settings_widgets_click_date_title">Berühren des Datums</string>
     <string name="settings_widgets_click_weather_summary">App die gestartet wird, wenn die Wettervorhersage (Temperatur) am Widget berührt wird</string>
     <string name="settings_widgets_click_weather_title">Berühren der Wettervorhersage</string>
     <string name="settings_widgets_widget4x1">Widget 4x1</string>
