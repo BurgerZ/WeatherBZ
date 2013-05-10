@@ -61,10 +61,12 @@
   <string name="donations_paypal_item_name">InApp Donation</string>
   <string name="donations_thanks_dialog">Tak fordi du donerede!\nJeg sætter virkelig pris på dette!</string>
   <string name="donations_thanks_dialog_title">Tak!</string>
+  <string name="donations_yandex">Yandex.Money</string>
   <string name="download_video">Download video</string>
   <string name="end_time_title">Slutningen</string>
   <string name="fetching_location">Lokaliserer\u2026</string>
   <string name="just_now">Lige nu</string>
+  <string name="loading">Indlæser\u2026</string>
   <string name="location_edit">Angiv bynavn</string>
   <string name="location_gps">Aktuel placering</string>
   <string name="location_list">Steder</string>
@@ -76,7 +78,9 @@
   <string name="menu_trend">Trend</string>
   <string name="menu_update">Opdater</string>
   <string name="network_error">Kunne ikke forbinde til serveren</string>
+  <string name="new_version">Ny version</string>
   <string name="no_provider">Lokalisering mislykkedes\nIndstil placering manuelt</string>
+  <string name="not_now">Ikke nu</string>
   <string name="ok">OK</string>
   <string name="press_color_to_apply">Tryk på farve for at anvende</string>
   <string name="pressure_units">Tryk enhed</string>
@@ -130,10 +134,13 @@
   <string name="settings_update_interval_title">Opdateringsinterval</string>
   <string name="settings_update_roaming_summary">Opdater automatisk vejrudsigt, selv under roaming. Bemærk mulig ekstra taksering</string>
   <string name="settings_update_roaming_title">Opdater under roaming</string>
+  <string name="settings_update_wake_title">Væk telefon</string>
   <string name="settings_update_wifi_only_summary">Opdater automatisk vejrudsigt, men kun ved Wi-Fi forbindelse</string>
   <string name="settings_update_wifi_only_title">Opdater kun ved Wi-Fi</string>
   <string name="settings_widgets_click_clock_summary">Start app ved tryk på ur i widget</string>
   <string name="settings_widgets_click_clock_title">Tryk på ur</string>
+  <string name="settings_widgets_click_date_summary">Start app ved tryk på dato i widget</string>
+  <string name="settings_widgets_click_date_title">Tryk på dato</string>
   <string name="settings_widgets_click_weather_summary">Start app ved tryk på temperatur i widget</string>
   <string name="settings_widgets_click_weather_title">Tryk på temperatur</string>
   <string name="settings_widgets_widget4x1">Widget 4x1</string>
@@ -163,6 +170,7 @@
   <string name="temperature_units_f">Fahrenheit</string>
   <string name="text_color_title">Tekstfarve</string>
   <string name="updating">Opdaterer\u2026</string>
+  <string name="upgrade">Opgrader</string>
   <string name="visibility_units">Sigtbarhed enhed</string>
   <string name="visibility_units_km">" km"</string>
   <string name="visibility_units_m">" m"</string>
@@ -190,9 +198,10 @@
   <string name="weather_visibility">"Sigtbarhed: "</string>
   <string name="weather_wind">"Vind: "</string>
   <string name="widget_name_large">Vejr BZ 4x2</string>
-  <string name="widget_name_large_v5">Vejr BZ 4x2</string>
+  <string name="widget_name_large_v5">Vejr BZ 4x2 (v5)</string>
   <string name="widget_name_medium">Vejr BZ 4x1</string>
   <string name="widget_name_medium_ext">Vejr BZ 4x1</string>
+  <string name="widget_name_medium_v5">Weather BZ 4x1 (v5)</string>
   <string name="widget_text_color_summary">Tekstfarve i widget</string>
   <string name="wind_e">Ø</string>
   <string name="wind_ene">Ø-NØ</string>
