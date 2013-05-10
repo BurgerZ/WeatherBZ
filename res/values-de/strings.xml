@@ -60,6 +60,7 @@
     <string name="donations_google_android_market_not_supported_title">In-App-Spenden werden nicht unterstützt</string> 
     <string name="donations_google_android_market_text">Wie viel?</string> 
     <string name="donations_paypal">PayPal</string> 
+    <string name="donations_yandex">Yandex.Money (RU)</string>  
     <string name="donations_paypal_description">Du kannst entscheiden wieviel Du spenden willst, nachdem Du den Button gedrückt hast!</string> 
     <string name="donations_paypal_item_name">In-App-Spende</string> 
     <string name="donations_thanks_dialog">Danke für die Spende!\nIch weiß das sehr zu schätzen!</string>    
@@ -197,9 +198,10 @@
     <string name="weather_visibility">"Sichweite: "</string>
     <string name="weather_wind">"Wind: "</string>
     <string name="widget_name_large">Wetter BZ 4x2</string>
-    <string name="widget_name_large_v5">Wetter BZ 4x2</string>
+    <string name="widget_name_large_v5">Wetter BZ 4x2 v5</string>
     <string name="widget_name_medium">Wetter BZ 4x1</string>
-    <string name="widget_name_medium_ext">Wetter BZ 4x1</string>
+    <string name="widget_name_medium_ext">Wetter BZ 4x1 Ext</string>
+    <string name="widget_name_medium_v5">Wetter BZ 4x1 v5</string>
     <string name="widget_text_color_summary">"Textfarbe des Widgets"</string> 
     <string name="wind_e">O</string> 
     <string name="wind_ene">O-NO</string>
