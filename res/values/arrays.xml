@@ -635,5 +635,13 @@
         <item>animation_default</item>
         <!--item >animation_mitu</item-->
         <item>animation_miui</item>
-    </string-array>              
+    </string-array> 
+    <string-array name="date_format_entries">
+        <item>@string/date_format_mdy</item>
+        <item>@string/date_format_dmy</item>
+    </string-array>
+    <string-array name="date_format_values" translatable="false">
+        <item>date_format_mdy</item>
+        <item>date_format_dmy</item>
+    </string-array>             
 </resources>

@@ -44,6 +44,9 @@
     <string name="conf_light_skin">Light Skin</string>
     <string name="conf_name">Widget Settings</string>
     <string name="conf_no_background">No background</string>
+    <string name="date_format_title">Date format</string>
+    <string name="date_format_mdy">01/30/2013</string>
+    <string name="date_format_dmy">30/01/2013</string>
     <string name="dialog_color_picker">Color Picker</string> 
     <string name="dlg_go_to_forecast">Go to forecast</string>
     <string name="dlg_select_action">Select an action</string>
