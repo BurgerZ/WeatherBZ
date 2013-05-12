@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="donations_google_android_market_promt_array">
+  		<item>1 Euró</item> 
+  		<item>2 Euró</item> 
+  		<item>3 Euró</item> 
+  		<item>5 Euró</item> 
+  		<item>8 Euró</item> 
+  		<item>13 Euró</item> 
+  	</string-array>    
     <string-array name="update_interval_names">
         <item>30 perc</item> 
         <item>1 óra</item>
@@ -528,7 +536,7 @@
 		<item>Páratartalom</item>
         <item>Légnyomás</item>
         <item>Látótávolság</item>
-        <item>Sunrise and sunset</item>
+        <item>Napkelte és napnyugta</item>
 		<item>Következő riasztás</item>       
     </string-array>       
     <string-array name="widget41_show_entries">
@@ -540,4 +548,9 @@
         <item>"3-napos előrejelzés"</item>
         <item>"Mai időjárás"</item>
     </string-array>  	            
+    <string-array name="animation_type_entries">
+        <item>Alapértelmezett</item>
+        <!--item >MITU</item-->
+        <item>MIUI videó</item>
+    </string-array>
 </resources>
