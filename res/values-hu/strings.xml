@@ -78,7 +78,7 @@
     <string name="menu_hourly">Óránként</string>
     <string name="menu_locations">Helyszínek</string>
     <string name="menu_settings">Beállítások</string>
-    <string name="menu_trend">Trend</string>
+    <string name="menu_trend">Előrejelzés</string>
     <string name="menu_update">Frissítés</string>
     <string name="network_error">Csatlakozás sikertelen</string>
     <string name="no_provider">Helymeghatározás sikertelen - a helyszínt válassza ki kézzel</string>
