@@ -45,8 +45,6 @@
     <string name="conf_name">Widżety</string>
     <string name="conf_no_background">Brak tła</string>
     <string name="date_format_title">Format daty</string>
-    <string name="date_format_mdy">01/30/2013</string>
-    <string name="date_format_dmy">30/01/2013</string>
     <string name="dialog_color_picker">Wybieranie kolorów</string>
     <string name="dlg_go_to_forecast">Przejdź do prognozy</string>
     <string name="dlg_select_action">Wybierz akcje</string>

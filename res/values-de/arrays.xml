@@ -16,14 +16,6 @@
         <item>4 Stunden</item>
         <item>6 Stunden</item>
     </string-array>
-    <string-array name="update_interval_values" translatable="false">
-        <item>30</item> 
-        <item>60</item>
-        <item>120</item>
-        <item>180</item>
-        <item>240</item>
-        <item>360</item>
-    </string-array>
     <string-array name="country_codes" translatable="false">
         <item>ad</item>
         <item>ae</item>
@@ -526,18 +518,10 @@
         <item>Schwarz</item>
         <item>Weiß</item>
     </string-array>
-    <string-array name="notif_temp_color_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-    </string-array> 
     <string-array name="notif_type_entries">
         <item>Temperatur</item>
         <item>Wettersymbol</item>
-    </string-array>
-    <string-array name="notif_type_values" translatable="false">
-        <item>temperature_symbol</item>
-        <item>weather_symbol</item>
-    </string-array>     
+    </string-array>  
     <string-array name="widget42_show_entries">
         <item>Zeit</item>
         <item>Datum</item>
@@ -545,15 +529,7 @@
         <item>Wetterbeschreibung</item>
         <item>Gefühlt</item>
         <item>Wind</item>
-    </string-array>
-    <string-array name="widget42_show_values" translatable="false">
-        <item>w42_clock</item>
-        <item>w42_date</item>
-        <item>w42_city</item>
-        <item>w42_desc</item>
-        <item>w42_feel</item>
-        <item>w42_wind</item>
-    </string-array>    
+    </string-array> 
     <string-array name="main_show_entries">
         <item>Gefühlt</item>
         <item>Wind</item>
@@ -562,87 +538,19 @@
         <item>Sichtweite</item>
         <item>Sonnenauf- und -untergang</item>
         <item>Nächster Alarm</item>
-    </string-array>
-    <string-array name="main_show_values" translatable="false">
-        <item>main_feel</item>
-        <item>main_wind</item>
-        <item>main_humid</item>
-        <item>main_press</item>
-        <item>main_visib</item>
-        <item>main_sunrize</item>
-        <item>main_next_alarm</item>
-    </string-array>        
+    </string-array>     
 	<string-array name="widget41_show_entries">
         <item>Temperaturanzeige</item>
         <item>Erweiterte Datenanzeige</item>
         <item>Zeitanzeige</item>
-	</string-array>
-	<string-array name="widget41_show_values" translatable="false">
-        <item>w41_temp</item>
-        <item>w41_cond</item>
-        <item>w41_time</item>
-	</string-array>     
+	</string-array> 
     <string-array name="widget41_data_entries">
         <item>"3-Tage-Vorhersage"</item>
         <item>"Aktuelle Vorhersage"</item>
-    </string-array>
-    <string-array name="widget41_data_values" translatable="false">
-        <item>w41_3day_forecast</item>
-        <item>w41_forecast_data</item>
-    </string-array>   	
-    <string-array name="pressure_units_entries">
-        <item>@string/pressure_units_mb</item>
-        <item>@string/pressure_units_mmhg</item>
-    </string-array>
-    <string-array name="pressure_units_values" translatable="false">
-        <item>pressure_units_mb</item>
-        <item>pressure_units_mmhg</item>
-    </string-array>   
-    <string-array name="wind_speed_units_entries">
-        <item>@string/wind_speed_units_mps</item>
-        <item>@string/wind_speed_units_kmph</item>
-        <item>@string/wind_speed_units_mph</item>
-    </string-array>
-    <string-array name="wind_speed_units_values" translatable="false">
-        <item>wind_speed_units_mps</item>
-        <item>wind_speed_units_kmph</item>
-        <item>wind_speed_units_mph</item>
-    </string-array>  
-    <string-array name="visibility_units_entries">
-        <item>@string/visibility_units_m</item>
-        <item>@string/visibility_units_km</item>
-        <item>@string/visibility_units_mi</item>
-    </string-array>
-    <string-array name="visibility_units_values" translatable="false">
-        <item>visibility_units_m</item>
-        <item>visibility_units_km</item>
-        <item>visibility_units_mi</item>
-    </string-array> 
-    <string-array name="temperature_units_entries">
-        <item>@string/temperature_units_c</item>
-        <item>@string/temperature_units_f</item>
-    </string-array>
-    <string-array name="temperature_units_values" translatable="false">
-        <item>temperature_units_c</item>
-        <item>temperature_units_f</item>
-    </string-array>      
+    </string-array>  	
     <string-array name="animation_type_entries">
         <item>Standard</item>
         <!--item >MITU</item-->
         <item>MIUI Video</item>
-    </string-array>
-    <string-array name="animation_type_values" translatable="false">
-        <item>animation_default</item>
-        <!--item >animation_mitu</item-->
-        <item>animation_miui</item>
-    </string-array> 
-    <string-array name="date_format_entries">
-        <item>@string/date_format_mdy</item>
-        <item>@string/date_format_dmy</item>
-    </string-array>
-    <string-array name="date_format_values" translatable="false">
-        <item>date_format_mdy</item>
-        <item>date_format_dmy</item>
-    </string-array>             
-    </string-array>              
+    </string-array>                   
 </resources>

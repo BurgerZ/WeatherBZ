@@ -45,8 +45,6 @@
     <string name="conf_name">Widget Einstellungen</string>
     <string name="conf_no_background">Kein Hintergrund</string>
     <string name="date_format_title">Datumsformat</string>
-    <string name="date_format_mdy">01/30/2013</string>
-    <string name="date_format_dmy">30/01/2013</string>
     <string name="dialog_color_picker">Farbwähler</string> 
     <string name="dlg_go_to_forecast">Gehe zur Vorhersage</string>
     <string name="dlg_select_action">Wähle eine Aktion</string>
