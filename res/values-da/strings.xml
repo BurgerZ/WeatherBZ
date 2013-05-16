@@ -45,6 +45,8 @@
     <string name="conf_name">Widget indstillinger</string>
     <string name="conf_no_background">Ingen baggrund</string>
     <string name="date_format_title">Dato format</string>
+    <string name="date_format_mdy">MM/dd/åååå</string>
+    <string name="date_format_dmy">dd/MM/åååå</string>
     <string name="dialog_color_picker">Vælg Farve</string>
     <string name="dlg_go_to_forecast">Gå til vejrudsigt</string>
     <string name="dlg_select_action">Vælg en handling</string>
@@ -83,6 +85,7 @@
     <string name="menu_update">Opdater</string>
     <string name="network_error">Kunne ikke forbinde til serveren</string>
     <string name="no_provider">Lokalisering mislykkedes\nIndstil placering manuelt</string>
+    <string name="no_weather_provider">Ingen MIUI vejr udbyder fundet</string>
     <string name="ok">OK</string>
     <string name="press_color_to_apply">Tryk på farve for at anvende</string>
     <string name="pressure_units">Tryk enhed</string>
