@@ -151,7 +151,7 @@ Wybierz lokalizację ręcznie"</string>
     <string name="settings_widgets_widget4x1_data_title">Rozszerzona pogoda</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Odznacz dla domyślnego tła</string>
     <string name="settings_widgets_widget4x1_transparent_title">Przezroczyste tło</string>
-    <string name="settings_widgets_widget4x2">Widżetet 4x2 (v4)</string>
+    <string name="settings_widgets_widget4x2">Widżet 4x2 (v4)</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Domyślnie 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Miasto</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Domyślnie 50sp</string>
