@@ -82,8 +82,8 @@
     <string name="menu_trend">Trend</string>
     <string name="menu_update">Aktualisierung</string>
     <string name="network_error">Verbindung mit dem Server fehlgeschlagen</string>
-    <string name="no_provider">Positionierung gescheitert\nWähle den Ort selbst aus</string>
-    <string name="ok">OK</string>
+    <string name="no_provider">Positionierung nicht möglich\nWähle den Ort selbst aus</string>
+    <string name="no_weather_provider">Kein MIUI-Wetteranbieter gefunden</string>    <string name="ok">OK</string>
     <string name="press_color_to_apply">Zum Anwenden die Farbe berühren</string> 
     <string name="pressure_units">Druckeinheit</string> 
     <string name="pressure_units_mb">" hPa"</string>
