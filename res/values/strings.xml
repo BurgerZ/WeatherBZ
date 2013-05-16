@@ -84,7 +84,8 @@
     <string name="menu_trend">Trend</string>
     <string name="menu_update">Update</string>
     <string name="network_error">Could not connect the server</string>
-    <string name="no_provider">Positioning failed\nSelect location manually</string>
+    <string name="no_provider">Location is not available\nSelect location manually</string>
+    <string name="no_weather_provider">No MIUI weather provider found</string>
     <string name="ok">OK</string>
     <string name="press_color_to_apply">Press on Color to apply</string> 
     <string name="pressure_units">Pressure units</string> 

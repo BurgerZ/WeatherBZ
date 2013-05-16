@@ -103,6 +103,7 @@
     <string name="settings_about_title">О программе</string>
     <string name="settings_about_summary">Информация о программе</string>
     <string name="no_provider">Ошибка определения местоположения\nВыберите местоположение вручную</string>
+    <string name="no_weather_provider">MIUI weather provider не найден</string>
     <string name="network_error">Нет соединения с сервером</string>
     <string name="updating">Обновление</string>
     <string name="just_now">Только что</string>
