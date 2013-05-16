@@ -1,9 +1,7 @@
-﻿{"versionCode": "40518", 
-"versionName": "4.6.0", 
-"features": "<center><strong>*** v4.6.0 (07 May 2013) ***</strong></center><p>
-* Added mdpi resources (for tablets)<p>
-* Added widget's date click handling<p>
-* Added option to turn off waking device while update (minimizes battery consumption)<p>
-* Fixed translations<p>
-* Optimizations<p>",
-"target": "https://github.com/BurgerZ/WeatherBZ/raw/master/WeatherBZ_v4.6.0.apk"}
+﻿{"versionCode": "40519", 
+"versionName": "4.6.1", 
+"features": "<center><strong>*** v4.6.1 (16 May 2013) ***</strong></center><p>
+* Added date format settings (d/M/Y or M/d/Y)<p>
+* Fixed 12h time format in the hourly forecast view<p>
+* Fixes and optimizations<p>",
+"target": "https://github.com/BurgerZ/WeatherBZ/raw/master/WeatherBZ_v4.6.1.apk"}
