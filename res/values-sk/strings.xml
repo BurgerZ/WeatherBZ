@@ -40,6 +40,7 @@
     <string name="conf_light_skin">Svetlý vzhľad</string>
     <string name="conf_name">Nastavenia Widgetu</string>
     <string name="conf_no_background">Bez pozadia</string>
+    <string name="date_format_title">Formát dátumu</string>
     <string name="dialog_color_picker">Výber farby</string>
     <string name="dlg_go_to_forecast">Ísť na predpoveď</string>
     <string name="dlg_select_action">Zvoľte akciu</string>
@@ -78,7 +79,8 @@
     <string name="menu_update">Aktualizovať</string>
     <string name="network_error">Nie je možné sa pripojiť na server</string>
     <string name="new_version">Nová verzia</string> 
-    <string name="no_provider">"Určenie polohy zlyhalo. Zvoľte svoje mesto manuálne"</string>
+    <string name="no_provider">"Poloha je nedostupná. Zvoľte mesto manuálne"</string>
+    <string name="no_weather_provider">Žiaden zdroj predpovede</string> 
     <string name="not_now">Neskôr</string> 
     <string name="ok">OK</string>
     <string name="press_color_to_apply">Zvoľte farbu</string>
@@ -136,6 +138,7 @@
     <string name="settings_update_wake_title">Zobudiť telefón</string>
     <string name="settings_update_wifi_only_summary">Aktualizovať predpoveď počasia iba pri pripojení na Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Aktualizovať iba na Wi-Fi</string>
+    <string name="settings_weather_provider">Zdroj predpovede</string>
     <string name="settings_widgets_click_clock_summary">Aplikácia sa spustí pri dotyku na widget s hodinami</string>
     <string name="settings_widgets_click_clock_title">Dotyk na Hodiny</string>
     <string name="settings_widgets_click_date_summary">Aplikácia sa spustí pri dotyku na dátum widgetu</string>
