@@ -125,7 +125,7 @@
     <string name="settings_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
     <string name="settings_update_roaming_title">Обновлять в роуминге</string>
     <string name="settings_update_roaming_summary">Обновлять прогноз погоды в роуминге. Это может увеличить ваши расходы по оплате счетов сотовой связи</string>
-    <string name="settings_category_appearance">Внешний вид</string>
+    <string name="settings_category_appearance">Общие</string>
     <string name="settings_category_appearance_sum">Единицы измерения, цвет текста и т.д.</string>
     <string name="settings_category_miui">Прошивки MIUI</string>
     <string name="settings_category_miui_sum">Настройки для прошивок MIUI, очистка погодных данных MIUI</string>
@@ -145,6 +145,7 @@
     <string name="settings_notification_color_title">Цвет символа уведомления</string>
     <string name="settings_category_widgets">Виджеты</string>
     <string name="settings_category_widgets_sum">Внешний вид виджетов и действия по нажатию на виджеты</string>
+    <string name="settings_weather_provider">Поставщик прогноза</string>
     <string name="settings_widgets_click_clock_title">Нажатие на часы</string>
     <string name="settings_widgets_click_clock_summary">Выбор приложения для запуска по нажатию на часы</string>
     <string name="settings_widgets_click_date_title">Нажатие на дату</string>

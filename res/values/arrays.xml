@@ -643,5 +643,13 @@
     <string-array name="date_format_values" translatable="false">
         <item>date_format_mdy</item>
         <item>date_format_dmy</item>
-    </string-array>             
+    </string-array>   
+        <string-array name="weather_provider_entries">
+        <item>Foreca</item>
+        <item>Wunderground</item>
+    </string-array>
+    <string-array name="weather_provider_values" translatable="false">
+        <item>foreca</item>
+        <item>wunderground</item>
+    </string-array>           
 </resources>

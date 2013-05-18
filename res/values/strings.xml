@@ -85,7 +85,7 @@
     <string name="menu_update">Update</string>
     <string name="network_error">Could not connect the server</string>
     <string name="no_provider">Location is not available\nSelect location manually</string>
-    <string name="no_weather_provider">No MIUI weather provider found</string>
+    <string name="no_weather_provider">No MIUI weather provider found</string> 
     <string name="ok">OK</string>
     <string name="press_color_to_apply">Press on Color to apply</string> 
     <string name="pressure_units">Pressure units</string> 
@@ -105,7 +105,7 @@
     <string name="settings_category_animation">Animation</string>
     <string name="settings_category_animation_sum">Animation type, download policy</string>
     <string name="settings_category_app_update">Application update</string>
-    <string name="settings_category_appearance">Appearance</string>
+    <string name="settings_category_appearance">Common</string>
     <string name="settings_category_appearance_sum">Measure units, text color etc.</string>
     <string name="settings_category_forecast_update">Forecast update</string>    
     <string name="settings_category_miui">MIUI ROMs</string>
@@ -142,6 +142,7 @@
     <string name="settings_update_wake_title">Wake device</string>
     <string name="settings_update_wifi_only_summary">Automatically update weather forecast only when Wi-Fi connection established</string>
     <string name="settings_update_wifi_only_title">Update only on Wi-Fi</string>
+    <string name="settings_weather_provider">Weather Provider</string>
     <string name="settings_widgets_click_clock_summary">The app to start by clicking on widgets clock</string>
     <string name="settings_widgets_click_clock_title">Click on Clock</string>
     <string name="settings_widgets_click_date_summary">The app to start by clicking on widgets date</string>
