@@ -44,6 +44,7 @@
     <string name="conf_light_skin">Tema blanco</string>
     <string name="conf_name">Configurar Widget</string>
     <string name="conf_no_background">Sin fondo</string>
+    <string name="date_format_title">Formato de fecha</string>
     <string name="dialog_color_picker">Selector de color</string>
     <string name="dlg_go_to_forecast">Ir al pronóstico</string>
     <string name="dlg_select_action">Seleccione una acción</string>
@@ -82,6 +83,7 @@
     <string name="menu_update">Actualizar</string>
     <string name="network_error">No se pudo conectar al servidor</string>
     <string name="no_provider">Fallo al posicionar\nEscoge ubicación manual</string>
+    <string name="no_weather_provider">No se ha encontrado el proveedor de climatología MIUI</string>
     <string name="ok">Ok</string>
     <string name="press_color_to_apply">Pulse en el nuevo color para aplicar</string>
     <string name="pressure_units">Unidades de presión</string>
@@ -144,11 +146,11 @@
     <string name="settings_widgets_click_date_title">Clic en la fecha</string>
     <string name="settings_widgets_click_weather_summary">Seleccione la aplicación que se iniciará al tocar la previosión del tiempo</string>
     <string name="settings_widgets_click_weather_title">Clic en la previsión</string>
-    <string name="settings_widgets_widget4x1">Widget 4x1 Extendido</string>
+    <string name="settings_widgets_widget4x1">Widget 4x1 Ext</string>
     <string name="settings_widgets_widget4x1_data_title">Datos ampliados</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Se ocultará el fondo por defecto</string>
     <string name="settings_widgets_widget4x1_transparent_title">Fondo transparente</string>
-    <string name="settings_widgets_widget4x2">Widget 4x2 Normal</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Por defecto 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Ciudad</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Por defecto 50sp</string>
@@ -197,11 +199,11 @@
     <string name="weather_sunset">"Puesta del sol: "</string>
     <string name="weather_visibility">"Visibilidad: "</string>
     <string name="weather_wind">"Viento: "</string>
-    <string name="widget_name_large">Tiempo BZ 4x2 Normal</string>
-    <string name="widget_name_large_v5">Tiempo BZ 4x2 MIUI v5</string>
-    <string name="widget_name_medium">Tiempo BZ 4x1 Normal</string>
-    <string name="widget_name_medium_ext">Tiempo BZ 4x1 Extendido</string>
-    <string name="widget_name_medium_v5">Tiempo BZ 4x1 MIUI v5</string>
+    <string name="widget_name_large">Tiempo BZ (4x2)</string>
+    <string name="widget_name_large_v5">Tiempo BZ (4x2 v5)</string>
+    <string name="widget_name_medium">Tiempo BZ (4x1)</string>
+    <string name="widget_name_medium_ext">Tiempo BZ (4x1 Ext)</string>
+    <string name="widget_name_medium_v5">Tiempo BZ (4x1 v5)</string>
     <string name="widget_text_color_summary">"Color del texto del widget"</string>
     <string name="wind_e">E</string>
     <string name="wind_ene">E-NE</string>
