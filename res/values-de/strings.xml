@@ -213,6 +213,10 @@
     <string name="settings_widgets_widget4x2_temp_font_title">Temperatur</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">Standardeinstellung 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Wind</string>
+    <string name="share">Teilen</string>
+    <string name="share_weather_content">"\#WeatherBZ# Das Wetter, heute %1$s, ist %2$s, %3$s, %4$s. Aktualisiert %5$s."</string>
+    <string name="share_weather_title">Wetterdaten teilen</string>
+    <string name="save_screen_shot_failed">Screenshot konnte nicht gesichert werden</string>
     <string name="start_time_title">Beginn</string>
     <string name="temperature_units">Temperatureinheit</string>
     <string name="temperature_units_c">Celsius</string>
