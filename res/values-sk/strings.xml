@@ -213,6 +213,10 @@
     <string name="settings_widgets_widget4x2_temp_font_title">Teplota</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">Predvolená hodnota 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Vietor</string>
+    <string name="share">Zdieľať</string>
+    <string name="share_weather_content">"\#WeatherBZ# Dnes %1$s je počasie %2$s, %3$s, %4$s. Stav z %5$s."</string>
+    <string name="share_weather_title">Zdieľať informácie o počasí</string>
+    <string name="save_screen_shot_failed">Ukladanie screenshotu zlyhalo</string>
     <string name="start_time_title">Začiatok</string>
     <string name="temperature_units">Jednotka teploty</string>
     <string name="temperature_units_c">Celsius</string>
