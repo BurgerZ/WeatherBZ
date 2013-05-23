@@ -102,6 +102,11 @@
     <string name="settings_animation_download_summary">Загружать видео файлы анимации из сети Интернет (если они не найдены в локальном хранилище)</string>
     <string name="settings_about_title">О программе</string>
     <string name="settings_about_summary">Информация о программе</string>
+    <string name="share">Поделиться</string>
+    <string name="share_content">\#WeatherBZ#</string>
+    <string name="share_weather_content">"\#WeatherBZ# Сегодня в %1$s %2$s, %3$s, %4$s. Обновлено %5$s."</string>
+    <string name="share_weather_title">Поделиться прогнозом</string>
+    <string name="save_screen_shot_failed">Ошибка при сохранении скриншота</string>
     <string name="no_provider">Ошибка определения местоположения\nВыберите местоположение вручную</string>
     <string name="no_weather_provider">MIUI weather provider не найден</string>
     <string name="network_error">Нет соединения с сервером</string>
@@ -224,7 +229,7 @@
     <string name="temperature_units_c">Цельсий</string>
     <string name="temperature_units_f">Фаренгейт</string>
     <string name="date_format_title">Формат даты</string>
-	<string name="foreca_clear">Ясно</string>
+    <string name="foreca_clear">Ясно</string>
     <string name="foreca_mostly_clear">Ясно</string>
     <string name="foreca_mostly_clear_pos_rain">Возможен дождь</string>
     <string name="foreca_mostly_clear_pos_wet_snow">Возможен мокрый снег</string>
