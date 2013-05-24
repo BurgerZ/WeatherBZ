@@ -149,7 +149,7 @@
     <string name="settings_category_animation">Animationen</string>
     <string name="settings_category_animation_sum">Animationsart, Download-Regeln</string>
     <string name="settings_category_app_update">Anwendungsupdate</string>
-    <string name="settings_category_appearance">Darstellung</string>
+    <string name="settings_category_appearance">Allgemein</string>
     <string name="settings_category_appearance_sum">Einheiten, Textfarbe etc.</string>
     <string name="settings_category_forecast_update">Aktualisierung der Vorhersage</string>    
     <string name="settings_category_miui">MIUI ROMs</string>
@@ -186,6 +186,7 @@
     <string name="settings_update_wake_title">Gerät aufwecken</string>
     <string name="settings_update_wifi_only_summary">Automatische Aktualisierung der Vorhersage ausschließlich mit WLAN-Verbindung</string>
     <string name="settings_update_wifi_only_title">Aktualisiere nur mit WLAN</string>
+    <string name="settings_weather_provider">Wetteranbieter</string>
     <string name="settings_widgets_click_clock_summary">App die gestartet wird, wenn die Uhr am Widget berührt wird</string>
     <string name="settings_widgets_click_clock_title">Berühren der Uhr</string>
     <string name="settings_widgets_click_date_summary">App die gestartet wird, wenn das Datum am Widget berührt wird</string>
