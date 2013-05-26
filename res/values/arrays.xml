@@ -10,11 +10,11 @@
   	</string-array>    
     <string-array name="update_interval_names">
         <item>30 minutes</item> 
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>3 hours</item>
-        <item>4 hours</item>
-        <item>6 hours</item>
+        <item>1 ώρα</item>
+        <item>2 ώρες</item>
+        <item>3 ώρες</item>
+        <item>4 ώρες</item>
+        <item>6 ώρες</item>
     </string-array>
     <string-array name="update_interval_values" translatable="false">
         <item>30</item> 
@@ -539,12 +539,12 @@
         <item>weather_symbol</item>
     </string-array>     
     <string-array name="widget42_show_entries">
-        <item>Clock</item>
-        <item>Date</item>
-        <item>City</item>
-        <item>Weather description</item>
-        <item>Feelings</item>
-        <item>Wind</item>
+        <item>Ρολόι</item>
+        <item>Ημερομηνία</item>
+        <item>Πόλη</item>
+        <item>Περιγραφή καιρού</item>
+        <item>Αίσθηση</item>
+        <item>Άνεμος</item>
     </string-array>
     <string-array name="widget42_show_values" translatable="false">
         <item>w42_clock</item>
