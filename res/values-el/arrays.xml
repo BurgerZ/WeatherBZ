@@ -1,5 +1,5 @@
- <?xml version="1.0" encoding="utf-8"?>
- <resources xmlns:android="http://schemas.android.com/apk/res/android">
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string-array name="donations_google_android_market_promt_array">
   		<item>1 Euro</item> 
   		<item>2 Euros</item> 
@@ -652,4 +652,4 @@
         <item>foreca</item>
         <item>wunderground</item>
     </string-array>           
- </resources>
+</resources>
