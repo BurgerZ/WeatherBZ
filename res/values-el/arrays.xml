@@ -532,7 +532,7 @@
     </string-array> 
     <string-array name="notif_type_entries">
         <item>Θερμοκρασία</item>
-        <item>Εικονλιδιο καιρού</item>
+        <item>Εικονίδιο καιρού</item>
     </string-array>
     <string-array name="notif_type_values" translatable="false">
         <item>temperature_symbol</item>
