@@ -304,4 +304,8 @@
         <!--item>MITU</item-->
         <item>Wideo MIUI</item>
     </string-array>
+    <string-array name="weather_provider_entries">
+        <item>Foreca</item>
+        <item>Wunderground</item>
+    </string-array>
 </resources>
