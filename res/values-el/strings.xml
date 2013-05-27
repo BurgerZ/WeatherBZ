@@ -51,7 +51,7 @@
     <string name="donations_button_close">Κλείσιμο</string>
     <string name="donations_description">Βρισκεις χρήσιμη την εφαρμογή?\nΥποστίριξε\'s από flattring είτε στέλνοντας δωρεές προς τον κύριο του έργου!</string>
     <string name="donations_flattr">Flattr</string>
-    <string name="donations_flattr_description">Flattr takes 10 % as a monthly fee!</string>
+    <string name="donations_flattr_description">Flattr παίρνει 10% ως μηνιαία αμοιβή!</string>
     <string name="donations_google_android_market">Google Play Store</string>
     <string name="donations_google_android_market_description">Η Google παίρνει 30 % σε κάθε δωρεά!</string>
     <string name="donations_google_android_market_donate_button">Δωρίστε!</string>
