@@ -85,7 +85,7 @@
     <string name="foreca_mostly_clear_pos_ts_snow">Možnost bouřky se sněhem</string>
     <string name="foreca_mostly_clear_pos_ts_wet_snow">Možnost bouřky s mokrým sněhem</string>
     <string name="foreca_mostly_clear_pos_wet_snow">Možnost mokrého sněhu</string>
-    <string name="foreca_overcast">Předpověď</string>
+    <string name="foreca_overcast">Zataženo</string>
     <string name="foreca_overcast_l_rain">Jemný déšť</string>
     <string name="foreca_overcast_l_snow">Jemný sníh</string>
     <string name="foreca_overcast_l_wet_snow">Jemný mokrý sníh</string>
@@ -232,7 +232,7 @@
     <string name="weather_cond_fog">Mlha</string>
     <string name="weather_cond_chancerain">Možné srážky</string>
     <string name="weather_cond_lightsnow">Lehké sněžení</string>
-    <string name="weather_cond_overcast">Předpověď </string>
+    <string name="weather_cond_overcast">Zataženo</string>
     <string name="weather_cond_rain">Déšť</string>
     <string name="weather_cond_rainstorm">Bouřka</string>
     <string name="weather_cond_sleet">Plískanice</string>
