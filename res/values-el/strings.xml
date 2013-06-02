@@ -81,7 +81,7 @@
     <string name="foreca_cloudy_ts_wet_snow">Καταιγίδες με χιονόνερο</string>
     <string name="foreca_cloudy_wet_snow">Χιονόνερο</string>
     <string name="foreca_cloudy_wet_snow_showers">Μπόρες με Χιονόνερο</string>
-    <string name="foreca_mostly_clear">Αίθριος</string>
+    <string name="foreca_mostly_clear">Λίγα σύννεφα</string>
     <string name="foreca_mostly_clear_pos_rain">Πιθανότητα βροχής</string>
     <string name="foreca_mostly_clear_pos_snow">Πιθανότητα χιονιού</string>
     <string name="foreca_mostly_clear_pos_ts_rain">Πιθανότητα καταιγίδας με βροχή</string>
