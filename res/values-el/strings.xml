@@ -192,7 +192,7 @@
     <string name="settings_widgets_click_clock_summary">Η εφαρμογή ξεκινάει πατώντας στο widget το ρολοι</string>
     <string name="settings_widgets_click_clock_title">Κλίκ στο ρολόι</string>
     <string name="settings_widgets_click_date_summary">Η εφαρμογή ξεκινάει πατώντας στο widget ημερομηνία</string>
-    <string name="settings_widgets_click_date_title">Click on Date</string>
+    <string name="settings_widgets_click_date_title">Κλικ στην ημερομ.</string>
     <string name="settings_widgets_click_weather_summary">Η εφαρμογή ξεκινάει πατώντας στο widgets πρόβλεψη περιοχής (θερμοκρασία)</string>
     <string name="settings_widgets_click_weather_title">Κλίκ στην πρόγνωση</string>
     <string name="settings_widgets_widget4x1">Widget 4x1</string>
