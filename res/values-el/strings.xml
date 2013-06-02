@@ -149,7 +149,7 @@
     <string name="settings_animation_show_title">Εμφάνιση animation</string>
     <string name="settings_animation_type">Τύπος Animation</string>
     <string name="settings_category_animation">Animation</string>
-    <string name="settings_category_animation_sum">Τύπος Animation type, πολιτική κατεβάσματος</string>
+    <string name="settings_category_animation_sum">Τύπος Animation, πολιτική κατεβάσματος</string>
     <string name="settings_category_app_update">Ενημέρωση εφαρμογής</string>
     <string name="settings_category_appearance">Γενικά</string>
     <string name="settings_category_appearance_sum">Μονάδες μέτρησης ,χρώμα κειμένου κτλ.</string>
