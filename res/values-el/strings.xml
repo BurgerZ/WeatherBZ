@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_author">Author:</string>
+    <string name="about_author">Συντάκτης:</string>
     <string name="about_blizzard">Blizzard</string>
     <string name="about_cloudy">Συννεφιά</string>
     <string name="about_cloudy_night">Συννεφιασμένη νύχτα</string>
@@ -11,7 +11,7 @@
     <string name="about_hailstone">χαλαζόκοκκος</string>
     <string name="about_heavy_snow">Χιόνι</string>
     <string name="about_light_rain">Ψιλόβροχο</string>
-    <string name="about_light_snow">χιονόπτωση</string>
+    <string name="about_light_snow">Χιονόπτωση</string>
     <string name="about_overcast">Nεφελώδης</string>
     <string name="about_rain">Βροχή</string>
     <string name="about_rainstorm">Καταιγίδα</string>
@@ -47,7 +47,7 @@
     <string name="dlg_go_to_forecast">Πρός Πρόβλεψη</string>
     <string name="dlg_select_action">Επιλογή Ενέργειας</string>
     <string name="dlg_set_as_home">Ορισε ως \"Home City\"</string>
-    <string name="donate">Donate</string>
+    <string name="donate">Δωρεά</string>
     <string name="donations_button_close">Κλείσιμο</string>
     <string name="donations_description">Βρισκεις χρήσιμη την εφαρμογή?\nΥποστίριξε\'s από flattring είτε στέλνοντας δωρεές προς τον κύριο του έργου!</string>
     <string name="donations_flattr">Flattr</string>
