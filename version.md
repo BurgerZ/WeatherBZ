@@ -4,6 +4,6 @@
 * Added detailed hourly forecast<p>
 * Fixed <strong>Overcast</strong> condition detection<p>
 * Added progress dialog while fetching changelog<p>
-* Added <strong>UV</strong> column in content provider for <strong>wunderground</strong> weather provider
+* Added <strong>UV</strong> column in content provider for <strong>wunderground</strong> weather provider<p>
 * Fixes<p>",
 "target": "https://github.com/BurgerZ/WeatherBZ/raw/master/WeatherBZ_v4.7.2.apk"}
