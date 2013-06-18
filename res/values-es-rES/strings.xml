@@ -239,7 +239,7 @@
     <string name="weather_cond_chancerain">Probabilidad de lluvia</string>
     <string name="weather_cond_lightsnow">Nieve ligera</string>
     <string name="weather_cond_overcast">Cubierto</string>
-    <string name="weather_cond_rain">Llubia</string>
+    <string name="weather_cond_rain">Lluvia</string>
     <string name="weather_cond_rainstorm">Temporal de lluvia</string>
     <string name="weather_cond_sleet">Aguanieve</string>
     <string name="weather_cond_snow">Nieve</string>
