@@ -1,4 +1,4 @@
-﻿{"versionCode": "40801", 
+﻿{"versionCode": "40800", 
 "versionName": "4.8.0", 
 "features": "<center><strong>*** v4.8.0 (27 June 2013) ***</strong></center><p>
 * Added Accuweather weather provider<p>
