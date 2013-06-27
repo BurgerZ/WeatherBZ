@@ -82,7 +82,7 @@ Naprawdę to doceniam!"</string>
     <string name="foreca_cloudy_ts_snow">Śnieżyce</string>
     <string name="foreca_cloudy_ts_wet_snow">Burze z piorunami i mokry śnieg</string>
     <string name="foreca_cloudy_wet_snow">Mokry śnieg</string>
-    <string name="foreca_cloudy_wet_snow_showers">Śnieg z desczem</string>
+    <string name="foreca_cloudy_wet_snow_showers">Śnieg z deszczem</string>
     <string name="foreca_mostly_clear">Pogodnie</string>
     <string name="foreca_mostly_clear_pos_rain">Możliwy deszcz</string>
     <string name="foreca_mostly_clear_pos_snow">Możliwy śnieg</string>
@@ -132,7 +132,7 @@ Naprawdę to doceniam!"</string>
     <string name="new_version">Nowa wersja</string>
     <string name="no_provider">"Geolokalizacja nieudana
 Wybierz lokalizację ręcznie"</string>
-    <string name="no_weather_provider">Nie znaleziono dostawy pogody</string>
+    <string name="no_weather_provider">Nie znaleziono dostawcy pogody</string>
     <string name="not_now">Później</string>
     <string name="ok">OK</string>
     <string name="press_color_to_apply">Naciśnij kolor aby zastosować</string>

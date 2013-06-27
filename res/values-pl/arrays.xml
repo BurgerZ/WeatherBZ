@@ -307,5 +307,6 @@
     <string-array name="weather_provider_entries">
         <item>Foreca</item>
         <item>Wunderground</item>
+        <item>Accuweather</item>
     </string-array>
 </resources>
