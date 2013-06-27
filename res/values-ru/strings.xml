@@ -232,7 +232,7 @@
     <string name="temperature_units_f">Фаренгейт</string>
     <string name="date_format_title">Формат даты</string>
     <string name="foreca_clear">Ясно</string>
-    <string name="foreca_mostly_clear">Ясно</string>
+    <string name="foreca_mostly_clear">Преимущественно ясно</string>
     <string name="foreca_mostly_clear_pos_rain">Возможен дождь</string>
     <string name="foreca_mostly_clear_pos_wet_snow">Возможен мокрый снег</string>
     <string name="foreca_mostly_clear_pos_snow">Возможен снег</string>
