@@ -19,7 +19,7 @@
     <string name="about_sleet">Deszcz ze śniegiem</string>
     <string name="about_snow">Śnieg</string>
     <string name="about_social">Linki społecznościowe:</string>
-    <string name="about_sunny">Słonecznie</string>
+    <string name="about_sunny">Bezchmurnie</string>
     <string name="about_sunny_night">Bezchmurna noc</string>
     <string name="about_t_storms">Burze</string>
     <string name="about_version">Wersja:</string>
@@ -201,6 +201,7 @@ Wybierz lokalizację ręcznie"</string>
     <string name="settings_widgets_widget4x1_data_title">Rozszerzona pogoda</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Odznacz dla domyślnego tła</string>
     <string name="settings_widgets_widget4x1_transparent_title">Przezroczyste tło</string>
+    <string name="settings_widgets_widget4x1_v5">Widżet 4x1 (v5)</string>
     <string name="settings_widgets_widget4x2">Widżet 4x2 (v4)</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Domyślnie 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Miasto</string>
@@ -216,6 +217,7 @@ Wybierz lokalizację ręcznie"</string>
     <string name="settings_widgets_widget4x2_feel_font_title">Odczuwalnie</string>
     <string name="settings_widgets_widget4x2_temp_font_summary">Domyślnie 40sp</string>
     <string name="settings_widgets_widget4x2_temp_font_title">Temperatura</string>
+    <string name="settings_widgets_widget4x2_v5">Widżet 4x2 (v5)</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">Domyślnie 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Wiatr</string>
     <string name="share">Udostępnij</string>
@@ -243,7 +245,7 @@ Wybierz lokalizację ręcznie"</string>
     <string name="weather_cond_rainstorm">Ulewy</string>
     <string name="weather_cond_sleet">Deszcz ze śniegiem</string>
     <string name="weather_cond_snow">Śnieg</string>
-    <string name="weather_cond_sunny">Słonecznie</string>
+    <string name="weather_cond_sunny">Bezchmurnie</string>
     <string name="weather_cond_t_storms">Burze</string>
     <string name="weather_feel">"Odczuwalnie: "</string>
     <string name="weather_forecast_empty">--</string>
