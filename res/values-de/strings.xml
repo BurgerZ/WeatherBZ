@@ -120,6 +120,7 @@
     <string name="location_list">Orte</string>
     <string name="location_search">Ortssuche</string>
     <string name="main_screen_text_color_summary">Textfarbe der wichtigsten Daten auf der Anzeige</string> 
+    <string name="menu">Menü</string>
     <string name="menu_hourly">Stündlich</string>
     <string name="menu_locations">Orte</string>
     <string name="menu_settings">Einstellungen</string>
