@@ -122,7 +122,8 @@
     <string name="location_list">Lista de ciudades</string>
     <string name="location_search">Buscar ciudades</string>
     <string name="main_screen_text_color_summary">El color del texto de la pantalla principal</string>
-    <string name="menu_hourly">Cada hora</string>
+    <string name="menu">Menú</string>
+    <string name="menu_hourly">Ampliado</string>
     <string name="menu_locations">Ciudades</string>
     <string name="menu_settings">Configuración</string>
     <string name="menu_trend">Tendencia</string>
