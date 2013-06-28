@@ -58,6 +58,7 @@
     <string name="about_heavy_snow">Снег</string>
     <string name="about_blizzard">Метель</string>
     <string name="animation_preview">Предпросмотр анимации</string>
+    <string name="menu">Меню</string>
     <string name="menu_update">Обновить</string>
     <string name="menu_settings">Настройки</string>
     <string name="menu_locations">Города</string>
