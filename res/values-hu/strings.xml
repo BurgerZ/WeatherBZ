@@ -119,6 +119,7 @@
     <string name="location_list">Helyszínek</string>
     <string name="location_search">Helyszín keresés</string>
     <string name="main_screen_text_color_summary">A főképernyő adatainak szöveg színe</string>
+    <string name="menu">Menü</string>
     <string name="menu_hourly">Óránként</string>
     <string name="menu_locations">Helyszínek</string>
     <string name="menu_settings">Beállítások</string>
