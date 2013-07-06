@@ -54,4 +54,8 @@
         <item>Předvolená</item>
         <item>MIUI video</item>
     </string-array>
++    <string-array name="moon_phases_entries">
++        <item>Měsíc</item>
++        <item>Rok</item>
++    </string-array>
 </resources>
