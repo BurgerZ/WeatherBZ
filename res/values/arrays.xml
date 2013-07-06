@@ -653,5 +653,13 @@
         <item>foreca</item>
         <item>wunderground</item>
         <item>accuweather</item>
-    </string-array>           
+    </string-array>
+    <string-array name="moon_phases_entries">
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+    <string-array name="moon_phases_values" translatable="false">
+        <item>moon_phases_month</item>
+        <item>moon_phases_year</item>
+    </string-array>          
 </resources>
