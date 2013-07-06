@@ -520,5 +520,9 @@
         <item>По умолчанию</item>
         <!--item >Кролик MITU</item-->
         <item>MIUI видео</item>
-    </string-array>    
+    </string-array>
+    <string-array name="moon_phases_entries">
+        <item>На месяц</item>
+        <item>На год</item>
+    </string-array>  
 </resources>
