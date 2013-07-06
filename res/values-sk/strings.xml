@@ -131,11 +131,11 @@
     <string name="menu_trend">Vývoj</string>	
     <string name="menu_update">Aktualizovať</string>
     <string name="moon_current_view">%s</string>
-    <string name="moon_firstquarter">Prvá štvrtina</string>
+    <string name="moon_firstquarter">Prvá Štvrť</string>
     <string name="moon_full">Spln</string>
     <string name="moon_illuminated">Osvetlený</string>
-    <string name="moon_lastquarter">Posledná štvrtina</string>
-    <string name="moon_newmoon">Nový mesiac</string>
+    <string name="moon_lastquarter">Posledná Štvrť</string>
+    <string name="moon_newmoon">Nov</string>
     <string name="moon_since">Od</string>
     <string name="moon_waningcrescent">Ubúdajúci polmesiac</string>
     <string name="moon_waninggibbous">Ubúdajúci mesiac</string>
