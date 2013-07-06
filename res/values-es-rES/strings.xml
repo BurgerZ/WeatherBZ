@@ -283,5 +283,5 @@
     <string name="wind_variable">Variable</string>
     <string name="wind_w">O</string>
     <string name="wind_wnw">O-NO</string>
-    <string name="wind_wsw">W-SO</string>
+    <string name="wind_wsw">O-SO</string>
 </resources>
