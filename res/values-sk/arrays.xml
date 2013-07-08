@@ -55,7 +55,7 @@
         <item>MIUI video</item>
     </string-array>
     <string-array name="moon_phases_entries">
-        <item>Mesiac</item>
-        <item>Rok</item>
+        <item>Súčasný mesiac</item>
+        <item>Súčasný rok</item>
     </string-array>
 </resources>
