@@ -142,7 +142,7 @@
     <string name="moon_current_view">View mode: %s</string>
     <string name="moon_illuminated">Illuminated</string>
     <string name="moon_since">Начиная с</string>
-    <string name="network_error">Could not connect the server</string>
+    <string name="network_error">Could not connect the server.\nCheck your network settings.</string>
     <string name="new_version">New version</string>
     <string name="no_provider">Location is not available\nSelect location manually</string>
     <string name="no_weather_provider">No MIUI weather provider found</string>
