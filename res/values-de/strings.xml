@@ -122,12 +122,13 @@
     <string name="main_screen_text_color_summary">Textfarbe der wichtigsten Daten auf der Anzeige</string> 
     <string name="menu">Menü</string>
     <string name="menu_hourly">Stündlich</string>
-    <string name="menu_indices">Indizes</string>
+    <string name="menu_indices">Life Style</string>
     <string name="menu_locations">Orte</string>
     <string name="menu_moon_phases">Mondphasen</string>
     <string name="menu_settings">Einstellungen</string>
     <string name="menu_trend">Trend</string>
     <string name="menu_update">Aktualisierung</string>
+    <string name="moon_age">Alter: %s Tage</string>
     <string name="moon_current_view">Ansichtmodus: %s</string>
     <string name="moon_firstquarter">Erstes Viertel</string>
     <string name="moon_full">Vollmond</string>
@@ -179,6 +180,8 @@
     <string name="settings_check_updates_summary">Prüfe auf Aktualisierung beim Anwendungsstart</string>    
     <string name="settings_check_updates_title">Prüfe auf Aktualisierung</string>
     <string name="settings_click_actions">Berührungseinstellungen</string>
+    <string name="settings_hide_bottom_bar_summary">Bildschirm berühren um den Balken mit den Knöpfen zu verbergen</string>
+    <string name="settings_hide_bottom_bar_title">Unteren Balken verbergen</string>
     <string name="settings_miui_support_summary">Einschalten um native MIUI-Widgets zu unterstützen</string>
     <string name="settings_miui_support_title">MIUI-Widget-Unterstützung</string>
     <string name="settings_miui_v5_summary">Einschalten wenn du ein MIUI v5 ROM verwendest</string>
@@ -295,4 +298,16 @@
     <string name="wind_w">W</string>
     <string name="wind_wnw">W-NW</string>
     <string name="wind_wsw">W-SW</string>
+    <string name="zodiac_aquarius">Wassermann</string>
+    <string name="zodiac_aries">Widder</string>
+    <string name="zodiac_cancer">Krebs</string>
+    <string name="zodiac_capricorn">Steinbock</string>
+    <string name="zodiac_gemini">Zwillinge</string>
+    <string name="zodiac_leo">Löwe</string>
+    <string name="zodiac_libra">Waage</string>
+    <string name="zodiac_pisces">Fische</string>
+    <string name="zodiac_sagittarius">Schütze</string>
+    <string name="zodiac_scorpio">Skorpion</string>
+    <string name="zodiac_taurus">Stier</string>
+    <string name="zodiac_virgo">Jungfrau</string>
 </resources>

@@ -554,8 +554,8 @@
         <item>MIUI Video</item>
     </string-array>
     <string-array name="moon_phases_entries">
-        <item>Monat</item>
-        <item>Jahr</item>
+        <item>Aktuelles Monat</item>
+        <item>Aktuelles Jahr</item>
     </string-array>
     <string-array name="moon_phases_values" translatable="false">
         <item>moon_phases_month</item>
