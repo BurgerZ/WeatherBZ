@@ -552,5 +552,13 @@
         <item>Standard</item>
         <!--item >MITU</item-->
         <item>MIUI Video</item>
-    </string-array>                   
+    </string-array>
+    <string-array name="moon_phases_entries">
+        <item>Monat</item>
+        <item>Jahr</item>
+    </string-array>
+    <string-array name="moon_phases_values" translatable="false">
+        <item>moon_phases_month</item>
+        <item>moon_phases_year</item>
+    </string-array>          
 </resources>
