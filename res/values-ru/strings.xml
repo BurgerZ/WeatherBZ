@@ -61,11 +61,12 @@
     <string name="menu">Меню</string>
     <string name="menu_update">Обновить</string>
     <string name="menu_settings">Настройки</string>
-    <string name="menu_indices">Индексы</string>
+    <string name="menu_indices">Стиль жизни</string>
     <string name="menu_locations">Города</string>
     <string name="menu_moon_phases">Фазы луны</string>
     <string name="menu_hourly">Почасовой</string>
     <string name="menu_trend">График</string>
+    <string name="moon_age">Возраст %s дн.</string>
     <string name="moon_newmoon">Новолуние</string>
     <string name="moon_waxingcrescent">Растущий месяц</string>
     <string name="moon_firstquarter">Первая четверть</string>
@@ -165,6 +166,8 @@
     <string name="settings_notification_color_title">Цвет символа уведомления</string>
     <string name="settings_category_widgets">Виджеты</string>
     <string name="settings_category_widgets_sum">Внешний вид виджетов и действия по нажатию на виджеты</string>
+    <string name="settings_hide_bottom_bar_title">Скрывать нижнюю панель</string>
+    <string name="settings_hide_bottom_bar_summary">Скрывать панель с кнопками кликом по экрану</string>
     <string name="settings_weather_provider">Поставщик прогноза</string>
     <string name="settings_widgets_click_clock_title">Нажатие на часы</string>
     <string name="settings_widgets_click_clock_summary">Выбор приложения для запуска по нажатию на часы</string>
@@ -293,4 +296,16 @@
     <string name="foreca_overcast_ts_rain">Гроза с дождем</string>
     <string name="foreca_overcast_ts_wet_snow">Гроза с мокрым снегом</string>
     <string name="foreca_overcast_ts_snow">Гроза со снегом</string>
+    <string name="zodiac_aries">Овен</string>
+    <string name="zodiac_taurus">Телец</string>
+    <string name="zodiac_gemini">Близнецы</string>
+    <string name="zodiac_cancer">Рак</string>
+    <string name="zodiac_leo">Лев</string>
+    <string name="zodiac_virgo">Дева</string>
+    <string name="zodiac_libra">Весы</string>
+    <string name="zodiac_scorpio">Скорпион</string>
+    <string name="zodiac_sagittarius">Стрелец</string>
+    <string name="zodiac_capricorn">Козерог</string>
+    <string name="zodiac_aquarius">Водолей</string>
+    <string name="zodiac_pisces">Рыбы</string>
 </resources>
