@@ -124,12 +124,13 @@
     <string name="main_screen_text_color_summary">Farba textu na hlavnej obrazovke</string>
     <string name="menu">Menu</string>
     <string name="menu_hourly">Hodinová</string>	
-    <string name="menu_indices">Index</string>
+    <string name="menu_indices">Životný štýl</string>
     <string name="menu_locations">Mestá</string>
     <string name="menu_moon_phases">Fázy mesiaca</string>
     <string name="menu_settings">Nastavenia</string>
     <string name="menu_trend">Vývoj</string>	
     <string name="menu_update">Aktualizovať</string>
+    <string name="moon_age">Vek: %s dní</string>
     <string name="moon_current_view">%s</string>
     <string name="moon_firstquarter">Prvá Štvrť</string>
     <string name="moon_full">Spln</string>
@@ -181,6 +182,8 @@
     <string name="settings_check_updates_summary">Kontrolovať aktualizácie pri spustení</string>
     <string name="settings_check_updates_title">Kontrola aktualizácií</string>
     <string name="settings_click_actions">Akcia kliknutia</string>
+    <string name="settings_hide_bottom_bar_title">Skryť spodnú lištu</string>
+    <string name="settings_hide_bottom_bar_summary">Dotknite sa displeja pre ukrytie spodnej lišty s tlačidlami</string>
     <string name="settings_miui_support_summary">Povoľte pre podporu widgetu počasia MIUI</string>
     <string name="settings_miui_support_title">MIUI widget</string>
     <string name="settings_miui_v5_summary">Povoľte ak máte MIUIv5</string>
@@ -298,4 +301,16 @@
     <string name="wind_w">Z</string>
     <string name="wind_wnw">Z-SZ</string>
     <string name="wind_wsw">Z-JZ</string>
+    <string name="zodiac_aries">Baran</string>
+    <string name="zodiac_taurus">Býk</string>
+    <string name="zodiac_gemini">Blíženci</string>
+    <string name="zodiac_cancer">Rak</string>
+    <string name="zodiac_leo">Lev</string>
+    <string name="zodiac_virgo">Panna</string>
+    <string name="zodiac_libra">Váhy</string>
+    <string name="zodiac_scorpio">Škorpión</string>
+    <string name="zodiac_sagittarius">Strelec</string>
+    <string name="zodiac_capricorn">Kozorožec</string>
+    <string name="zodiac_aquarius">Vodnár</string>
+    <string name="zodiac_pisces">Ryby</string>
 </resources>
