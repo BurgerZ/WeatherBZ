@@ -181,7 +181,7 @@
     <string name="settings_category_widgets_sum">Přizpůsobení widgetu a akce dotyku</string>
     <string name="settings_check_updates_summary">Kontrolovat aktualizace při spuštění</string>
     <string name="settings_check_updates_title">Kontrola aktualizací</string>
-    <string name="settings_click_actions">Akce kliknutí</string>
+    <string name="settings_click_actions">Přizpůsobení widgetu</string>
     <string name="settings_hide_bottom_bar_title">Skrýt spodní lištu</string>
     <string name="settings_hide_bottom_bar_summary">Dotkněte se displeje pro skrytí spodní lišty s tlačítky</string>
     <string name="settings_miui_support_summary">Povolte pro podporu widgetu počasí MIUI</string>
@@ -208,12 +208,12 @@
     <string name="settings_update_wifi_only_summary">Aktualizovat předpověď počasí jen při připojení na Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Aktualizovat jen na Wi-Fi</string>
     <string name="settings_weather_provider">Zdroj předpovědi</string>
-    <string name="settings_widgets_click_clock_summary">Aplikace se spustí při dotyku na widget s hodinami</string>
-    <string name="settings_widgets_click_clock_title">Dotyk na Hodiny</string>
-    <string name="settings_widgets_click_date_summary">Aplikace se spustí při dotyku na datum widgetu</string>
-    <string name="settings_widgets_click_date_title">Dotyk na datum</string>
-    <string name="settings_widgets_click_weather_summary">Aplikace se spustí při dotyku na widget s počasím (teplotu)</string>
-    <string name="settings_widgets_click_weather_title">Dotyk na předpověď</string>
+    <string name="settings_widgets_click_clock_summary">Zvolená aplikace se spustí při dotyku na widget s hodinami</string>
+    <string name="settings_widgets_click_clock_title">Tapnutí na Hodiny</string>
+    <string name="settings_widgets_click_date_summary">Zvolená aplikace se spustí při dotyku na datum widgetu</string>
+    <string name="settings_widgets_click_date_title">Tapnutí na Datum</string>
+    <string name="settings_widgets_click_weather_summary">Zvolená aplikace se spustí při dotyku na widget s počasím (teplotou)</string>
+    <string name="settings_widgets_click_weather_title">Tapnutí na Předpověď</string>
     <string name="settings_widgets_widget4x1">Widget 4x1</string>
     <string name="settings_widgets_widget4x1_data_title">Rozšířená data</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Nastavte pro předvolené pozadí</string>
@@ -231,7 +231,7 @@
     <string name="settings_widgets_widget4x2_desc_font_summary">Předvolená hodnota 22sp</string>
     <string name="settings_widgets_widget4x2_desc_font_title">Poznámky k počasí</string>
     <string name="settings_widgets_widget4x2_feel_font_summary">Předvolená hodnota 14sp</string>
-    <string name="settings_widgets_widget4x2_feel_font_title">Pocity</string>
+    <string name="settings_widgets_widget4x2_feel_font_title">Pocitová teplota</string>
     <string name="settings_widgets_widget4x2_temp_font_summary">Předvolená hodnota 40sp</string>
     <string name="settings_widgets_widget4x2_temp_font_title">Teplota</string>
     <string name="settings_widgets_widget4x2_v5">Widget 4x2 (v5)</string>

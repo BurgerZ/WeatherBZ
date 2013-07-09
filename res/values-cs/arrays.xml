@@ -29,11 +29,11 @@
         <item>Datum</item>
         <item>Město</item>
         <item>Poznámka o počasí</item>
-        <item>Pocity</item>
+        <item>Pocitová teplota</item>
         <item>Vítr</item>
     </string-array>
     <string-array name="main_show_entries">
-        <item>Pocity</item>
+        <item>Pocitová teplota</item>
         <item>Vítr</item>
         <item>Vlhkost</item>
         <item>Tlak</item>
