@@ -553,4 +553,8 @@
         <!--item >MITU</item-->
         <item>MIUI videó</item>
     </string-array>
+    <string-array name="moon_phases_entries">
+        <item>Ehavi</item>
+        <item>Ezévi</item>
+    </string-array>
 </resources>
