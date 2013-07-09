@@ -139,7 +139,7 @@
     <string name="moon_waninggibbous">Luna gibosa menguante</string>
     <string name="moon_lastquarter">Cuarto menguante</string>
     <string name="moon_waningcrescent">Luna menguante</string>
-    <string name="moon_current_view">Vendo: %s</string>
+    <string name="moon_current_view">Viendo: %s</string>
     <string name="moon_illuminated">Iluminación</string>
     <string name="moon_since">Inicio</string>
     <string name="network_error">No se pudo conectar al servidor\nComprueba tus ajustes de red.</string>
