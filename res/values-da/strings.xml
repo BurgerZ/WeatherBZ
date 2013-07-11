@@ -137,7 +137,7 @@
     <string name="moon_waninggibbous">Aftagende</string>
     <string name="moon_lastquarter">Aftagende sidste kvartal</string>
     <string name="moon_waningcrescent">Aftagende halvmåne</string>
-    <string name="moon_current_view">Visningstilstand: %s</string>
+    <string name="moon_current_view">Nuværende: %s</string>
     <string name="moon_illuminated">Oplyst</string>
     <string name="moon_since">Siden</string>
     <string name="network_error">Kunne ikke forbinde til serveren</string>
