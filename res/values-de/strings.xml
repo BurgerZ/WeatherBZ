@@ -58,7 +58,7 @@
     <string name="donations_google_android_market_not_supported_title">In-App-Spenden werden nicht unterstützt</string> 
     <string name="donations_google_android_market_text">Wie viel?</string> 
     <string name="donations_paypal">PayPal</string> 
-    <string name="donations_paypal_description">Du kannst entscheiden wie viel du spenden willst, nachdem du den Button gedrückt hast!</string> 
+    <string name="donations_paypal_description">Du kannst entscheiden wieviel du spenden willst, nachdem du den Button gedrückt hast!</string> 
     <string name="donations_paypal_item_name">In-App-Spende</string> 
     <string name="donations_thanks_dialog">Danke für die Spende!\nIch weiß das sehr zu schätzen!</string>    
     <string name="donations_thanks_dialog_title">Danke!</string> 
