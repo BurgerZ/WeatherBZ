@@ -179,6 +179,7 @@
     <string name="settings_category_update_sum">Settings for autoupdate and autoupdate time</string>
     <string name="settings_category_widgets">Widgets</string>
     <string name="settings_category_widgets_sum">Widgets appearance and click actions</string>
+    <string name="settings_citydb_provider">City Provider</string>
     <string name="settings_click_actions">Click actions</string>
     <string name="settings_check_updates_summary">Check for updates on application start</string>
     <string name="settings_check_updates_title">Check for updates</string>

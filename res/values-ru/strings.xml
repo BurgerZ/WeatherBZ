@@ -179,6 +179,7 @@
     <string name="settings_category_update_sum">Настройки автообновления и времени обновления прогноза</string>
     <string name="settings_category_widgets">Виджеты</string>
     <string name="settings_category_widgets_sum">Внешний вид виджетов и действия по нажатию на виджеты</string>
+    <string name="settings_citydb_provider">База городов</string>
     <string name="settings_click_actions">Действия по нажатию</string>
     <string name="settings_check_updates_summary">Проверять наличие новой версии приложения при запуске</string>
     <string name="settings_check_updates_title">Проверять обновления</string>
