@@ -313,4 +313,19 @@
     <string name="zodiac_capricorn">Kozorožec</string>
     <string name="zodiac_aquarius">Vodnár</string>
     <string name="zodiac_pisces">Ryby</string>
+    <string name="settings_citydb_provider">Databáza miest</string>
+    <string name="applying_theme">Nastavovanie témy\u2026</string>
+    <string name="btn_apply_theme">Použiť</string>
+    <string name="menu_delete_theme">Vymazať tému</string>
+    <string name="menu_import">Importovať z SD karty</string>
+    <string name="menu_themes">Témy</string>
+    <string name="theme_author">"Autor: "</string>
+    <string name="theme_date">"Dátum: "</string>
+    <string name="theme_import_dialog_title">Vyberte tému</string>
+    <string name="theme_import_no_filemanager">Nainštalujte Správcu súborov.</string>
+    <string name="theme_import_not_theme">Neplatný súbor témy!</string>
+    <string name="theme_version">"Verzia: "</string>
+    <string name="themes_temperature_icons">Ikony teploty</string>
+    <string name="themes_weather_animation">Animácie počasia</string>
+    <string name="themes_weather_icons">Ikony počasia</string>
 </resources>
