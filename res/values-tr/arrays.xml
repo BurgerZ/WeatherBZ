@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="donations_google_android_market_promt_array">
+  		<item>1 Euro</item> 
+  		<item>2 Euro</item> 
+  		<item>3 Euro</item> 
+  		<item>5 Euro</item> 
+  		<item>8 Euro</item> 
+  		<item>13 Euro</item> 
+  	</string-array>    
+    <string-array name="update_interval_names">
+        <item>30 Dakika</item> 
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>4 saat</item>
+        <item>6 saat</item>
+    </string-array>
+    <string-array name="notif_temp_color_entries">
+        <item>Siyah</item>
+        <item>Beyaz</item>
+    </string-array>
+    <string-array name="notif_type_entries">
+        <item>Sıcaklık</item>
+        <item>Hava durumu simgesi</item>
+    </string-array>
+    <string-array name="widget42_show_entries">
+        <item>Saat</item>
+        <item>Tarih</item>
+        <item>Şehir</item>
+        <item>Hava durumu bilgileri</item>
+        <item>Hissedilen</item>
+        <item>Rüzgar</item>
+    </string-array>
+    <string-array name="main_show_entries">
+        <item>Hissedilen</item>
+        <item>Rüzgar</item>
+        <item>Nem</item>
+        <item>Basınç</item>
+        <item>Görüş mesafesi</item>
+        <item>Gündoğumu ve günbatımı</item>
+        <item>Sonraki alarm</item>
+    </string-array>
+    <string-array name="widget41_show_entries">
+        <item>Sıcaklık paneli</item>
+        <item>Kapsamli bilgi paneli</item>
+        <item>Zaman paneli</item>
+	</string-array>
+	<string-array name="widget41_data_entries">
+        <item>"3-günlük tahmin verileri"</item>
+        <item>"Bugünkü tahmin verileri"</item>
+    </string-array>
+    <string-array name="animation_type_entries">
+        <item>Varsayılan animasyon</item>
+        <item>MIUI animasyonları</item>
+    </string-array>
+    <string-array name="moon_phases_entries">
+        <item>Geçerli ay</item>
+        <item>Geçerli yıl</item>
+    </string-array>
+</resources>

@@ -654,6 +654,14 @@
         <item>wunderground</item>
         <item>accuweather</item>
     </string-array>
+    <string-array name="citydb_provider_entries">
+        <item>Foreca</item>
+        <item>Accuweather</item>
+    </string-array>
+    <string-array name="citydb_provider_values" translatable="false">
+        <item>citydb_foreca</item>
+        <item>citydb_accuweather</item>
+    </string-array>
     <string-array name="moon_phases_entries">
         <item>Current month</item>
         <item>Current year</item>
