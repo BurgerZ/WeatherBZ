@@ -5,7 +5,7 @@
     <string name="about_sunny">Soleado</string>
     <string name="about_cloudy">Nublado</string>
     <string name="about_overcast">Cubierto</string>
-    <string name="about_fog">Nebla</string>
+    <string name="about_fog">Niebla</string>
     <string name="about_rainstorm">Lluvias torrenciales</string>
     <string name="about_t_storms">Tormentas</string>
     <string name="about_rain_showers">Chubascos</string>
@@ -14,7 +14,7 @@
     <string name="about_light_rain">Lluvia suave</string>
     <string name="about_sleet">Aguanieve</string>
     <string name="about_blizzard">Ventisca</string>
-    <string name="about_snow_showers">Chubascos de nievehaz</string>
+    <string name="about_snow_showers">Chubascos de nieve</string>
     <string name="about_heavy_snow">Fuerte nevada</string>
     <string name="about_moderate_snow">Nieve</string>
     <string name="about_light_snow">Suave nevada</string>
