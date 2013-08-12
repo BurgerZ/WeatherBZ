@@ -305,7 +305,7 @@
         <item>Estilo MIUI</item>
     </string-array>
     <string-array name="moon_phases_entries">
-        <item>Mes actual</item>
-        <item>Año actual</item>
+        <item>Mensual</item>
+        <item>Anual</item>
     </string-array>
 </resources>

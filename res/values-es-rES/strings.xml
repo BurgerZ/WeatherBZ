@@ -136,7 +136,7 @@
     <string name="menu_themes">Temas</string>
     <string name="menu_trend">Tendencia</string>
     <string name="menu_update">Actualizar</string>
-    <string name="moon_age">Edad %s día(s)</string>
+    <string name="moon_age">Edad: %s día(s)</string>
     <string name="moon_newmoon">Luna nueva</string>
     <string name="moon_waxingcrescent">Luna creciente</string>
     <string name="moon_firstquarter">Cuarto creciente</string>
@@ -145,8 +145,8 @@
     <string name="moon_waninggibbous">Luna gibosa menguante</string>
     <string name="moon_lastquarter">Cuarto menguante</string>
     <string name="moon_waningcrescent">Luna menguante</string>
-    <string name="moon_current_view">Viendo: %s</string>
-    <string name="moon_illuminated">Iluminación</string>
+    <string name="moon_current_view">Vista: %s</string>
+    <string name="moon_illuminated">Iluminada al</string>
     <string name="moon_since">Inicio</string>
     <string name="network_error">No se pudo conectar al servidor\nComprueba tus ajustes de red.</string>
     <string name="new_version">Nueva versión</string>
