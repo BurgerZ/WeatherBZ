@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_author">yAZAR:</string>
+    <string name="about_author">Yazar:</string>
     <string name="about_blizzard">Kar fırtınası</string>
     <string name="about_cloudy">Bulutlu</string>
     <string name="about_cloudy_night">Bulutlu gece</string>
@@ -10,14 +10,20 @@
     <string name="about_for_translators_text">Eğer uygulamayı kendi dilinize çevirmek isterseniz, Github sayfasında tüm kaynakları bulabilirsiniz</string>
     <string name="about_hailstone">Dolu</string>
     <string name="about_heavy_snow">Kar</string>
+	<string name="about_haze">Bulanık</string> 
     <string name="about_light_rain">Hafif Yağmur</string>
     <string name="about_light_snow">Hafif Kar</string>
     <string name="about_overcast">Kapalı</string>
     <string name="about_rain">Yağmur</string>
+	<string name="about_rain_showers">Sağanak Yağmur</string> 
+	<string name="about_heavy_rain">Şiddetli Yağmur</string>
+    <string name="about_moderate_rain">Hafif Sağanak Yağmur</string>
     <string name="about_rainstorm">Yağmur Fırtınası</string>
     <string name="about_showers">Sağanak</string>
     <string name="about_sleet">Karla karışık yağmur</string>
-    <string name="about_snow">KAr</string>
+    <string name="about_snow">Kar</string>
+	<string name="about_snow_showers">Sağanak Kar Yağışı</string>
+	<string name="about_moderate_snow">Hafif Kar Yağışı</string>
     <string name="about_social">Sosyal linkler:</string>
     <string name="about_sunny">Açık</string>
     <string name="about_sunny_night">Açık Gece</string>
