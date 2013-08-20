@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string-array name="donations_google_android_market_promt_array">
+  		<item>1 Євро</item> 
+  		<item>2 Євро</item> 
+  		<item>3 Євро</item> 
+  		<item>5 Євро</item> 
+  		<item>8 Євро</item> 
+  		<item>13 Євро</item> 
+  	</string-array>
     <string-array name="update_interval_names">
         <item>30 хвилин</item>
         <item>1 година</item>
@@ -477,7 +485,11 @@
     <string-array name="notif_temp_color_entries">
         <item>Чорний</item>
         <item>Білий</item>
-    </string-array>   
+    </string-array>
+    <string-array name="notif_type_entries">
+        <item>Температура</item>
+        <item>Іконка погоди</item>
+    </string-array>    
     <string-array name="widget42_show_entries">
         <item>Годинник</item>
         <item>Дата</item>
@@ -495,4 +507,22 @@
         <item>Sunrise and sunset</item>
         <item>Next Alarm</item>
     </string-array>   
+    <string-array name="widget41_show_entries">
+        <item>Панель температур</item>
+        <item>Панель додаткових даних</item>
+        <item>Панель годинника</item>
+	</string-array>
+    <string-array name="widget41_data_entries">
+        <item>Прогноз на 3 дні</item>
+        <item>Поточні дані</item>
+    </string-array>	
+    <string-array name="animation_type_entries">
+        <item>За замовчанням</item>
+        <!--item >Кролик MITU</item-->
+        <item>MIUI відео</item>
+    </string-array>
+    <string-array name="moon_phases_entries">
+        <item>Поточний місяць</item>
+        <item>Поточний рік</item>
+    </string-array>  
 </resources>
