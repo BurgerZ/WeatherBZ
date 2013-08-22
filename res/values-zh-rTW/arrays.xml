@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="donations_google_android_market_promt_array">
-        <item>1 Euro</item>
-        <item>2 Euros</item>
-        <item>3 Euros</item>
-        <item>5 Euros</item>
-        <item>8 Euros</item>
-        <item>13 Euros</item>
+        <item>1 歐元</item>
+        <item>2 歐元</item>
+        <item>3 歐元</item>
+        <item>5 歐元</item>
+        <item>8 歐元</item>
+        <item>13 歐元</item>
     </string-array>
     <string-array name="update_interval_names">
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>3 hours</item>
-        <item>4 hours</item>
-        <item>6 hours</item>
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+        <item>2 小時</item>
+        <item>3 小時</item>
+        <item>4 小時</item>
+        <item>6 小時</item>
     </string-array>
     <string-array name="update_interval_values">
         <item>30</item>
@@ -523,28 +523,28 @@
         <item>Saint Pierre and Miquelon</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
-        <item>Black</item>
-        <item>White</item>
+        <item>黑色</item>
+        <item>白色</item>
     </string-array>
     <string-array name="notif_temp_color_values">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="notif_type_entries">
-        <item>Temperature</item>
-        <item>Weather icon</item>
+        <item>溫度</item>
+        <item>天氣圖標</item>
     </string-array>
     <string-array name="notif_type_values">
         <item>temperature_symbol</item>
         <item>weather_symbol</item>
     </string-array>
     <string-array name="widget42_show_entries">
-        <item>Clock</item>
-        <item>Date</item>
-        <item>City</item>
-        <item>Weather description</item>
-        <item>Feelings</item>
-        <item>Wind</item>
+        <item>時鐘</item>
+        <item>日期</item>
+        <item>城市</item>
+        <item>天氣描述</item>
+        <item>感覺</item>
+        <item>風速</item>
     </string-array>
     <string-array name="widget42_show_values">
         <item>w42_clock</item>
@@ -555,13 +555,13 @@
         <item>w42_wind</item>
     </string-array>
     <string-array name="main_show_entries">
-        <item>Feelings</item>
-        <item>Wind</item>
-        <item>Humidity</item>
-        <item>Pressure</item>
-        <item>Visibility</item>
-        <item>Sunrise and sunset</item>
-        <item>Next Alarm</item>
+        <item>感覺</item>
+        <item>風速</item>
+        <item>濕度</item>
+        <item>氣壓</item>
+        <item>能見度</item>
+        <item>日出和日落</item>
+        <item>顯示下一次報時</item>
     </string-array>
     <string-array name="main_show_values">
         <item>main_feel</item>
@@ -573,9 +573,9 @@
         <item>main_next_alarm</item>
     </string-array>
     <string-array name="widget41_show_entries">
-        <item>Temperature panel</item>
-        <item>Extended data panel</item>
-        <item>Time panel</item>
+        <item>溫度面板</item>
+        <item>額外資料面板</item>
+        <item>時間面板</item>
     </string-array>
     <string-array name="widget41_show_values">
         <item>w41_temp</item>
@@ -583,8 +583,8 @@
         <item>w41_time</item>
     </string-array>
     <string-array name="widget41_data_entries">
-        <item>"3-day's forecast data"</item>
-        <item>"Today's Forecast data"</item>
+        <item>"3天內的的預測資料"</item>
+        <item>"今日預測資料"</item>
     </string-array>
     <string-array name="widget41_data_values">
         <item>w41_3day_forecast</item>
@@ -627,8 +627,8 @@
         <item>temperature_units_f</item>
     </string-array>
     <string-array name="animation_type_entries">
-        <item>Default</item>
-        <item>MIUI video</item>
+        <item>預設</item>
+        <item>MIUI動畫</item>
     </string-array>
     <string-array name="animation_type_values">
         <item>animation_default</item>
@@ -661,8 +661,8 @@
         <item>citydb_accuweather</item>
     </string-array>
     <string-array name="moon_phases_entries">
-        <item>Current month</item>
-        <item>Current year</item>
+        <item>本月</item>
+        <item>本年度</item>
     </string-array>
     <string-array name="moon_phases_values">
         <item>moon_phases_month</item>
