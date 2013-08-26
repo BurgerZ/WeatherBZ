@@ -8,7 +8,7 @@
     <string name="about_version">版本:</string>
     <string name="about_sunny">晴朗</string>
     <string name="about_cloudy">多雲</string>
-    <string name="about_overcast">陰天的</string>
+    <string name="about_overcast">陰天</string>
     <string name="about_fog">霧</string>
     <string name="about_rainstorm">暴風雨</string>
     <string name="about_t_storms">雷雨</string>
@@ -200,7 +200,7 @@
     <string name="settings_hide_bottom_bar_summary">輕觸螢幕下方工具欄的按鈕隱藏</string>
     <string name="settings_miui_support_summary">打開支持MIUI原生widgets</string>
     <string name="settings_miui_support_title">MIUI widgets支持</string>
-    <string name="settings_miui_v5_summary">如果你打開了MIUI v5 ROM</string>
+    <string name="settings_miui_v5_summary">如果你是使用MIUI v5 ROM請務必打開</string>
     <string name="settings_miui_v5_title">MIUI v5 ROM</string>
     <string name="settings_moon_phases_title">月亮變化</string>
     <string name="settings_notification_color_title">狀態欄的標誌顏色</string>
@@ -238,7 +238,7 @@
     <string name="settings_widgets_widget4x2_city_font_title">城市</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">預設值 50sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">時鐘</string>
-    <string name="settings_widgets_widget4x2_custom_font_summary">自定義widget字體大小 </string>
+    <string name="settings_widgets_widget4x2_custom_font_summary">自定義widget字體大小</string>
     <string name="settings_widgets_widget4x2_custom_font_title">自定義字體大小</string>
     <string name="settings_widgets_widget4x2_date_font_summary">預設值 14sp</string>
     <string name="settings_widgets_widget4x2_date_font_title">日</string>
@@ -253,7 +253,7 @@
     <string name="settings_widgets_widget4x2_wind_font_title">風</string>
     <string name="share">分享</string>
     <string name="share_content">\#WeatherBZ#</string>
-    <string name="share_weather_content">"\#WeatherBZ# 今天 %1$s 的天氣是 %2$s, %3$s, %4$s. 更新 %5$s."</string>
+    <string name="share_weather_content">\#WeatherBZ# 今天 %1$s 的天氣是 %2$s, %3$s, %4$s. 更新 %5$s.</string>
     <string name="share_weather_title">分享天氣數據</string>
     <string name="save_screen_shot_failed">無法保存截圖</string>
     <string name="start_time_title">開始</string>
@@ -303,7 +303,7 @@
     <string name="widget_name_medium">(4x1)Weather BZ</string>
     <string name="widget_name_medium_ext">(4x1 ext)Weather BZ</string>
     <string name="widget_name_medium_v5">(4x1 v5)Weather BZ</string>
-    <string name="widget_text_color_summary">"Widget的文字顏色"</string>
+    <string name="widget_text_color_summary">Widget的文字顏色</string>
     <string name="wind_e">E</string>
     <string name="wind_ene">E-NE</string>
     <string name="wind_ese">E-SE</string>
