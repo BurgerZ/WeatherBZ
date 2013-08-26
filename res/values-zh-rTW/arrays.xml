@@ -583,8 +583,8 @@
         <item>w41_time</item>
     </string-array>
     <string-array name="widget41_data_entries">
-        <item>"3天內的的預測資料"</item>
-        <item>"今日預測資料"</item>
+        <item>3天內的的預測資料</item>
+        <item>今日預測資料</item>
     </string-array>
     <string-array name="widget41_data_values">
         <item>w41_3day_forecast</item>
