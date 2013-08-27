@@ -22,11 +22,8 @@
     <string name="about_hailstone">Hailstone</string>
     <string name="about_haze">Haze</string>
     <string name="about_for_translators">For Translators:</string>
-    <string name="about_for_translators_text">If you want to help with translation this app into
-        your language, just go to the my github page (using the button above) to see all resources
-    </string>
+    <string name="about_for_translators_text">If you want to help with translation this app into your language, just go to the my github page (using the button above) to see all resources</string>
     <string name="about_social">Social links:</string>
-    <string name="animation_preview">Preview animations</string>
     <string name="app_name">Weather BZ</string>
     <string name="applying_theme">Applying theme\u2026</string>
     <string name="btn_add_location">Add Location</string>
@@ -39,48 +36,27 @@
     <string name="clear_miui_data_dialog_text">MIUI Weather Provider database cleared!</string>
     <string name="clear_miui_data_summary">Clears MIUI Weather Provider database</string>
     <string name="close">Close</string>
-    <string name="conf_add_widget">Add Widget</string>
-    <string name="conf_dark_skin">Dark Skin</string>
-    <string name="conf_choose_skin">Choose Skin</string>
-    <string name="conf_light_skin">Light Skin</string>
-    <string name="conf_name">Widget Settings</string>
-    <string name="conf_no_background">No background</string>
     <string name="date_format_title">Date format</string>
     <string name="date_format_mdy">MM/dd/yyyy</string>
     <string name="date_format_dmy">dd/MM/yyyy</string>
     <string name="dialog_color_picker">Color Picker</string>
-    <string name="dlg_go_to_forecast">Go to forecast</string>
-    <string name="dlg_select_action">Select an action</string>
-    <string name="dlg_set_as_home">Set as \"Home City\"</string>
     <string name="donate">Donate</string>
     <string name="donations_button_close">Close</string>
-    <string name="donations_description">Do you find this application useful?\nSupport it\'s
-        development by flattring it or sending donations to the developer!
-    </string>
+    <string name="donations_description">Do you find this application useful?\nSupport it\'s development by flattring it or sending donations to the developer!</string>
     <string name="donations_flattr">Flattr</string>
     <string name="donations_flattr_description">Flattr takes 10 % as a monthly fee!</string>
     <string name="donations_google_android_market">Google Play Store</string>
-    <string name="donations_google_android_market_description">Google takes 30 % off every
-        donation!
-    </string>
+    <string name="donations_google_android_market_description">Google takes 30 % off every donation!</string>
     <string name="donations_google_android_market_donate_button">Donate!</string>
-    <string name="donations_google_android_market_not_supported">In-App Donations are not supported.
-        Is Google Play Store installed correctly?
-    </string>
-    <string name="donations_google_android_market_not_supported_title">In-App Donations are not
-        supported
-    </string>
+    <string name="donations_google_android_market_not_supported">In-App Donations are not supported. Is Google Play Store installed correctly?</string>
+    <string name="donations_google_android_market_not_supported_title">In-App Donations are not supported</string>
     <string name="donations_google_android_market_text">How much?</string>
     <string name="donations_paypal">PayPal</string>
     <string name="donations_yandex">Yandex.Money</string>
-    <string name="donations_paypal_description">You can choose how much you want to donate after
-        clicking the button!
-    </string>
+    <string name="donations_paypal_description">You can choose how much you want to donate after clicking the button!</string>
     <string name="donations_paypal_item_name">InApp Donation</string>
     <string name="donations_thanks_dialog">Thanks for donating!\nI really appreciate this!</string>
     <string name="donations_thanks_dialog_title">Thanks!</string>
-    <string name="download_video">Get video</string>
-    <string name="end_time_title">End</string>
     <string name="fetching_location">Getting your position\u2026</string>
     <string name="foreca_clear">Clear</string>
     <string name="foreca_cloudy">Cloudy</string>
@@ -141,12 +117,11 @@
     <string name="menu_delete_theme">Delete theme</string>
     <string name="menu_hourly">Hourly</string>
     <string name="menu_import">Import theme form SD-card</string>
-    <string name="menu_indices">Life Style</string>
     <string name="menu_locations">Locations</string>
     <string name="menu_moon_phases">Moon Phases</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_themes">Themes</string>
-    <string name="menu_trend">Trend</string>
+    <string name="menu_trend">Week</string>
     <string name="menu_update">Update</string>
     <string name="moon_age">Age %s days</string>
     <string name="moon_newmoon">New Moon</string>
@@ -177,25 +152,15 @@
     <string name="quiet_hours_enabled_off">Updates will function as normal</string>
     <string name="quiet_hours_enabled_on">Quiet hours enabled</string>
     <string name="quiet_hours_title">Quiet hours</string>
-    <string name="settings_about_summary">Information about application</string>
     <string name="settings_about_title">About</string>
-    <string name="settings_animation_download_summary">Download video files of animations for
-        current weather condition (if video file not found in local storage)
-    </string>
-    <string name="settings_animation_download_title">Download animations</string>
-    <string name="settings_animation_show_summary">Show weather animation for current conditions
-    </string>
-    <string name="settings_animation_show_title">Show animation</string>
-    <string name="settings_animation_type">Animation type</string>
     <string name="settings_category_animation">Animation</string>
-    <string name="settings_category_animation_sum">Animation type, download policy</string>
+    <string name="settings_category_animation_sum">Animation preview</string>
     <string name="settings_category_app_update">Application update</string>
     <string name="settings_category_appearance">Common</string>
     <string name="settings_category_appearance_sum">Measure units, text color etc.</string>
     <string name="settings_category_forecast_update">Forecast update</string>
     <string name="settings_category_miui">MIUI ROMs</string>
-    <string name="settings_category_miui_sum">MIUI support settings (turn on/off, clear data etc.)
-    </string>
+    <string name="settings_category_miui_sum">MIUI support settings (turn on/off, clear data etc.)</string>
     <string name="settings_category_network">Network settings</string>
     <string name="settings_category_notification">Notifications</string>
     <string name="settings_category_notification_sum">Weather notifications settings</string>
@@ -209,58 +174,37 @@
     <string name="settings_check_updates_title">Check for updates</string>
     <string name="settings_colorize_weather_icons_title">Colorize icons</string>
     <string name="settings_colorize_weather_icons_summary">Set icons color to text color (for white weather icons for ex.)</string>
-    <string name="settings_hide_bottom_bar_title">Hide bottom bar</string>
-    <string name="settings_hide_bottom_bar_summary">Touch screen to hide bottom bar with buttons
-    </string>
     <string name="settings_miui_support_summary">Turn on to support MIUI native widgets</string>
     <string name="settings_miui_support_title">MIUI widgets support</string>
     <string name="settings_miui_v5_summary">Turn on if you have MIUI v5 ROM</string>
     <string name="settings_miui_v5_title">MIUI v5 ROM</string>
     <string name="settings_moon_phases_title">Moon Phases</string>
     <string name="settings_notification_color_title">Statusbar symbol color</string>
-    <string name="settings_notification_summary">Show current weather conditions in the notification
-        area
-    </string>
-    <string name="settings_notification_text_color_summary">Notification text and icons color
-    </string>
+    <string name="settings_notification_summary">Show current weather conditions in the notification area</string>
+    <string name="settings_notification_text_color_summary">Notification text and icons color</string>
     <string name="settings_notification_title">Show Notification</string>
     <string name="settings_notification_type">Notification type</string>
     <string name="settings_show_info_summary">Show or hide interface elements</string>
     <string name="settings_show_info_title">Show info</string>
-    <string name="settings_show_weather_icons_summary">Show weather icons (instead of textual
-        weather description) in 3-day forecast
-    </string>
-    <string name="settings_show_weather_icons_title">Show weather icons</string>
     <string name="settings_time_format_12h">12h time format</string>
     <string name="settings_update_autoupdate_summary">Auto update weather forecast</string>
     <string name="settings_update_autoupdate_title">Auto update</string>
     <string name="settings_update_interval_title">Update Interval</string>
-    <string name="settings_update_roaming_summary">Automatically update weather forecast even when
-        roaming. Note that you can have an extra charges to your phone bill
-    </string>
+    <string name="settings_update_roaming_summary">Automatically update weather forecast even when roaming. Note that you can have an extra charges to your phone bill</string>
     <string name="settings_update_roaming_title">Update in roaming</string>
     <string name="settings_update_wake_title">Wake device</string>
-    <string name="settings_update_wifi_only_summary">Automatically update weather forecast only when
-        Wi-Fi connection established
-    </string>
+    <string name="settings_update_wifi_only_summary">Automatically update weather forecast only when Wi-Fi connection established</string>
     <string name="settings_update_wifi_only_title">Update only on Wi-Fi</string>
     <string name="settings_weather_provider">Weather Provider</string>
-    <string name="settings_widgets_click_clock_summary">The app to start by clicking on widgets
-        clock
-    </string>
+    <string name="settings_widgets_click_clock_summary">The app to start by clicking on widgets clock</string>
     <string name="settings_widgets_click_clock_title">Click on Clock</string>
-    <string name="settings_widgets_click_date_summary">The app to start by clicking on widgets
-        date
-    </string>
+    <string name="settings_widgets_click_date_summary">The app to start by clicking on widgets date</string>
     <string name="settings_widgets_click_date_title">Click on Date</string>
-    <string name="settings_widgets_click_weather_summary">The app to start by clicking on widgets
-        forecast area (temperature)
-    </string>
+    <string name="settings_widgets_click_weather_summary">The app to start by clicking on widgets forecast area (temperature)</string>
     <string name="settings_widgets_click_weather_title">Click on Forecast</string>
     <string name="settings_widgets_widget4x1">Widget 4x1</string>
     <string name="settings_widgets_widget4x1_data_title">Extended data</string>
-    <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default background
-    </string>
+    <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default background</string>
     <string name="settings_widgets_widget4x1_transparent_title">Transparent background</string>
     <string name="settings_widgets_widget4x1_v5">Widget 4x1 (v5)</string>
     <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
@@ -268,8 +212,7 @@
     <string name="settings_widgets_widget4x2_city_font_title">City</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Default value 50sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">Clock</string>
-    <string name="settings_widgets_widget4x2_custom_font_summary">Customize font size for widget
-    </string>
+    <string name="settings_widgets_widget4x2_custom_font_summary">Customize font size for widget</string>
     <string name="settings_widgets_widget4x2_custom_font_title">Custom font size</string>
     <string name="settings_widgets_widget4x2_date_font_summary">Default value 14sp</string>
     <string name="settings_widgets_widget4x2_date_font_title">Date</string>
@@ -284,9 +227,7 @@
     <string name="settings_widgets_widget4x2_wind_font_title">Wind</string>
     <string name="share">Share</string>
     <string name="share_content">\#WeatherBZ#</string>
-    <string name="share_weather_content">"\#WeatherBZ# Today %1$s's weather is %2$s, %3$s, %4$s.
-        Updated %5$s."
-    </string>
+    <string name="share_weather_content">"\#WeatherBZ# Today %1$s's weather is %2$s, %3$s, %4$s. Updated %5$s."</string>
     <string name="share_weather_title">Share weather data</string>
     <string name="save_screen_shot_failed">Failed to save screenshot</string>
     <string name="start_time_title">Start</string>

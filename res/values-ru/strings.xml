@@ -8,7 +8,7 @@
     <string name="about_fog">Туман</string>
     <string name="about_rainstorm">Шквалистые дожди</string>
     <string name="about_t_storms">Гроза</string>
-    <string name="about_rain_drizzle">Морось</string>
+    <string name="about_rain_drizzle">Моросящий дождь</string>
     <string name="about_heavy_rain">Сильный дождь</string>
     <string name="about_moderate_rain">Дождь</string>
     <string name="about_light_rain">Слабый дождь</string>
@@ -22,11 +22,8 @@
     <string name="about_hailstone">Град</string>
     <string name="about_haze">Дымка</string>
     <string name="about_for_translators">Для переводчиков:</string>
-    <string name="about_for_translators_text">Если Вы хотите перевести данное приложение на Ваш
-        язык, перейдите в мой аккаунт github (по иконке выше)
-    </string>
+    <string name="about_for_translators_text">Если Вы хотите перевести данное приложение на Ваш язык, перейдите в мой аккаунт github (по иконке выше)</string>
     <string name="about_social">Ссылки:</string>
-    <string name="animation_preview">Предпросмотр анимации</string>
     <string name="app_name">Погода BZ</string>
     <string name="applying_theme">Применение темы\u2026</string>
     <string name="btn_add_location">Добавить город</string>
@@ -39,47 +36,24 @@
     <string name="clear_miui_data_dialog_text">Очистка базы данных погоды MIUI завершена!</string>
     <string name="clear_miui_data_summary">Очищает базу данных WeatherProvider</string>
     <string name="close">Закрыть</string>
-    <string name="conf_add_widget">Добавить виджет</string>
-    <string name="conf_dark_skin">Темный скин</string>
-    <string name="conf_choose_skin">Выберите скин</string>
-    <string name="conf_light_skin">Светлый скин</string>
-    <string name="conf_name">Настройки виджета</string>
-    <string name="conf_no_background">Без фона (прозрачный)</string>
     <string name="date_format_title">Формат даты</string>
     <string name="dialog_color_picker">Выбор цвета</string>
-    <string name="dlg_go_to_forecast">Перейти к прогнозу</string>
-    <string name="dlg_select_action">Выберите действие</string>
-    <string name="dlg_set_as_home">Как \"Основной город\"</string>
     <string name="donate">Пожертвование</string>
     <string name="donations_button_close">Закрыть</string>
-    <string name="donations_description">"Считаете ли вы приложение полезным?
-        Поддержите разработчика через flattr или отправьте пожертвование через Google Play Store!"
-    </string>
+    <string name="donations_description">"Считаете ли вы приложение полезным? Поддержите разработчика через flattr или отправьте пожертвование через Google Play Store!"</string>
     <string name="donations_flattr">Flattr</string>
-    <string name="donations_flattr_description">Flattr взимает 10% в виде ежемесячной абонентской
-        платы!
-    </string>
+    <string name="donations_flattr_description">Flattr взимает 10% в виде ежемесячной абонентской платы!</string>
     <string name="donations_google_android_market">Google Play Store</string>
-    <string name="donations_google_android_market_description">Google взимает 30% с каждого
-        пожертвования!
-    </string>
+    <string name="donations_google_android_market_description">Google взимает 30% с каждого пожертвования!</string>
     <string name="donations_google_android_market_donate_button">Пожертвовать!</string>
-    <string name="donations_google_android_market_not_supported">Пожертвования через приложение не
-        поддерживаются. Google Play Store установлен правильно?
-    </string>
-    <string name="donations_google_android_market_not_supported_title">Пожертвования через
-        приложение не поддерживаются
-    </string>
+    <string name="donations_google_android_market_not_supported">Пожертвования через приложение не поддерживаются. Google Play Store установлен правильно?</string>
+    <string name="donations_google_android_market_not_supported_title">Пожертвования через приложение не поддерживаются</string>
     <string name="donations_google_android_market_text">Сколько?</string>
     <string name="donations_paypal">PayPal</string>
     <string name="donations_yandex">Яндекс.Деньги</string>
-    <string name="donations_paypal_description">После нажатия на кнопку вы можете выбрать сколько
-        хотите пожертвовать!
-    </string>
+    <string name="donations_paypal_description">После нажатия на кнопку вы можете выбрать сколько хотите пожертвовать!</string>
     <string name="donations_thanks_dialog">Благодарю за пожертвование! Я очень это ценю!</string>
     <string name="donations_thanks_dialog_title">Благодарю!</string>
-    <string name="download_video">Скачать видео</string>
-    <string name="end_time_title">Конец</string>
     <string name="fetching_location">Определение местоположения…</string>
     <string name="foreca_clear">Ясно</string>
     <string name="foreca_cloudy">Облачно</string>
@@ -140,7 +114,6 @@
     <string name="menu_delete_theme">Удалить тему</string>
     <string name="menu_hourly">Почасовой</string>
     <string name="menu_import">Импорт темы с SD-карты</string>
-    <string name="menu_indices">Стиль жизни</string>
     <string name="menu_locations">Города</string>
     <string name="menu_moon_phases">Фазы луны</string>
     <string name="menu_settings">Настройки</string>
@@ -178,98 +151,58 @@
     <string name="quiet_hours_title">Тихие часы</string>
     <string name="settings_about_summary">Информация о программе</string>
     <string name="settings_about_title">О программе</string>
-    <string name="settings_animation_download_summary">Загружать видео файлы анимации из сети
-        Интернет (если они не найдены в локальном хранилище)
-    </string>
-    <string name="settings_animation_download_title">Загружать анимацию</string>
-    <string name="settings_animation_show_summary">Воспроизводить видео анимацию для текущего
-        прогноза погоды
-    </string>
-    <string name="settings_animation_show_title">Воспроизводить анимацию</string>
-    <string name="settings_animation_type">Тип анимации</string>
     <string name="settings_category_animation">Анимация</string>
-    <string name="settings_category_animation_sum">Отображение анимации, выбор ее типа</string>
+    <string name="settings_category_animation_sum">Предпросмотр анимации</string>
     <string name="settings_category_app_update">Обновление приложения</string>
     <string name="settings_category_appearance">Общие</string>
     <string name="settings_category_appearance_sum">Единицы измерения, цвет текста и т.д.</string>
     <string name="settings_category_forecast_update">Обновление прогноза</string>
     <string name="settings_category_miui">Прошивки MIUI</string>
-    <string name="settings_category_miui_sum">Настройки для прошивок MIUI, очистка погодных данных
-        MIUI
-    </string>
+    <string name="settings_category_miui_sum">Настройки для прошивок MIUI, очистка погодных данных MIUI</string>
     <string name="settings_category_network">Настройки сети</string>
     <string name="settings_category_notification">Уведомления</string>
     <string name="settings_category_notification_sum">Состояние погоды в статусной строке</string>
     <string name="settings_category_update">Обновление</string>
-    <string name="settings_category_update_sum">Настройки автообновления и времени обновления
-        прогноза
-    </string>
+    <string name="settings_category_update_sum">Настройки автообновления и времени обновления прогноза</string>
     <string name="settings_category_widgets">Виджеты</string>
-    <string name="settings_category_widgets_sum">Внешний вид виджетов и действия по нажатию на
-        виджеты
-    </string>
+    <string name="settings_category_widgets_sum">Внешний вид виджетов и действия по нажатию на виджеты</string>
     <string name="settings_citydb_provider">База городов</string>
     <string name="settings_click_actions">Действия по нажатию</string>
-    <string name="settings_check_updates_summary">Проверять наличие новой версии приложения при
-        запуске
-    </string>
+    <string name="settings_check_updates_summary">Проверять наличие новой версии приложения при запуске</string>
     <string name="settings_check_updates_title">Проверять обновления</string>
     <string name="settings_colorize_weather_icons_title">Раскрашивать иконки</string>
     <string name="settings_colorize_weather_icons_summary">Окрашивать иконки погоды в цвет текста (например, для белых иконок)</string>
-    <string name="settings_hide_bottom_bar_title">Скрывать нижнюю панель</string>
-    <string name="settings_hide_bottom_bar_summary">Скрывать панель с кнопками кликом по экрану
-    </string>
-    <string name="settings_miui_support_summary">Включает поддержку встроенных виджетов MIUI
-    </string>
+    <string name="settings_miui_support_summary">Включает поддержку встроенных виджетов MIUI</string>
     <string name="settings_miui_support_title">Виджеты MIUI</string>
     <string name="settings_miui_v5_summary">Включите, если у вас MIUI v5</string>
     <string name="settings_miui_v5_title">Прошивка MIUI v5</string>
     <string name="settings_moon_phases_title">Фазы луны</string>
     <string name="settings_notification_color_title">Цвет символа уведомления</string>
-    <string name="settings_notification_summary">Отображать прогноз погоды в области уведомлений
-    </string>
-    <string name="settings_notification_text_color_summary">Цвет текста и иконки уведомления
-    </string>
+    <string name="settings_notification_summary">Отображать прогноз погоды в области уведомлений</string>
+    <string name="settings_notification_text_color_summary">Цвет текста и иконки уведомления</string>
     <string name="settings_notification_title">Уведомление о погоде</string>
     <string name="settings_notification_type">Тип уведомления</string>
     <string name="settings_show_info_summary">Показывать или скрыть элементы интерфейса</string>
     <string name="settings_show_info_title">Отображение данных</string>
-    <string name="settings_show_weather_icons_summary">Показывать иконки погоды (вместо текстового
-        описания состояния погоды) в прогнозе на 3 дня
-    </string>
-    <string name="settings_show_weather_icons_title">Иконки погоды</string>
     <string name="settings_time_format_12h">12-часовой формат</string>
-    <string name="settings_update_autoupdate_summary">Автоматическое обновление прогноза погоды
-    </string>
+    <string name="settings_update_autoupdate_summary">Автоматическое обновление прогноза погоды</string>
     <string name="settings_update_autoupdate_title">Автообновление</string>
     <string name="settings_update_interval_title">Интервал обновления</string>
-    <string name="settings_update_roaming_summary">Обновлять прогноз погоды в роуминге. Это может
-        увеличить ваши расходы по оплате счетов сотовой связи
-    </string>
+    <string name="settings_update_roaming_summary">Обновлять прогноз погоды в роуминге. Это может увеличить ваши расходы по оплате счетов сотовой связи</string>
     <string name="settings_update_roaming_title">Обновлять в роуминге</string>
     <string name="settings_update_wake_title">Пробуждать устройство</string>
-    <string name="settings_update_wifi_only_summary">Обновлять прогноз погоды только при наличии
-        подключения по сети Wi-Fi
-    </string>
+    <string name="settings_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Обновлять только по Wi-Fi</string>
     <string name="settings_weather_provider">Поставщик прогноза</string>
-    <string name="settings_widgets_click_clock_summary">Выбор приложения для запуска по нажатию на
-        часы
-    </string>
+    <string name="settings_widgets_click_clock_summary">Выбор приложения для запуска по нажатию на часы</string>
     <string name="settings_widgets_click_clock_title">Нажатие на часы</string>
-    <string name="settings_widgets_click_date_summary">Выбор приложения для запуска по нажатию на
-        дату
-    </string>
+    <string name="settings_widgets_click_date_summary">Выбор приложения для запуска по нажатию на дату</string>
     <string name="settings_widgets_click_date_title">Нажатие на дату</string>
-    <string name="settings_widgets_click_weather_summary">Выбор приложения для запуска по нажатию на
-        прогноз
-    </string>
+    <string name="settings_widgets_click_weather_summary">Выбор приложения для запуска по нажатию на прогноз</string>
     <string name="settings_widgets_click_weather_title">Нажатие на прогноз</string>
     <string name="settings_widgets_widget4x1">Виджет 4x1</string>
     <string name="settings_widgets_widget4x1_data_title">Дополнительные данные</string>
-    <string name="settings_widgets_widget4x1_transparent_sum">Снимите галочку для использования фона
-        по умолчанию
-    </string>
+    <string name="settings_widgets_widget4x1_transparent_sum">Снимите галочку для использования фона по умолчанию</string>
     <string name="settings_widgets_widget4x1_transparent_title">Прозрачный фон</string>
     <string name="settings_widgets_widget4x1_v5">Виджет 4x1 (v5)</string>
     <string name="settings_widgets_widget4x2">Виджет 4x2 (v4)</string>
@@ -277,9 +210,7 @@
     <string name="settings_widgets_widget4x2_city_font_title">Город</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">По умолчанию 50sp</string>
     <string name="settings_widgets_widget4x2_clock_font_title">Часы</string>
-    <string name="settings_widgets_widget4x2_custom_font_summary">Настройка размера шрифта для
-        элементов виджета
-    </string>
+    <string name="settings_widgets_widget4x2_custom_font_summary">Настройка размера шрифта для элементов виджета</string>
     <string name="settings_widgets_widget4x2_custom_font_title">Настройка шрифтов</string>
     <string name="settings_widgets_widget4x2_date_font_summary">По умолчанию 14sp</string>
     <string name="settings_widgets_widget4x2_date_font_title">Дата</string>
@@ -294,9 +225,7 @@
     <string name="settings_widgets_widget4x2_wind_font_title">Ветер</string>
     <string name="share">Поделиться</string>
     <string name="share_content">\#WeatherBZ#</string>
-    <string name="share_weather_content">\#WeatherBZ# Сегодня в %1$s %2$s, %3$s, %4$s. Обновлено
-        %5$s.
-    </string>
+    <string name="share_weather_content">\#WeatherBZ# Сегодня в %1$s %2$s, %3$s, %4$s. Обновлено %5$s.</string>
     <string name="share_weather_title">Поделиться прогнозом</string>
     <string name="save_screen_shot_failed">Ошибка при сохранении скриншота</string>
     <string name="start_time_title">Начало</string>
