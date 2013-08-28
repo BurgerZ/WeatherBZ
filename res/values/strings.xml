@@ -24,6 +24,7 @@
     <string name="about_for_translators">For Translators:</string>
     <string name="about_for_translators_text">If you want to help with translation this app into your language, just go to the my github page (using the button above) to see all resources</string>
     <string name="about_social">Social links:</string>
+    <string name="action_bar_selected_format">Selected: %d</string>
     <string name="app_name">Weather BZ</string>
     <string name="applying_theme">Applying theme\u2026</string>
     <string name="btn_add_location">Add Location</string>

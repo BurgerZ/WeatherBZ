@@ -24,6 +24,7 @@
     <string name="about_for_translators">Для переводчиков:</string>
     <string name="about_for_translators_text">Если Вы хотите перевести данное приложение на Ваш язык, перейдите в мой аккаунт github (по иконке выше)</string>
     <string name="about_social">Ссылки:</string>
+    <string name="action_bar_selected_format">Выбрано: %d</string>
     <string name="app_name">Погода BZ</string>
     <string name="applying_theme">Применение темы\u2026</string>
     <string name="btn_add_location">Добавить город</string>
