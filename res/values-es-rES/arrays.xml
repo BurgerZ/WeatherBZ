@@ -271,7 +271,7 @@
     </string-array>
     <string-array name="notif_type_entries">
         <item>Temperatura</item>
-        <item>Iconos de clima</item>
+        <item>Iconos del clima</item>
     </string-array>
     <string-array name="widget42_show_entries">
         <item>Reloj</item>
@@ -288,7 +288,7 @@
         <item>Presión</item>
         <item>Visibilidad</item>
         <item>Salida y puesta del sol</item>
-        <item>Siguiente aviso</item>
+        <item>Siguiente alarma</item>
     </string-array>
     <string-array name="widget41_show_entries">
         <item>Panel de temperatura</item>
