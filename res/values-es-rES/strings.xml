@@ -24,7 +24,7 @@
     <string name="about_for_translators">Traducción:</string>
     <string name="about_for_translators_text">Si deseas ayudar con la traducción de esta aplicación a tu idioma, visita mi página de github (usando el botón de arriba) para ver todos los recursos</string>
     <string name="about_social">Enlaces:</string>
-    <string name="animation_preview">Vista previa de animaciones</string>
+    <string name="action_bar_selected_format">Seleccionado: %d</string>
     <string name="app_name">Tiempo BZ</string>
     <string name="applying_theme">Aplicando tema\u2026</string>
     <string name="btn_add_location">Añadir</string>
