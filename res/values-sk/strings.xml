@@ -59,6 +59,7 @@
     <string name="donations_thanks_dialog">"Ďakujeme za príspevok! Sme Vám naozaj vďační!"</string>
     <string name="donations_thanks_dialog_title">Ďakujeme!</string>
     <string name="donations_yandex">Yandex.Money</string>
+    <string name="end_time_title">Koniec</string>
     <string name="fetching_location">Získavanie Vašej polohy...</string>
     <string name="foreca_clear">Jasno</string>
     <string name="foreca_cloudy">Oblačno</string>
