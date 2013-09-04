@@ -665,8 +665,8 @@
         <item>citydb_accuweather</item>
     </string-array>
     <string-array name="moon_phases_entries">
-        <item>Current month</item>
-        <item>Current year</item>
+        <item>Month</item>
+        <item>Year</item>
     </string-array>
     <string-array name="moon_phases_values" translatable="false">
         <item>moon_phases_month</item>

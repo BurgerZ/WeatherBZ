@@ -55,6 +55,7 @@
     <string name="donations_paypal_description">После нажатия на кнопку вы можете выбрать сколько хотите пожертвовать!</string>
     <string name="donations_thanks_dialog">Благодарю за пожертвование! Я очень это ценю!</string>
     <string name="donations_thanks_dialog_title">Благодарю!</string>
+    <string name="end_time_title">Конец</string>
     <string name="fetching_location">Определение местоположения…</string>
     <string name="foreca_clear">Ясно</string>
     <string name="foreca_cloudy">Облачно</string>

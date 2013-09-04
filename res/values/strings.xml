@@ -58,6 +58,7 @@
     <string name="donations_paypal_item_name">InApp Donation</string>
     <string name="donations_thanks_dialog">Thanks for donating!\nI really appreciate this!</string>
     <string name="donations_thanks_dialog_title">Thanks!</string>
+    <string name="end_time_title">End</string>
     <string name="fetching_location">Getting your position\u2026</string>
     <string name="foreca_clear">Clear</string>
     <string name="foreca_cloudy">Cloudy</string>
