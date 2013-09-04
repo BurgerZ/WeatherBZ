@@ -546,7 +546,7 @@
         <item>MIUI video</item>
     </string-array>
     <string-array name="moon_phases_entries">
-        <item>Denne måned</item>
-        <item>Dette år</item>
+        <item>Måned</item>
+        <item>År</item>
     </string-array>
 </resources>

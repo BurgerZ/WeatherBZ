@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_author">Author:</string>
+    <string name="about_author">Forfatter:</string>
     <string name="about_version">Version:</string>
     <string name="about_sunny">Solrigt</string>
     <string name="about_cloudy">Skyet</string>
@@ -24,7 +24,7 @@
     <string name="about_for_translators">Til Oversættere:</string>
     <string name="about_for_translators_text">Hvis du vil hjælpe med oversættelsen af denne app til dit sprog, gå til github siden (anvend knappen for oven) for at se ressourcerne</string>
     <string name="about_social">Sociale links:</string>
-    <string name="animation_preview">Eksempel på animationer</string>
+    <string name="action_bar_selected_format">Valgt: %d</string>
     <string name="app_name">Vejr BZ</string>
     <string name="applying_theme">Anvender Tema\u2026</string>
     <string name="btn_add_location">Tilføj Placering</string>
@@ -37,17 +37,8 @@
     <string name="clear_miui_data_dialog_text">MIUI Vejrudbyder database ryddet!</string>
     <string name="clear_miui_data_summary">Rydder MIUI Vejrudbyder database</string>
     <string name="close">Luk</string>
-    <string name="conf_add_widget">Tilføj Widget</string>
-    <string name="conf_dark_skin">Mørk Skin</string>
-    <string name="conf_choose_skin">Vælg Skin</string>
-    <string name="conf_light_skin">Lys Skin</string>
-    <string name="conf_name">Widget indstillinger</string>
-    <string name="conf_no_background">Ingen baggrund</string>
     <string name="date_format_title">Dato format</string>
-    <string name="dialog_color_picker">Vælg Farve</string>
-    <string name="dlg_go_to_forecast">Gå til vejrudsigt</string>
-    <string name="dlg_select_action">Vælg en handling</string>
-    <string name="dlg_set_as_home">Indstil som \"Hjemby\"</string>
+    <string name="dialog_color_picker">Farve Vælger</string>
     <string name="donate">Doner</string>
     <string name="donations_button_close">Luk</string>
     <string name="donations_description">Vil du finde dette program nyttigt?\nSupport den udvikling ved at flattring det eller sende donationer til udvikleren!</string>
@@ -65,7 +56,6 @@
     <string name="donations_paypal_item_name">InApp Donation</string>
     <string name="donations_thanks_dialog">Tak fordi du donerede!\nJeg sætter virkelig pris på dette!</string>
     <string name="donations_thanks_dialog_title">Tak!</string>
-    <string name="download_video">Download video</string>
     <string name="end_time_title">Slutningen</string>
     <string name="fetching_location">Lokaliserer\u2026</string>
     <string name="foreca_clear">Klart</string>
@@ -127,7 +117,6 @@
     <string name="menu_delete_theme">Slet Tema</string>
     <string name="menu_hourly">Time</string>
     <string name="menu_import">Importer Tema fra SD Kort</string>
-    <string name="menu_indices">Livsstil</string>
     <string name="menu_locations">Steder</string>
     <string name="menu_moon_phases">Måne Faser</string>
     <string name="menu_settings">Indstillinger</string>
@@ -147,6 +136,9 @@
     <string name="moon_illuminated">Oplyst</string>
     <string name="moon_since">Siden</string>
     <string name="network_error">Kunne ikke forbinde til serveren</string>
+    <string name="network_in_quiet_hours">Du er i stille timer nu. Opdateringer er annulleret.</string>
+    <string name="network_in_roaming">Du kan deaktivere opdateringer under roaming i indstillingerne.</string>
+    <string name="network_wifi_only">Opdater kun med Wi-Fi.</string>
     <string name="new_version">Ny version</string>
     <string name="no_provider">Lokalisering mislykkedes\nIndstil placering manuelt</string>
     <string name="no_weather_provider">Ingen MIUI vejr udbyder fundet</string>
@@ -160,13 +152,7 @@
     <string name="quiet_hours_enabled_off">Opdateringer vil fungere som normalt</string>
     <string name="quiet_hours_enabled_on">Stille timer aktiveret</string>
     <string name="quiet_hours_title">Stille timer</string>
-    <string name="settings_about_summary">Information om applikation og vejr animation eksempler</string>
     <string name="settings_about_title">Om</string>
-    <string name="settings_animation_download_summary">Hent video filer af animationer til aktuel vejrsituation (hvis videofilen ikke findes lokalt)</string>
-    <string name="settings_animation_download_title">Download animationer</string>
-    <string name="settings_animation_show_summary">Vis video animation for aktuel vejr situation</string>
-    <string name="settings_animation_show_title">Vis animation</string>
-    <string name="settings_animation_type">Animation type</string>
     <string name="settings_category_animation">Animation</string>
     <string name="settings_category_animation_sum">Animationstype, download politik</string>
     <string name="settings_category_app_update">Opdater app</string>
@@ -186,8 +172,8 @@
     <string name="settings_click_actions">Tryk handlinger</string>
     <string name="settings_check_updates_summary">Kontroller for opdateringer ved app start</string>
     <string name="settings_check_updates_title">Kontroller for opdateringer</string>
-    <string name="settings_hide_bottom_bar_title">Skjul bundknapper</string>
-    <string name="settings_hide_bottom_bar_summary">Tryk på skærmen for at skjule knapper i bunden</string>
+    <string name="settings_colorize_weather_icons_title">Farvede ikoner</string>
+    <string name="settings_colorize_weather_icons_summary">Indstil ikon farve ligesom tekstfarve (f.eks. for hvide ikoner)</string>
     <string name="settings_miui_support_summary">Slå til for understøttelse af MIUI widgets</string>
     <string name="settings_miui_support_title">MIUI widgets understøttelse</string>
     <string name="settings_miui_v5_summary">Slå til hvis du bruger MIUI v5 ROM</string>
@@ -200,8 +186,6 @@
     <string name="settings_notification_type">Notifikationstype</string>
     <string name="settings_show_info_summary">Vis eller skjul brugerflade elementer</string>
     <string name="settings_show_info_title">Vis info</string>
-    <string name="settings_show_weather_icons_summary">Vis vejr ikoner (istedet for tekstet vejrudsigt) i 3-dags vejrudsigt</string>
-    <string name="settings_show_weather_icons_title">Vis vejr ikoner</string>
     <string name="settings_time_format_12h">12 timers format</string>
     <string name="settings_update_autoupdate_summary">Auto opdater vejrudsigt</string>
     <string name="settings_update_autoupdate_title">Auto opdater</string>
