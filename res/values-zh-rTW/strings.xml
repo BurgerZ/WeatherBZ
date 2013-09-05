@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ga_trackingId">UA-38673998-1</string>
-    <string name="donations_paypal_user">az.burgerz@gmail.com</string>
-    <string name="donations_paypal_currency_code">USD</string>
-    <string name="donations__paypal_item_name">InApp Donation</string>
     <string name="about_author">作者:</string>
     <string name="about_version">版本:</string>
     <string name="about_sunny">晴朗</string>
@@ -12,7 +8,7 @@
     <string name="about_fog">霧</string>
     <string name="about_rainstorm">暴風雨</string>
     <string name="about_t_storms">雷雨</string>
-    <string name="about_rain_showers">陣雨</string>
+    <string name="about_rain_drizzle">細雨</string>
     <string name="about_heavy_rain">大雨</string>
     <string name="about_moderate_rain">中雨</string>
     <string name="about_light_rain">小雨</string>
@@ -28,9 +24,9 @@
     <string name="about_for_translators">翻譯人員:</string>
     <string name="about_for_translators_text">如果你想幫助這個程式翻譯成您的語言，只要進入我的Github(使用上面的按鈕)及感謝道奇兔的繁化</string>
     <string name="about_social">社群連結:</string>
-    <string name="animation_preview">預覽動畫</string>
+    <string name="action_bar_selected_format">選擇: %d</string>
     <string name="app_name">Weather BZ</string>
-    <string name="applying_theme">正在套用主題…</string>
+    <string name="applying_theme">正在套用主題\u2026</string>
     <string name="btn_add_location">新增位置</string>
     <string name="btn_apply_theme">套用主題</string>
     <string name="btn_delete_location">刪除位置</string>
@@ -41,23 +37,13 @@
     <string name="clear_miui_data_dialog_text">MIUI天氣提供商資料庫已清除!</string>
     <string name="clear_miui_data_summary">清除MIUI天氣提供商資料庫</string>
     <string name="close">關閉</string>
-    <string name="conf_add_widget">添加Widget</string>
-    <string name="conf_dark_skin">黑色外觀</string>
-    <string name="conf_choose_skin">選擇外觀</string>
-    <string name="conf_light_skin">白色外觀</string>
-    <string name="conf_name">Widget設置</string>
-    <string name="conf_no_background">無背景</string>
     <string name="date_format_title">日期格式</string>
     <string name="date_format_mdy">月/日/年</string>
     <string name="date_format_dmy">日/月/年</string>
     <string name="dialog_color_picker">顏色選擇</string>
-    <string name="dlg_go_to_forecast">轉到預測</string>
-    <string name="dlg_select_action">選擇一個動作</string>
-    <string name="dlg_set_as_home">設為 \"居住城市\"</string>
     <string name="donate">捐贈</string>
     <string name="donations_button_close">關閉</string>
-    <string name="donations_description">"你覺得這個應用程序非常有用嗎?
-支持它的發展，或捐款給開發者!"</string>
+    <string name="donations_description">你覺得這個應用程序非常有用嗎?\n支持它的發展，或捐款給開發者!</string>
     <string name="donations_flattr">Flattr</string>
     <string name="donations_flattr_description">Flattr的月租費為10%!</string>
     <string name="donations_google_android_market">Google Play Store</string>
@@ -70,12 +56,10 @@
     <string name="donations_yandex">Yandex.Money</string>
     <string name="donations_paypal_description">點擊按鈕後，你可以選擇你想捐多少!</string>
     <string name="donations_paypal_item_name">InApp Donation</string>
-    <string name="donations_thanks_dialog">"謝謝您的捐贈!
-我真的很感激!"</string>
+    <string name="donations_thanks_dialog">謝謝您的捐贈!\n我真的很感激!</string>
     <string name="donations_thanks_dialog_title">謝謝!</string>
-    <string name="download_video">取得影像</string>
     <string name="end_time_title">結束</string>
-    <string name="fetching_location">獲取您的位置…</string>
+    <string name="fetching_location">獲取您的位置\u2026</string>
     <string name="foreca_clear">明朗</string>
     <string name="foreca_cloudy">多雲</string>
     <string name="foreca_cloudy_l_rain">小雨</string>
@@ -92,7 +76,7 @@
     <string name="foreca_cloudy_wet_snow_showers">濕陣雪</string>
     <string name="foreca_mostly_clear">天色清晰</string>
     <string name="foreca_mostly_clear_pos_rain">可能下雨</string>
-    <string name="foreca_mostly_clear_pos_snow">可能有雪</string>
+    <string name="foreca_mostly_clear_pos_snow">可能下雪</string>
     <string name="foreca_mostly_clear_pos_ts_rain">有雷雨的機會</string>
     <string name="foreca_mostly_clear_pos_ts_snow">有暴雪的機會</string>
     <string name="foreca_mostly_clear_pos_ts_wet_snow">有輕濕雪風暴的機會</string>
@@ -119,23 +103,22 @@
     <string name="foreca_partly_cloudy_pos_ts_wet_snow">可能有輕濕雪風暴</string>
     <string name="foreca_partly_cloudy_rain">雨</string>
     <string name="foreca_partly_cloudy_showers">驟雨</string>
-    <string name="foreca_partly_cloudy_snow">下雪</string>
+    <string name="foreca_partly_cloudy_snow">雪</string>
     <string name="foreca_partly_cloudy_snow_showers">陣雪</string>
     <string name="foreca_partly_cloudy_wet_snow">濕雪</string>
     <string name="foreca_partly_cloudy_wet_snow_showers">濕陣雪</string>
     <string name="changelog">變更</string>
     <string name="just_now">剛才</string>
-    <string name="loading">等待…</string>
+    <string name="loading">等待\u2026</string>
     <string name="location_edit">輸入城市名稱</string>
     <string name="location_gps">您現在的位置</string>
     <string name="location_list">位置</string>
     <string name="location_search">搜尋位置</string>
-    <string name="main_screen_text_color_summary">主屏幕上的文字顏色</string>
+    <string name="main_screen_text_color_summary">主螢幕上的文字顏色</string>
     <string name="menu">選單</string>
     <string name="menu_delete_theme">刪除主題</string>
     <string name="menu_hourly">每小時</string>
     <string name="menu_import">從SD卡中導入主題</string>
-    <string name="menu_indices">生活型態</string>
     <string name="menu_locations">位置</string>
     <string name="menu_moon_phases">月亮變化</string>
     <string name="menu_settings">設置</string>
@@ -154,11 +137,12 @@
     <string name="moon_current_view">查看模式: %s</string>
     <string name="moon_illuminated">說明</string>
     <string name="moon_since">自</string>
-    <string name="network_error">"無法連接伺服器.
-檢查您的網絡設置."</string>
+    <string name="network_error">無法連接伺服器.\n檢查您的網絡設置.</string>
+    <string name="network_in_quiet_hours">你現在是在靜默模式狀態.更新取消.</string>
+    <string name="network_in_roaming">你有設置禁止在漫遊下更新.</string>
+    <string name="network_wifi_only">僅在Wi-Fi下更新.</string>
     <string name="new_version">新版本</string>
-    <string name="no_provider">"位置不正確
-手動選擇位置"</string>
+    <string name="no_provider">位置不正確\n手動選擇位置</string>
     <string name="no_weather_provider">沒有發現MIUI天氣提供商</string>
     <string name="not_now">現在不行</string>
     <string name="ok">確定</string>
@@ -170,13 +154,7 @@
     <string name="quiet_hours_enabled_off">更新後將正常的運作</string>
     <string name="quiet_hours_enabled_on">打開靜默模式</string>
     <string name="quiet_hours_title">安靜幾小時</string>
-    <string name="settings_about_summary">有關應用程序的訊息</string>
     <string name="settings_about_title">關於</string>
-    <string name="settings_animation_download_summary">下載當前天氣狀況(如果在內部空間沒有發現動畫)</string>
-    <string name="settings_animation_download_title">下載動畫</string>
-    <string name="settings_animation_show_summary">顯示天氣動畫和現在的情況</string>
-    <string name="settings_animation_show_title">顯示動畫</string>
-    <string name="settings_animation_type">動畫類型</string>
     <string name="settings_category_animation">動畫</string>
     <string name="settings_category_animation_sum">動畫類型</string>
     <string name="settings_category_app_update">應用程式更新</string>
@@ -196,8 +174,8 @@
     <string name="settings_click_actions">單擊動作</string>
     <string name="settings_check_updates_summary">在應用程序啟動檢查更新</string>
     <string name="settings_check_updates_title">檢查更新</string>
-    <string name="settings_hide_bottom_bar_title">隱藏底部欄</string>
-    <string name="settings_hide_bottom_bar_summary">輕觸螢幕下方工具欄的按鈕隱藏</string>
+    <string name="settings_colorize_weather_icons_title">著色圖標</string>
+    <string name="settings_colorize_weather_icons_summary">設置圖標顏色文字顏色(除全白色的天氣圖標.)</string>
     <string name="settings_miui_support_summary">打開支持MIUI原生widgets</string>
     <string name="settings_miui_support_title">MIUI widgets支持</string>
     <string name="settings_miui_v5_summary">如果你是使用MIUI v5 ROM請務必打開</string>
@@ -210,8 +188,6 @@
     <string name="settings_notification_type">通知類型</string>
     <string name="settings_show_info_summary">顯示或隱藏界面</string>
     <string name="settings_show_info_title">顯示信息</string>
-    <string name="settings_show_weather_icons_summary">顯示三天內天氣預測圖案(而不是文字的天氣描述)</string>
-    <string name="settings_show_weather_icons_title">顯示天氣圖標</string>
     <string name="settings_time_format_12h">12小時時間格式</string>
     <string name="settings_update_autoupdate_summary">自動更新天氣預報</string>
     <string name="settings_update_autoupdate_title">自動更新</string>
@@ -253,7 +229,7 @@
     <string name="settings_widgets_widget4x2_wind_font_title">風</string>
     <string name="share">分享</string>
     <string name="share_content">\#WeatherBZ#</string>
-    <string name="share_weather_content">\#WeatherBZ# 今天 %1$s 的天氣是 %2$s, %3$s, %4$s. 更新 %5$s.</string>
+    <string name="share_weather_content">"\#WeatherBZ# 今天 %1$s 的天氣是 %2$s, %3$s, %4$s. 更新 %5$s."</string>
     <string name="share_weather_title">分享天氣數據</string>
     <string name="save_screen_shot_failed">無法保存截圖</string>
     <string name="start_time_title">開始</string>
@@ -270,7 +246,7 @@
     <string name="themes_temperature_icons">溫度圖標</string>
     <string name="themes_weather_animation">天氣動畫</string>
     <string name="themes_weather_icons">天氣圖標</string>
-    <string name="updating">更新…</string>
+    <string name="updating">更新\u2026</string>
     <string name="upgrade">升級</string>
     <string name="visibility_units">能見度單位</string>
     <string name="visibility_units_km">" 公里"</string>
@@ -303,7 +279,7 @@
     <string name="widget_name_medium">(4x1)Weather BZ</string>
     <string name="widget_name_medium_ext">(4x1 ext)Weather BZ</string>
     <string name="widget_name_medium_v5">(4x1 v5)Weather BZ</string>
-    <string name="widget_text_color_summary">Widget的文字顏色</string>
+    <string name="widget_text_color_summary">"Widget的文字顏色"</string>
     <string name="wind_e">E</string>
     <string name="wind_ene">E-NE</string>
     <string name="wind_ese">E-SE</string>
