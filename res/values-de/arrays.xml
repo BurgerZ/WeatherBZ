@@ -548,11 +548,6 @@
         <item>"3-Tage-Vorhersage"</item>
         <item>"Aktuelle Vorhersage"</item>
     </string-array>  	
-    <string-array name="animation_type_entries">
-        <item>Standard</item>
-        <!--item >MITU</item-->
-        <item>MIUI Video</item>
-    </string-array>
     <string-array name="moon_phases_entries">
         <item>Aktuelles Monat</item>
         <item>Aktuelles Jahr</item>

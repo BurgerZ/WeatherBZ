@@ -516,11 +516,6 @@
         <item>Прогноз на 3 дні</item>
         <item>Поточні дані</item>
     </string-array>	
-    <string-array name="animation_type_entries">
-        <item>За замовчанням</item>
-        <!--item >Кролик MITU</item-->
-        <item>MIUI відео</item>
-    </string-array>
     <string-array name="moon_phases_entries">
         <item>Поточний місяць</item>
         <item>Поточний рік</item>

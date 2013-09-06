@@ -548,9 +548,4 @@
         <item>Previsioni dei prossimi 3 giorni</item>
         <item>Previsioni della giornata</item>
     </string-array>
-    <string-array name="animation_type_entries">
-        <item>Default</item>
-        <!--item>MITU</item-->
-        <item>Video MIUI</item>
-    </string-array>
 </resources>

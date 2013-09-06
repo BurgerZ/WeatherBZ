@@ -50,10 +50,6 @@
         <item>"3-günlük tahmin verileri"</item>
         <item>"Bugünkü tahmin verileri"</item>
     </string-array>
-    <string-array name="animation_type_entries">
-        <item>Varsayılan animasyon</item>
-        <item>MIUI animasyonları</item>
-    </string-array>
     <string-array name="moon_phases_entries">
         <item>Geçerli ay</item>
         <item>Geçerli yıl</item>

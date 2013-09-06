@@ -50,10 +50,6 @@
         <item>"3-denní předpověď"</item>
         <item>"Dnešní předpověď"</item>
     </string-array>
-    <string-array name="animation_type_entries">
-        <item>Předvolená</item>
-        <item>MIUI video</item>
-    </string-array>
     <string-array name="moon_phases_entries">
         <item>Aktuální měsíc</item>
         <item>Aktuální rok</item>

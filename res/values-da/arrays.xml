@@ -540,13 +540,8 @@
         <item>"3-dags vejrudsigt"</item>
         <item>"Idags vejrudsigt"</item>
     </string-array>
-    <string-array name="animation_type_entries">
-        <item>Standard</item>
-        <!--item>MITU</item-->
-        <item>MIUI video</item>
-    </string-array>
     <string-array name="moon_phases_entries">
-        <item>Måned</item>
-        <item>År</item>
+        <item>Denne måned</item>
+        <item>Dette år</item>
     </string-array>
 </resources>

@@ -299,11 +299,6 @@
         <item>"Previsión de 3 días"</item>
         <item>"Previsión diaria"</item>
     </string-array>
-    <string-array name="animation_type_entries">
-        <item>Por defecto</item>
-        <!--item >MITU</item-->
-        <item>Estilo MIUI</item>
-    </string-array>
     <string-array name="moon_phases_entries">
         <item>Mensual</item>
         <item>Anual</item>

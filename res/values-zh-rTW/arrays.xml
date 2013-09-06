@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<resources>
     <string-array name="donations_google_android_market_promt_array">
-  		<item>1 歐元</item> 
-  		<item>2 歐元</item> 
-  		<item>3 歐元</item> 
-  		<item>5 歐元</item> 
-  		<item>8 歐元</item> 
-  		<item>13 歐元</item> 
-  	</string-array>    
+        <item>1 歐元</item>
+        <item>2 歐元</item>
+        <item>3 歐元</item>
+        <item>5 歐元</item>
+        <item>8 歐元</item>
+        <item>13 歐元</item>
+    </string-array>
     <string-array name="update_interval_names">
-        <item>30 分鐘</item> 
+        <item>30 分鐘</item>
         <item>1 小時</item>
         <item>2 小時</item>
         <item>3 小時</item>
         <item>4 小時</item>
         <item>6 小時</item>
     </string-array>
-    <string-array name="update_interval_values" translatable="false">
-        <item>30</item> 
+    <string-array name="update_interval_values">
+        <item>30</item>
         <item>60</item>
         <item>120</item>
         <item>180</item>
         <item>240</item>
         <item>360</item>
     </string-array>
-    <string-array name="country_codes" translatable="false">
+    <string-array name="country_codes">
         <item>ad</item>
         <item>ae</item>
         <item>af</item>
@@ -271,7 +271,7 @@
         <item>zm</item>
         <item>zr</item>
         <item>zw</item>
-		<item>pm</item>
+        <item>pm</item>
     </string-array>
     <string-array name="country_names">
         <item>Andorra</item>
@@ -520,24 +520,24 @@
         <item>Zambia</item>
         <item>Zaire (former)</item>
         <item>Zimbabwe</item>
-		<item>Saint Pierre and Miquelon</item>
+        <item>Saint Pierre and Miquelon</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
         <item>黑色</item>
         <item>白色</item>
     </string-array>
-    <string-array name="notif_temp_color_values" translatable="false">
+    <string-array name="notif_temp_color_values">
         <item>0</item>
         <item>1</item>
-    </string-array> 
+    </string-array>
     <string-array name="notif_type_entries">
         <item>溫度</item>
         <item>天氣圖標</item>
     </string-array>
-    <string-array name="notif_type_values" translatable="false">
+    <string-array name="notif_type_values">
         <item>temperature_symbol</item>
         <item>weather_symbol</item>
-    </string-array>     
+    </string-array>
     <string-array name="widget42_show_entries">
         <item>時鐘</item>
         <item>日期</item>
@@ -546,14 +546,14 @@
         <item>感覺</item>
         <item>風速</item>
     </string-array>
-    <string-array name="widget42_show_values" translatable="false">
+    <string-array name="widget42_show_values">
         <item>w42_clock</item>
         <item>w42_date</item>
         <item>w42_city</item>
         <item>w42_desc</item>
         <item>w42_feel</item>
         <item>w42_wind</item>
-    </string-array>    
+    </string-array>
     <string-array name="main_show_entries">
         <item>感覺</item>
         <item>風速</item>
@@ -563,7 +563,7 @@
         <item>日出和日落</item>
         <item>顯示下一次報時</item>
     </string-array>
-    <string-array name="main_show_values" translatable="false">
+    <string-array name="main_show_values">
         <item>main_feel</item>
         <item>main_wind</item>
         <item>main_humid</item>
@@ -571,87 +571,75 @@
         <item>main_visib</item>
         <item>main_sunrize</item>
         <item>main_next_alarm</item>
-    </string-array>        
-	<string-array name="widget41_show_entries">
+    </string-array>
+    <string-array name="widget41_show_entries">
         <item>溫度面板</item>
         <item>額外資料面板</item>
         <item>時間面板</item>
-	</string-array>
-	<string-array name="widget41_show_values" translatable="false">
+    </string-array>
+    <string-array name="widget41_show_values">
         <item>w41_temp</item>
         <item>w41_cond</item>
         <item>w41_time</item>
-	</string-array>     
-    <string-array name="widget41_data_entries">
-        <item>"3天內的的預測資料"</item>
-        <item>"今日預測資料"</item>
     </string-array>
-    <string-array name="widget41_data_values" translatable="false">
+    <string-array name="widget41_data_entries">
+        <item>3天內的的預測資料</item>
+        <item>今日預測資料</item>
+    </string-array>
+    <string-array name="widget41_data_values">
         <item>w41_3day_forecast</item>
         <item>w41_forecast_data</item>
-    </string-array>   	
+    </string-array>
     <string-array name="pressure_units_entries">
         <item>@string/pressure_units_mb</item>
         <item>@string/pressure_units_mmhg</item>
     </string-array>
-    <string-array name="pressure_units_values" translatable="false">
+    <string-array name="pressure_units_values">
         <item>pressure_units_mb</item>
         <item>pressure_units_mmhg</item>
-    </string-array>   
+    </string-array>
     <string-array name="wind_speed_units_entries">
         <item>@string/wind_speed_units_mps</item>
         <item>@string/wind_speed_units_kmph</item>
         <item>@string/wind_speed_units_mph</item>
     </string-array>
-    <string-array name="wind_speed_units_values" translatable="false">
+    <string-array name="wind_speed_units_values">
         <item>wind_speed_units_mps</item>
         <item>wind_speed_units_kmph</item>
         <item>wind_speed_units_mph</item>
-    </string-array>  
+    </string-array>
     <string-array name="visibility_units_entries">
         <item>@string/visibility_units_m</item>
         <item>@string/visibility_units_km</item>
         <item>@string/visibility_units_mi</item>
     </string-array>
-    <string-array name="visibility_units_values" translatable="false">
+    <string-array name="visibility_units_values">
         <item>visibility_units_m</item>
         <item>visibility_units_km</item>
         <item>visibility_units_mi</item>
-    </string-array> 
+    </string-array>
     <string-array name="temperature_units_entries">
         <item>@string/temperature_units_c</item>
         <item>@string/temperature_units_f</item>
     </string-array>
-    <string-array name="temperature_units_values" translatable="false">
+    <string-array name="temperature_units_values">
         <item>temperature_units_c</item>
         <item>temperature_units_f</item>
-    </string-array>      
-    <string-array name="animation_type_entries">
-        <item>預設</item>
-        <!--item >MITU</item-->
-        <item>MIUI動畫</item>
     </string-array>
-    <string-array name="animation_type_values" translatable="false">
-        <item>animation_default</item>
-        <!--item >animation_mitu</item-->
-        <item>animation_miui</item>
-    </string-array> 
     <string-array name="date_format_entries">
         <item>@string/date_format_mdy</item>
         <item>@string/date_format_dmy</item>
     </string-array>
-    <string-array name="date_format_values" translatable="false">
+    <string-array name="date_format_values">
         <item>date_format_mdy</item>
         <item>date_format_dmy</item>
-    </string-array>   
+    </string-array>
     <string-array name="weather_provider_entries">
-        <item>MSN Weather</item>
         <item>Foreca</item>
         <item>Weather Underground</item>
         <item>Accuweather</item>
     </string-array>
-    <string-array name="weather_provider_values" translatable="false">
-        <item>msn</item>
+    <string-array name="weather_provider_values">
         <item>foreca</item>
         <item>wunderground</item>
         <item>accuweather</item>
@@ -660,7 +648,7 @@
         <item>Foreca</item>
         <item>Accuweather</item>
     </string-array>
-    <string-array name="citydb_provider_values" translatable="false">
+    <string-array name="citydb_provider_values">
         <item>citydb_foreca</item>
         <item>citydb_accuweather</item>
     </string-array>
@@ -668,8 +656,8 @@
         <item>本月</item>
         <item>本年度</item>
     </string-array>
-    <string-array name="moon_phases_values" translatable="false">
+    <string-array name="moon_phases_values">
         <item>moon_phases_month</item>
         <item>moon_phases_year</item>
-    </string-array>          
+    </string-array>
 </resources>

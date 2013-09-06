@@ -547,10 +547,5 @@
     <string-array name="widget41_data_entries">
         <item>"Prévisions à 3 jours"</item>
         <item>"Météo du jour"</item>
-    </string-array>	    
-    <string-array name="animation_type_entries">
-        <item>Par défaut</item>
-        <!--item >MITU</item-->
-        <item>MIUI</item>
-    </string-array>            
+    </string-array>	              
 </resources>

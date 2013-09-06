@@ -299,11 +299,6 @@
         <item>"Prognoza 3-dniowa"</item>
         <item>"Prognoza na dziś"</item>
     </string-array>
-    <string-array name="animation_type_entries">
-        <item>Domyślnie</item>
-        <!--item>MITU</item-->
-        <item>Wideo MIUI</item>
-    </string-array>
     <string-array name="weather_provider_entries">
         <item>Foreca</item>
         <item>Wunderground</item>
