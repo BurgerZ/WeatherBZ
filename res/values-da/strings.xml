@@ -66,15 +66,17 @@
     <string name="forecast_chance_of_tstorm">Tordenstorm</string>
     <string name="forecast_clear">Klart</string>
     <string name="forecast_cloudy">Skyet</string>
+    <string name="forecast_cold">Koldt</string>
     <string name="forecast_drizzle">Støvregn</string>
     <string name="forecast_dust">Støv</string>
     <string name="forecast_fair">Godt vejr</string>
     <string name="forecast_flurries">Kastevinde</string>
     <string name="forecast_fog">Tåge</string>
     <string name="forecast_freezing_drizzle">Frysende støvregn</string>
-	<string name="forecast_freezing_rain">Isslag</string>
+    <string name="forecast_freezing_rain">Isslag</string>
     <string name="forecast_hail">Hagl</string>
-    <string name="forecast_haze">Dis</string>
+    <string name="forecast_hot">Varmt</string>
+    <string name="forecast_forecast_haze">Dis</string>
     <string name="forecast_heavy_rain">Kraftig regn</string>
     <string name="forecast_icy">Iskoldt</string>
     <string name="forecast_light_rain">Let regn</string>
@@ -88,7 +90,7 @@
     <string name="forecast_rain">Regn</string>
     <string name="forecast_rain_and_snow">Regn og sne</string>
     <string name="forecast_rain_showers">Regn</string>
-	<string name="forecast_sand">Sand</string>
+    <string name="forecast_sand">Sand</string>
     <string name="forecast_scattered_showers">Spredte byger</string>
     <string name="forecast_scattered_thunderstorms">Spredte tordenstorme</string>
     <string name="forecast_showers">Byger</string>
@@ -96,7 +98,7 @@
     <string name="forecast_smoke">Røg</string>
     <string name="forecast_snow">Sne</string>
     <string name="forecast_snow_showers">Snebyger</string>
-	<string name="forecast_snow_storm">Snestorm</string>
+    <string name="forecast_snow_storm">Snestorm</string>
     <string name="forecast_sunny">Solrigt</string>
     <string name="forecast_thunderstorm">Tordenstorm</string>
     <string name="forecast_windy">Storm</string>
@@ -149,6 +151,7 @@
     <string name="quiet_hours_title">Stille timer</string>
     <string name="settings_about_title">Om</string>
     <string name="settings_category_animation">Animation</string>
+    <string name="settings_category_animation_sum">Eksempel på animation</string>
     <string name="settings_category_app_update">Opdater app</string>
     <string name="settings_category_appearance">Udseende</string>
     <string name="settings_category_appearance_sum">Måleenheder, tekstfarve, etc.</string>
@@ -245,6 +248,7 @@
     <string name="visibility_units_m">" m"</string>
     <string name="visibility_units_mi">" mil"</string>
     <string name="weather_feel">"RealFeel: "</string>
+    <string name="weather_forecast_empty">--</string>
     <string name="weather_humidity">"Fugtighed: "</string>
     <string name="weather_no_city">Ingen by</string>
     <string name="weather_no_data">Ingen vejrdata</string>
