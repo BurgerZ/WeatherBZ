@@ -74,9 +74,9 @@
     <string name="forecast_fog">Tåge</string>
     <string name="forecast_freezing_drizzle">Frysende støvregn</string>
     <string name="forecast_freezing_rain">Isslag</string>
+    <string name="forecast_haze">Dis</string>
     <string name="forecast_hail">Hagl</string>
     <string name="forecast_hot">Varmt</string>
-    <string name="forecast_forecast_haze">Dis</string>
     <string name="forecast_heavy_rain">Kraftig regn</string>
     <string name="forecast_icy">Iskoldt</string>
     <string name="forecast_light_rain">Let regn</string>
@@ -92,7 +92,7 @@
     <string name="forecast_rain_showers">Regn</string>
     <string name="forecast_sand">Sand</string>
     <string name="forecast_scattered_showers">Spredte byger</string>
-    <string name="forecast_scattered_thunderstorms">Spredte tordenstorme</string>
+    <string name="forecast_scattered_thunderstorms">Spredte tordenbyger</string>
     <string name="forecast_showers">Byger</string>
     <string name="forecast_sleet">Slud</string>
     <string name="forecast_smoke">Røg</string>
@@ -100,8 +100,10 @@
     <string name="forecast_snow_showers">Snebyger</string>
     <string name="forecast_snow_storm">Snestorm</string>
     <string name="forecast_sunny">Solrigt</string>
-    <string name="forecast_thunderstorm">Tordenstorm</string>
-    <string name="forecast_windy">Storm</string>
+    <string name="forecast_thunderstorm">Tordenbyge</string>
+    <string name="forecast_thunderstorms">Tordenbyger</string>
+    <string name="forecast_tornado">Tornado</string>
+    <string name="forecast_windy">Blæsende</string>
     <string name="changelog">Ændringslog</string>
     <string name="just_now">Lige nu</string>
     <string name="loading">Indlæser\u2026</string>
