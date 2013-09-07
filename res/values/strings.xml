@@ -76,6 +76,7 @@
     <string name="forecast_fog">Fog</string>
     <string name="forecast_freezing_drizzle">Freezing Drizzle</string>
     <string name="forecast_freezing_rain">Freezing Rain</string>
+    <string name="forecast_haze">Haze</string>
     <string name="forecast_hail">Hail</string>
     <string name="forecast_hot">Hot</string>
     <string name="forecast_forecast_haze">Haze</string>
