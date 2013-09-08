@@ -225,7 +225,7 @@
     <string name="settings_widgets_widget4x2_temp_font_title">溫度</string>
     <string name="settings_widgets_widget4x2_v5">Widget 4x2 (v5)</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">預設值 14sp</string>
-    <string name="settings_widgets_widget4x2_wind_font_title">風</string>
+    <string name="settings_widgets_widget4x2_wind_font_title">風速</string>
     <string name="share">分享</string>
     <string name="share_content">\#WeatherBZ#</string>
     <string name="share_weather_content">"\#WeatherBZ# 今天 %1$s 的天氣是 %2$s, %3$s, %4$s. 更新 %5$s."</string>
@@ -261,7 +261,7 @@
     <string name="weather_sunrize">"日出: "</string>
     <string name="weather_sunset">"日落: "</string>
     <string name="weather_visibility">"能見度: "</string>
-    <string name="weather_wind">"風: "</string>
+    <string name="weather_wind">"風速: "</string>
     <string name="widget_name_large">(4x2)Weather BZ</string>
     <string name="widget_name_large_v5">(4x2 v5)Weather BZ</string>
     <string name="widget_name_medium">(4x1)Weather BZ</string>
@@ -285,7 +285,7 @@
     <string name="wind_sse">S-SE</string>
     <string name="wind_ssw">S-SW</string>
     <string name="wind_sw">SW</string>
-    <string name="wind_variable">變化</string>
+    <string name="wind_variable">風速變化</string>
     <string name="wind_w">W</string>
     <string name="wind_wnw">W-NW</string>
     <string name="wind_wsw">W-SW</string>
