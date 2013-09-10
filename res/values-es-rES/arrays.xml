@@ -274,12 +274,13 @@
         <item>Iconos del clima</item>
     </string-array>
     <string-array name="widget42_show_entries">
-        <item>Reloj</item>
-        <item>Fecha</item>
-        <item>Ciudad</item>
-        <item>Descripción del tiempo</item>
+        <item>Actualizar fecha</item>
+        <item>Siguiente alarma</item>
+        <item>Nivel de batería</item>
         <item>Sensación real</item>
         <item>Viento</item>
+        <item>Humedad</item>
+        <item>Temperaturas máxima y mínima</item>
     </string-array>
     <string-array name="main_show_entries">
         <item>Sensación real</item>

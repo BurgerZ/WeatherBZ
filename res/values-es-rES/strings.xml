@@ -203,6 +203,10 @@
     <string name="settings_widgets_click_date_title">Clic en la fecha</string>
     <string name="settings_widgets_click_weather_summary">Seleccione la aplicación que se iniciará al tocar la previosión del tiempo</string>
     <string name="settings_widgets_click_weather_title">Clic en la previsión</string>
+    <string name="settings_widgets_clock_remove_leading_zero_title">Quitar cero de delante</string>
+    <string name="settings_widgets_clock_remove_leading_zero_summary">Quitar el número cero de las horas en el reloj</string>
+    <string name="settings_widgets_local_time_title">LHora local</string>
+    <string name="settings_widgets_local_time_summary">Usar la hora local de las ciudades en los widgets</string>
     <string name="settings_widgets_widget4x1">Widget 4x1 (v4 Ext)</string>
     <string name="settings_widgets_widget4x1_data_title">Datos ampliados</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Se ocultará el fondo por defecto</string>
@@ -262,10 +266,11 @@
     <string name="weather_sunset">"Puesta del sol: "</string>
     <string name="weather_visibility">"Visibilidad: "</string>
     <string name="weather_wind">"Viento: "</string>
-    <string name="widget_name_4x2">Tiempo BZ (4x2 v4)</string>
+    <string name="widget_name_4x3">Tiempo BZ (4x3)</string>
+    <string name="widget_name_4x2">Tiempo BZ (4x2)</string>
     <string name="widget_name_4x2_v5">Tiempo BZ (4x2 v5)</string>
-    <string name="widget_name_4x1">Tiempo BZ (4x1 v4)</string>
-    <string name="widget_name_4x1_ext">Tiempo BZ (4x1 v4 Ext)</string>
+    <string name="widget_name_4x1">Tiempo BZ (4x1)</string>
+    <string name="widget_name_4x1_ext">Tiempo BZ (4x1 Ext)</string>
     <string name="widget_name_4x1_v5">Tiempo BZ (4x1 v5)</string>
     <string name="widget_text_color_summary">"Color del texto del widget"</string>
     <string name="wind_e">E</string>
