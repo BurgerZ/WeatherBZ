@@ -539,20 +539,22 @@
         <item>weather_symbol</item>
     </string-array>     
     <string-array name="widget42_show_entries">
-        <item>Clock</item>
-        <item>Date</item>
-        <item>City</item>
-        <item>Weather description</item>
+        <item>Update date</item>
+        <item>Next alarm</item>
+        <item>Battery level</item>
         <item>RealFeel</item>
         <item>Wind</item>
+        <item>Humidity</item>
+        <item>Low and High temperatures</item>
     </string-array>
     <string-array name="widget42_show_values" translatable="false">
-        <item>w42_clock</item>
-        <item>w42_date</item>
-        <item>w42_city</item>
-        <item>w42_desc</item>
-        <item>w42_feel</item>
+        <item>w42_update_date</item>
+        <item>w42_alarm</item>
+        <item>w42_battery</item>
+        <item>w42_feels_like</item>
         <item>w42_wind</item>
+        <item>w42_humidity</item>
+        <item>w42_low_high</item>
     </string-array>    
     <string-array name="main_show_entries">
         <item>RealFeel</item>
@@ -635,13 +637,13 @@
         <item>date_format_dmy</item>
     </string-array>   
     <string-array name="weather_provider_entries">
-        <item>MSN Weather</item>
+        <!--item>MSN Weather</item-->
         <item>Foreca</item>
         <item>Weather Underground</item>
         <item>Accuweather</item>
     </string-array>
     <string-array name="weather_provider_values" translatable="false">
-        <item>msn</item>
+        <!--item>msn</item-->
         <item>foreca</item>
         <item>wunderground</item>
         <item>accuweather</item>

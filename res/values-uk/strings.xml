@@ -204,7 +204,7 @@
     <string name="settings_widgets_click_weather_title">Натискання на прогноз</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Зніміть галочку для використання фону за замовчуванням</string> 
     <string name="settings_widgets_widget4x1_transparent_title">Прозорий фон</string> 
-    <string name="settings_widgets_widget4x2">Віджет 4x2 (v4)</string>
+    <string name="settings_widgets_widget4x2">Віджет 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">За замовчуванням 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Місто</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">За замовчуванням 50sp</string>
@@ -243,8 +243,8 @@
     <string name="visibility_units_mi">" миль"</string>
     <string name="weather_sunrize">"Світанок: "</string>
     <string name="weather_sunset">"Захід: "</string>
-    <string name="widget_name_large_v5">Погода BZ 4x2 v5</string>
-    <string name="widget_name_medium_v5">Погода BZ 4x1</string>
+    <string name="widget_name_4x2_v5">Погода BZ 4x2 v5</string>
+    <string name="widget_name_4x1_v5">Погода BZ 4x1</string>
     <string name="widget_text_color_summary">Колір тексту віджету</string>
     <string name="wind_e">С</string>
     <string name="wind_ene">С-ПнС</string>
@@ -274,9 +274,9 @@
     <string name="weather_pressure">"Тиск: "</string>
     <string name="weather_visibility">"Видимість: "</string>
     <string name="weather_wind">"Вітер: "</string>
-    <string name="widget_name_large">Погода BZ 4x2</string>
-    <string name="widget_name_medium">Погода BZ 4x1</string>
-    <string name="widget_name_medium_ext">Погода BZ 4x1</string>
+    <string name="widget_name_4x2">Погода BZ 4x2</string>
+    <string name="widget_name_4x1">Погода BZ 4x1</string>
+    <string name="widget_name_4x1_ext">Погода BZ 4x1</string>
     <string name="zodiac_aquarius">Водолій</string>
     <string name="zodiac_aries">Овен</string>
     <string name="zodiac_cancer">Рак</string>

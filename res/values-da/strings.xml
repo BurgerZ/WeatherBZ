@@ -206,7 +206,7 @@
     <string name="settings_widgets_widget4x1_transparent_sum">System baggrund hvis ikke afkrydset</string>
     <string name="settings_widgets_widget4x1_transparent_title">Gennemsigtig baggrund</string>
     <string name="settings_widgets_widget4x1_v5">Widget 4x1 (v5)</string>
-    <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Standard størrelse 22pkt</string>
     <string name="settings_widgets_widget4x2_city_font_title">By</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Standard størrelse 50pkt</string>
@@ -260,11 +260,11 @@
     <string name="weather_sunset">"Solnedgang: "</string>
     <string name="weather_visibility">"Sigtbarhed: "</string>
     <string name="weather_wind">"Vind: "</string>
-    <string name="widget_name_large">(4x2)Vejr BZ</string>
-    <string name="widget_name_large_v5">(4x2 v5)Vejr BZ</string>
-    <string name="widget_name_medium">(4x1)Vejr BZ</string>
-    <string name="widget_name_medium_ext">(4x1 ext)Vejr BZ</string>
-    <string name="widget_name_medium_v5">(4x1 v5)Vejr BZ</string>
+    <string name="widget_name_4x2">(4x2)Vejr BZ</string>
+    <string name="widget_name_4x2_v5">(4x2 v5)Vejr BZ</string>
+    <string name="widget_name_4x1">(4x1)Vejr BZ</string>
+    <string name="widget_name_4x1_ext">(4x1 ext)Vejr BZ</string>
+    <string name="widget_name_4x1_v5">(4x1 v5)Vejr BZ</string>
     <string name="widget_text_color_summary">Tekstfarve i widget</string>
     <string name="wind_e">Ø</string>
     <string name="wind_ene">Ø-NØ</string>

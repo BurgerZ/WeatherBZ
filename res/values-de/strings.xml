@@ -228,11 +228,11 @@
     <string name="weather_sunset">"Sonnenuntergang: "</string>
     <string name="weather_visibility">"Sichweite: "</string>
     <string name="weather_wind">"Wind: "</string>
-    <string name="widget_name_large">(4x2) Wetter BZ</string>
-    <string name="widget_name_large_v5">(4x2 v5) Wetter BZ</string>
-    <string name="widget_name_medium">(4x1) Wetter BZ</string>
-    <string name="widget_name_medium_ext">(4x1 Ext) Wetter BZ</string>
-    <string name="widget_name_medium_v5">(4x1 v5) Wetter BZ</string>
+    <string name="widget_name_4x2">(4x2) Wetter BZ</string>
+    <string name="widget_name_4x2_v5">(4x2 v5) Wetter BZ</string>
+    <string name="widget_name_4x1">(4x1) Wetter BZ</string>
+    <string name="widget_name_4x1_ext">(4x1 Ext) Wetter BZ</string>
+    <string name="widget_name_4x1_v5">(4x1 v5) Wetter BZ</string>
     <string name="widget_text_color_summary">"Textfarbe des Widgets"</string> 
     <string name="wind_e">O</string> 
     <string name="wind_ene">O-NO</string>

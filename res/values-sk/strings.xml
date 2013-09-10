@@ -202,7 +202,7 @@
     <string name="settings_widgets_widget4x1_transparent_sum">Odznačte pre predvolené pozadie</string>
     <string name="settings_widgets_widget4x1_transparent_title">Priehľadné pozadie</string>
     <string name="settings_widgets_widget4x1_v5">Widget 4x1 (v5)</string>
-    <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Predvolená hodnota 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Mesto</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Predvolená hodnota 50sp</string>
@@ -254,11 +254,11 @@
     <string name="weather_sunset">"Západ: "</string>
     <string name="weather_visibility">"Viditeľnosť: "</string>
     <string name="weather_wind">"Vietor: "</string>
-    <string name="widget_name_large">Počasie BZ 4x2</string>
-    <string name="widget_name_large_v5">Počasie BZ 4x2</string>
-    <string name="widget_name_medium">Počasie BZ 4x1</string>
-    <string name="widget_name_medium_ext">(4x1 ext)Weather BZ</string>
-    <string name="widget_name_medium_v5">(4x1 v5)Weather BZ</string>
+    <string name="widget_name_4x2">Počasie BZ 4x2</string>
+    <string name="widget_name_4x2_v5">Počasie BZ 4x2</string>
+    <string name="widget_name_4x1">Počasie BZ 4x1</string>
+    <string name="widget_name_4x1_ext">(4x1 ext)Weather BZ</string>
+    <string name="widget_name_4x1_v5">(4x1 v5)Weather BZ</string>
     <string name="widget_text_color_summary">"Farba textu widgetu"</string>
     <string name="wind_e">V</string>
     <string name="wind_ene">V-SV</string>

@@ -195,7 +195,7 @@
     <string name="settings_widgets_widget4x1_transparent_sum">Nastavte pro předvolené pozadí</string>
     <string name="settings_widgets_widget4x1_transparent_title">Průhledné pozadí</string>
     <string name="settings_widgets_widget4x1_v5">Widget 4x1 (v5)</string>
-    <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Předvolená hodnota 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Město</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Předvolená hodnota 50sp</string>
@@ -247,11 +247,11 @@
     <string name="weather_sunset">"Západ: "</string>
     <string name="weather_visibility">"Viditelnost: "</string>
     <string name="weather_wind">"Vítr: "</string>
-    <string name="widget_name_large">Počasí 4x2</string>
-    <string name="widget_name_large_v5">Počasí 4x2 v5</string>
-    <string name="widget_name_medium">Počasí 4x1</string>
-    <string name="widget_name_medium_ext">Počasí 4x1ext</string>
-    <string name="widget_name_medium_v5">Počasí 4x1 v5</string>
+    <string name="widget_name_4x2">Počasí 4x2</string>
+    <string name="widget_name_4x2_v5">Počasí 4x2 v5</string>
+    <string name="widget_name_4x1">Počasí 4x1</string>
+    <string name="widget_name_4x1_ext">Počasí 4x1ext</string>
+    <string name="widget_name_4x1_v5">Počasí 4x1 v5</string>
     <string name="widget_text_color_summary">"barva textu widgetu"</string>
     <string name="wind_e">V</string>
     <string name="wind_ene">V-SV</string>

@@ -171,7 +171,7 @@
     <string name="settings_widgets_widget4x1_data_title">Επιπλέον δεδομένα</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Αποεπιλογή για προεπιλεγμένο φόντο</string>
     <string name="settings_widgets_widget4x1_transparent_title">Διάφανο φόντο</string>
-    <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">προεπιλεγμένη τιμή 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Πόλη</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">προεπιλεγμένη τιμή 50sp</string>
@@ -214,11 +214,11 @@
     <string name="weather_sunset">"Δύση: "</string>
     <string name="weather_visibility">"Ορατότητα: "</string>
     <string name="weather_wind">"Ανεμος: "</string>
-    <string name="widget_name_large">(4x2)Weather BZ</string>
-    <string name="widget_name_large_v5">(4x2 v5)Weather BZ</string>
-    <string name="widget_name_medium">(4x1)Weather BZ</string>
-    <string name="widget_name_medium_ext">(4x1 ext)Weather BZ</string>
-    <string name="widget_name_medium_v5">(4x1 v5)Weather BZ</string>
+    <string name="widget_name_4x2">(4x2)Weather BZ</string>
+    <string name="widget_name_4x2_v5">(4x2 v5)Weather BZ</string>
+    <string name="widget_name_4x1">(4x1)Weather BZ</string>
+    <string name="widget_name_4x1_ext">(4x1 ext)Weather BZ</string>
+    <string name="widget_name_4x1_v5">(4x1 v5)Weather BZ</string>
     <string name="widget_text_color_summary">"Χρώμα κειμένου του widget"</string>
     <string name="wind_e">Α</string>
     <string name="wind_ene">Α-ΒΑ</string>

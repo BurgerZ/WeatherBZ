@@ -208,7 +208,7 @@
     <string name="settings_widgets_widget4x1_transparent_sum">未選中默認背景</string>
     <string name="settings_widgets_widget4x1_transparent_title">透明背景</string>
     <string name="settings_widgets_widget4x1_v5">Widget 4x1 (v5)</string>
-    <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">預設值 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">城市</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">預設值50sp</string>
@@ -262,11 +262,11 @@
     <string name="weather_sunset">"日落: "</string>
     <string name="weather_visibility">"能見度: "</string>
     <string name="weather_wind">"風速: "</string>
-    <string name="widget_name_large">(4x2)Weather BZ</string>
-    <string name="widget_name_large_v5">(4x2 v5)Weather BZ</string>
-    <string name="widget_name_medium">(4x1)Weather BZ</string>
-    <string name="widget_name_medium_ext">(4x1 ext)Weather BZ</string>
-    <string name="widget_name_medium_v5">(4x1 v5)Weather BZ</string>
+    <string name="widget_name_4x2">(4x2)Weather BZ</string>
+    <string name="widget_name_4x2_v5">(4x2 v5)Weather BZ</string>
+    <string name="widget_name_4x1">(4x1)Weather BZ</string>
+    <string name="widget_name_4x1_ext">(4x1 ext)Weather BZ</string>
+    <string name="widget_name_4x1_v5">(4x1 v5)Weather BZ</string>
     <string name="widget_text_color_summary">"Widget的文字顏色"</string>
     <string name="wind_e">E</string>
     <string name="wind_ene">E-NE</string>

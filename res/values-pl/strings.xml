@@ -193,7 +193,7 @@ Wybierz lokalizację ręcznie"</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Odznacz dla domyślnego tła</string>
     <string name="settings_widgets_widget4x1_transparent_title">Przezroczyste tło</string>
     <string name="settings_widgets_widget4x1_v5">Widżet 4x1 (v5)</string>
-    <string name="settings_widgets_widget4x2">Widżet 4x2 (v4)</string>
+    <string name="settings_widgets_widget4x2">Widżet 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Domyślnie 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Miasto</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Domyślnie 50sp</string>
@@ -246,11 +246,11 @@ Wybierz lokalizację ręcznie"</string>
     <string name="weather_sunset">"Zachód: "</string>
     <string name="weather_visibility">"Widoczność: "</string>
     <string name="weather_wind">"Wiatr: "</string>
-    <string name="widget_name_large">(4x2) Pogoda BZ</string>
-    <string name="widget_name_large_v5">(4x2 v5) Pogoda BZ</string>
-    <string name="widget_name_medium">(4x1) Pogoda BZ</string>
-    <string name="widget_name_medium_ext">(4x1 ext) Pogoda BZ</string>
-    <string name="widget_name_medium_v5">(4x1 v5) Pogoda BZ</string>
+    <string name="widget_name_4x2">(4x2) Pogoda BZ</string>
+    <string name="widget_name_4x2_v5">(4x2 v5) Pogoda BZ</string>
+    <string name="widget_name_4x1">(4x1) Pogoda BZ</string>
+    <string name="widget_name_4x1_ext">(4x1 ext) Pogoda BZ</string>
+    <string name="widget_name_4x1_v5">(4x1 v5) Pogoda BZ</string>
     <string name="widget_text_color_summary">"Kolor tekstu widżetu"</string>
     <string name="wind_e">E</string>
     <string name="wind_ene">ENE</string>

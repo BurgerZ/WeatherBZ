@@ -491,12 +491,14 @@
         <item>Иконка погоды</item>
     </string-array>    
     <string-array name="widget42_show_entries">
-        <item>Часы</item>
-        <item>Дата</item>
-        <item>Город</item>
-        <item>Описание погоды</item>
-        <item>Ощущения</item>
-        <item>Ветер</item>
+        <item>Локальное время</item>
+        <item>Время обновления</item>
+        <item>Будильник</item>
+        <item>Уровень заряда</item>
+        <item>Ощущаемая температура</item>
+        <item>Скорость ветра</item>
+        <item>Влажность</item>
+        <item>Макс. и мин. температуры</item>
     </string-array>   
     <string-array name="main_show_entries">
         <item>Ощущения</item>

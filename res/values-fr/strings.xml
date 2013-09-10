@@ -201,10 +201,10 @@ Vous pouvez supporter son développement sur Flattr ou en envoyant des dons via 
 	<string name="weather_sunset">"Coucher : "</string>
 	<string name="weather_visibility">"Visibilité : "</string>
 	<string name="weather_wind">"Vent : "</string>
-	<string name="widget_name_large_v5">Météo 4x2</string>
-	<string name="widget_name_large">Météo 4x2</string>
-	<string name="widget_name_medium_ext">Météo 4x1</string>
-	<string name="widget_name_medium">Météo 4x1</string>
+	<string name="widget_name_4x2_v5">Météo 4x2</string>
+	<string name="widget_name_4x2">Météo 4x2</string>
+	<string name="widget_name_4x1_ext">Météo 4x1</string>
+	<string name="widget_name_4x1">Météo 4x1</string>
 	<string name="widget_text_color_summary">Couleur du texte</string>
 	<string name="wind_e">E</string>
 	<string name="wind_ene">E-NE</string>

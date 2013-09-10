@@ -208,7 +208,7 @@
     <string name="settings_widgets_widget4x1_transparent_sum">Se ocultará el fondo por defecto</string>
     <string name="settings_widgets_widget4x1_transparent_title">Fondo transparente</string>
     <string name="settings_widgets_widget4x1_v5">Widget 4x1 (v5)</string>
-    <string name="settings_widgets_widget4x2">Widget 4x2 (v4)</string>
+    <string name="settings_widgets_widget4x2">Widget 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Por defecto 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Ciudad</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Por defecto 50sp</string>
@@ -262,11 +262,11 @@
     <string name="weather_sunset">"Puesta del sol: "</string>
     <string name="weather_visibility">"Visibilidad: "</string>
     <string name="weather_wind">"Viento: "</string>
-    <string name="widget_name_large">Tiempo BZ (4x2 v4)</string>
-    <string name="widget_name_large_v5">Tiempo BZ (4x2 v5)</string>
-    <string name="widget_name_medium">Tiempo BZ (4x1 v4)</string>
-    <string name="widget_name_medium_ext">Tiempo BZ (4x1 v4 Ext)</string>
-    <string name="widget_name_medium_v5">Tiempo BZ (4x1 v5)</string>
+    <string name="widget_name_4x2">Tiempo BZ (4x2 v4)</string>
+    <string name="widget_name_4x2_v5">Tiempo BZ (4x2 v5)</string>
+    <string name="widget_name_4x1">Tiempo BZ (4x1 v4)</string>
+    <string name="widget_name_4x1_ext">Tiempo BZ (4x1 v4 Ext)</string>
+    <string name="widget_name_4x1_v5">Tiempo BZ (4x1 v5)</string>
     <string name="widget_text_color_summary">"Color del texto del widget"</string>
     <string name="wind_e">E</string>
     <string name="wind_ene">E-NE</string>
