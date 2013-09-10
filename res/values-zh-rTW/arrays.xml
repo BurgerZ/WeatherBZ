@@ -539,12 +539,13 @@
         <item>weather_symbol</item>
     </string-array>
     <string-array name="widget42_show_entries">
-        <item>時鐘</item>
-        <item>日期</item>
-        <item>城市</item>
-        <item>天氣描述</item>
+        <item更新日期</item>
+        <item>下次鬧鐘時間</item>
+        <item>電池電量</item>
         <item>感覺</item>
         <item>風速</item>
+        <item>濕度</item>
+        <item>低溫和高溫</item>
     </string-array>
     <string-array name="widget42_show_values">
         <item>w42_clock</item>
