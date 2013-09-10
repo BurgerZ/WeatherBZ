@@ -203,6 +203,10 @@
     <string name="settings_widgets_click_date_title">點擊日期</string>
     <string name="settings_widgets_click_weather_summary">widgets啟動app時按一下預測面積(溫度)</string>
     <string name="settings_widgets_click_weather_title">點擊預報</string>
+    <string name="settings_widgets_clock_remove_leading_zero_title">刪除前導零</string>
+    <string name="settings_widgets_clock_remove_leading_zero_summary">刪除時間的前導零</string>
+    <string name="settings_widgets_local_time_title">當地時間</string>
+    <string name="settings_widgets_local_time_summary">使用城市當地時間widgets</string>
     <string name="settings_widgets_widget4x1">Widget 4x1</string>
     <string name="settings_widgets_widget4x1_data_title">額外訊息</string>
     <string name="settings_widgets_widget4x1_transparent_sum">未選中默認背景</string>
