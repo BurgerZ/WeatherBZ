@@ -539,7 +539,7 @@
         <item>weather_symbol</item>
     </string-array>
     <string-array name="widget42_show_entries">
-        <item更新日期</item>
+        <item>更新日期</item>
         <item>下次鬧鐘時間</item>
         <item>電池電量</item>
         <item>感覺</item>
