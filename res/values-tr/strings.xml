@@ -14,12 +14,7 @@
     <string name="about_light_rain">Hafif Yağmur</string>
     <string name="about_light_snow">Hafif Kar</string>
     <string name="about_overcast">Kapalı</string>
-    <string name="about_rain_drizzle">Sağanak Yağmur</string>
-    <string name="about_heavy_rain">Şiddetli Yağmur</string>
     <string name="about_moderate_rain">Hafif Sağanak Yağmur</string>
-    <string name="about_rainstorm">Yağmur Fırtınası</string>
-    <string name="about_rain_drizzle">Sağanak</string>
-    <string name="about_sleet">Karla karışık yağmur</string>
     <string name="about_snow_showers">Sağanak Kar Yağışı</string>
     <string name="about_moderate_snow">Hafif Kar Yağışı</string>
     <string name="about_rainstorm">Yağmur Fırtınası</string>
