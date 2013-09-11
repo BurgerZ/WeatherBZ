@@ -56,7 +56,7 @@
     <string name="donations_yandex">Yandex.Money</string>
     <string name="donations_paypal_description">¡Puedes elegir cuánto quieres donar después de pulsar el botón!</string>
     <string name="donations_paypal_item_name">InApp Donation</string>
-    <string name="donations_thanks_dialog">"¡Gracias por donar!\n¡Te lo agradezco mucho!"</string>
+    <string name="donations_thanks_dialog">¡Gracias por donar!\n¡Te lo agradezco mucho!</string>
     <string name="donations_thanks_dialog_title">¡Gracias!</string>
     <string name="end_time_title">Fin</string>
     <string name="fetching_location">Obteniendo ubicación\u2026</string>
@@ -203,11 +203,11 @@
     <string name="settings_widgets_click_date_title">Clic en la fecha</string>
     <string name="settings_widgets_click_weather_summary">Seleccione la aplicación que se iniciará al tocar la previosión del tiempo</string>
     <string name="settings_widgets_click_weather_title">Clic en la previsión</string>
-    <string name="settings_widgets_clock_remove_leading_zero_title">Quitar cero de delante</string>
-    <string name="settings_widgets_clock_remove_leading_zero_summary">Quitar el número cero de las horas en el reloj</string>
-    <string name="settings_widgets_local_time_title">LHora local</string>
+    <string name="settings_widgets_clock_remove_leading_zero_title">Quitar cero inicial</string>
+    <string name="settings_widgets_clock_remove_leading_zero_summary">Quitar el cero inicial de las horas en el reloj</string>
+    <string name="settings_widgets_local_time_title">Hora local</string>
     <string name="settings_widgets_local_time_summary">Usar la hora local de las ciudades en los widgets</string>
-    <string name="settings_widgets_widget4x1">Widget 4x1 (v4 Ext)</string>
+    <string name="settings_widgets_widget4x1">Widget 4x1</string>
     <string name="settings_widgets_widget4x1_data_title">Datos ampliados</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Se ocultará el fondo por defecto</string>
     <string name="settings_widgets_widget4x1_transparent_title">Fondo transparente</string>
@@ -230,6 +230,8 @@
     <string name="settings_widgets_widget4x2_v5">Widget 4x2 (v5)</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">Por defecto 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Viento</string>
+    <string name="settings_widgets_widget4x3">Widget 4x3</string>
+    <string name="settings_widgets_widget4x3_hourly_view">Mostrar previsión ampliada</string>
     <string name="share">Compartir</string>
     <string name="share_content">\#WeatherBZ#</string>
     <string name="share_weather_content">"\#WeatherBZ# El tiempo para hoy en %1$s es %2$s, %3$s, %4$s. Actualizado %5$s."</string>
