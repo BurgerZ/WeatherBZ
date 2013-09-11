@@ -230,6 +230,7 @@
     <string name="settings_widgets_widget4x2_v5">Widget 4x2 (v5)</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">預設值 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">風速</string>
+    <string name="settings_widgets_widget4x3">Widget 4x3</string>
     <string name="settings_widgets_widget4x3_hourly_view">顯示每小時的天氣</string>
     <string name="share">分享</string>
     <string name="share_content">\#WeatherBZ#</string>
