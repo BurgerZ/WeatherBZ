@@ -230,6 +230,8 @@
     <string name="settings_widgets_widget4x2_v5">Widget 4x2 (v5)</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">Default value 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Wind</string>
+    <string name="settings_widgets_widget4x3">Widget 4x3</string>
+    <string name="settings_widgets_widget4x3_hourly_view">Show hourly weather</string>
     <string name="share">Share</string>
     <string name="share_content">\#WeatherBZ#</string>
     <string name="share_weather_content">"\#WeatherBZ# Today %1$s's weather is %2$s, %3$s, %4$s. Updated %5$s."</string>

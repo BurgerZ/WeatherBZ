@@ -282,6 +282,15 @@
         <item>Humedad</item>
         <item>Temperaturas máxima y mínima</item>
     </string-array>
+	<string-array name="widget43_show_entries">
+        <item>Actualizar fecha</item>
+        <item>Siguiente alarma</item>
+        <item>Nivel de batería</item>
+        <item>Sensación real</item>
+        <item>Viento</item>
+        <item>Humedad</item>
+        <item>Temperaturas máxima y mínima</item>
+    </string-array>
     <string-array name="main_show_entries">
         <item>Sensación real</item>
         <item>Viento</item>

@@ -491,7 +491,6 @@
         <item>Иконка погоды</item>
     </string-array>    
     <string-array name="widget42_show_entries">
-        <item>Локальное время</item>
         <item>Время обновления</item>
         <item>Будильник</item>
         <item>Уровень заряда</item>
@@ -499,7 +498,16 @@
         <item>Скорость ветра</item>
         <item>Влажность</item>
         <item>Макс. и мин. температуры</item>
-    </string-array>   
+    </string-array>
+    <string-array name="widget43_show_entries">
+        <item>Время обновления</item>
+        <item>Будильник</item>
+        <item>Уровень заряда</item>
+        <item>Ощущаемая температура</item>
+        <item>Скорость ветра</item>
+        <item>Влажность</item>
+        <item>Макс. и мин. температуры</item>
+    </string-array>
     <string-array name="main_show_entries">
         <item>Ощущения</item>
         <item>Ветер</item>

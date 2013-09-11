@@ -555,7 +555,25 @@
         <item>w42_wind</item>
         <item>w42_humidity</item>
         <item>w42_low_high</item>
-    </string-array>    
+    </string-array>
+    <string-array name="widget43_show_entries">
+        <item>Update date</item>
+        <item>Next alarm</item>
+        <item>Battery level</item>
+        <item>RealFeel</item>
+        <item>Wind</item>
+        <item>Humidity</item>
+        <item>Low and High temperatures</item>
+    </string-array>
+    <string-array name="widget43_show_values" translatable="false">
+        <item>w43_update_date</item>
+        <item>w43_alarm</item>
+        <item>w43_battery</item>
+        <item>w43_feels_like</item>
+        <item>w43_wind</item>
+        <item>w43_humidity</item>
+        <item>w43_low_high</item>
+    </string-array>
     <string-array name="main_show_entries">
         <item>RealFeel</item>
         <item>Wind</item>

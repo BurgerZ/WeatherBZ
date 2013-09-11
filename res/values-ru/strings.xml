@@ -226,6 +226,8 @@
     <string name="settings_widgets_widget4x2_v5">Виджет 4x2 (v5)</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">По умолчанию 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Ветер</string>
+    <string name="settings_widgets_widget4x3">Виджет 4x3</string>
+    <string name="settings_widgets_widget4x3_hourly_view">Почасовой прогноз</string>
     <string name="share">Поделиться</string>
     <string name="share_content">\#WeatherBZ#</string>
     <string name="share_weather_content">\#WeatherBZ# Сегодня в %1$s %2$s, %3$s, %4$s. Обновлено %5$s.</string>
