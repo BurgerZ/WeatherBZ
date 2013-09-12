@@ -75,12 +75,12 @@
     <string name="forecast_flurries">Ráfagas de viento</string>
     <string name="forecast_fog">Niebla</string>
     <string name="forecast_freezing_drizzle">Llovizna helada</string>
-    <string name="forecast_freezing_rain">Chubascos de nieve</string>
+    <string name="forecast_freezing_rain">Lluvia helada</string>
     <string name="forecast_haze">Neblina</string>
     <string name="forecast_hail">Granizo</string>
     <string name="forecast_hot">Calor</string>
     <string name="forecast_heavy_rain">Fuerte lluvia</string>
-    <string name="forecast_icy">Helado</string>
+    <string name="forecast_icy">Gélido</string>
     <string name="forecast_light_rain">Lluvia ligera</string>
     <string name="forecast_light_snow">Nieve ligera</string>
     <string name="forecast_mist">Niebla</string>
@@ -91,7 +91,7 @@
     <string name="forecast_partly_sunny">Parcialmente soleado</string>
     <string name="forecast_rain">Lluvia</string>
     <string name="forecast_rain_and_snow">Lluvia y nieve</string>
-    <string name="forecast_rain_showers">lluvias</string>
+    <string name="forecast_rain_showers">Chubascos</string>
     <string name="forecast_sand">Arena</string>
     <string name="forecast_scattered_showers">Chubascos dispersos</string>
     <string name="forecast_scattered_thunderstorms">Tormentas eléctricas dispersas</string>
@@ -245,8 +245,8 @@
     <string name="theme_author">"Autor: "</string>
     <string name="theme_date">"Fecha: "</string>
     <string name="theme_import_dialog_title">Elige un tema para importar</string>
-    <string name="theme_import_no_filemanager">Por favor, instala un gestor de archivos.</string>
-    <string name="theme_import_not_theme">No es un archivo válido!</string>
+    <string name="theme_import_no_filemanager">Por favor, instale un gestor de archivos.</string>
+    <string name="theme_import_not_theme">NArchivo no válido!</string>
     <string name="theme_version">"Versión: "</string>
     <string name="themes_temperature_icons">Iconos de temperatura</string>
     <string name="themes_weather_animation">Animación del clima</string>
