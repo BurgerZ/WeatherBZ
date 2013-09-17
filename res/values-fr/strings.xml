@@ -225,7 +225,7 @@
     <string name="theme_date">"Date : "</string>
     <string name="theme_import_dialog_title">Sélectionnez un thème à importer</string>
     <string name="theme_import_no_filemanager">Veuillez installer un gestionnaire de fichiers.</string>
-    <string name="theme_import_not_theme">Ce n'est pas un fichier de thème!</string>
+    <string name="theme_import_not_theme">"Ce n'est pas un fichier de thème!"</string>
     <string name="theme_version">"Version : "</string>
     <string name="themes_temperature_icons">Icônes temperature</string>
     <string name="themes_weather_animation">Animations météo</string>
