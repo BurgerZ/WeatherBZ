@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="donations_google_android_market_promt_array">
         <item>1 euro</item>
@@ -512,7 +512,7 @@
         <item>Zambia</item>
         <item>Zaire (former)</item>
         <item>Zimbabwe</item>
-		<item>Saint Pierre and Miquelon</item>
+	<item>Saint Pierre and Miquelon</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
         <item>Noir</item>
@@ -523,13 +523,23 @@
         <item>Icône de la météo actuelle</item>
     </string-array>   
     <string-array name="widget42_show_entries">
-        <item>Heure</item>
-        <item>Date</item>
-        <item>Ville</item>
-        <item>Météo (description)</item>
+        <item>Date de MAJ</item>
+        <item>Prochaine alarme</item>
+        <item>Niveau Batterie</item>
         <item>Ressenti</item>
         <item>Vent</item>
-    </string-array> 
+        <item>Humidité</item>
+        <item>Températures min. et max.</item>
+    </string-array>
+    <string-array name="widget43_show_entries">
+        <item>Date de MAJ</item>
+        <item>Prochaine alarme</item>
+        <item>Niveau Batterie<</item>
+        <item>Ressenti</item>
+        <item>Vent</item>
+        <item>Humidité</item>
+        <item>Températures min. et max.</item>
+    </string-array>
     <string-array name="main_show_entries">
         <item>Ressenti</item>
         <item>Vent</item>
@@ -538,14 +548,18 @@
         <item>Visibilité</item>
         <item>Lever et coucher du soleil</item> 
         <item>Prochaine alarme</item>
-    </string-array>      
+    </string-array>
 	<string-array name="widget41_show_entries">
         <item>Température</item>
         <item>Prévisions météorologiques</item>
         <item>Heure</item>
-	</string-array>    
+	</string-array>
     <string-array name="widget41_data_entries">
         <item>"Prévisions à 3 jours"</item>
         <item>"Météo du jour"</item>
-    </string-array>	              
+    </string-array>
+    <string-array name="moon_phases_entries">
+        <item>Mois</item>
+        <item>Année</item>
+    </string-array>
 </resources>
