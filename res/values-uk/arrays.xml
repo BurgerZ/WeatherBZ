@@ -491,21 +491,31 @@
         <item>Іконка погоди</item>
     </string-array>    
     <string-array name="widget42_show_entries">
-        <item>Годинник</item>
-        <item>Дата</item>
-        <item>Місто</item>
-        <item>Опис погоди</item>
-        <item>Відчуття</item>
-        <item>Вітер</item>
-    </string-array>   
+        <item>Час оновлення</item>
+        <item>Будильник</item>
+        <item>Рівень заряду</item>
+        <item>Температура, що відчувається </item>
+        <item>Швидкість вітра</item>
+        <item>Вологість</item>
+        <item>Макс. и мін. температури</item>
+    </string-array>
+    <string-array name="widget43_show_entries">
+        <item>Час оновлення</item>
+        <item>Будильник</item>
+        <item>Рівень заряду</item>
+        <item>Температура, що відчувається </item>
+        <item>Швидкість вітра</item>
+        <item>Вологість</item>
+        <item>Макс. и мін. температури</item>
+    </string-array>
     <string-array name="main_show_entries">
         <item>Відчуття</item>
         <item>Вітер</item>
         <item>Вологість</item>
         <item>Тиск</item>
         <item>Видимість</item>
-        <item>Sunrise and sunset</item>
-        <item>Next Alarm</item>
+        <item>Схід та захід</item>
+        <item>Будильник</item>
     </string-array>   
     <string-array name="widget41_show_entries">
         <item>Панель температур</item>
@@ -517,7 +527,7 @@
         <item>Поточні дані</item>
     </string-array>	
     <string-array name="moon_phases_entries">
-        <item>Поточний місяць</item>
-        <item>Поточний рік</item>
+        <item>Місяць</item>
+        <item>Рік</item>
     </string-array>  
 </resources>
