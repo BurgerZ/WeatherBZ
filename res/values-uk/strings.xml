@@ -170,8 +170,8 @@
     <string name="settings_check_updates_title">Перевіряти оновлення</string>
     <string name="settings_citydb_provider">База міст</string>
     <string name="settings_click_actions">Дії по натисканню</string>
-    <string name="settings_colorize_weather_icons_summary">Окрашивать иконки погоды в цвет текста (например, для белых иконок)</string>
-    <string name="settings_colorize_weather_icons_title">Раскрашивать иконки</string>
+    <string name="settings_colorize_weather_icons_summary">Замальовувати іконки погоди в колір тексту (наприклад, для білих іконок)</string>
+    <string name="settings_colorize_weather_icons_title">Замальовувати іконки</string>
     <string name="settings_miui_support_summary">Включає підтримку вбудованих віджетів MIUI</string>
     <string name="settings_miui_support_title">Віджети MIUI</string>
     <string name="settings_miui_v5_summary">Включити, якщо у вас MIUI v5</string>
