@@ -171,7 +171,7 @@
     <string name="settings_citydb_provider">Város adatbázis Szolgáltató</string>
     <string name="settings_click_actions">Kattintási műveletek</string>
     <string name="settings_colorize_weather_icons_summary">Ikon színek beállítása a szöveg színéhez (fehér időjárás ikonokon kívül)</string>
-    <string name="settings_colorize_weather_icons_title"Ikonok színezése</string>
+    <string name="settings_colorize_weather_icons_title">Ikonok színezése</string>
     <string name="settings_miui_support_summary">A MIUI natív widgetekhez kapcsolja be</string>
     <string name="settings_miui_support_title">MIUI widgetek</string>
     <string name="settings_miui_v5_summary">MIUI v5 ROM-hoz kapcsolja be</string>
@@ -296,5 +296,4 @@
     <string name="zodiac_scorpio">Skorpió</string>
     <string name="zodiac_taurus">Bika</string>
     <string name="zodiac_virgo">Szűz</string>
-
 </resources>
