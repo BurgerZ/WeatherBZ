@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="about_author">"Auteur :"</string>
 	<string name="about_blizzard">Tempête de neige</string>
@@ -6,7 +6,7 @@
 	<string name="about_dust">Tempête de poussière</string>
 	<string name="about_fog">Brouillard</string>
 	<string name="about_for_translators_text">Si vous souhaitez traduire cette application, rendez-vous sur GitHub (lien ci-dessus) !</string>
-	<string name="about_for_translators">"Traductions:"</string>
+	<string name="about_for_translators">"Traductions :"</string>
 	<string name="about_hailstone">Grêle</string>
 	<string name="about_haze">Brume</string>
 	<string name="about_heavy_snow">Grosse chute de neige</string>
@@ -134,8 +134,8 @@
 	<string name="moon_lastquarter">Dernier quartier</string>
 	<string name="moon_waningcrescent">Dernier croissant</string>
 	<string name="moon_current_view">Mode de vue : %s</string>
-	<string name="moon_illuminated">Illuminée</string>
-	<string name="moon_since">Depuis</string>
+	<string name="moon_illuminated">Illuminée à</string>
+	<string name="moon_since">Depuis le</string>
 	<string name="network_error">Impossible de se connecter au serveur</string>
 	<string name="network_in_quiet_hours">Vous êtes en heures de repos. Mises à jour annulées.</string>
 	<string name="network_in_roaming">Vous avez des paramètres pour désactiver les mises à jour en itinérance.</string>
@@ -234,7 +234,7 @@
 	<string name="settings_widgets_widget4x3_hourly_view">Météo heure par heure</string>
 	<string name="share">Partager</string>
 	<string name="share_content">\#WeatherBZ#</string>
-	<string name="share_weather_content">"\#WeatherBZ# Aujourd'hui %1$s's la météo est %2$s, %3$s, %4$s. Mis à jour %5$s."</string>
+	<string name="share_weather_content">"\#WeatherBZ# Aujourd'hui à %1$s la météo est : %2$s, %3$s, %4$s. Mis à jour à %5$s."</string>
 	<string name="share_weather_title">Partager les données météo</string>
 	<string name="save_screen_shot_failed">"Impossible de sauver le capture d'écran"</string>
 	<string name="start_time_title">Début</string>
