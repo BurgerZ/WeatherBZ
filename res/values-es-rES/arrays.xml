@@ -274,7 +274,7 @@
         <item>Iconos del clima</item>
     </string-array>
     <string-array name="widget42_show_entries">
-        <item>Actualizar fecha</item>
+        <item>Actualizado</item>
         <item>Siguiente alarma</item>
         <item>Nivel de batería</item>
         <item>Sensación real</item>
@@ -283,7 +283,7 @@
         <item>Temperaturas máxima y mínima</item>
     </string-array>
 	<string-array name="widget43_show_entries">
-        <item>Actualizar fecha</item>
+        <item>Actualizado</item>
         <item>Siguiente alarma</item>
         <item>Nivel de batería</item>
         <item>Sensación real</item>
