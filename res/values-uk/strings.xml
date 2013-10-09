@@ -190,7 +190,7 @@
     <string name="settings_update_interval_title">Інтервал оновлення</string>
     <string name="settings_update_roaming_summary">Автоматично оновлювати прогноз погоди у роумінгу. Це може збільшити ваші витрати по оплаті рахунків стільникового зв\'язку</string>
     <string name="settings_update_roaming_title">Оновлювати в роумінгу</string>
-    <string name="settings_update_wake_title">Пробуждать устройство</string>
+    <string name="settings_update_wake_title">Пробуджувати пристрій</string>
     <string name="settings_update_wifi_only_summary">Автоматично оновлювати прогноз погоди тільки за наявності підключення по мережі Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Оновлювати тільки по Wi-Fi</string>
     <string name="settings_weather_provider">Постачальник прогнозу</string>
