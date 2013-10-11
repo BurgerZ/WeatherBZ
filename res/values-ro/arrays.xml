@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="donations_google_android_market_promt_array">
+        <item>1 Euro</item> 
+        <item>2 Euro</item> 
+        <item>3 Euro</item> 
+        <item>5 Euro</item> 
+        <item>8 Euro</item> 
+        <item>13 Euro</item> 
+    </string-array>
     <string-array name="update_interval_names">
         <item>30 minute</item>
         <item>1 oră</item>
@@ -266,12 +274,22 @@
         <item>Pictogramă vreme</item>
     </string-array>
     <string-array name="widget42_show_entries">
-        <item>Ceas</item>
-        <item>Dată</item>
-        <item>Oraş</item>
-        <item>Descriere vreme</item>
+        <item>Dată actualizare</item>
+        <item>Următoarea alarmă</item>
+        <item>Nivel acumulator</item>
         <item>Se simte a fi</item>
         <item>Vânt</item>
+        <item>Umiditate</item>
+        <item>Temperatura maximă şi minimă</item>
+    </string-array>
+    <string-array name="widget43_show_entries">
+        <item>Dată actualizare</item>
+        <item>Următoarea alarmă</item>
+        <item>Nivel acumulator</item>
+        <item>Se simte a fi</item>
+        <item>Vânt</item>
+        <item>Umiditate</item>
+        <item>Temperatura maximă şi minimă</item>
     </string-array>
     <string-array name="main_show_entries">
         <item>Se simte a fi</item>
@@ -279,7 +297,7 @@
         <item>Umidate</item>
         <item>Presiune</item>
         <item>Vizibilitate</item>
-        <item>Sunrise and sunset</item>
+        <item>Răsărit şi apus</item>
         <item>Următoarea Alarmă</item>
     </string-array>
     <string-array name="widget41_show_entries">
@@ -290,5 +308,9 @@
     <string-array name="widget41_data_entries">
         <item>"Vremea pentru 3 zile"</item>
         <item>"Vremea azi"</item>
+    </string-array>
+    <string-array name="moon_phases_entries">
+        <item>Lună</item>
+        <item>An</item>
     </string-array>
 </resources>
