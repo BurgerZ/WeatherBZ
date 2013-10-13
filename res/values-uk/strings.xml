@@ -1,4 +1,4 @@
-</resources>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_author">Автор:</string>
     <string name="about_blizzard">Завірюха</string>
@@ -302,4 +302,4 @@
     <string name="zodiac_scorpio">Скорпіон</string>
     <string name="zodiac_taurus">Телець</string>
     <string name="zodiac_virgo">Діва</string>
-<?xml version="1.0" encoding="utf-8"?>
+</resources>
