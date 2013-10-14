@@ -137,7 +137,7 @@
     <string name="network_in_roaming">Включена заборона оновлення в роумінгу.</string>
     <string name="network_wifi_only">Обновлення налаштовано тільки через Wi-fi.</string>
     <string name="new_version">Нова версія</string>
-    <string name="no_provider">Похибка визначення розташування\nВиберіть розташування уручну</string>
+    <string name="no_provider">Похибка визначення розташування\nВиберіть розташування вручну</string>
     <string name="not_now">Не зараз</string>
     <string name="no_weather_provider">MIUI weather provider не знайдено</string>
     <string name="ok">OK</string>
