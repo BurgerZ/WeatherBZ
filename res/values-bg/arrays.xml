@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="donations_google_android_market_promt_array">
+  		<item>1 Евро</item> 
+  		<item>2 Евро</item> 
+  		<item>3 Евро</item> 
+  		<item>5 Евро</item> 
+  		<item>8 Евро</item> 
+  		<item>13 Евро</item> 
+  	</string-array>
+    <string-array name="update_interval_names">
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>6 часа</item>
+    </string-array>
+    <string-array name="country_codes">
+        <item>ad</item>
+        <item>ae</item>
+        <item>af</item>
+        <item>ag</item>
+        <item>ai</item>
+        <item>al</item>
+        <item>am</item>
+        <item>an</item>
+        <item>ao</item>
+        <item>ar</item>
+        <item>at</item>
+        <item>au</item>
+        <item>aw</item>
+        <item>az</item>
+        <item>ba</item>
+        <item>bb</item>
+        <item>bd</item>
+        <item>be</item>
+        <item>bf</item>
+        <item>bg</item>
+        <item>bh</item>
+        <item>bi</item>
+        <item>bj</item>
+        <item>bm</item>
+        <item>bn</item>
+        <item>bo</item>
+        <item>br</item>
+        <item>bs</item>
+        <item>bt</item>
+        <item>bw</item>
+        <item>by</item>
+        <item>bz</item>
+        <item>ca</item>
+        <item>cc</item>
+        <item>cd</item>
+        <item>cf</item>
+        <item>cg</item>
+        <item>ch</item>
+        <item>ci</item>
+        <item>ck</item>
+        <item>cl</item>
+        <item>cm</item>
+        <item>cn</item>
+        <item>co</item>
+        <item>cr</item>
+        <item>cu</item>
+        <item>cv</item>
+        <item>cx</item>
+        <item>cy</item>
+        <item>cz</item>
+        <item>de</item>
+        <item>dj</item>
+        <item>dk</item>
+        <item>dm</item>
+        <item>do</item>
+        <item>dz</item>
+        <item>ec</item>
+        <item>ee</item>
+        <item>eg</item>
+        <item>eh</item>
+        <item>er</item>
+        <item>es</item>
+        <item>et</item>
+        <item>fi</item>
+        <item>fj</item>
+        <item>fk</item>
+        <item>fm</item>
+        <item>fr</item>
+        <item>ga</item>
+        <item>gb</item>
+        <item>gd</item>
+        <item>ge</item>
+        <item>gg</item>
+        <item>gh</item>
+        <item>gi</item>
+        <item>gl</item>
+        <item>gm</item>
+        <item>gn</item>
+        <item>gp</item>
+        <item>gq</item>
+        <item>gr</item>
+        <item>gs</item>
+        <item>gt</item>
+        <item>gw</item>
+        <item>gy</item>
+        <item>hk</item>
+        <item>hn</item>
+        <item>hr</item>
+        <item>ht</item>
+        <item>hu</item>
+        <item>id</item>
+        <item>ie</item>
+        <item>il</item>
+        <item>im</item>
+        <item>in</item>
+        <item>io</item>
+        <item>iq</item>
+        <item>ir</item>
+        <item>is</item>
+        <item>it</item>
+        <item>je</item>
+        <item>jm</item>
+        <item>jo</item>
+        <item>jp</item>
+        <item>ke</item>
+        <item>kg</item>
+        <item>kh</item>
+        <item>ki</item>
+        <item>km</item>
+        <item>kn</item>
+        <item>kp</item>
+        <item>kr</item>
+        <item>kw</item>
+        <item>ky</item>
+        <item>kz</item>
+        <item>la</item>
+        <item>lb</item>
+        <item>lc</item>
+        <item>li</item>
+        <item>lk</item>
+        <item>lr</item>
+        <item>ls</item>
+        <item>lt</item>
+        <item>lu</item>
+        <item>lv</item>
+        <item>ly</item>
+        <item>ma</item>
+        <item>mc</item>
+        <item>md</item>
+        <item>me</item>
+        <item>mg</item>
+        <item>mh</item>
+        <item>mk</item>
+        <item>ml</item>
+        <item>mm</item>
+        <item>mn</item>
+        <item>mo</item>
+        <item>mr</item>
+        <item>ms</item>
+        <item>mt</item>
+        <item>mu</item>
+        <item>mv</item>
+        <item>mw</item>
+        <item>mx</item>
+        <item>my</item>
+        <item>mz</item>
+        <item>na</item>
+        <item>ne</item>
+        <item>nf</item>
+        <item>ng</item>
+        <item>ni</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>np</item>
+        <item>nr</item>
+        <item>nu</item>
+        <item>nz</item>
+        <item>om</item>
+        <item>pa</item>
+        <item>pe</item>
+        <item>pf</item>
+        <item>pg</item>
+        <item>ph</item>
+        <item>pk</item>
+        <item>pl</item>
+        <item>pm</item>
+        <item>pr</item>
+        <item>ps</item>
+        <item>pt</item>
+        <item>pw</item>
+        <item>py</item>
+        <item>qa</item>
+        <item>re</item>
+        <item>ro</item>
+        <item>rs</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sa</item>
+        <item>sb</item>
+        <item>sc</item>
+        <item>sd</item>
+        <item>se</item>
+        <item>sg</item>
+        <item>sh</item>
+        <item>si</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>sm</item>
+        <item>sn</item>
+        <item>so</item>
+        <item>sr</item>
+        <item>st</item>
+        <item>sv</item>
+        <item>sy</item>
+        <item>sz</item>
+        <item>tc</item>
+        <item>td</item>
+        <item>tf</item>
+        <item>tg</item>
+        <item>th</item>
+        <item>tj</item>
+        <item>tk</item>
+        <item>tl</item>
+        <item>tm</item>
+        <item>tn</item>
+        <item>to</item>
+        <item>tr</item>
+        <item>tt</item>
+        <item>tv</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>ua</item>
+        <item>ug</item>
+        <item>us</item>
+        <item>uy</item>
+        <item>uz</item>
+        <item>va</item>
+        <item>vc</item>
+        <item>ve</item>
+        <item>vg</item>
+        <item>vi</item>
+        <item>vn</item>
+        <item>vu</item>
+        <item>ws</item>
+        <item>xk</item>
+        <item>ye</item>
+        <item>yt</item>
+        <item>za</item>
+        <item>zm</item>
+        <item>zw</item>
+		<item>pm</item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Андора</item>
+        <item>Обединени Арабски Емирства</item>
+        <item>Афганистан</item>
+        <item>Антигуа и Барбуда</item>
+        <item>Англия</item>
+        <item>Албания</item>
+        <item>Армения</item>
+        <item>Нидерландски Антили</item>
+        <item>Ангола</item>
+        <item>Аржентина</item>
+        <item>Австрия</item>
+        <item>Австралия</item>
+        <item>Аруба</item>
+        <item>Азербайджан</item>
+        <item>Босна и Херцеговина</item>
+        <item>Барбадос</item>
+        <item>Бангладеш</item>
+        <item>Белгия</item>
+        <item>Буркина Фасо</item>
+        <item>България</item>
+        <item>Бахрейн</item>
+        <item>Бурунди</item>
+        <item>Бенин</item>
+        <item>Бермудски острови</item>
+        <item>Бруней</item>
+        <item>Боливия</item>
+        <item>Бразилия</item>
+        <item>Бахамски острови</item>
+        <item>Бутан</item>
+        <item>Ботсвана</item>
+        <item>Беларус</item>
+        <item>Белиз</item>
+        <item>Канада</item>
+        <item>Кокосови острови</item>
+        <item>Демократична република Конго</item>
+        <item>Централноафриканска Република</item>
+        <item>Конго</item>
+        <item>Швейцария</item>
+        <item>Кот д'Ивоар</item>
+        <item>Острови Кук</item>
+        <item>Чили</item>
+        <item>Камерун</item>
+        <item>Китай</item>
+        <item>Колумбия</item>
+        <item>Коста Рика</item>
+        <item>Куба</item>
+        <item>Кабо Верде</item>
+        <item>Коледен остров</item>
+        <item>Кипър</item>
+        <item>Чехия</item>
+        <item>Германия</item>
+        <item>Джибути</item>
+        <item>Дания</item>
+        <item>Доминика</item>
+        <item>Доминиканска Република</item>
+        <item>Алжир</item>
+        <item>Еквадор</item>
+        <item>Естония</item>
+        <item>Египет</item>
+        <item>Западна Сахара</item>
+        <item>Еритрея</item>
+        <item>Испания</item>
+        <item>Етиопия</item>
+        <item>Финландия</item>
+        <item>Фиджи</item>
+        <item>Фолклендски острови</item>
+        <item>Микронезия</item>
+        <item>Франция</item>
+        <item>Габон</item>
+        <item>Великобритания</item>
+        <item>Гренада</item>
+        <item>Грузия</item>
+        <item>Гърнси</item>
+        <item>Гана</item>
+        <item>Гибралтар</item>
+        <item>Гренландия</item>
+        <item>Гамбия</item>
+        <item>Гвинея</item>
+        <item>Гваделупа</item>
+        <item>Екваториална Гвинея</item>
+        <item>Гърция</item>
+        <item>Южна Джорджия и Южни Сандвичеви острови</item>
+        <item>Гватемала</item>
+        <item>Гвинея Бисау</item>
+        <item>Гвиана</item>
+        <item>Хонконг</item>
+        <item>Хондурас</item>
+        <item>Хърватия</item>
+        <item>Хаити</item>
+        <item>Унгария</item>
+        <item>Индонезия</item>
+        <item>Ирландия</item>
+        <item>Израел</item>
+        <item>Остров Ман</item>
+        <item>Индия</item>
+        <item>Британска индоокеанска територия</item>
+        <item>Ирак</item>
+        <item>Иран</item>
+        <item>Исландия</item>
+        <item>Италия</item>
+        <item>Джърси</item>
+        <item>Ямайка</item>
+        <item>Йордания</item>
+        <item>Япония</item>
+        <item>Кения</item>
+        <item>Киргизстан</item>
+        <item>Камбоджа</item>
+        <item>Кирибати</item>
+        <item>Коморски острови</item>
+        <item>Сейнт Китс и Невис</item>
+        <item>Северна Корея</item>
+        <item>Южна Корея</item>
+        <item>Кувейт</item>
+        <item>Кайманови острови</item>
+        <item>Казахстан</item>
+        <item>Лаос</item>
+        <item>Ливан</item>
+        <item>Сейнт Лусия</item>
+        <item>Лихтенщайн</item>
+        <item>Шри Ланка</item>
+        <item>Либерия</item>
+        <item>Лесото</item>
+        <item>Литва</item>
+        <item>Люксембург</item>
+        <item>Латвия</item>
+        <item>Либия</item>
+        <item>Мароко</item>
+        <item>Монако</item>
+        <item>Молдова</item>
+        <item>Черна гора</item>
+        <item>Мадагаскар</item>
+        <item>Маршалови острови</item>
+        <item>Македония</item>
+        <item>Мали</item>
+        <item>Мианмар</item>
+        <item>Монголия</item>
+        <item>Макао</item>
+        <item>Мавритания</item>
+        <item>Монсерат</item>
+        <item>Малта</item>
+        <item>Мавриций</item>
+        <item>Малдиви</item>
+        <item>Малави</item>
+        <item>Мексико</item>
+        <item>Малайзия</item>
+        <item>Мозамбик</item>
+        <item>Намибия</item>
+        <item>Нигер</item>
+        <item>Остров Норфолк</item>
+        <item>Нигерия</item>
+        <item>Никарагуа</item>
+        <item>Нидерландия</item>
+        <item>Норвегия</item>
+        <item>Непал</item>
+        <item>Науру</item>
+        <item>Ниуе</item>
+        <item>Нова Зеландия</item>
+        <item>Оман</item>
+        <item>Панама</item>
+        <item>Перу</item>
+        <item>Френска Полинезия</item>
+        <item>Папуа Нова Гвинея</item>
+        <item>Филипини</item>
+        <item>Пакистан</item>
+        <item>Полша</item>
+        <item>Сен Пиер и Микелон</item>
+        <item>Пуерто Рико</item>
+        <item>Палестина</item>
+        <item>Португалия</item>
+        <item>Палау</item>
+        <item>Парагвай</item>
+        <item>Катар</item>
+        <item>Реюнион</item>
+        <item>Румъния</item>
+        <item>Сърбия</item>
+        <item>Русия</item>
+        <item>Руанда</item>
+        <item>Саудитска Арабия</item>
+        <item>Соломонови острови</item>
+        <item>Сейшелски острови</item>
+        <item>Судан</item>
+        <item>Швеция</item>
+        <item>Сингапур</item>
+        <item>Света Елена</item>
+        <item>Словения</item>
+        <item>Словакия</item>
+        <item>Сиера Леоне</item>
+        <item>Сан Марино</item>
+        <item>Сенегал</item>
+        <item>Сомалия</item>
+        <item>Суринам</item>
+        <item>Сао Томе и Принсипи</item>
+        <item>Салвадор</item>
+        <item>Сирия</item>
+        <item>Свазиленд</item>
+        <item>Търкс и Кайкос</item>
+        <item>Чад</item>
+        <item>Френски южни и антарктически територии</item>
+        <item>Того</item>
+        <item>Тайланд</item>
+        <item>Таджикистан</item>
+        <item>Токелау</item>
+        <item>Източен Тимор</item>
+        <item>Туркменистан</item>
+        <item>Тунис</item>
+        <item>Тонга</item>
+        <item>Турция</item>
+        <item>Тринидад и Тобаго</item>
+        <item>Тувалу</item>
+        <item>Тайван</item>
+        <item>Танзания</item>
+        <item>Украйна</item>
+        <item>Уганда</item>
+        <item>САЩ</item>
+        <item>Уругвай</item>
+        <item>Узбекистан</item>
+        <item>Ватикан</item>
+        <item>Сейнт Винсънт и Гренадини</item>
+        <item>Венецуела</item>
+        <item>Британски Вирджински острови</item>
+        <item>Американски Вирджински острови</item>
+        <item>Виетнам</item>
+        <item>Вануату</item>
+        <item>Самоа</item>
+        <item>Косово</item>
+        <item>Йемен</item>
+        <item>Майот</item>
+        <item>ЮАР</item>
+        <item>Замбия</item>
+        <item>Зимбабве</item>
+		<item>Сен Пиер и Микелон</item>
+    </string-array>
+    <string-array name="notif_temp_color_entries">
+        <item>Черен</item>
+        <item>Бял</item>
+    </string-array>   
+    <string-array name="notif_type_entries">
+        <item>Температура</item>
+        <item>Икона за времето</item>
+    </string-array>    
+    <string-array name="widget42_show_entries">
+        <item>Последна актуализация</item>
+        <item>Следваща аларма</item>
+        <item>Ниво на батерията</item>
+        <item>Усещаща се температура</item>
+        <item>Скорост на вятъра</item>
+        <item>Влажност</item>
+        <item>Макс. и мин. температури</item>
+    </string-array>
+    <string-array name="widget43_show_entries">
+        <item>Последна актуализация</item>
+        <item>Следваща аларма</item>
+        <item>Ниво на батерията</item>
+        <item>Усещаща се температура</item>
+        <item>Скорост на вятъра</item>
+        <item>Влажност</item>
+        <item>Макс. и мин. температури</item>
+    </string-array>
+    <string-array name="main_show_entries">
+        <item>Усеща се като</item>
+        <item>Вятър</item>
+        <item>Влажност</item>
+        <item>Налягане</item>
+        <item>Видимост</item>
+        <item>Изгрев и залез</item>
+        <item>Следваща аларма</item>
+    </string-array>   
+	<string-array name="widget41_show_entries">
+        <item>Панел температура</item>
+        <item>Панел допълнителни данни</item>
+        <item>Панел часовник</item>
+	</string-array>
+    <string-array name="widget41_data_entries">
+        <item>Тридневна прогноза</item>
+        <item>Текущи данни</item>
+    </string-array>	
+    <string-array name="moon_phases_entries">
+        <item>Месец</item>
+        <item>Година</item>
+    </string-array>  
+</resources>
