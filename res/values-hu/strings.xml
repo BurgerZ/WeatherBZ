@@ -5,8 +5,8 @@
     <string name="about_cloudy">Felhős</string>
     <string name="about_dust">Szmog</string>
     <string name="about_fog">Ködös</string>
-    <string name="about_for_translators">A fordítóknak:</string>
-    <string name="about_for_translators_text">A fordításhoz minden forrásanyag megtalálható a készítő github oldalán</string>
+    <string name="about_for_translators">Fordítás:</string>
+    <string name="about_for_translators_text">Vagyula (vagyula1@gmail.com)</string>
     <string name="about_hailstone">Jégeső</string>
     <string name="about_haze">Köd</string>
     <string name="about_heavy_rain">Zápor</string>
