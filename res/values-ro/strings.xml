@@ -38,7 +38,7 @@
     <string name="clear_miui_data_summary">Eliminaţi baza de date MIUI meteo</string>
     <string name="close">Închideţi</string>
     <string name="date_format_title">Format dată</string>
-    <string name="dialog_color_picker">Selector culoare</string> 
+    <string name="dialog_color_picker">Selector culoare</string>
     <string name="donate">Donaţi</string>
     <string name="donations_button_close">Închideţi</string>
     <string name="donations_description">Găsiţi această aplicație utilă?\nAjutaţi la dezvoltarea ei prin trimiterea unor donaţii către dezvoltator!</string>
@@ -111,7 +111,7 @@
     <string name="location_search">Căutare locaţie</string>
     <string name="location_edit">Introduceţi numele oraşului</string>
     <string name="location_gps">Locaţia actuală</string>
-    <string name="main_screen_text_color_summary">Culoarea textului datelor de pe ecranul principal</string> 
+    <string name="main_screen_text_color_summary">Culoarea textului datelor de pe ecranul principal</string>
     <string name="menu">Meniu</string>
     <string name="menu_delete_theme">Ştergeţi tema</string>
     <string name="menu_hourly">Din oră în oră</string>
@@ -144,7 +144,7 @@
     <string name="not_now">Nu acum</string>
     <string name="ok">OK</string>
     <string name="press_color_to_apply">Apăsaţi pe culoare pentru a aplica</string>
-    <string name="pressure_units">Unităţi presiune</string> 
+    <string name="pressure_units">Unităţi presiune</string>
     <string name="quiet_hours_enabled">Activaţi orele de linişte</string>
     <string name="quiet_hours_enabled_on">Ore de linişte activate</string>
     <string name="quiet_hours_enabled_off">Actualizările vor funcționa în mod normal</string>
@@ -204,8 +204,8 @@
     <string name="settings_widgets_local_time_title">Ora locală</string>
     <string name="settings_widgets_local_time_summary">Utilizaţi ora locală în obiectele widget</string>
     <string name="settings_widgets_widget4x1">Obiect widget 4x1</string>
-    <string name="settings_widgets_widget4x1_transparent_title">Fundal transparent</string> 
-    <string name="settings_widgets_widget4x1_transparent_sum">Debifat pentru fundal implicit</string> 
+    <string name="settings_widgets_widget4x1_transparent_title">Fundal transparent</string>
+    <string name="settings_widgets_widget4x1_transparent_sum">Debifat pentru fundal implicit</string>
     <string name="settings_widgets_widget4x1_data_title">Date extinse</string>
     <string name="settings_widgets_widget4x1_v5">Obiect widget 4x1 (v5)</string>
     <string name="settings_widgets_widget4x2">Obiect widget 4x2</string>
@@ -235,7 +235,7 @@
     <string name="save_screen_shot_failed">Salvare screenshot eşuată</string>
     <string name="start_time_title">Început</string>
     <string name="temperature_units">Unităţi temperatură</string>
-    <string name="text_color_title">Culoare text</string> 
+    <string name="text_color_title">Culoare text</string>
     <string name="theme_author">"Autor: "</string>
     <string name="theme_date">"Dată: "</string>
     <string name="theme_import_dialog_title">Selectaţi o temă pt. a o importa</string>
@@ -264,7 +264,7 @@
     <string name="widget_name_4x1">(4x1)Meteo BZ</string>
     <string name="widget_name_4x1_ext">(4x1 ext)Meteo BZ</string>
     <string name="widget_name_4x1_v5">(4x1 v5)Meteo BZ</string>
-    <string name="widget_text_color_summary">"Culoarea textului obiectelor widget"</string> 
+    <string name="widget_text_color_summary">Culoarea textului obiectelor widget</string>
     <string name="wind_e">E</string>
     <string name="wind_ene">ENE</string>
     <string name="wind_ese">ESE</string>

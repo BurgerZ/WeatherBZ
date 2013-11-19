@@ -41,7 +41,7 @@
     <string name="dialog_color_picker">Избор на цвят</string>
     <string name="donate">Дарение</string>
     <string name="donations_button_close">Затвори</string>
-    <string name="donations_description">"Намирате ли приложението за полезно? Подкрепете разработчика чрез flattr или направете дарение чрез Google Play Store!"</string>
+    <string name="donations_description">Намирате ли приложението за полезно?\nПодкрепете разработчика чрез flattr или направете дарение чрез Google Play Store!</string>
     <string name="donations_flattr">Flattr</string>
     <string name="donations_flattr_description">Flattr взима 10% във вид  на месечена абонаментна такса!</string>
     <string name="donations_google_android_market">Google Play Store</string>
@@ -132,12 +132,12 @@
     <string name="moon_current_view">Преглед: %s</string>
     <string name="moon_illuminated">Осветеност</string>
     <string name="moon_since">От</string>
-    <string name="network_error">"Няма връзка със сървъра.\nПроверете настройките на мрежата."</string>
+    <string name="network_error">Няма връзка със сървъра.\nПроверете настройките на мрежата.</string>
     <string name="network_in_quiet_hours">Активен е режим Тихи часове. Обновяването е отменено.</string>
     <string name="network_in_roaming">Включена е забраната за обновяване в роуминг.</string>
     <string name="network_wifi_only">Настроено е обновяване само чрез Wi-fi.</string>
     <string name="new_version">Нова версия</string>
-    <string name="no_provider">"Грешка при определяне на местоположение.\nИзберете местоположение ръчно"</string>
+    <string name="no_provider">Грешка при определяне на местоположение.\nИзберете местоположение ръчно</string>
     <string name="no_weather_provider">Не е намерен MIUI weather provider</string>
     <string name="not_now">Не сега</string>
     <string name="ok">OK</string>

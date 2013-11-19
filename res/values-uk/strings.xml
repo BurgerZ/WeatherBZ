@@ -42,7 +42,7 @@
     <string name="dialog_color_picker">Вибір кольору</string>
     <string name="donate">Пожертви</string>
     <string name="donations_button_close">Закрити</string>
-    <string name="donations_description">"Чи вважаєте ви додаток корисним? Підтримайте розробника через flattr, або  відправте пожертву через Google Play Store!"</string>
+    <string name="donations_description">Чи вважаєте ви додаток корисним?\nПідтримайте розробника через flattr, або відправте пожертву через Google Play Store!</string>
     <string name="donations_flattr_description">Flattr вираховує 10% в вигляді щомісячної абонплати!</string>
     <string name="donations_flattr">Flattr</string>
     <string name="donations_google_android_market_description">Google вираховує 30% с кажної пожертви!</string>
@@ -155,8 +155,8 @@
     <string name="settings_category_animation_sum"></string>
     <string name="settings_category_appearance">Зовнішній вигляд</string>
     <string name="settings_category_appearance_sum">Налаштування відображення/приховування елементів інтерфейсу, мова і т.д.</string>
-    <string name="settings_category_app_update">Оновлення додатка</string>  
-    <string name="settings_category_forecast_update">Оновлення прогнозу</string>    
+    <string name="settings_category_app_update">Оновлення додатка</string>
+    <string name="settings_category_forecast_update">Оновлення прогнозу</string>
     <string name="settings_category_miui">Прошивки MIUI</string>
     <string name="settings_category_miui_sum">Налаштування для прошивок MIUI, очищення даних погоди MIUI</string>
     <string name="settings_category_network">Налаштування мережі</string>
@@ -166,7 +166,7 @@
     <string name="settings_category_update_sum">Налаштування автооновлення та часу оновлення прогнозу</string>
     <string name="settings_category_widgets">Налаштування віджетів</string>
     <string name="settings_category_widgets_sum">Зовнішній вигляд віджетів і дії по натисненню на віджети</string>
-    <string name="settings_check_updates_summary">Перевіряти наявність нової версії додатка при запуску</string>        
+    <string name="settings_check_updates_summary">Перевіряти наявність нової версії додатка при запуску</string>
     <string name="settings_check_updates_title">Перевіряти оновлення</string>
     <string name="settings_citydb_provider">База міст</string>
     <string name="settings_click_actions">Дії по натисканню</string>
@@ -206,8 +206,8 @@
     <string name="settings_widgets_local_time_title">Локальний час</string>
     <string name="settings_widgets_widget4x1">Віджет 4x1</string>
     <string name="settings_widgets_widget4x1_data_title">Додаткові дані</string>
-    <string name="settings_widgets_widget4x1_transparent_sum">Зніміть галочку для використання фону за замовчуванням</string> 
-    <string name="settings_widgets_widget4x1_transparent_title">Прозорий фон</string> 
+    <string name="settings_widgets_widget4x1_transparent_sum">Зніміть галочку для використання фону за замовчуванням</string>
+    <string name="settings_widgets_widget4x1_transparent_title">Прозорий фон</string>
     <string name="settings_widgets_widget4x1_v5">Віджет 4x1 (v5)</string>
     <string name="settings_widgets_widget4x2">Віджет 4x2</string>
     <string name="settings_widgets_widget4x2_city_font_summary">За замовчуванням 22sp</string>

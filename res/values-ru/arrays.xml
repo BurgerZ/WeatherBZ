@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="donations_google_android_market_promt_array">
-  		<item>1 Евро</item> 
-  		<item>2 Евро</item> 
-  		<item>3 Евро</item> 
-  		<item>5 Евро</item> 
-  		<item>8 Евро</item> 
-  		<item>13 Евро</item> 
-  	</string-array>
+          <item>1 Евро</item>
+          <item>2 Евро</item>
+          <item>3 Евро</item>
+          <item>5 Евро</item>
+          <item>8 Евро</item>
+          <item>13 Евро</item>
+      </string-array>
     <string-array name="update_interval_names">
         <item>30 минут</item>
         <item>1 час</item>
@@ -247,7 +247,7 @@
         <item>za</item>
         <item>zm</item>
         <item>zw</item>
-		<item>pm</item>
+        <item>pm</item>
     </string-array>
     <string-array name="country_names">
         <item>Андорра</item>
@@ -480,16 +480,16 @@
         <item>Южная Африка</item>
         <item>Замбия</item>
         <item>Зимбабве</item>
-		<item>Сент-Пьер и Микелон</item>
+        <item>Сент-Пьер и Микелон</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
         <item>Черный</item>
         <item>Белый</item>
-    </string-array>   
+    </string-array>
     <string-array name="notif_type_entries">
         <item>Температура</item>
         <item>Иконка погоды</item>
-    </string-array>    
+    </string-array>
     <string-array name="widget42_show_entries">
         <item>Время обновления</item>
         <item>Будильник</item>
@@ -516,18 +516,18 @@
         <item>Видимость</item>
         <item>Восход и Закат</item>
         <item>Будильник</item>
-    </string-array>   
-	<string-array name="widget41_show_entries">
+    </string-array>
+    <string-array name="widget41_show_entries">
         <item>Панель температур</item>
         <item>Панель дополнительных данных</item>
         <item>Панель часов</item>
-	</string-array>
+    </string-array>
     <string-array name="widget41_data_entries">
         <item>Прогноз на 3 дня</item>
         <item>Текущие данные</item>
-    </string-array>	
+    </string-array>
     <string-array name="moon_phases_entries">
         <item>Месяц</item>
         <item>Год</item>
-    </string-array>  
+    </string-array>
 </resources>

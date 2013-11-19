@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string-array name="donations_google_android_market_promt_array">
-  		<item>1 Euro</item> 
-  		<item>2 Euro</item> 
-  		<item>3 Euro</item> 
-  		<item>5 Euro</item> 
-  		<item>8 Euro</item> 
-  		<item>13 Euro</item> 
-  	</string-array>    
+          <item>1 Euro</item>
+          <item>2 Euro</item>
+          <item>3 Euro</item>
+          <item>5 Euro</item>
+          <item>8 Euro</item>
+          <item>13 Euro</item>
+      </string-array>
     <string-array name="update_interval_names">
-        <item>30 Dakika</item> 
+        <item>30 Dakika</item>
         <item>1 saat</item>
         <item>2 saat</item>
         <item>3 saat</item>
@@ -45,8 +45,8 @@
         <item>Sıcaklık paneli</item>
         <item>Kapsamli bilgi paneli</item>
         <item>Zaman paneli</item>
-	</string-array>
-	<string-array name="widget41_data_entries">
+    </string-array>
+    <string-array name="widget41_data_entries">
         <item>"3-günlük tahmin verileri"</item>
         <item>"Bugünkü tahmin verileri"</item>
     </string-array>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_author">Autor:</string> 
+    <string name="about_author">Autor:</string>
     <string name="about_version">Wersja:</string>
     <string name="about_sunny">Słonecznie</string>
     <string name="about_cloudy">Pochmurnie</string>
@@ -49,8 +49,8 @@ Doceń autora pozytywnym komentarzem lub przekazując mu darowiznę!"</string>
     <string name="donations_flattr_description">Flattr pobiera 10% jako miesięczną opłatę!</string>
     <string name="donations_google_android_market">Sklep Google Play</string>
     <string name="donations_google_android_market_description">Google pobiera 30% kwoty z każdej darowizny!</string>
-    <string name="donations_google_android_market_donate_button">Przekaż!</string>   
-    <string name="donations_google_android_market_not_supported">Brak wsparcia dla wbudowanych płatności. Czy aplikacja Sklep Google Play jest zainstalowana prawidłowo?</string>   
+    <string name="donations_google_android_market_donate_button">Przekaż!</string>
+    <string name="donations_google_android_market_not_supported">Brak wsparcia dla wbudowanych płatności. Czy aplikacja Sklep Google Play jest zainstalowana prawidłowo?</string>
     <string name="donations_google_android_market_not_supported_title">Brak wsparcia dla wbudowanych płatności</string>
     <string name="donations_google_android_market_text">Kwota do przekazania?</string>
     <string name="donations_paypal">PayPal</string>
@@ -106,8 +106,8 @@ Naprawdę to doceniam!"</string>
     <string name="forecast_thunderstorm">Burza</string>
     <string name="forecast_thunderstorms">Burze z piorunami</string>
     <string name="forecast_tornado">Tornado</string>
-    <string name="forecast_windy">Burza</string>    
-    <string name="changelog">Zmiany</string>    
+    <string name="forecast_windy">Burza</string>
+    <string name="changelog">Zmiany</string>
     <string name="just_now">Teraz</string>
     <string name="loading">Wczytywanie\u2026</string>
     <string name="location_edit">Wpisz nazwę miasta</string>
@@ -275,7 +275,7 @@ Wybierz lokalizację ręcznie"</string>
     <string name="widget_name_4x1">(4x1) Pogoda BZ</string>
     <string name="widget_name_4x1_ext">(4x1 ext) Pogoda BZ</string>
     <string name="widget_name_4x1_v5">(4x1 v5) Pogoda BZ</string>
-    <string name="widget_text_color_summary">"Kolor tekstu widżetu"</string>
+    <string name="widget_text_color_summary">Kolor tekstu widżetu</string>
     <string name="wind_e">E</string>
     <string name="wind_ene">ENE</string>
     <string name="wind_ese">ESE</string>

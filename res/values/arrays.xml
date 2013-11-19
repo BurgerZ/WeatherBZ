@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string-array name="donations_google_android_market_promt_array">
-  		<item>1 Euro</item> 
-  		<item>2 Euros</item> 
-  		<item>3 Euros</item> 
-  		<item>5 Euros</item> 
-  		<item>8 Euros</item> 
-  		<item>13 Euros</item> 
-  	</string-array>    
+        <item>1 Euro</item>
+        <item>2 Euros</item>
+        <item>3 Euros</item>
+        <item>5 Euros</item>
+        <item>8 Euros</item>
+        <item>13 Euros</item>
+    </string-array>
     <string-array name="update_interval_names">
-        <item>30 minutes</item> 
+        <item>30 minutes</item>
         <item>1 hour</item>
         <item>2 hours</item>
         <item>3 hours</item>
@@ -17,7 +17,7 @@
         <item>6 hours</item>
     </string-array>
     <string-array name="update_interval_values" translatable="false">
-        <item>30</item> 
+        <item>30</item>
         <item>60</item>
         <item>120</item>
         <item>180</item>
@@ -271,7 +271,7 @@
         <item>zm</item>
         <item>zr</item>
         <item>zw</item>
-		<item>pm</item>
+        <item>pm</item>
     </string-array>
     <string-array name="country_names">
         <item>Andorra</item>
@@ -520,7 +520,7 @@
         <item>Zambia</item>
         <item>Zaire (former)</item>
         <item>Zimbabwe</item>
-		<item>Saint Pierre and Miquelon</item>
+        <item>Saint Pierre and Miquelon</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
         <item>Black</item>
@@ -529,7 +529,7 @@
     <string-array name="notif_temp_color_values" translatable="false">
         <item>0</item>
         <item>1</item>
-    </string-array> 
+    </string-array>
     <string-array name="notif_type_entries">
         <item>Temperature</item>
         <item>Weather icon</item>
@@ -537,7 +537,7 @@
     <string-array name="notif_type_values" translatable="false">
         <item>temperature_symbol</item>
         <item>weather_symbol</item>
-    </string-array>     
+    </string-array>
     <string-array name="widget42_show_entries">
         <item>Update date</item>
         <item>Next alarm</item>
@@ -591,17 +591,17 @@
         <item>main_visib</item>
         <item>main_sunrize</item>
         <item>main_next_alarm</item>
-    </string-array>        
-	<string-array name="widget41_show_entries">
+    </string-array>
+    <string-array name="widget41_show_entries">
         <item>Temperature panel</item>
         <item>Extended data panel</item>
         <item>Time panel</item>
-	</string-array>
-	<string-array name="widget41_show_values" translatable="false">
+    </string-array>
+    <string-array name="widget41_show_values" translatable="false">
         <item>w41_temp</item>
         <item>w41_cond</item>
         <item>w41_time</item>
-	</string-array>     
+    </string-array>
     <string-array name="widget41_data_entries">
         <item>"3-day's forecast data"</item>
         <item>"Today's Forecast data"</item>
@@ -609,7 +609,7 @@
     <string-array name="widget41_data_values" translatable="false">
         <item>w41_3day_forecast</item>
         <item>w41_forecast_data</item>
-    </string-array>   	
+    </string-array>
     <string-array name="pressure_units_entries">
         <item>@string/pressure_units_mb</item>
         <item>@string/pressure_units_mmhg</item>
@@ -617,7 +617,7 @@
     <string-array name="pressure_units_values" translatable="false">
         <item>pressure_units_mb</item>
         <item>pressure_units_mmhg</item>
-    </string-array>   
+    </string-array>
     <string-array name="wind_speed_units_entries">
         <item>@string/wind_speed_units_mps</item>
         <item>@string/wind_speed_units_kmph</item>
@@ -627,7 +627,7 @@
         <item>wind_speed_units_mps</item>
         <item>wind_speed_units_kmph</item>
         <item>wind_speed_units_mph</item>
-    </string-array>  
+    </string-array>
     <string-array name="visibility_units_entries">
         <item>@string/visibility_units_m</item>
         <item>@string/visibility_units_km</item>
@@ -637,7 +637,7 @@
         <item>visibility_units_m</item>
         <item>visibility_units_km</item>
         <item>visibility_units_mi</item>
-    </string-array> 
+    </string-array>
     <string-array name="temperature_units_entries">
         <item>@string/temperature_units_c</item>
         <item>@string/temperature_units_f</item>
@@ -645,7 +645,7 @@
     <string-array name="temperature_units_values" translatable="false">
         <item>temperature_units_c</item>
         <item>temperature_units_f</item>
-    </string-array>      
+    </string-array>
     <string-array name="date_format_entries">
         <item>@string/date_format_mdy</item>
         <item>@string/date_format_dmy</item>
@@ -653,7 +653,7 @@
     <string-array name="date_format_values" translatable="false">
         <item>date_format_mdy</item>
         <item>date_format_dmy</item>
-    </string-array>   
+    </string-array>
     <string-array name="weather_provider_entries">
         <!--item>MSN Weather</item-->
         <item>Foreca</item>
@@ -681,5 +681,5 @@
     <string-array name="moon_phases_values" translatable="false">
         <item>moon_phases_month</item>
         <item>moon_phases_year</item>
-    </string-array>          
+    </string-array>
 </resources>

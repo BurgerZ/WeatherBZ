@@ -66,7 +66,7 @@
     <string name="forecast_flurries">Ελαφρά Χιονόπτωση</string>
     <string name="forecast_fog">Ομίχλη</string>
     <string name="forecast_freezing_drizzle">Παγωμένο Ψιλόβροχο</string>
-	<string name="forecast_freezing_rain">Παγωμένη Βροχή</string>
+    <string name="forecast_freezing_rain">Παγωμένη Βροχή</string>
     <string name="forecast_hail">Χαλάζι</string>
     <string name="forecast_haze">Καταχνιά</string>
     <string name="forecast_heavy_rain">Ισχυρή Βροχόπτωση</string>
@@ -82,7 +82,7 @@
     <string name="forecast_rain">Βροχή</string>
     <string name="forecast_rain_and_snow">Βροχή και Χιόνι</string>
     <string name="forecast_rain_showers">Νεροποντές</string>
-	<string name="forecast_sand">Άμμος</string>
+    <string name="forecast_sand">Άμμος</string>
     <string name="forecast_scattered_showers">Διάσπαρτες Καταιγίδες</string>
     <string name="forecast_scattered_thunderstorms">Διάσπαρτες Καταιγίδες</string>
     <string name="forecast_showers">Καταιγίδες</string>
@@ -90,10 +90,10 @@
     <string name="forecast_smoke">Καπνώδης</string>
     <string name="forecast_snow">Χιόνια</string>
     <string name="forecast_snow_showers">Χιονοπτώσεις</string>
-	<string name="forecast_snow_storm">Θύελλα χιονιού</string>
+    <string name="forecast_snow_storm">Θύελλα χιονιού</string>
     <string name="forecast_sunny">Ηλιοφάνεια</string>
     <string name="forecast_thunderstorm">Καταιγίδα</string>
-    <string name="forecast_windy">Καταιγίδα</string>  
+    <string name="forecast_windy">Καταιγίδα</string>
     <string name="changelog">Αλλαγές</string>
     <string name="just_now">Τώρα</string>
     <string name="loading">Loading\u2026</string>
@@ -219,7 +219,7 @@
     <string name="widget_name_4x1">(4x1)Weather BZ</string>
     <string name="widget_name_4x1_ext">(4x1 ext)Weather BZ</string>
     <string name="widget_name_4x1_v5">(4x1 v5)Weather BZ</string>
-    <string name="widget_text_color_summary">"Χρώμα κειμένου του widget"</string>
+    <string name="widget_text_color_summary">Χρώμα κειμένου του widget</string>
     <string name="wind_e">Α</string>
     <string name="wind_ene">Α-ΒΑ</string>
     <string name="wind_ese">Α-ΝΑ</string>

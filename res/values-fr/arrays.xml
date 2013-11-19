@@ -9,7 +9,7 @@
         <item>13 euros</item>
     </string-array>
     <string-array name="update_interval_names">
-        <item>30 minutes</item> 
+        <item>30 minutes</item>
         <item>1 heure</item>
         <item>2 heures</item>
         <item>3 heures</item>
@@ -263,7 +263,7 @@
         <item>zm</item>
         <item>zr</item>
         <item>zw</item>
-		<item>pm</item>
+        <item>pm</item>
     </string-array>
     <string-array name="country_names">
         <item>Andorra</item>
@@ -512,7 +512,7 @@
         <item>Zambia</item>
         <item>Zaire (former)</item>
         <item>Zimbabwe</item>
-	<item>Saint Pierre and Miquelon</item>
+        <item>Saint Pierre and Miquelon</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
         <item>Noir</item>
@@ -521,9 +521,9 @@
     <string-array name="notif_type_entries">
         <item>Symbole de température</item>
         <item>Icône de la météo actuelle</item>
-    </string-array>   
+    </string-array>
     <string-array name="widget42_show_entries">
-        <item>Date de MAJ</item>
+        <item>Date de MàJ</item>
         <item>Prochaine alarme</item>
         <item>Niveau Batterie</item>
         <item>Ressenti</item>
@@ -532,7 +532,7 @@
         <item>Températures min. et max.</item>
     </string-array>
     <string-array name="widget43_show_entries">
-        <item>Date de MAJ</item>
+        <item>Date de MàJ</item>
         <item>Prochaine alarme</item>
         <item>Niveau Batterie</item>
         <item>Ressenti</item>
@@ -546,14 +546,14 @@
         <item>Humidité</item>
         <item>Pression</item>
         <item>Visibilité</item>
-        <item>Lever et coucher du soleil</item> 
+        <item>Lever et coucher du soleil</item>
         <item>Prochaine alarme</item>
     </string-array>
-	<string-array name="widget41_show_entries">
+    <string-array name="widget41_show_entries">
         <item>Température</item>
         <item>Prévisions météorologiques</item>
         <item>Heure</item>
-	</string-array>
+    </string-array>
     <string-array name="widget41_data_entries">
         <item>"Prévisions à 3 jours"</item>
         <item>"Météo du jour"</item>
