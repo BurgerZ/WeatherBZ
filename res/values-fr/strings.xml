@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="about_author">"Auteur :"</string>
+	<string name="about_author">Auteur :</string>
 	<string name="about_blizzard">Tempête de neige</string>
 	<string name="about_cloudy">Nuageux</string>
 	<string name="about_dust">Tempête de poussière</string>
 	<string name="about_fog">Brouillard</string>
 	<string name="about_for_translators_text">Si vous souhaitez traduire cette application, rendez-vous sur GitHub (lien ci-dessus) !</string>
-	<string name="about_for_translators">"Traductions :"</string>
+	<string name="about_for_translators">Traductions :</string>
 	<string name="about_hailstone">Grêle</string>
 	<string name="about_haze">Brume</string>
 	<string name="about_heavy_snow">Grosse chute de neige</string>
@@ -20,10 +20,10 @@
 	<string name="about_rain_drizzle">Averse</string>
 	<string name="about_sleet">Grésil</string>
 	<string name="about_snow_showers">Averses de neige</string>
-	<string name="about_social">"Liens sociaux :"</string>
+	<string name="about_social">Liens sociaux :</string>
 	<string name="about_sunny">Ciel dégagé</string>
 	<string name="about_t_storms">Orage</string>
-	<string name="about_version">"Version :"</string>
+	<string name="about_version">Version :</string>
 	<string name="action_bar_selected_format">Sélectionné : %d</string>
 	<string name="app_name">Météo</string>
 	<string name="applying_theme">Application du thème\u2026</string>
@@ -44,7 +44,7 @@
 	<string name="dialog_color_picker">Choix de la couleur</string>
 	<string name="donate">Faire un don</string>
 	<string name="donations_button_close">Fermer</string>
-	<string name="donations_description">Vous trouvez cette application utile ?\nVous pouvez supporter son développement sur Flattr ou en envoyant des dons via l\'Android Market.</string>
+	<string name="donations_description">Vous trouvez cette application utile ?\nVous pouvez supporter son développement sur Flattr ou en envoyant des dons via le Google Play Store .</string>
 	<string name="donations_flattr">Flattr</string>
 	<string name="donations_flattr_description">Flattr prend 10% de frais mensuels !</string>
 	<string name="donations_google_android_market">Google Play Store</string>
@@ -136,12 +136,12 @@
 	<string name="moon_current_view">Mode de vue : %s</string>
 	<string name="moon_illuminated">Illuminée à</string>
 	<string name="moon_since">Depuis le</string>
-	<string name="network_error">Impossible de se connecter au serveur</string>
+	<string name="network_error">Impossible de se connecter au serveur\nVérifiez vos paramètres réseau</string>
 	<string name="network_in_quiet_hours">Vous êtes en heures de repos. Mises à jour annulées.</string>
 	<string name="network_in_roaming">Vous avez des paramètres pour désactiver les mises à jour en itinérance.</string>
 	<string name="network_wifi_only">Mises à jour uniquement via Wi-Fi.</string>
 	<string name="new_version">Nouvelle version</string>
-	<string name="no_provider">La géolocalisation a échoué, veuillez entrer manuellement votre position.</string>
+	<string name="no_provider">La géolocalisation a échoué\nVeuillez entrer manuellement votre position.</string>
 	<string name="no_weather_provider">Fournisseur de météo MIUI non trouvé.</string>
 	<string name="not_now">Pas maintenant</string>
 	<string name="ok">OK</string>
@@ -248,7 +248,7 @@
 	<string name="theme_import_no_filemanager">Veuillez installer un gestionnaire de fichiers.</string>
 	<string name="theme_import_not_theme">"Ce n'est pas un fichier de thème!"</string>
 	<string name="theme_version">"Version : "</string>
-	<string name="themes_temperature_icons">Icônes temperature</string>
+	<string name="themes_temperature_icons">Icônes température</string>
 	<string name="themes_weather_animation">Animations météo</string>
 	<string name="themes_weather_icons">Icônes météo</string>
 	<string name="updating">Mise à jour…</string>

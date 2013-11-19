@@ -67,12 +67,12 @@ Lo apprezzo molto!"</string>
     <string name="settings_update_autoupdate_title">Aggiorna in automatico</string>
     <string name="settings_update_autoupdate_summary">Aggiorna automaticamente i dati meteo</string>
     <string name="settings_about_title">Info</string>
-    <string name="no_provider">Localizzazione fallita - Scegli la località manualmente</string>
+    <string name="no_provider">Localizzazione fallita\nScegli la località manualmente</string>
     <string name="network_error">Impossibile connettersi al server</string>
     <string name="updating">Aggiornamento…</string>
     <string name="just_now">Proprio ora</string>
     <string name="fetching_location">Localizzazione…</string>
-	<string name="forecast_chance_of_rain">Possibile pioggia</string>
+    <string name="forecast_chance_of_rain">Possibile pioggia</string>
     <string name="forecast_chance_of_showers">Possibili rovesci</string>
     <string name="forecast_chance_of_snow">Possibile neve</string>
     <string name="forecast_chance_of_snow_showers">Possibile nevischio</string>
@@ -86,7 +86,7 @@ Lo apprezzo molto!"</string>
     <string name="forecast_flurries">Raffiche</string>
     <string name="forecast_fog">Nebbia</string>
     <string name="forecast_freezing_drizzle">Brina</string>
-	<string name="forecast_freezing_rain">Pioggia di congelamento</string>
+    <string name="forecast_freezing_rain">Pioggia di congelamento</string>
     <string name="forecast_hail">Grandine</string>
     <string name="forecast_haze">Foschìa</string>
     <string name="forecast_heavy_rain">Forte pioggia</string>
@@ -102,7 +102,7 @@ Lo apprezzo molto!"</string>
     <string name="forecast_rain">Pioggia</string>
     <string name="forecast_rain_and_snow">Pioggia e neve</string>
     <string name="forecast_rain_showers">Pioggia</string>
-	<string name="forecast_sand">Sabbia</string>
+    <string name="forecast_sand">Sabbia</string>
     <string name="forecast_scattered_showers">Rovesci diffusi</string>
     <string name="forecast_scattered_thunderstorms">Temporali diffusi</string>
     <string name="forecast_showers">Rovesci</string>
@@ -110,10 +110,10 @@ Lo apprezzo molto!"</string>
     <string name="forecast_smoke">Nebbia</string>
     <string name="forecast_snow">Neve</string>
     <string name="forecast_snow_showers">Nevischio</string>
-	<string name="forecast_snow_storm">Tempesta di neve</string>
+    <string name="forecast_snow_storm">Tempesta di neve</string>
     <string name="forecast_sunny">Soleggiato</string>
     <string name="forecast_thunderstorm">Temporale</string>
-    <string name="forecast_windy">Temporale</string>   
+    <string name="forecast_windy">Temporale</string>
     <string name="settings_category_notification">Notifiche</string>
     <string name="settings_category_notification_sum">"Regola le notifiche meteo nell'area di notifica di sistema"</string>
     <string name="settings_category_network">Impostazioni di Rete</string>

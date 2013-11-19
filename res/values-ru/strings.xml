@@ -41,7 +41,7 @@
     <string name="dialog_color_picker">Выбор цвета</string>
     <string name="donate">Пожертвование</string>
     <string name="donations_button_close">Закрыть</string>
-    <string name="donations_description">"Считаете ли вы приложение полезным? Поддержите разработчика через flattr или отправьте пожертвование через Google Play Store!"</string>
+    <string name="donations_description">Считаете ли вы приложение полезным?\nПоддержите разработчика через flattr или отправьте пожертвование через Google Play Store!</string>
     <string name="donations_flattr">Flattr</string>
     <string name="donations_flattr_description">Flattr взимает 10% в виде ежемесячной абонентской платы!</string>
     <string name="donations_google_android_market">Google Play Store</string>

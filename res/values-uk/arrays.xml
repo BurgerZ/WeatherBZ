@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string-array name="donations_google_android_market_promt_array">
-  		<item>1 Євро</item> 
-  		<item>2 Євро</item> 
-  		<item>3 Євро</item> 
-  		<item>5 Євро</item> 
-  		<item>8 Євро</item> 
-  		<item>13 Євро</item> 
-  	</string-array>
+        <item>1 Євро</item>
+        <item>2 Євро</item>
+        <item>3 Євро</item>
+        <item>5 Євро</item>
+        <item>8 Євро</item>
+        <item>13 Євро</item>
+    </string-array>
     <string-array name="update_interval_names">
         <item>30 хвилин</item>
         <item>1 година</item>
@@ -247,7 +247,7 @@
         <item>za</item>
         <item>zm</item>
         <item>zw</item>
-		<item>pm</item>
+        <item>pm</item>
     </string-array>
     <string-array name="country_names">
         <item>Андорра</item>
@@ -480,7 +480,7 @@
         <item>Південна Африка</item>
         <item>Замбія</item>
         <item>Зимбабве</item>
-		<item>Сент-Пьер і Мікелон</item>
+        <item>Сент-Пьер і Мікелон</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
         <item>Чорний</item>
@@ -489,7 +489,7 @@
     <string-array name="notif_type_entries">
         <item>Температура</item>
         <item>Іконка погоди</item>
-    </string-array>    
+    </string-array>
     <string-array name="widget42_show_entries">
         <item>Час оновлення</item>
         <item>Будильник</item>
@@ -516,18 +516,18 @@
         <item>Видимість</item>
         <item>Схід та захід</item>
         <item>Будильник</item>
-    </string-array>   
+    </string-array>
     <string-array name="widget41_show_entries">
         <item>Панель температур</item>
         <item>Панель додаткових даних</item>
         <item>Панель годинника</item>
-	</string-array>
+    </string-array>
     <string-array name="widget41_data_entries">
         <item>Прогноз на 3 дні</item>
         <item>Поточні дані</item>
-    </string-array>	
+    </string-array>
     <string-array name="moon_phases_entries">
         <item>Місяць</item>
         <item>Рік</item>
-    </string-array>  
+    </string-array>
 </resources>

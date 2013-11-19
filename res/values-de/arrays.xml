@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string-array name="donations_google_android_market_promt_array">
-  		<item>1 Euro</item> 
-  		<item>2 Euro</item> 
-  		<item>3 Euro</item> 
-  		<item>5 Euro</item> 
-  		<item>8 Euro</item> 
-  		<item>13 Euro</item> 
-  	</string-array>    
+        <item>1 Euro</item>
+        <item>2 Euro</item>
+        <item>3 Euro</item>
+        <item>5 Euro</item>
+        <item>8 Euro</item>
+        <item>13 Euro</item>
+    </string-array>
     <string-array name="update_interval_names">
-        <item>30 Minuten</item> 
+        <item>30 Minuten</item>
         <item>1 Stunde</item>
         <item>2 Stunden</item>
         <item>3 Stunden</item>
@@ -263,7 +263,7 @@
         <item>zm</item>
         <item>zr</item>
         <item>zw</item>
-		<item>pm</item>
+        <item>pm</item>
     </string-array>
     <string-array name="country_names">
         <item>Andorra</item>
@@ -521,7 +521,7 @@
     <string-array name="notif_type_entries">
         <item>Temperatur</item>
         <item>Wettersymbol</item>
-    </string-array>  
+    </string-array>
     <string-array name="widget42_show_entries">
         <item>Zeit</item>
         <item>Datum</item>
@@ -529,7 +529,7 @@
         <item>Wetterbeschreibung</item>
         <item>Gefühlt</item>
         <item>Wind</item>
-    </string-array> 
+    </string-array>
     <string-array name="main_show_entries">
         <item>Gefühlt</item>
         <item>Wind</item>
@@ -538,16 +538,16 @@
         <item>Sichtweite</item>
         <item>Sonnenauf- und -untergang</item>
         <item>Nächster Alarm</item>
-    </string-array>     
-	<string-array name="widget41_show_entries">
+    </string-array>
+    <string-array name="widget41_show_entries">
         <item>Temperaturanzeige</item>
         <item>Erweiterte Datenanzeige</item>
         <item>Zeitanzeige</item>
-	</string-array> 
+    </string-array>
     <string-array name="widget41_data_entries">
         <item>"3-Tage-Vorhersage"</item>
         <item>"Aktuelle Vorhersage"</item>
-    </string-array>  	
+    </string-array>
     <string-array name="moon_phases_entries">
         <item>Aktuelles Monat</item>
         <item>Aktuelles Jahr</item>
@@ -555,5 +555,5 @@
     <string-array name="moon_phases_values" translatable="false">
         <item>moon_phases_month</item>
         <item>moon_phases_year</item>
-    </string-array>          
+    </string-array>
 </resources>
