@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string-array name="donations_google_android_market_promt_array">
-          <item>1 Ευρώ</item>
-          <item>2 Ευρώ</item>
-          <item>3 Ευρώ</item>
-          <item>5 Ευρώ</item>
-          <item>8 Ευρώ</item>
-          <item>13 Ευρώ</item>
-      </string-array>
+        <item>1 Ευρώ</item>
+        <item>2 Ευρώ</item>
+        <item>3 Ευρώ</item>
+        <item>5 Ευρώ</item>
+        <item>8 Ευρώ</item>
+        <item>13 Ευρώ</item>
+    </string-array>
     <string-array name="update_interval_names">
         <item>30 λεπτά</item>
         <item>1 ώρα</item>
