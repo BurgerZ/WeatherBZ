@@ -274,7 +274,7 @@
     <string name="widget_name_4x1">Tiempo BZ (4x1)</string>
     <string name="widget_name_4x1_ext">Tiempo BZ (4x1 Ext)</string>
     <string name="widget_name_4x1_v5">Tiempo BZ (4x1 v5)</string>
-    <string name="widget_text_color_summary">"Color del texto del widget"</string>
+    <string name="widget_text_color_summary">Color del texto del widget</string>
     <string name="wind_e">E</string>
     <string name="wind_ene">E-NE</string>
     <string name="wind_ese">E-SE</string>
