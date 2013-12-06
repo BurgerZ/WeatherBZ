@@ -75,7 +75,7 @@
     <string name="forecast_flurries">Kısa ve şiddetli yağış</string>
     <string name="forecast_fog">Sis</string>
     <string name="forecast_freezing_drizzle">Soğuk ve çiseleme</string>
-    <string name="forecast_freezing_rain">Suğuk ve yağmur</string>
+    <string name="forecast_freezing_rain">Soğuk ve yağmur</string>
     <string name="forecast_haze">Pus</string>
     <string name="forecast_hail">Dolu</string>
     <string name="forecast_hot">Sıcak</string>
@@ -100,7 +100,7 @@
     <string name="forecast_smoke">Dumanlı</string>
     <string name="forecast_snow">Kar</string>
     <string name="forecast_snow_showers">Sağanak kar</string>
-    <string name="forecast_snow_storm">KAr fırtınası</string>
+    <string name="forecast_snow_storm">Kar fırtınası</string>
     <string name="forecast_sunny">Açık</string>
     <string name="forecast_thunderstorm">Fırtına</string>
     <string name="forecast_thunderstorms">Gök gürültülü fırtına</string>
@@ -134,7 +134,7 @@
     <string name="moon_lastquarter">Son dördün</string>
     <string name="moon_waningcrescent">Hilal</string>
     <string name="moon_current_view">Gösterme modu: %s</string>
-    <string name="moon_illuminated">Işıklılık</string>
+    <string name="moon_illuminated">Aydınlılık</string>
     <string name="moon_since">Beri</string>
     <string name="network_error">Sunucuya bağlanılamadı.\nAğ ayarlarını kontrol edin.</string>
     <string name="new_version">Yeni Sürüm</string>
