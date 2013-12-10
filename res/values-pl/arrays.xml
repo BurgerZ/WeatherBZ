@@ -280,6 +280,16 @@
         <item>Warunki pogodowe</item>
         <item>Temperatura odczuwalna</item>
         <item>Wiatr</item>
+        <item>Zakresy temperatur</item>
+    </string-array>
+    <string-array name="widget43_show_entries">
+        <item>Data aktualizacji</item>
+        <item>Następny alarm</item>
+        <item>Poziom naładowania</item>
+        <item>Temperatura odczuwalna</item>
+        <item>Wiatr</item>
+        <item>Wilgotność</item>
+        <item>Zakresy temperatur</item>
     </string-array>
     <string-array name="main_show_entries">
         <item>Odczuwalna</item>
@@ -301,7 +311,11 @@
     </string-array>
     <string-array name="weather_provider_entries">
         <item>Foreca</item>
-        <item>Wunderground</item>
+        <item>Weather Underground</item>
+        <item>Accuweather</item>
+    </string-array>
+    <string-array name="citydb_provider_entries">
+        <item>Foreca</item>
         <item>Accuweather</item>
     </string-array>
     <string-array name="moon_phases_entries">
