@@ -189,7 +189,7 @@
     <string name="settings_update_roaming_summary">Dolaşımda iken tahminler güncellenir</string>
     <string name="settings_update_roaming_title">Dolaşımda iken güncelle</string>
     <string name="settings_update_wake_title">Cihaz uyanınca</string>
-    <string name="settings_update_wifi_only_summary">Sadece, Wi-Fi bağlandığında tahminleri ootomatik olarak günceller</string>
+    <string name="settings_update_wifi_only_summary">Sadece, Wi-Fi bağlandığında tahminleri otomatik olarak günceller</string>
     <string name="settings_update_wifi_only_title">Sadece Wi-Fi ile güncelle</string>
     <string name="settings_weather_provider">Hava durumu bilgi kaynağı</string>
     <string name="settings_widgets_click_clock_summary">Saate tıklayınca açılacak uygulamayı seçin</string>
@@ -223,7 +223,7 @@
     <string name="settings_widgets_widget4x2_wind_font_title">Rüzgar</string>
     <string name="share">Paylaş</string>
     <string name="share_content">\#WeatherBZ#</string>
-    <string name="share_weather_content">"\#WeatherBZ# Today %1$s's weather is %2$s, %3$s, %4$s. Updated %5$s."</string>
+    <string name="share_weather_content">"\#WeatherBZ# Bugün %1$s  hava  %2$s, %3$s, %4$s. güncellendi %5$s."</string>
     <string name="share_weather_title">Tahmin bilgilerini paylaş</string>
     <string name="save_screen_shot_failed">Ekran görüntüsü kaydedilemedi</string>
     <string name="start_time_title">Başlat</string>
