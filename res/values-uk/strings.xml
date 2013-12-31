@@ -35,7 +35,7 @@
     <string name="clear_miui_data">Очищення бази MIUI</string>
     <string name="clear_miui_data_dialog">Очищення бази MIUI</string>
     <string name="clear_miui_data_dialog_ask">Очистити базу данных MIUI Weather Provider?</string>
-    <string name="clear_miui_data_dialog_text">Очищення бази даних погоди MIUI завершена!</string>
+    <string name="clear_miui_data_dialog_text">Очищення бази даних погоди MIUI завершено!</string>
     <string name="clear_miui_data_summary">Очищає базу даних WeatherProvider</string>
     <string name="close">Закрити</string>
     <string name="date_format_title">Формат дати</string>
@@ -45,7 +45,7 @@
     <string name="donations_description">Чи вважаєте ви додаток корисним?\nПідтримайте розробника через flattr, або відправте пожертву через Google Play Store!</string>
     <string name="donations_flattr_description">Flattr вираховує 10% в вигляді щомісячної абонплати!</string>
     <string name="donations_flattr">Flattr</string>
-    <string name="donations_google_android_market_description">Google вираховує 30% с кажної пожертви!</string>
+    <string name="donations_google_android_market_description">Google вираховує 30% с кожної пожертви!</string>
     <string name="donations_google_android_market_donate_button">Пожертвувати!</string>
     <string name="donations_google_android_market">Google Play Store</string>
     <string name="donations_google_android_market_not_supported">Пожертви через додаток не підтримуються. Google Play Store встановлений правильно?</string>
@@ -56,7 +56,7 @@
     <string name="donations_thanks_dialog">Щиро дякую за пожертву! Я дуже це ціню!</string>
     <string name="donations_thanks_dialog_title">Щиро дякую!</string>
     <string name="donations_yandex">Яндекс.Гроші</string>
-    <string name="end_time_title">Кінец</string>
+    <string name="end_time_title">Кінець</string>
     <string name="fetching_location">Визначення розташування\u2026</string>
     <string name="forecast_chance_of_rain">Можливий дощ</string>
     <string name="forecast_chance_of_showers">Можлива злива</string>
@@ -135,7 +135,7 @@
     <string name="network_error">Немає з\'єднання з сервером</string>
     <string name="network_in_quiet_hours">Активований режим Тихих годин. Оновлення відхилено.</string>
     <string name="network_in_roaming">Включена заборона оновлення в роумінгу.</string>
-    <string name="network_wifi_only">Обновлення налаштовано тільки через Wi-fi.</string>
+    <string name="network_wifi_only">Оновлення налаштовано тільки через Wi-fi.</string>
     <string name="new_version">Нова версія</string>
     <string name="no_provider">Похибка визначення розташування\nВиберіть розташування вручну</string>
     <string name="not_now">Не зараз</string>
@@ -240,7 +240,7 @@
     <string name="text_color_title">Колір тексту</string>
     <string name="theme_author">"Автор: "</string>
     <string name="theme_date">"Дата: "</string>
-    <string name="theme_import_dialog_title">Вибериіть тему</string>
+    <string name="theme_import_dialog_title">Виберіть тему</string>
     <string name="theme_import_no_filemanager">Файловий менеджер не знайдено.</string>
     <string name="theme_import_not_theme">Файл не є файлом тем!</string>
     <string name="themes_temperature_icons">Іконки температури</string>
