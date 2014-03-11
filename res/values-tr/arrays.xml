@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<resources>
     <string-array name="donations_google_android_market_promt_array">
         <item>1 Euro</item>
         <item>2 Euro</item>
@@ -9,22 +9,22 @@
         <item>13 Euro</item>
     </string-array>
     <string-array name="update_interval_names">
-        <item>30 Dakika</item>
+        <item>30 dakika</item>
         <item>1 saat</item>
         <item>2 saat</item>
         <item>3 saat</item>
         <item>4 saat</item>
         <item>6 saat</item>
     </string-array>
-    <string-array name="update_interval_values" translatable="false">
+    <string-array name="update_interval_values">
         <item>30</item>
         <item>60</item>
         <item>120</item>
         <item>180</item>
         <item>240</item>
         <item>360</item>
-     </string-array>
-     <string-array name="country_codes" translatable="false">
+    </string-array>
+    <string-array name="country_codes">
         <item>ad</item>
         <item>ae</item>
         <item>af</item>
@@ -492,7 +492,7 @@
         <item>Tunisia</item>
         <item>Tonga</item>
         <item>East Timor</item>
-        <item>Turkey</item>
+        <item>Türkiye</item>
         <item>Trinidad and Tobago</item>
         <item>Tuvalu</item>
         <item>Taiwan</item>
@@ -526,64 +526,44 @@
         <item>Siyah</item>
         <item>Beyaz</item>
     </string-array>
-    <string-array name="notif_temp_color_values" translatable="false">
+    <string-array name="notif_temp_color_values">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="notif_type_entries">
         <item>Sıcaklık</item>
-        <item>Hava durumu simgesi</item>
+        <item>Havadurumu Simgesi</item>
     </string-array>
-    <string-array name="notif_type_values" translatable="false">
+    <string-array name="notif_type_values">
         <item>temperature_symbol</item>
         <item>weather_symbol</item>
     </string-array>
     <string-array name="widget42_show_entries">
-        <item>Güncelleme Zamanı</item>
-        <item>Sonraki alarm</item>
-        <item>Pil seviyesi</item>
+        <item>Saat</item>
+        <item>Tarih</item>
+        <item>Şehir</item>
+        <item>Havadurumu açıklaması</item>
         <item>Hissedilen</item>
         <item>Rüzgar</item>
-        <item>Nem</item>
-        <item>Alçak ve Yüksek sıcaklıklar</item>
     </string-array>
-    <string-array name="widget42_show_values" translatable="false">
-        <item>w42_update_date</item>
-        <item>w42_alarm</item>
-        <item>w42_battery</item>
-        <item>w42_feels_like</item>
+    <string-array name="widget42_show_values">
+        <item>w42_clock</item>
+        <item>w42_date</item>
+        <item>w42_city</item>
+        <item>w42_desc</item>
+        <item>w42_feel</item>
         <item>w42_wind</item>
-        <item>w42_humidity</item>
-        <item>w42_low_high</item>
-    </string-array>
-   <string-array name="widget43_show_entries">
-        <item>Güncelleme Zamanı</item>
-        <item>Sonraki alarm</item>
-        <item>Pil seviyesi</item>
-        <item>Hissedilen</item>
-        <item>Rüzgar</item>
-        <item>Nem</item>
-        <item>Alçak ve Yüksek sıcaklıklar</item>
-    </string-array>
-    <string-array name="widget43_show_values" translatable="false">
-        <item>w43_update_date</item>
-        <item>w43_alarm</item>
-        <item>w43_battery</item>
-        <item>w43_feels_like</item>
-        <item>w43_wind</item>
-        <item>w43_humidity</item>
-        <item>w43_low_high</item>
     </string-array>
     <string-array name="main_show_entries">
         <item>Hissedilen</item>
         <item>Rüzgar</item>
         <item>Nem</item>
         <item>Basınç</item>
-        <item>Görüş mesafesi</item>
+        <item>Sis</item>
         <item>Gündoğumu ve günbatımı</item>
-        <item>Sonraki alarm</item>
+        <item>Sonraki Alarm</item>
     </string-array>
-    <string-array name="main_show_values" translatable="false">
+    <string-array name="main_show_values">
         <item>main_feel</item>
         <item>main_wind</item>
         <item>main_humid</item>
@@ -593,20 +573,20 @@
         <item>main_next_alarm</item>
     </string-array>
     <string-array name="widget41_show_entries">
-        <item>Sıcaklık paneli</item>
-        <item>Kapsamli bilgi paneli</item>
-        <item>Zaman paneli</item>
+        <item>Sıçaklık paneli</item>
+        <item>Kapsamlı bilgi paneli</item>
+        <item>Saat paneli</item>
     </string-array>
-    <string-array name="widget41_show_values" translatable="false">
+    <string-array name="widget41_show_values">
         <item>w41_temp</item>
         <item>w41_cond</item>
         <item>w41_time</item>
     </string-array>
     <string-array name="widget41_data_entries">
-        <item>"3-günlük tahmin verileri"</item>
-        <item>"Bugünkü tahmin verileri"</item>
+        <item>"3 günlük hava tahmini"</item>
+        <item>"Bugünün hava tahmini"</item>
     </string-array>
-     <string-array name="widget41_data_values" translatable="false">
+    <string-array name="widget41_data_values">
         <item>w41_3day_forecast</item>
         <item>w41_forecast_data</item>
     </string-array>
@@ -614,7 +594,7 @@
         <item>@string/pressure_units_mb</item>
         <item>@string/pressure_units_mmhg</item>
     </string-array>
-    <string-array name="pressure_units_values" translatable="false">
+    <string-array name="pressure_units_values">
         <item>pressure_units_mb</item>
         <item>pressure_units_mmhg</item>
     </string-array>
@@ -623,7 +603,7 @@
         <item>@string/wind_speed_units_kmph</item>
         <item>@string/wind_speed_units_mph</item>
     </string-array>
-    <string-array name="wind_speed_units_values" translatable="false">
+    <string-array name="wind_speed_units_values">
         <item>wind_speed_units_mps</item>
         <item>wind_speed_units_kmph</item>
         <item>wind_speed_units_mph</item>
@@ -633,7 +613,7 @@
         <item>@string/visibility_units_km</item>
         <item>@string/visibility_units_mi</item>
     </string-array>
-    <string-array name="visibility_units_values" translatable="false">
+    <string-array name="visibility_units_values">
         <item>visibility_units_m</item>
         <item>visibility_units_km</item>
         <item>visibility_units_mi</item>
@@ -642,44 +622,42 @@
         <item>@string/temperature_units_c</item>
         <item>@string/temperature_units_f</item>
     </string-array>
-    <string-array name="temperature_units_values" translatable="false">
+    <string-array name="temperature_units_values">
         <item>temperature_units_c</item>
         <item>temperature_units_f</item>
+    </string-array>
+    <string-array name="animation_type_entries">
+        <item>Varsayılan</item>
+        <item>MIUI video</item>
+    </string-array>
+    <string-array name="animation_type_values">
+        <item>animation_default</item>
+        <item>animation_miui</item>
     </string-array>
     <string-array name="date_format_entries">
         <item>@string/date_format_mdy</item>
         <item>@string/date_format_dmy</item>
     </string-array>
-    <string-array name="date_format_values" translatable="false">
+    <string-array name="date_format_values">
         <item>date_format_mdy</item>
         <item>date_format_dmy</item>
-    </string-array>    
+    </string-array>
     <string-array name="weather_provider_entries">
-        <!--item>MSN Weather</item-->
         <item>Foreca</item>
         <item>Weather Underground</item>
         <item>Accuweather</item>
     </string-array>
-    <string-array name="weather_provider_values" translatable="false">
-        <!--item>msn</item-->
-        <item>foreca</item>
-        <item>wunderground</item>
-        <item>accuweather</item>
-    </string-array>
-    <string-array name="citydb_provider_entries">
+    <string-array name="weather_provider_values">
         <item>Foreca</item>
+        <item>Wunderground</item>
         <item>Accuweather</item>
-    </string-array>
-    <string-array name="citydb_provider_values" translatable="false">
-        <item>citydb_foreca</item>
-        <item>citydb_accuweather</item>
     </string-array>
     <string-array name="moon_phases_entries">
         <item>Ay</item>
         <item>Yıl</item>
     </string-array>
-    <string-array name="moon_phases_values" translatable="false">
+    <string-array name="moon_phases_values">
         <item>moon_phases_month</item>
         <item>moon_phases_year</item>
-    </string-array>    
+    </string-array>
 </resources>
