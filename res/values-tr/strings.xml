@@ -200,7 +200,7 @@ Sizi gerçekten takdir ediyorum!"</string>
     <string name="settings_notification_type">Bildirim şekli</string>
     <string name="settings_show_info_summary">Arayüz verilerini göster yada gizle</string>
     <string name="settings_show_info_title">Bilgileri göster</string>
-    <string name="settings_show_weather_icons_summary"Metin açıklamasının yerine havadurumu simgelerini göster (3 günlük tahmin)</string>
+    <string name="settings_show_weather_icons_summary">Metin açıklamasının yerine havadurumu simgelerini göster (3 günlük tahmin)</string>
     <string name="settings_show_weather_icons_title">Havadurumu simgelerini göster</string>
     <string name="settings_time_format_12h">12 Saatlik zaman dilimi</string>
     <string name="settings_update_autoupdate_summary">Havadurumu tahminlerini otomatik güncelle</string>
