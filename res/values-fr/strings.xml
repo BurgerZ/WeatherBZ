@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+ <!-- to be translated :
+	<string name="abc_action_mode_done">Done</string>
+	<string name="abc_action_bar_home_description">Navigate home</string>
+	<string name="abc_action_bar_up_description">Navigate up</string>
+	<string name="abc_action_menu_overflow_description">More options</string>
+	<string name="abc_searchview_description_search">Search</string>
+	<string name="abc_searchview_description_query">Search query</string>
+	<string name="abc_searchview_description_clear">Clear query</string>
+	<string name="abc_searchview_description_submit">Submit query</string>
+	<string name="abc_searchview_description_voice">Voice search</string>
+	<string name="abc_activitychooserview_choose_application">Choose an app</string>
+	<string name="abc_activity_chooser_view_see_all">See all</string>
+	<string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+	<string name="abc_shareactionprovider_share_with">Share with</string>
+	<string name="donations_item_name">WeatherBZ Donation</string>
+ -->
 	<string name="about_author">Auteur :</string>
 	<string name="about_blizzard">Tempête de neige</string>
 	<string name="about_cloudy">Nuageux</string>
@@ -45,17 +61,8 @@
 	<string name="donate">Faire un don</string>
 	<string name="donations_button_close">Fermer</string>
 	<string name="donations_description">Vous trouvez cette application utile ?\nVous pouvez supporter son développement sur Flattr ou en envoyant des dons via le Google Play Store .</string>
-	<string name="donations_flattr">Flattr</string>
-	<string name="donations_flattr_description">Flattr prend 10% de frais mensuels !</string>
-	<string name="donations_google_android_market">Google Play Store</string>
-	<string name="donations_google_android_market_description">Google prend 30% sur chaque don !</string>
-	<string name="donations_google_android_market_donate_button">Faire un don</string>
-	<string name="donations_google_android_market_not_supported_title">Donations In-App non-supportées</string>
-	<string name="donations_google_android_market_not_supported">"Donations In-App non-supportée. L'application Google Play Store est-elle correctement installée ?"</string>
-	<string name="donations_google_android_market_text">Combien ?</string>
 	<string name="donations_paypal">PayPal</string>
 	<string name="donations_paypal_description">Vous pouvez faire un don du montant désiré en cliquant sur le bouton ci-dessous.</string>
-	<string name="donations_paypal_item_name">InApp Donation</string>
 	<string name="donations_thanks_dialog">Merci beaucoup pour votre don !</string>
 	<string name="donations_thanks_dialog_title">Merci !</string>
 	<string name="donations_yandex">Yandex.Money</string>
@@ -181,10 +188,14 @@
 	<string name="settings_miui_v5_title">ROM MIUI v5</string>
 	<string name="settings_moon_phases_title">Phases lunaires</string>
 	<string name="settings_notification_color_title">"Couleur dans la barre d'état"</string>
+	<string name="settings_notification_hourly_view">Prévisions heure par heure</string>
+	<string name="settings_notification_hourly_view_summary">Affiche les prévisions heure par heure en vue étendue</string>
 	<string name="settings_notification_summary">Afficher la météo actuelle dans les notifications</string>
 	<string name="settings_notification_text_color_summary">"Couleur du texte et de l'icône"</string>
 	<string name="settings_notification_title">Activer les notifications</string>
 	<string name="settings_notification_type">Type de notification</string>
+	<string name="settings_notification_statusbar_summary">"Affiche une notification dans la barre d'état"</string>
+	<string name="settings_notification_statusbar_title">"Notification dans la barre d'état"</string>
 	<string name="settings_show_info_summary">Sélectionner les informations à afficher</string>
 	<string name="settings_show_info_title">Informations à afficher</string>
 	<string name="settings_time_format_12h">Heure au format 12h</string>
