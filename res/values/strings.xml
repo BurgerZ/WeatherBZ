@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="donations_item_name">WeatherBZ Donation</string>
     <string name="about_author">Author:</string>
     <string name="about_version">Version:</string>
     <string name="about_sunny">Sunny</string>
@@ -43,21 +57,14 @@
     <string name="dialog_color_picker">Color Picker</string>
     <string name="donate">Donate</string>
     <string name="donations_button_close">Close</string>
-    <string name="donations_description">Do you find this application useful?\nSupport it\'s development by flattring it or sending donations to the developer!</string>
-    <string name="donations_flattr">Flattr</string>
-    <string name="donations_flattr_description">Flattr takes 10 % as a monthly fee!</string>
-    <string name="donations_google_android_market">Google Play Store</string>
-    <string name="donations_google_android_market_description">Google takes 30 % off every donation!</string>
-    <string name="donations_google_android_market_donate_button">Donate!</string>
-    <string name="donations_google_android_market_not_supported">In-App Donations are not supported. Is Google Play Store installed correctly?</string>
-    <string name="donations_google_android_market_not_supported_title">In-App Donations are not supported</string>
-    <string name="donations_google_android_market_text">How much?</string>
+    <string name="donations_description">"Do you find this application useful?
+Support it's development by sending donations to the developer!"</string>
+    <string name="donations_thanks_dialog">"Thanks for donating!
+I really appreciate this!"</string>
+    <string name="donations_thanks_dialog_title">Thanks!</string>
     <string name="donations_paypal">PayPal</string>
     <string name="donations_yandex">Yandex.Money</string>
     <string name="donations_paypal_description">You can choose how much you want to donate after clicking the button!</string>
-    <string name="donations_paypal_item_name">InApp Donation</string>
-    <string name="donations_thanks_dialog">Thanks for donating!\nI really appreciate this!</string>
-    <string name="donations_thanks_dialog_title">Thanks!</string>
     <string name="end_time_title">End</string>
     <string name="fetching_location">Getting your position\u2026</string>
     <string name="forecast_chance_of_rain">Chance of Rain</string>
@@ -181,10 +188,14 @@
     <string name="settings_miui_v5_title">MIUI v5 ROM</string>
     <string name="settings_moon_phases_title">Moon Phases</string>
     <string name="settings_notification_color_title">Statusbar symbol color</string>
+    <string name="settings_notification_hourly_view">Show hourly weather</string>
+    <string name="settings_notification_hourly_view_summary">Show hourly weather in expanded view</string>
     <string name="settings_notification_summary">Show current weather conditions in the notification area</string>
     <string name="settings_notification_text_color_summary">Notification text and icons color</string>
     <string name="settings_notification_title">Show Notification</string>
     <string name="settings_notification_type">Notification type</string>
+    <string name="settings_notification_statusbar_summary">Show Notification in statusbar</string>
+    <string name="settings_notification_statusbar_title">Notification in statusbar</string>
     <string name="settings_show_info_summary">Show or hide interface elements</string>
     <string name="settings_show_info_title">Show info</string>
     <string name="settings_time_format_12h">12h time format</string>
