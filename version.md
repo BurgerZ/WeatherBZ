@@ -1,7 +1,7 @@
-﻿{"versionCode": "40804", 
-"versionName": "4.8.4", 
-"features": "<center><strong>*** v4.8.4 (9 July 2013) ***</strong></center><p>
-* Added Moon Phases<p>
-* Replaced system menu with new one (Menu button)<p>
-* Fixes<p>",
-"target": "https://github.com/BurgerZ/WeatherBZ/raw/master/WeatherBZ_v4.8.4.apk"}
+﻿{"versionCode": "40930", 
+"versionName": "4.9.9 beta 31", 
+"features": "<center><strong>*** v4.9.9 beta 31 (15 April 2014) ***</strong></center><p>
+* Fully reworked app<p>
+* To install this version you need to delete all previous installations<p>
+* Для установки данной версии все предыдущие установки необходимо удалить<p>",
+"target": ""}
