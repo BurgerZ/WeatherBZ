@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="donations_google_android_market_promt_array">
-        <item>1 Евро</item>
-        <item>2 Евро</item>
-        <item>3 Евро</item>
-        <item>5 Евро</item>
-        <item>8 Евро</item>
-        <item>13 Евро</item>
-    </string-array>
+  		<item>1 Евро</item> 
+  		<item>2 Евро</item> 
+  		<item>3 Евро</item> 
+  		<item>5 Евро</item> 
+  		<item>8 Евро</item> 
+  		<item>13 Евро</item> 
+  	</string-array>
     <string-array name="update_interval_names">
         <item>30 минути</item>
         <item>1 час</item>
@@ -247,7 +247,7 @@
         <item>za</item>
         <item>zm</item>
         <item>zw</item>
-        <item>pm</item>
+		<item>pm</item>
     </string-array>
     <string-array name="country_names">
         <item>Андора</item>
@@ -288,7 +288,7 @@
         <item>Централноафриканска Република</item>
         <item>Конго</item>
         <item>Швейцария</item>
-        <item>Кот д'Ивоар</item>
+        <item>Кот д\'Ивоар</item>
         <item>Острови Кук</item>
         <item>Чили</item>
         <item>Камерун</item>
@@ -480,16 +480,16 @@
         <item>ЮАР</item>
         <item>Замбия</item>
         <item>Зимбабве</item>
-        <item>Сен Пиер и Микелон</item>
+		<item>Сен Пиер и Микелон</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
         <item>Черен</item>
         <item>Бял</item>
-    </string-array>
+    </string-array>   
     <string-array name="notif_type_entries">
         <item>Температура</item>
         <item>Икона за времето</item>
-    </string-array>
+    </string-array>    
     <string-array name="widget42_show_entries">
         <item>Последна актуализация</item>
         <item>Следваща аларма</item>
@@ -516,18 +516,18 @@
         <item>Видимост</item>
         <item>Изгрев и залез</item>
         <item>Следваща аларма</item>
-    </string-array>
-    <string-array name="widget41_show_entries">
+    </string-array>   
+	<string-array name="widget41_show_entries">
         <item>Панел температура</item>
         <item>Панел допълнителни данни</item>
         <item>Панел часовник</item>
-    </string-array>
+	</string-array>
     <string-array name="widget41_data_entries">
         <item>Тридневна прогноза</item>
         <item>Текущи данни</item>
-    </string-array>
+    </string-array>	
     <string-array name="moon_phases_entries">
         <item>Месец</item>
         <item>Година</item>
-    </string-array>
+    </string-array>  
 </resources>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ga_trackingId">UA-38673998-1</string>
-    <string name="donations_paypal_user">az.burgerz@gmail.com</string>
-    <string name="donations_paypal_currency_code">USD</string>
-    <string name="donations__paypal_item_name">Bağış</string>
     <string name="about_author">Geliştirici:</string>
     <string name="about_blizzard">Tipi</string>
     <string name="about_cloudy">Bulutlu</string>
@@ -65,7 +61,6 @@
     <string name="donations_paypal">PayPal</string>
     <string name="donations_yandex">Yandex.Money</string>
     <string name="donations_paypal_description">Ne kadar bağış yapacağınızı düğmeye tıkladıktan sonra seçebilirsiniz!</string>
-    <string name="donations_paypal_item_name">Uygulama içi bağış</string>
     <string name="donations_thanks_dialog">"Bağış için teşekkürler!
 Sizi gerçekten takdir ediyorum!"</string>
     <string name="donations_thanks_dialog_title">Teşekkürler!</string>

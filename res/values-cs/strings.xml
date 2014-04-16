@@ -6,11 +6,11 @@
     <string name="about_dust">Prach</string>
     <string name="about_fog">Mlha</string>
     <string name="about_for_translators">Pro překladatele:</string>
-    <string name="about_for_translators_text">Pokud chcete pomoci s překladem této aplikace do Vašeho jazyka, náš github repo najdete po stisknutí ikony Githubu.</string>
+    <string name="about_for_translators_text">Pokud chcete pomoci s překladem této aplikace do Vašeho jazyka, náš github repo najdete po stisknutí ikony Githubu.</string>              
     <string name="about_hailstone">Kroupy</string>
     <string name="about_haze">Mlha</string>
     <string name="about_heavy_rain">Průtrž</string>
-    <string name="about_heavy_snow">Těžký sníh</string>
+    <string name="about_heavy_snow">Těžký sníh</string> 
     <string name="about_light_rain">Mrholení</string>
     <string name="about_light_snow">Jemný sníh</string>
     <string name="about_moderate_rain">Mírný déšť</string>
@@ -44,7 +44,7 @@
     <string name="dialog_color_picker">Výběr barvy</string>
     <string name="donate">Příspěvek</string>
     <string name="donations_button_close">Zavřít</string>
-    <string name="donations_description">Je pro Vás tato aplikace užitečná?\nPodpořte nás malým příspěvkem!</string>
+    <string name="donations_description">"Je pro Vás tato aplikace užitečná? Podpořte nás malým příspěvkem!"</string>
     <string name="donations_flattr">Flattr</string>
     <string name="donations_flattr_description">Flattr vezme 10 % jako měsíční poplatek!</string>
     <string name="donations_google_android_market">Obchod Google Play</string>
@@ -53,10 +53,10 @@
     <string name="donations_google_android_market_not_supported">In-App příspěvky nejsou podporovány. Je Google Play nainstalovaný správně?</string>
     <string name="donations_google_android_market_not_supported_title">In-App příspěvky nejsou podporovány</string>
     <string name="donations_google_android_market_text">Kolik?</string>
-    <string name="donations_paypal">PayPal</string>
+    <string name="donations_paypal">PayPal</string> 
     <string name="donations_paypal_description">Můžete si zvolit výšku příspěvku!</string>
-    <string name="donations_paypal_item_name">In-App Příspěvek</string>
-    <string name="donations_thanks_dialog">Děkujeme za příspěvek! Jsme Vám velmi vděční!</string>
+    <string name="donations_paypal_item_name">In-App Příspěvek</string> 
+    <string name="donations_thanks_dialog">"Děkujeme za příspěvek! Jsme Vám velmi vděční!"</string>
     <string name="donations_thanks_dialog_title">Děkujeme!</string>
     <string name="donations_yandex">Yandex.Money</string>
     <string name="end_time_title">Konec</string>
@@ -102,7 +102,6 @@
     <string name="forecast_snow">Sníh</string>
     <string name="forecast_snow_showers">Sněhové přeháňky</string>
     <string name="forecast_snow_storm">Sněhová bouře</string>
-    <string name="forecast_snow_storm">Sněhová bouře</string>
     <string name="forecast_sunny">Slunečno</string>
     <string name="forecast_thunderstorm">Bouřka</string>
     <string name="forecast_tornado">Tornádo</string>
@@ -110,7 +109,7 @@
     <string name="just_now">Právě teď</string>
     <string name="loading">Načítání...</string>
     <string name="location_edit">Vložte název Města</string>
-    <string name="location_gps">Současná poloha</string>
+    <string name="location_gps">Současná poloha</string>    
     <string name="location_list">Města</string>
     <string name="location_search">Vyhledat Město</string>
     <string name="main_screen_text_color_summary">Barva textu na hlavní obrazovce</string>
@@ -140,10 +139,10 @@
     <string name="network_in_quiet_hours">Během času ticha jsou aktualizace pozastaveny.</string>
     <string name="network_in_roaming">Během roamingu jsou aktualizace pozastaveny.</string>
     <string name="network_wifi_only">Aktualizovat jen na Wi-Fi.</string>
-    <string name="new_version">Nová verze</string>
-    <string name="no_provider">Určení polohy selhalo. Zvolte město manuálně</string>
+    <string name="new_version">Nová verze</string> 
+    <string name="no_provider">"Určení polohy selhalo. Zvolte město manuálně"</string> 
     <string name="no_weather_provider">Žádný zdroj předpovědi</string>
-    <string name="not_now">Později</string>
+    <string name="not_now">Později</string> 
     <string name="ok">OK</string>
     <string name="press_color_to_apply">Zvolte barvu</string>
     <string name="pressure_units">Jednotka tlaku</string>
@@ -274,7 +273,7 @@
     <string name="widget_name_4x2">Počasí BZ 4x2</string>
     <string name="widget_name_4x2_v5">Počasí BZ 4x2</string>
     <string name="widget_name_4x3">(4x3)Weather BZ</string>
-    <string name="widget_text_color_summary">barva textu widgetu</string>
+    <string name="widget_text_color_summary">"barva textu widgetu"</string>
     <string name="wind_e">V</string>
     <string name="wind_ene">V-SV</string>
     <string name="wind_ese">V-JV</string>
