@@ -113,7 +113,7 @@ Sizi gerçekten takdir ediyorum!"</string>
     <string name="foreca_partly_cloudy_snow">Kar Yağışı</string>
     <string name="foreca_partly_cloudy_snow_showers">Sağanak Kar Yağışı</string>
     <string name="foreca_partly_cloudy_wet_snow">Sulu Kar Yağışı</string>
-    <string name="foreca_partly_cloudy_wet_snow_showers">Sağanak Kar Yağışı/string>
+    <string name="foreca_partly_cloudy_wet_snow_showers">Sağanak Kar Yağışı</string>
     <string name="changelog">Sürüm Notları</string>
     <string name="just_now">Az önce</string>
     <string name="loading">Yükleniyor…</string>
@@ -264,11 +264,9 @@ Sizi gerçekten takdir ediyorum!"</string>
     <string name="weather_cond_sunny">Güneşli</string>
     <string name="weather_cond_t_storms">Gök gürültülü fırtına</string>
     <string name="weather_feel">"Hissedilen: "</string>
-    <string name="weather_forecast_empty">--</string>
     <string name="weather_humidity">"Nem: "</string>
     <string name="weather_no_city">Şehir yok</string>
     <string name="weather_no_conditions_data">Havadurumu verisi yok</string>
-    <string name="weather_no_temp_data">-°</string>
     <string name="weather_pressure">"Basınç: "</string>
     <string name="weather_sunrize">"Gündoğumu: "</string>
     <string name="weather_sunset">"Günbatımı: "</string>
