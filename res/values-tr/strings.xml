@@ -126,7 +126,7 @@ Sizi gerçekten takdir ediyorum!"</string>
     <string name="menu_hourly">Saatlik</string>
     <string name="menu_indices">Yaşam Stili</string>
     <string name="menu_locations">Konumlar</string>
-    <string name="menu_moon_phases">Ay'ın Evreleri</string>
+    <string name="menu_moon_phases">"Ay'ın Evreleri"</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_trend">Grafik</string>
     <string name="menu_update">Güncelle</string>
@@ -169,7 +169,7 @@ Sizi gerçekten takdir ediyorum!"</string>
     <string name="settings_category_appearance">Genel</string>
     <string name="settings_category_appearance_sum">Birimler, yazı rengi vs.</string>
     <string name="settings_category_forecast_update">Tahminleri güncelle</string>
-    <string name="settings_category_miui">MIUI ROM'lar</string>
+    <string name="settings_category_miui">"MIUI ROM'lar"</string>
     <string name="settings_category_miui_sum">MIUI Havadurumu ayarları için destek (açma/kapama, verileri temizleme vs.)</string>
     <string name="settings_category_network">Bağlantı ayarları</string>
     <string name="settings_category_notification">Bildirimler</string>
@@ -187,7 +187,7 @@ Sizi gerçekten takdir ediyorum!"</string>
     <string name="settings_miui_support_title">MIUI widget desteği</string>
     <string name="settings_miui_v5_summary">Eğer MIUI ROM kuruluysa açın</string>
     <string name="settings_miui_v5_title">MIUI v5 ROM</string>
-    <string name="settings_moon_phases_title">Ay'ın Evreleri</string>
+    <string name="settings_moon_phases_title">"Ay'ın Evreleri"</string>
     <string name="settings_notification_color_title">Durum çubuğu simge rengi</string>
     <string name="settings_notification_summary">Mevcut havadurumunu bildirim panelinde görüntüle</string>
     <string name="settings_notification_text_color_summary">Bildirimlerin yazı ve simge rengi</string>
