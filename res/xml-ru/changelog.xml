@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="4.9.9 beta 33" versioncode="40933" >
+        <change>Новая система списка изменений (https://github.com/cketti/ckChangeLog)</change>
+        <change>Обновлен перевод</change>
+    </release>
+    <release version="4.9.9 beta 32" versioncode="40932" >
+        <change>Исправлен баг с неработоспособностью виджетов после обновления с версии 4.8.4</change>
+    </release>
+</changelog>

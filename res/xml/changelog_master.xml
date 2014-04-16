@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="4.9.9 beta 33" versioncode="40933" >
+        <change>New changelog system (https://github.com/cketti/ckChangeLog)</change>
+        <change>Updated translations</change>
+    </release>
+    <release version="4.9.9 beta 32" versioncode="40932" >
+        <change>Fixed broken widgets while updating from 4.8.4</change>
+    </release>
+</changelog>
