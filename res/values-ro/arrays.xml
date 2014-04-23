@@ -266,8 +266,8 @@
         <item>Saint Pierre și Miquelon</item>
     </string-array>
     <string-array name="notif_temp_color_entries">
-        <item>Negru</item>
-        <item>Alb</item>
+        <item>Neagră</item>
+        <item>Albă</item>
     </string-array>
     <string-array name="notif_type_entries">
         <item>Simbol temperatură</item>
@@ -306,8 +306,8 @@
         <item>Panou timp</item>
     </string-array>
     <string-array name="widget41_data_entries">
-        <item>"Vremea pentru 3 zile"</item>
-        <item>"Vremea azi"</item>
+        <item>Vremea pentru 3 zile</item>
+        <item>Vremea azi</item>
     </string-array>
     <string-array name="moon_phases_entries">
         <item>Lună</item>
