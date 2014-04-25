@@ -163,13 +163,13 @@ Válassza ki a helyszínt manuálisan</string>
     <string name="settings_category_animation_sum">Időjárás animáció beállítások és letöltés</string>
     <string name="settings_category_app_update">Alkalmazás frissítés</string>
     <string name="settings_category_appearance">Megjelenítés</string>
-    <string name="settings_category_appearance_sum">Megjelenítési beállítás (adat kijelzés/elrejtés stb.)</string>
+    <string name="settings_category_appearance_sum">Megjelenítési beállítások (adatok kijelzése/elrejtése stb.)</string>
     <string name="settings_category_forecast_update">Időjárás frissítés</string>
     <string name="settings_category_miui">MIUI ROM-ok támogatása</string>
     <string name="settings_category_miui_sum">MIUI támogatás (be-kikapcsolás,adatok törlése stb.)</string>
     <string name="settings_category_network">Hálózat beállítás</string>
     <string name="settings_category_notification">Értesítések</string>
-    <string name="settings_category_notification_sum">Időjárás megjelenítése az értesítési panelen és az állapotsoron</string>
+    <string name="settings_category_notification_sum">Időjárás megjelenítése az értesítési panelen</string>
     <string name="settings_category_update">Frissítési beállítások</string>
     <string name="settings_category_update_sum">Automatikus frissítés beállításai</string>
     <string name="settings_category_widgets">Widget beállítások</string>
@@ -180,6 +180,9 @@ Válassza ki a helyszínt manuálisan</string>
     <string name="settings_click_actions">Kattintási műveletek</string>
     <string name="settings_colorize_weather_icons_summary">Ikon színek beállítása a szöveg színéhez (fehér időjárás ikonokon kívül)</string>
     <string name="settings_colorize_weather_icons_title">Ikonok színezése</string>
+    <string name="settings_expanded_notification_title">Részletes időjárás kijelzés</string>
+    <string name="settings_hide_bottom_bar_summary">Az alsó gombsor elrejtése a képernyő megérintésekor</string>
+    <string name="settings_hide_bottom_bar_title">Alsó gombsor elrejtése</string>
     <string name="settings_miui_support_summary">A MIUI natív widgetekhez kapcsolja be</string>
     <string name="settings_miui_support_title">MIUI widgetek</string>
     <string name="settings_miui_v5_summary">MIUI v5 ROM-hoz kapcsolja be</string>
@@ -187,7 +190,7 @@ Válassza ki a helyszínt manuálisan</string>
     <string name="settings_moon_phases_title">Holdfázis</string>
     <string name="settings_notification_color_title">Állapotsor ikon színe</string>
     <string name="settings_notification_hourly_view">Óránkénti időjárás</string>
-    <string name="settings_notification_hourly_view_summary">Óránkénti időjárás megjelenítése az értesítési panelen</string>
+    <string name="settings_notification_hourly_view_summary">Óránkénti vagy a napi időjárás megjelenítése az értesítési panelen.</string>
     <string name="settings_notification_summary">Jelenlegi időjárás megjelenítése az értesítési panelen</string>
     <string name="settings_notification_text_color_summary">Az értesítő szöveg és ikonok színe</string>
     <string name="settings_notification_title">Kijelzés az értesítési panelen</string>
@@ -202,6 +205,8 @@ Válassza ki a helyszínt manuálisan</string>
     <string name="settings_update_interval_title">Frissítés gyakorisága</string>
     <string name="settings_update_roaming_summary">Időjárás frissítés adatbarangolás alatt.A szolgáltató költséget számolhat fel</string>
     <string name="settings_update_roaming_title">Frissítés adatbarangoláskor</string>
+    <string name="settings_update_show_nonet_toast_summary">Figyelmeztetés nincs hálózati kapcsolat esetén.</string>
+    <string name="settings_update_show_nonet_toast_title">\"Nincs hálózat\" értesítés</string>
     <string name="settings_update_wake_title">Eszköz felébresztése</string>
     <string name="settings_update_wifi_only_summary">Az időjárás frissítése csak Wi-Fi kapcsolat esetén</string>
     <string name="settings_update_wifi_only_title">Frissítés csak Wi-Fi-ről</string>
@@ -218,7 +223,7 @@ Válassza ki a helyszínt manuálisan</string>
     <string name="settings_widgets_local_time_title">Helyi idő</string>
     <string name="settings_widgets_widget4x1">Widget 4x1</string>
     <string name="settings_widgets_widget4x1_data_title">Időjárás adatok</string>
-    <string name="settings_widgets_widget4x1_transparent_sum">Alapértelmezett háttérhez ne jelölje ki</string>
+    <string name="settings_widgets_widget4x1_transparent_sum">Átlátszó háttér alkalmazása</string>
     <string name="settings_widgets_widget4x1_transparent_title">Átlátszó háttér</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Alapértelmezett érték 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">Város</string>
@@ -237,6 +242,8 @@ Válassza ki a helyszínt manuálisan</string>
     <string name="settings_widgets_widget4x2_wind_font_summary">Alapértelmezett érték 14sp</string>
     <string name="settings_widgets_widget4x2_wind_font_title">Szélsebesség</string>
     <string name="settings_widgets_widget4x3_hourly_view">Óránkénti időjárás</string>
+    <string name="settings_widgets_widget_clock_font">Betűtípus (óra és dátum)</string>
+    <string name="settings_widgets_widget_clock_font_default">Alapértelmezett</string>
     <string name="share">Megosztás</string>
     <string name="share_content">\#WeatherBZ#</string>
     <string name="share_weather_content">"\#WeatherBZ# Ma %1$s időjárása : %2$s, %3$s, %4$s. Frissítve %5$s."</string>
