@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="donations_google_android_market_promt_array">
-        <item>1 歐元</item>
-        <item>2 歐元</item>
-        <item>3 歐元</item>
-        <item>5 歐元</item>
-        <item>8 歐元</item>
-        <item>13 歐元</item>
-    </string-array>
-    <string-array name="update_interval_names">
-        <item>30 分鐘</item>
-        <item>1 小時</item>
-        <item>2 小時</item>
-        <item>3 小時</item>
-        <item>4 小時</item>
-        <item>6 小時</item>
+    <string-array name="citydb_provider_entries">
+        <item>Foreca</item>
+        <item>Accuweather</item>
     </string-array>
     <string-array name="country_codes">
         <item>ad</item>
@@ -514,22 +502,13 @@
         <item>Zimbabwe</item>
         <item>Saint Pierre and Miquelon</item>
     </string-array>
-    <string-array name="notif_temp_color_entries">
-        <item>黑色</item>
-        <item>白色</item>
-    </string-array>
-    <string-array name="notif_type_entries">
-        <item>溫度</item>
-        <item>天氣圖標</item>
-    </string-array>
-    <string-array name="widget42_show_entries">
-        <item>更新日期</item>
-        <item>下次鬧鐘時間</item>
-        <item>電池電量</item>
-        <item>感覺</item>
-        <item>風速</item>
-        <item>濕度</item>
-        <item>低溫和高溫</item>
+    <string-array name="donations_google_android_market_promt_array">
+        <item>1 歐元</item>
+        <item>2 歐元</item>
+        <item>3 歐元</item>
+        <item>5 歐元</item>
+        <item>8 歐元</item>
+        <item>13 歐元</item>
     </string-array>
     <string-array name="main_show_entries">
         <item>感覺</item>
@@ -540,26 +519,47 @@
         <item>日出和日落</item>
         <item>顯示下一次報時</item>
     </string-array>
-    <string-array name="widget41_show_entries">
-        <item>溫度面板</item>
-        <item>額外資料面板</item>
-        <item>時間面板</item>
+    <string-array name="moon_phases_entries">
+        <item>本月</item>
+        <item>本年度</item>
     </string-array>
-    <string-array name="widget41_data_entries">
-        <item>3天內的的預測資料</item>
-        <item>今日預測資料</item>
+    <string-array name="notif_temp_color_entries">
+        <item>黑色</item>
+        <item>白色</item>
+    </string-array>
+    <string-array name="notif_type_entries">
+        <item>溫度</item>
+        <item>天氣圖標</item>
+    </string-array>
+    <string-array name="update_interval_names">
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+        <item>2 小時</item>
+        <item>3 小時</item>
+        <item>4 小時</item>
+        <item>6 小時</item>
     </string-array>
     <string-array name="weather_provider_entries">
         <item>Foreca</item>
         <item>Weather Underground</item>
         <item>Accuweather</item>
     </string-array>
-    <string-array name="citydb_provider_entries">
-        <item>Foreca</item>
-        <item>Accuweather</item>
+    <string-array name="widget41_data_entries">
+        <item>3天內的的預測資料</item>
+        <item>今日預測資料</item>
     </string-array>
-    <string-array name="moon_phases_entries">
-        <item>本月</item>
-        <item>本年度</item>
+    <string-array name="widget41_show_entries">
+        <item>溫度面板</item>
+        <item>額外資料面板</item>
+        <item>時間面板</item>
+    </string-array>
+    <string-array name="widget42_show_entries">
+        <item>更新日期</item>
+        <item>下次鬧鐘時間</item>
+        <item>電池電量</item>
+        <item>感覺</item>
+        <item>風速</item>
+        <item>濕度</item>
+        <item>低溫和高溫</item>
     </string-array>
 </resources>
