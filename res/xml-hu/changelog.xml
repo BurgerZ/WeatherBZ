@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release version="4.9.9 beta 38" versioncode="40938" >
+        <change>Dátum elrendezés a 4x2 v5 widgetnél javítva</change>
+        <change>Az időjárás érintésekor kiválasztott alkalmazás művelete javítva</change>
+        <change>Portugál nyelv hozzáadva</change>
+    </release>
+    <release version="4.9.9 beta 37" versioncode="40937" >
+        <change>Az akkumulátorikon megérintésekor (4x2 és 4x3 widgetek) az akkumulátorhasználat ablak fog megnyílni</change>
+        <change>A 4x2 és 4x3 widgeteknél a hőmérséklet és időjárás ikonok elrendezése javítva</change>
+        <change>A widget beállításokban a kényszerbezárások javítva</change>
+    </release>
+    <release version="4.9.9 beta 35" versioncode="40935" >
+        <change>"Alsó értesítési sáv elrejtése" menüpont visszaállítva</change>
+        <change>A 4x2 és 4x3 widgetek betűtípus beálltás hozzáadva (óra és dátum)</change>
+        <change>Az időjárás szolgáltató logó érintésekor annak honlapra ugrik</change>
+        <change>Az xxhdpi elrendezés értesítése javítva</change>
+        <change>Időjárásikonok optimalizálva</change>
+        <change>Értesítés a háttérben eltávolítva</change>
+        <change>A részletes időjárás megjelenítésének kapcsolhatósága hozzáadva</change>
+        <change>Nagyfelbontású (xxhdpi) v5 widget képek hozzáadeva</change>
+        <change>Nyelvi fordítások frissítve</change>
+    </release>
+    <release version="4.9.9 beta 34" versioncode="40934" >
+        <change>Állapotsor értesítés színezés javítva</change>
+        <change>"MIUI ROM"ok támogatása ideiglenesen kikapcsolva</change>
+        <change>Néhány hibajavítás az időjárás előrejelzésnél(7 (5) napos előrejelzés)</change>
+        <change>"Témák" menüpont visszaállítva</change>
+        <change>Kisebb kód és grafikus hibajavítás</change>
+    </release>
+    <release version="4.9.9 beta 33" versioncode="40933" >
+        <change>Új változások listája rendszer (https://github.com/cketti/ckChangeLog)</change>
+        <change>Nyelvi fordítások frissítve</change>
+    </release>
+    <release version="4.9.9 beta 32" versioncode="40932" >
+        <change>A 4.8.4 verzióban lévő hibás widgetek javítása</change>
+    </release>
+</changelog>

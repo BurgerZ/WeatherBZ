@@ -275,11 +275,12 @@ Válassza ki a helyszínt manuálisan</string>
     <string name="weather_sunset">"Napnyugta: "</string>
     <string name="weather_visibility">"Látótávolság: "</string>
     <string name="weather_wind">"Szél: "</string>
-    <string name="widget_name_4x1">Időjárás 4x1</string>
-    <string name="widget_name_4x1_ext">Időjárás 4x1</string>
-    <string name="widget_name_4x1_v5">Időjárás Miui V5 (4x1)</string>
-    <string name="widget_name_4x2">Időjárás 4x2</string>
-    <string name="widget_name_4x2_v5">Időjárás Miui V5 (4x2)</string>
+    <string name="widget_name_4x1">Időjárás (4x1)</string>
+    <string name="widget_name_4x1_ext">Időjárás (4x1 bőv)</string>
+    <string name="widget_name_4x1_v5">MiuiV5 (4x1)</string>
+    <string name="widget_name_4x2">Időjárás (4x2)</string>
+    <string name="widget_name_4x2_v5">MiuiV5 (4x2)</string>
+    <string name="widget_name_4x3">Időjárás (4x3)</string>
     <string name="widget_text_color_summary">Widgetek szöveg színe</string>
     <string name="wind_e">K</string>
     <string name="wind_ene">K-ÉK</string>
