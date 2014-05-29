@@ -23,7 +23,7 @@
     <string name="about_haze">Haze</string>
     <string name="about_for_translators">For Translators:</string>
     <string name="about_for_translators_text">If you want to help with translation this app into your language, just go to the my github page (using the button above) to see all resources</string>
-    <string name="about_social">Social links:</string>
+    <string name="about_graphics">Graphics:</string>
     <string name="action_bar_selected_format">Selected: %d</string>
     <string name="app_name">Weather BZ</string>
     <string name="applying_theme">Applying theme\u2026</string>
@@ -164,6 +164,8 @@
     <string name="settings_click_actions">Click actions</string>
     <string name="settings_check_updates_summary">Check for updates on application start</string>
     <string name="settings_check_updates_title">Check for updates</string>
+    <string name="settings_hide_bottom_bar_title">Hide bottom bar</string>
+    <string name="settings_hide_bottom_bar_summary">Touch screen to hide bottom bar with buttons</string>
     <string name="settings_colorize_weather_icons_title">Colorize icons</string>
     <string name="settings_colorize_weather_icons_summary">Set icons color to text color (for white weather icons for ex.)</string>
     <string name="settings_miui_support_summary">Turn on to support MIUI native widgets</string>
@@ -177,6 +179,7 @@
     <string name="settings_notification_summary">Show current weather conditions in the notification area</string>
     <string name="settings_notification_text_color_summary">Notification text and icons color</string>
     <string name="settings_notification_title">Show Notification</string>
+    <string name="settings_expanded_notification_title">Expanded notification</string>
     <string name="settings_notification_type">Notification type</string>
     <string name="settings_notification_statusbar_summary">Show Notification in statusbar</string>
     <string name="settings_notification_statusbar_title">Notification in statusbar</string>
@@ -188,6 +191,8 @@
     <string name="settings_update_interval_title">Update Interval</string>
     <string name="settings_update_roaming_summary">Automatically update weather forecast even when roaming. Note that you can have an extra charges to your phone bill</string>
     <string name="settings_update_roaming_title">Update in roaming</string>
+    <string name="settings_update_show_nonet_toast_summary">Show toast warning when no network connection</string>
+    <string name="settings_update_show_nonet_toast_title">Show \"No network\" toast</string>
     <string name="settings_update_wake_title">Wake device</string>
     <string name="settings_update_wifi_only_summary">Automatically update weather forecast only when Wi-Fi connection established</string>
     <string name="settings_update_wifi_only_title">Update only on Wi-Fi</string>
@@ -202,12 +207,17 @@
     <string name="settings_widgets_clock_remove_leading_zero_summary">Removes the leading zero in hours</string>
     <string name="settings_widgets_local_time_title">Local Time</string>
     <string name="settings_widgets_local_time_summary">Use city local time in widgets</string>
-    <string name="settings_widgets_widget4x1">Widget 4x1</string>
+    <string name="settings_widgets_widget4x1">Widget 4x1</string>s
     <string name="settings_widgets_widget4x1_data_title">Extended data</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default background</string>
     <string name="settings_widgets_widget4x1_transparent_title">Transparent background</string>
+    <string name="settings_widgets_widget4x1_ext">Widget 4x1 ext</string>
+    <string name="settings_widgets_widget4x1_ext_3days_view">3 days forecast</string>
+    <string name="settings_widgets_widget4x1_ext_3days_view_sum">3 days forecast data will be shown instead of pressure, wind and humidity</string>
     <string name="settings_widgets_widget4x1_v5">Widget 4x1 (v5)</string>
     <string name="settings_widgets_widget4x2">Widget 4x2</string>
+    <string name="settings_widgets_widget_clock_font">Font (clock and date)</string>
+    <string name="settings_widgets_widget_clock_font_default">Default</string>
     <string name="settings_widgets_widget4x2_city_font_summary">Default value 22sp</string>
     <string name="settings_widgets_widget4x2_city_font_title">City</string>
     <string name="settings_widgets_widget4x2_clock_font_summary">Default value 50sp</string>

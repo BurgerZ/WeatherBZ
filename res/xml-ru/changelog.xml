@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
+    <release version="4.9.9 beta 39" versioncode="40939" >
+        <change>Исправлен баг, когда почасовой прогноз, график или меню оставались на экране при спрятавшейся нижней панели</change>
+        <change>Добавлен старый виджет 4х1 ext</change>
+    </release>
     <release version="4.9.9 beta 38" versioncode="40938" >
         <change>Исправлено отображение даты на виджете 4x2 v5</change>
         <change>Исправлен выбор приложений для клика по прогнозу на виджетах</change>

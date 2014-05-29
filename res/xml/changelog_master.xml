@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
+    <release version="4.9.9 beta 39" versioncode="40939" >
+        <change>Fixed hiding bottom bar issue (trend, hourly or menu view was not hiding with bottom bar)</change>
+        <change>Added back old 4х1 ext widget</change>
+    </release>
     <release version="4.9.9 beta 38" versioncode="40938" >
         <change>Fixed date layout for 4x2 v5 widget</change>
         <change>Fixed widgets forecast click action app chooser</change>
