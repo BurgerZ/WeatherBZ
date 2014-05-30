@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
+    <release version="4.9.9 beta 39" versioncode="40939" >
+        <change>Az eltűnő alsó sáv hiba javítva (előrejelzés, óránkénti vagy menünézetben nem tünt el az alsó sáv)</change>
+        <change>Újra hozzáadva a régi 4х1 részl. widget</change>
+    </release>
     <release version="4.9.9 beta 38" versioncode="40938" >
         <change>Dátum elrendezés a 4x2 v5 widgetnél javítva</change>
         <change>Az időjárás érintésekor kiválasztott alkalmazás művelete javítva</change>
