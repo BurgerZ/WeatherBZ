@@ -207,7 +207,7 @@
     <string name="settings_widgets_clock_remove_leading_zero_summary">Removes the leading zero in hours</string>
     <string name="settings_widgets_local_time_title">Local Time</string>
     <string name="settings_widgets_local_time_summary">Use city local time in widgets</string>
-    <string name="settings_widgets_widget4x1">Widget 4x1</string>s
+    <string name="settings_widgets_widget4x1">Widget 4x1</string>
     <string name="settings_widgets_widget4x1_data_title">Extended data</string>
     <string name="settings_widgets_widget4x1_transparent_sum">Unchecked for default background</string>
     <string name="settings_widgets_widget4x1_transparent_title">Transparent background</string>
