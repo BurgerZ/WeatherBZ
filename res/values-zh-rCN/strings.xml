@@ -151,7 +151,7 @@
     <string name="settings_category_appearance">全局</string>
     <string name="settings_category_appearance_sum">数据提供商、单位、界面</string>
     <string name="settings_category_forecast_update">预报更新</string>
-    <string name="settings_category_miui">MIUI ROMs</string>
+    <string name="settings_category_miui">MIUI ROM</string>
     <string name="settings_category_miui_sum">MIUI支持设置（开启/关闭，清除数据等）</string>
     <string name="settings_category_network">网络设置</string>
     <string name="settings_category_notification">通知</string>
@@ -164,12 +164,12 @@
     <string name="settings_click_actions">点击动作</string>
     <string name="settings_check_updates_summary">应用时启动检查更新</string>
     <string name="settings_check_updates_title">检查更新</string>
-    <string name="settings_colorize_weather_icons_title">Colorize icons</string>
+    <string name="settings_colorize_weather_icons_title">彩色图标</string>
     <string name="settings_colorize_weather_icons_summary">设置图标颜色为文字颜色（除了白色图标）</string>
     <string name="settings_miui_support_summary">打开以支持MIUI原生桌面部件</string>
     <string name="settings_miui_support_title">支持MIUI桌面部件</string>
-    <string name="settings_miui_v5_summary">如果你使用的是MIUI v5请务必打开</string>
-    <string name="settings_miui_v5_title">MIUI v5 ROM</string>
+    <string name="settings_miui_v5_summary">如果你使用的是MIUI V5请务必打开</string>
+    <string name="settings_miui_v5_title">MIUI V5 ROM</string>
     <string name="settings_moon_phases_title">月相</string>
     <string name="settings_notification_color_title">图标颜色</string>
     <string name="settings_notification_hourly_view">显示每小时天气</string>
@@ -231,7 +231,7 @@
     <string name="share_content">\#WeatherBZ#</string>
     <string name="share_weather_content">\#WeatherBZ# 今天%1$s的天气是%2$s，%3$s，%4$s。 %5$s更新。</string>
     <string name="share_weather_title">分享天气数据</string>
-    <string name="save_screen_shot_failed">Failed to save screenshot</string>
+    <string name="save_screen_shot_failed">保存截图失败</string>
     <string name="start_time_title">开始</string>
     <string name="temperature_units">温度单位</string>
     <string name="temperature_units_c">摄氏</string>
