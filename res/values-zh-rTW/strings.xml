@@ -115,7 +115,7 @@
     <string name="menu_themes">主題</string>
     <string name="menu_trend">趨勢</string>
     <string name="menu_update">更新</string>
-    <string name="moon_age">年 %s 數天</string>
+    <string name="moon_age">月齡 %s 天</string>
     <string name="moon_newmoon">新月</string>
     <string name="moon_waxingcrescent">娥眉月</string>
     <string name="moon_firstquarter">上弦月</string>
@@ -125,7 +125,7 @@
     <string name="moon_lastquarter">下弦月</string>
     <string name="moon_waningcrescent">殘月</string>
     <string name="moon_current_view">查看模式: %s</string>
-    <string name="moon_illuminated">說明</string>
+    <string name="moon_illuminated">發亮程度</string>
     <string name="moon_since">自</string>
     <string name="network_error">無法連接伺服器.\n檢查您的網絡設置.</string>
     <string name="network_in_quiet_hours">你現在是在靜默模式狀態.更新取消.</string>
@@ -172,7 +172,7 @@
 	<string name="settings_miui_support_title">支持MIUI 小工具</string>
     <string name="settings_miui_v5_summary">如果你是使用MIUI v5 ROM請務必打開</string>
     <string name="settings_miui_v5_title">MIUI v5 ROM</string>
-    <string name="settings_moon_phases_title">月亮變化</string>
+    <string name="settings_moon_phases_title">月球變化</string>
     <string name="settings_notification_color_title">狀態欄的標誌顏色</string>
     <string name="settings_notification_hourly_view">顯示每小時的天氣</string>
     <string name="settings_notification_hourly_view_summary">顯示每小時的天氣在透視圖</string>
