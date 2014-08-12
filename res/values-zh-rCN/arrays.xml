@@ -16,6 +16,14 @@
         <item>4小时</item>
         <item>6小时</item>
     </string-array>
+    <string-array name="update_interval_values" translatable="false">
+        <item>30</item> 
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+        <item>360</item>
+    </string-array>
     <string-array name="country_codes" translatable="false">
         <item>ad</item>
         <item>ae</item>
@@ -673,5 +681,14 @@
     <string-array name="moon_phases_values" translatable="false">
         <item>moon_phases_month</item>
         <item>moon_phases_year</item>
+    </string-array>
+    <string-array name="widget_clock_font_entries">
+        <item>@string/settings_widgets_widget_clock_font_default</item>
+        <item>AndroidClock.ttf</item>
+        <item>Clockopia.ttf</item>
+        <item>Helvetica.ttf</item>
+        <item>Roboto-Light.ttf</item>
+        <item>Roboto-Regular.ttf</item>
+        <item>Roboto-Thin.ttf</item>
     </string-array>
 </resources>
