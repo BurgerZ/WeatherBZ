@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-    <release version="4.9.9 beta 38" versioncode="40938" >
+    <release version="4.9.9 beta 40" versioncode="20140707">
+        <change>Fixed status bar notification temperature view size for xxhdpi (too small symbols)</change>
+    </release>
+    <release version="4.9.9 beta 39" versioncode="40939">
+        <change>Fixed hiding bottom bar issue (trend, hourly or menu view was not hiding with bottom bar)</change>
+        <change>Added back old 4х1 ext widget</change>
+    </release>
+    <release version="4.9.9 beta 38" versioncode="40938">
         <change>Fixed date layout for 4x2 v5 widget</change>
         <change>Fixed widgets forecast click action app chooser</change>
         <change>Added Portuguese of Portugal translation</change>
     </release>
-    <release version="4.9.9 beta 37" versioncode="40937" >
+    <release version="4.9.9 beta 37" versioncode="40937">
         <change>Clicking on battery level (widgets 4x2 and 4x3) will redirect you to battery usage window</change>
         <change>Fixed temperature and weather icon layout for 4x2 and 4x3 widgets</change>
         <change>Fixed FC in widgets setting</change>
     </release>
-    <release version="4.9.9 beta 35" versioncode="40935" >
+    <release version="4.9.9 beta 35" versioncode="40935">
         <change>"Hide bottom bar" option is back</change>
         <change>Added font settings for 4x2 and 4x3 widgets (clock and date)</change>
         <change>Weather provider logo is now clickable (redirecting to provider's website)</change>
@@ -21,18 +28,18 @@
         <change>Added xxhdpi v5 widgets images</change>
         <change>Updated translations</change>
     </release>
-    <release version="4.9.9 beta 34" versioncode="40934" >
+    <release version="4.9.9 beta 34" versioncode="40934">
         <change>Fixed status bar notification coloring</change>
         <change>"MIUI ROMs" support is temporary off</change>
         <change>Fixed some bugs with trend view (7 (5) days forecast)</change>
         <change>Menu item "Themes" is back</change>
         <change>Some small code and graphics fixes</change>
     </release>
-    <release version="4.9.9 beta 33" versioncode="40933" >
+    <release version="4.9.9 beta 33" versioncode="40933">
         <change>New changelog system (https://github.com/cketti/ckChangeLog)</change>
         <change>Updated translations</change>
     </release>
-    <release version="4.9.9 beta 32" versioncode="40932" >
+    <release version="4.9.9 beta 32" versioncode="40932">
         <change>Fixed broken widgets while updating from 4.8.4</change>
     </release>
 </changelog>
