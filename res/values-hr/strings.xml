@@ -22,7 +22,7 @@
     <string name="about_for_translators_text">Ako želite pomoći s prijevodom ove aplikacije na svoj jezik, idite na moju GitHub stranicu (pomoću tipke gore) kako bi vidjeli sve resurse</string>
     <string name="about_graphics">Grafika:</string>
     <string name="about_hailstone">Tuča</string>
-    <string name="about_haze">Tuča</string>
+    <string name="about_haze">Sumaglica</string>
     <string name="about_heavy_rain">Teški pljuskovi</string>
     <string name="about_heavy_snow">Teški snijeg</string>
     <string name="about_light_rain">Lagana kiša</string>
@@ -92,7 +92,7 @@ Stvarno cijenim vaš doprinos!"</string>
     <string name="forecast_freezing_drizzle">Ledena rosulja</string>
     <string name="forecast_freezing_rain">Ledena kiša</string>
     <string name="forecast_hail">Tuča</string>
-    <string name="forecast_haze">Tuča</string>
+    <string name="forecast_haze">Sumaglica</string>
     <string name="forecast_heavy_rain">Teška kiša</string>
     <string name="forecast_hot">Vruće</string>
     <string name="forecast_icy">Ledeno</string>
