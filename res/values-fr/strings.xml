@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!-- to be translated :
+<!-- to be translated; affichées ou ? :
 	<string name="abc_action_bar_home_description">Navigate home</string>
 	<string name="abc_action_bar_up_description">Navigate up</string>
 	<string name="abc_searchview_description_clear">Clear query</string>
 	<string name="abc_searchview_description_query">Search query</string>
-	<string name="abc_searchview_description_search">Search</string>
 	<string name="abc_searchview_description_submit">Submit query</string>
-	<string name="abc_searchview_description_voice">Voice search</string>
 -->
+	<string name="abc_searchview_description_voice">Recherche vocale</string>
+	<string name="abc_searchview_description_search">Rechercher</string>
 	<string name="abc_action_menu_overflow_description">Plus d\'options</string>
 	<string name="abc_action_mode_done">OK</string>
 	<string name="abc_activity_chooser_view_see_all">Tout afficher</string>
@@ -21,7 +21,7 @@
 	<string name="about_dust">Tempête de poussière</string>
 	<string name="about_fog">Brouillard</string>
 	<string name="about_for_translators">Traductions :</string>
-	<string name="about_for_translators_text">Si vous souhaitez traduire cette application, rendez-vous sur GitHub (lien ci-dessus) !</string>
+	<string name="about_for_translators_text">Si vous souhaitez participer à la traduction de cette application, rendez-vous sur GitHub (lien ci-dessus).</string>
 	<string name="about_graphics">Graphismes :</string>
 	<string name="about_hailstone">Grêle</string>
 	<string name="about_haze">Brume</string>
@@ -66,7 +66,7 @@
 	<string name="donations_button_close">Fermer</string>
 	<string name="donations_description">Vous trouvez cette application utile ?\nVous pouvez supporter son développement sur Flattr ou en envoyant des dons via le Google Play Store .</string>
 	<string name="donations_paypal">PayPal</string>
-	<string name="donations_paypal_description">Vous pouvez faire un don du montant désiré en cliquant sur le bouton ci-dessous.</string>
+	<string name="donations_paypal_description">Vous pouvez faire un don du montant désiré en appuyant sur le bouton ci-dessous.</string>
 	<string name="donations_thanks_dialog">Merci beaucoup pour votre don !</string>
 	<string name="donations_thanks_dialog_title">Merci !</string>
 	<string name="donations_yandex">Yandex.Money</string>
@@ -184,7 +184,7 @@
 	<string name="settings_check_updates_summary">"Vérifier automatiquement les mises à jour de l'application au démarrage de celle-ci"</string>
 	<string name="settings_check_updates_title">Vérifier les mises à jour</string>
 	<string name="settings_citydb_provider">Fournisseur ville</string>
-	<string name="settings_click_actions">Actions sur clics</string>
+	<string name="settings_click_actions">Actions de toucher</string>
 	<string name="settings_colorize_weather_icons_summary">Utiliser la couleur du texte pour les icônes(pour les icônes météo blancs par ex.)</string>
 	<string name="settings_colorize_weather_icons_title">Colorier les icônes</string>
 	<string name="settings_expanded_notification_title">Notification étendu</string>
@@ -218,12 +218,12 @@
 	<string name="settings_update_wifi_only_summary">Mettre à jour automatiquement les prévisions météorologiques seulement si une connexion Wi-Fi est active</string>
 	<string name="settings_update_wifi_only_title">Mettre à jour via Wi-Fi uniquement</string>
 	<string name="settings_weather_provider">Fournisseur météo</string>
-	<string name="settings_widgets_click_clock_summary">"Choisir l'application à lancer en cliquant sur l'heure affichée dans le widget"</string>
-	<string name="settings_widgets_click_clock_title">"Clic sur l'horloge"</string>
-	<string name="settings_widgets_click_date_summary">"Choisir l'application à lancer en cliquant sur la date affichée dans le widget"</string>
-	<string name="settings_widgets_click_date_title">Clic sur la date</string>
-	<string name="settings_widgets_click_weather_summary">"Choisir l'application à lancer en cliquant sur la zone météo du widget"</string>
-	<string name="settings_widgets_click_weather_title">Clic sur la météo</string>
+	<string name="settings_widgets_click_clock_summary">"Choisir l'application à lancer en appuyant sur l'heure affichée dans le widget"</string>
+	<string name="settings_widgets_click_clock_title">"Appui sur l'horloge"</string>
+	<string name="settings_widgets_click_date_summary">"Choisir l'application à lancer en appuyant sur la date affichée dans le widget"</string>
+	<string name="settings_widgets_click_date_title">Appui sur la date</string>
+	<string name="settings_widgets_click_weather_summary">"Choisir l'application à lancer en appuyant sur la zone météo du widget"</string>
+	<string name="settings_widgets_click_weather_title">Appui sur la météo</string>
 	<string name="settings_widgets_clock_remove_leading_zero_summary">Supprime le zéro des heures</string>
 	<string name="settings_widgets_clock_remove_leading_zero_title">Retirer un zéro</string>
 	<string name="settings_widgets_local_time_summary">"Utiliser l'heure locale de la ville dans les widgets"</string>
@@ -232,6 +232,9 @@
 	<string name="settings_widgets_widget4x1_data_title">Prévisions météorologiques</string>
 	<string name="settings_widgets_widget4x1_transparent_sum">Arrière plan par défaut si option désactivée</string>
 	<string name="settings_widgets_widget4x1_transparent_title">Fond transparent</string>
+	<string name="settings_widgets_widget4x1_ext">Widget 4x1 ext</string>
+	<string name="settings_widgets_widget4x1_ext_3days_view">Prévisions sur 3 jours</string>
+	<string name="settings_widgets_widget4x1_ext_3days_view_sum">Les prévisions seront affichées à la place de la pression, vent et humidité</string>
 	<string name="settings_widgets_widget4x1_v5">Widget 4x1 (v5)</string>
 	<string name="settings_widgets_widget4x2">Widget 4x2</string>
 	<string name="settings_widgets_widget4x2_city_font_summary">Valeur par défaut 22sp</string>
